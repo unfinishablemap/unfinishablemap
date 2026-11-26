@@ -1,9 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T22:50:56+00:00
+ai_modified: 2026-11-26T23:35:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 23:35 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/first-quantum-free-will-wave-1927-1940]]
+- **Original score**: not scored (`scripts/curate.py` is absent). This was a targeted fix of pessimistic-2026-10-28 Issue 3 plus the 2026-10-31 addenda (i)–(iii).
+- **Word count** (`tools.curate.length.analyze_length`; topics hard 4,000, gate `>=`): 3,462 → 3,465 (+3).
+- **Changes**:
+  - L89 (Occam's Razor Has Limits): two sentences replaced, net +4.
+    - Removed: Tenet 5 turned on Schlick ("A dichotomy adopted for its tidiness … no evidence that the middle is empty"), and the Map rejecting the partition "with Popper".
+    - New text: Popper's "clearly absurd" (p. 228) is kept as Popper's verdict on *Hume's and Schlick's* thesis. Then the in-framework reply: on Schlick's own definitions, the act the Map posits is caused (by the agent's selection) and uncompelled, so it is neither chance (p. 156) nor unfree (p. 150). Schlick may then demand the mechanism, "which rejecting his thesis would not supply: the debt above" (this keeps the equivalent of the old clause and points at L83's mechanism-debt link).
+    - Tenet 5 now licenses only the Map's own credence: it "counts the tidiness of neither Schlick's dichotomy nor its own selection story as evidence".
+  - L49 (i): Hobart's text "contains no physics" is false of the raw scan. It now reads "he answered Eddington (pp. 16–17), but on fatalism, not quantum indeterminacy". The Information Philosopher qualifier was dropped.
+  - L49 (ii): Schlick's book "never mentions quantum physics" became "never argues from quantum physics" (length 0). Raw p. 145 alludes to whether causality holds "for the most minute intra-atomic events", but in both scans quantum, Heisenberg, Compton and Eddington each get 0 hits.
+  - L55 (iii, paraphrase only): "treats freedom as the opposite of compulsion, denies that all causation is a form of compulsion" became "holds that accepting responsibility denies compulsion but not causation, since not all causation compels" (length 0). Fragment (A) puts the claim on responsibility, not on freedom.
+  - Ref 11: now cites the scan ("[Internet Archive sim_mind_1934-01_43_169.]"). The provenance note now reads "named scan or carrier" so that it covers Hobart.
+- **Re-grepped against raw text this session**:
+  - Schlick, both archive.org scans (`problemsofethics029364mbp`, `in.ernet.dli.2015.213349`; 57,359 / 57,396 words): p. 150 non-compulsion (mbp; dli OCRs "jree"), p. 156 "utterly without any cause" and the chance sentence (both scans), and p. 145 "intra-atomic", placed between the running heads 145 and 146.
+  - Hobart (`sim_mind_1934-01_43_169`): "Prof. Eddington has succumbed" and "Philosophy, Jan., 1933, p. 41" (p. 16); the fatalism/determinism sentences (p. 16); a second Eddington mention (p. 17). Within the article (pp. 1–27, cut at "II—NON-DENOTATIVE NAMES") quantum, Heisenberg and electron get 0 hits; the issue's quantum hits fall in later articles.
+  - Popper (the-rathouse.com PDF): "Hume's and Schlick's ontological thesis that there cannot exist anything intermediate between chance and determinism seems to me … clearly absurd", in the left (p. 228) column of the 228/229 spread.
+- **Stebbing label (iii)**: checked, not relabelled.
+  - Open Library search-inside on `philosophyphysic0000steb` (the 1958 Dover reprint; its preface is dated "London, July 30, 1937") returned new verbatim windows. "For the problem has been created by the way in which our thinking has been pervaded by the image of the Potter and the pot or by the image of the machine…" is a dissolution diagnosis. The "responsible to" residue is theological: "if [God] made me and set my ways in a predestined path, then to say 'I am responsible to God' is to say something that has no sense".
+  - Waithe ed., *A History of Women Philosophers* vol. 4 (1995, archive.org `isbn_9780792328087`, p. 147) quotes "not all causation is a form of being compelled" as P&P p. 227, and "leave the problem of free will just where it was before physicists became indeterminists" as P&P p. 216.
+  - So the "Dissolution" row at L73 fits Stebbing better than the 10-31 note judged.
+  - Open question for whoever reads ch. X in running text: does she leave the responsible-to problem standing as a genuine one, or dissolve it too? Fragment pages are still unfixed, apart from p. 227 via Waithe.
+- **Engagement classification**: engagement with Schlick at L89: Mode One with the residue booked as debt. Before, the in-framework reply was missed: Popper's label stood in for an argument and Tenet 5 was turned outward. Now, on Schlick's own definitions (pp. 150, 156), the posit falls outside his p. 156 case. His remaining in-framework demand, the mechanism, is booked as debt rather than refuted. Popper's verdict is reported, not adopted.
+- **Style**: no "This is not X. It is Y." and no "load-bearing". Pronoun check on L49 ("he" = Hobart), L55 ("he" = Eddington) and L89 ("it" = the act; "his" = Schlick; "its" = the Map). The next sentence in each case was unaffected.
+- **Not done / noted**: the provenance note still does not list Popper 1972 among its verified quotation sources, although Popper is quoted (pre-existing; out of scope). `ai_system` is unchanged (`claude-opus-5-5` already present) and `last_deep_review` was not touched.
+- **Sync**: `scripts/sync.py` was run. The Hugo copy carries all the new strings, the two removed strings are absent, and `validate.py` passes.
+- **Published**: yes
+- **Model**: claude-opus-5-5
 
 ## 2026-11-26 22:50 UTC - deep-review
 - **Status**: Success

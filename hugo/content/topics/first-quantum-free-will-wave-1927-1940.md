@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-28
-ai_modified: 2026-10-30 20:29:45+00:00
+ai_modified: 2026-11-26 23:34:24+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - trilemma-of-selection
 - ensemble-level-epiphenomenalism
 created: 2026-10-28
-date: &id001 2026-10-30
+date: &id001 2026-11-26
 description: A source-verified history of the 1927–1940 quantum free-will wave (Lillie,
   Eddington, Compton, Jordan) and its critics, read against the Map's selection posit
   and the debts it still carries.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-30 08:13:38+00:00
-lastmod: 2026-10-30 20:29:45+00:00
+lastmod: 2026-11-26 23:34:24+00:00
 modified: *id001
 related_articles:
 - '[[popper-three-worlds-interactionism]]'
@@ -54,13 +54,13 @@ Seven years later the position is restated, not softened. Attributing bodily mov
 
 ## Randomness Is Not Freedom {#randomness-objection}
 
-The objection the Map now calls the [luck objection](/concepts/quantum-indeterminacy-free-will/) has two separate datings in this period. The generic form is in Schlick's *Fragen der Ethik*, whose preface is signed in Vienna in September 1930, eleven months before Compton's note; the book never mentions quantum physics, Heisenberg, Compton or Eddington. In the English *Problems of Ethics* (1939): "Freedom means the opposite of compulsion; a man is free if he does not act under compulsion" (p. 150), and a decision "utterly without any cause" would be "entirely a matter of chance, for chance is identical with the absence of a cause; there is no other opposite of causality. Could we under such conditions make the agent responsible? Certainly not" (p. 156). R. E. Hobart (Dickinson S. Miller), in *Mind* for January 1934, argued that free will involves determination and is inconceivable without it; his text, read here only through the Information Philosopher's reproduction, contains no physics.
+The objection the Map now calls the [luck objection](/concepts/quantum-indeterminacy-free-will/) has two separate datings in this period. The generic form is in Schlick's *Fragen der Ethik*, whose preface is signed in Vienna in September 1930, eleven months before Compton's note; the book never argues from quantum physics, Heisenberg, Compton or Eddington. In the English *Problems of Ethics* (1939): "Freedom means the opposite of compulsion; a man is free if he does not act under compulsion" (p. 150), and a decision "utterly without any cause" would be "entirely a matter of chance, for chance is identical with the absence of a cause; there is no other opposite of causality. Could we under such conditions make the agent responsible? Certainly not" (p. 156). R. E. Hobart (Dickinson S. Miller), in *Mind* for January 1934, argued that free will involves determination and is inconceivable without it; he answered Eddington (pp. 16–17), but on fatalism, not quantum indeterminacy.
 
 The quantum-specific form is Schlick's reply to Jordan, not to Compton or Eddington: a note in *Erkenntnis* 5 (1935), among the Vienna Circle's responses to Jordan's 1934 paper. This is the passage Popper quotes in "Of Clouds and Clocks", in his own translation, as freedom and responsibility stopping "where chance begins", with "a higher degree of randomness" meaning "a higher degree of irresponsibility" (Popper 1972, pp. 226–227, citing *Erkenntnis* 5, p. 183). The slogan that "the only alternative to determinism is just sheer chance" is Popper's gloss on Schlick and Hume, not Schlick's wording (p. 227); Schlick's own phrase is "there is no other opposite of causality".
 
 Schrödinger supplied the physicist's version in *Nature* for 4 July 1936, prompted by F. G. Donnan's sketch of a physics of life rather than by Eddington or Compton, neither of whom the note names. As the Information Philosopher's reproduction carries it, Schrödinger calls the hope of founding free will on quantum indeterminacy an illusion and poses a dilemma: if the agent can alter the odds of the quantum event a decision rides on, the laws of nature are at the agent's mercy; if not, Heisenberg's principle fixes the frequency of the agent's acts and there is no reason to feel responsible. The first horn is the cost of Eddington's choice: a mind that tampers with the odds overrides the statistics.
 
-Susan Stebbing's *Philosophy and the Physicists* (1937) reaches the same conclusion in the ordinary-language register and adds a charge of overreach. The book could be reached only as OCR fragments of the 1958 Dover reprint plus Davidson's 1942 digest, so her wording is not reproduced. Chapter X, "Human Freedom and Responsibility" (pp. 222–240), treats freedom as the opposite of compulsion, denies that all causation is a form of compulsion, and presses Eddington on how he knows what he claims to know by immediate self-knowledge. Davidson reports her charging the physicists with misleading theologians, preachers and philosophers who should have known better.
+Susan Stebbing's *Philosophy and the Physicists* (1937) reaches the same conclusion in the ordinary-language register and adds a charge of overreach. The book could be reached only as OCR fragments of the 1958 Dover reprint plus Davidson's 1942 digest, so her wording is not reproduced. Chapter X, "Human Freedom and Responsibility" (pp. 222–240), holds that accepting responsibility denies compulsion but not causation, since not all causation compels, and presses Eddington on how he knows what he claims to know by immediate self-knowledge. Davidson reports her charging the physicists with misleading theologians, preachers and philosophers who should have known better.
 
 ## Relocation and the Interface {#interface-and-relocation}
 
@@ -94,7 +94,7 @@ The Map's reading of this history is its own, and the four builders would not ha
 
 **[Dualism](/tenets/#dualism).** None of the four builders can be enlisted. Eddington's metaphysics is a structuralist idealism of "mind-stuff" in which the physical world is a symbolic representation; his conscious unit is a unity of that stuff, not a second substance acting on a first. Compton argued for the efficacy of consciousness from natural selection and placed the knowledge of freedom in inner awareness, outside what physics can decide. Jordan offered his amplifier theory as Machian positivism, which is why the Vienna Circle answered it in its own journal. Lillie's paper is unread here, and nothing its carriers report makes him a dualist. The Map takes from them a structure, selection among physically permitted outcomes, and an objection, and takes no authority.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** Schlick's "there is no other opposite of causality" is a definitional partition, and the Map rejects it with Popper, who called the thesis that nothing can lie between perfect chance and perfect determinism "clearly absurd" (p. 228). A dichotomy adopted for its tidiness, under incomplete knowledge of what a selecting mind would be, is no evidence that the middle is empty; rejecting it does not fill the middle, which is the debt above. Tenet 4 is not engaged by this history.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** Popper judged Hume's and Schlick's chance-or-determinism thesis "clearly absurd" (p. 228), but on Schlick's own definitions the act the Map posits is caused, by the agent's selection, and uncompelled, so it is neither chance (p. 156) nor unfree (p. 150). Schlick may then demand the mechanism, which rejecting his thesis would not supply: the debt above. The tenet licenses only this: the Map counts the tidiness of neither Schlick's dichotomy nor its own selection story as evidence. Tenet 4 is not engaged by this history.
 
 ## Further Reading
 
@@ -109,7 +109,7 @@ The Map's reading of this history is its own, and the four builders would not ha
 
 ## References
 
-Provenance note: quotations from Eddington, Planck, Jeans and Schlick 1939 are verified against the Internet Archive scans named below (page numbers from running heads); Schlick 1935 is quoted in Popper's translation. Every other source was reached through the named carrier or bibliographically and is paraphrased.
+Provenance note: quotations from Eddington, Planck, Jeans and Schlick 1939 are verified against the Internet Archive scans named below (page numbers from running heads); Schlick 1935 is quoted in Popper's translation. Every other source was reached through the named scan or carrier, or bibliographically, and is paraphrased.
 
 1. Eddington, A. S. (1928). *The Nature of the Physical World*. Cambridge University Press and Macmillan. Ch. XIV "Causation", pp. 293–315; passages relied on pp. 295, 311–315 (Internet Archive natureofphysical00eddi).
 2. Eddington, A. S. (1935). *New Pathways in Science* (Messenger Lectures, 1934). Cambridge University Press. Ch. IV, pp. 72–91; ch. XIV, pp. 300–307 (Internet Archive in.ernet.dli.2015.203149).
@@ -121,7 +121,7 @@ Provenance note: quotations from Eddington, Planck, Jeans and Schlick 1939 are v
 8. Jordan, P. (1938). "Die Verstärkertheorie der Organismen in ihrem gegenwärtigen Stand." *Die Naturwissenschaften* 26: 537–545. https://doi.org/10.1007/bf01675497
 9. Schlick, M. (1939). *Problems of Ethics*, tr. D. Rynin. Prentice-Hall. (German *Fragen der Ethik*, 1930; preface dated September 1930.) Ch. VII "When Is a Man Responsible?", pp. 143–158; passages relied on pp. 150, 156 (Internet Archive in.ernet.dli.2015.213349).
 10. Schlick, M. (1935). "Ergänzende Bemerkungen über P. Jordan's Versuch einer quantentheoretischen Deutung der Lebenserscheinungen." *Erkenntnis* 5: 181–183. https://doi.org/10.1007/bf00172305 [Via Popper 1972 n. 40.]
-11. Hobart, R. E. [D. S. Miller] (1934). "Free Will as Involving Determination and Inconceivable Without It." *Mind* 43(169): 1–27. https://doi.org/10.1093/mind/XLIII.169.1 [Carrier: Information Philosopher.]
+11. Hobart, R. E. [D. S. Miller] (1934). "Free Will as Involving Determination and Inconceivable Without It." *Mind* 43(169): 1–27. https://doi.org/10.1093/mind/XLIII.169.1 [Internet Archive sim_mind_1934-01_43_169.]
 12. Schrödinger, E. (1936). "Indeterminism and Free Will." *Nature* 138: 13–14. https://doi.org/10.1038/138013a0 [Carrier: Information Philosopher.]
 13. Stebbing, L. S. (1937). *Philosophy and the Physicists*. Methuen. Part III, ch. X, pp. 222–240. [OCR fragments of the 1958 Dover reprint; Davidson 1942 as digest.]
 14. Russell, B. (1931). *The Scientific Outlook*. Allen & Unwin. Pp. 96, 112, 121, as quoted in Eddington 1935, pp. 306–307.

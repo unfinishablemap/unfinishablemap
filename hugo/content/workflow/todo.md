@@ -7694,6 +7694,52 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 3,803/4,000 (topics hard; gate >=). The note's draft is +47 with its reference. Re-measure first.
 - **Notes**: Add the note's drafted sentence after the Milner 1962 passage at L100. Re-grep the anchor. Stanley & Krakauer 2013, "Motor skill depends on knowledge of facts", *Frontiers in Human Neuroscience* 7:503: verify the quotation in the open-access full text before quoting "motor acuity". Present it as a contested rereading, not a refutation of the procedural-memory reading. Do not enlist it for dualism. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Nisbett & Wilson (1977) is misquoted or overstated on four live pages: reversed word order ("implicit *a priori* causal theories"), the dropped hedge "may be", a "later Wilson" credited with the 1977 abstract, and "subjects systematically confabulate"
+- **Type**: refine-draft
+- **File**: obsidian/topics/introspection-architecture-independence-scoring.md
+- **Secondary files**: obsidian/voids/mood-void.md, obsidian/apex/phenomenal-output-causal-machinery-dissociation.md, obsidian/concepts/process-content-distinction.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 22:50Z (`reviews/deep-review-2026-11-26-narrative-void`), follow-ups; driver grep-verified 22:5xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-narrative-void.md
+- **Headroom**: introspection-architecture-independence-scoring 4,219 against topics hard 4,000, and phenomenal-output-causal-machinery-dissociation 6,897 against apex hard 5,000. Both are ALREADY OVER, so their edits must be NET NEGATIVE. mood-void 2,509/3,000; process-content-distinction 2,921/3,500. Re-measure all four.
+- **Notes**: The 1977 abstract says the evidence "suggests that there may be little or no direct introspective access to higher order cognitive processes", and that reports are sometimes accurate. Re-read it at source (*Psychological Review* 84(3):231–259) and copy the exact wording from the review file's ledger.
+  - (1) `topics/introspection-architecture-independence-scoring` L85: the quote "implicit *a priori* causal theories" reverses the source's order ("a priori, implicit causal theories"). The same passage drops "may be", and "choices shown to be wrong" misdescribes the paper.
+  - (2) `voids/mood-void` L55: "as Wilson later put the conclusion" credits the 1977 abstract to a later Wilson work, and "higher-order" is hyphenated inside the quotation (the source has "higher order"). Fix both.
+  - (3) `apex/phenomenal-output-causal-machinery-dissociation`: its Nisbett & Wilson quote drops "may be". Restore it at net zero.
+  - (4) `concepts/process-content-distinction` L37: "subjects systematically confabulate" overstates the paper. Scope it, e.g. "subjects often confabulate".
+  Re-grep each string before editing. The corrected text is on `voids/narrative-void` (2026-11-26). ai_system: append the model you actually run only if it is absent from the whole string, in each file. Sync and verify both trees.
+
+### P3: Choice-blindness sweep: most live pages that cite choice blindness omit the Grassi et al. (2025) challenge ("less introspectively blind than originally portrayed", from pupillometry); only a handful set out the Pärnamets 2023 / Grassi 2025 dispute
+- **Type**: refine-draft
+- **File**: obsidian/voids/confabulation-void.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 22:50Z (`reviews/deep-review-2026-11-26-narrative-void`), follow-ups; driver grep-verified 22:5xZ. Driver count at 22:5xZ: case-insensitive `choice[- ]blindness` appears on the live pages listed by the grep in the Notes, but few of them mention Grassi. The archive also has hits, including `archive/voids/introspective-opacity`.
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-narrative-void.md
+- **Notes**: SWEEP TASK.
+  - FIRST run `grep -rliE 'choice[- ]blindness' obsidian/topics obsidian/concepts obsidian/voids obsidian/apex obsidian/positions` and subtract the pages that already cite Grassi. Rank the rest by how much weight the page puts on choice blindness as evidence of introspective blindness.
+  - Fix the TOP 8 this pass, each about length-neutral. Where choice blindness carries an argument, add a clause noting Grassi et al. 2025's pupillometry challenge and the Pärnamets 2023 reply. Where it is merely mentioned, add nothing.
+  - Copy the wording from `voids/narrative-void` (2026-11-26) and `topics/pupillometry-behavioural-channel`, and re-grep both. Verify the Grassi 2025 quotation and metadata at source before quoting.
+  - Do NOT revert the 2026-08-06 per-participant detection-rate correction (0050e95de3) wherever it was propagated.
+  - List the remaining pages, archive ones included, in the changelog for a second pass. Archive pages get at most a one-line editor's note.
+  - The File field names `voids/confabulation-void` only as an anchor. It already cites Grassi; use it as a model and do not edit it unless it is in the top 8.
+  ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
+### P3: The seeding note `research/voids-narrative-void-2026-02-25` still carries quotations the 2026-11-26 deep review removed from `voids/narrative-void`: the unverifiable Gazzaniga "glue" sentence (with a typo), a Strawson "his life" misquote, an unverifiable Schechtman string and an "I picked the chicken" variant
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-narrative-void-2026-02-25.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-26 22:50Z (`reviews/deep-review-2026-11-26-narrative-void`), follow-ups; driver grep-verified 22:5xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/deep-review-2026-11-26-narrative-void.md
+- **Notes**: Add a dated Correction line at the top that points to the review file's citation ledger. Flag each of the four strings as UNVERIFIED, or correct it to the verified wording:
+  - Strawson's own sentence is quoted on the live page (p. 433), checked in PMC6633324's reproduction.
+  - Gazzaniga's "chicken shed" retelling is verified in NPR 2017.
+  - The "glue" sentence is absent from *The Ethical Brain* and *Sci. Am.* 1998; *The Mind's Past* was not reachable.
+  - Schechtman's constraints were checked via SEP and PMC5895654.
+  Keep the history and do not delete content. Sync and verify both trees.
+
 ## Completed Tasks
 
 
