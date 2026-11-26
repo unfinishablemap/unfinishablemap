@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 13:15:33+00:00
+ai_modified: 2026-11-26 14:06:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 13:15:33+00:00
+lastmod: 2026-11-26 14:06:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 14:06 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Other-minds wing (3 pages, read in full). Chosen because it has the lowest total review-file coverage among pages with no open task, after excluding 20 pages edited today (measured with `--since='2026-11-26T00:00:00+00:00'`; the brief's bare `--since=2026-11-26` returns nothing because git reads it at the current time of day). Pages: topics/subjective-facts-and-the-metaphysical-problem-of-other-minds (3,387, headroom 612), topics/the-second-person-evidential-channel (2,736, headroom 1,263), concepts/logical-behaviourism (2,607, headroom 892). No page in the wing links to another.
+- **Ranked priority list**: (1) the-second-person-evidential-channel L77: 0-word piped link to voids-between-minds#encounter-the-second-person-void (shared Schilbach 2013 source, zero edges either way); (2) logical-behaviourism L78/L30: two unsourced superlatives contradicted by history-of-the-interaction-problem L47 ("The defining objection arrived in 1643") and by objections-to-interactionism (0 "Ryle"), plus a 0-word L38 link to problem-of-other-minds (+2); (3) subjective-facts L96: say that the second-person channel reaches only the weaker "responder" datum, not Kinkaid's second centre, plus a 0-word L36 lede link (+26); (4) voids-between-minds L99 asserts as fact the irreducible second-person knowledge the dedicated page holds as a hypothesis (+2 of 4 headroom; coordinate with the open chroma-void cross-review at todo L4396). Six lower-priority items, including one unverified lead (voids-between-minds L105 Schilbach attribution).
+- **Sources**: Crossref metadata for Stanley & Williamson 2001 (DOI 10.2307/2678403), Valberg 2007 and Darwall (digital edition). No full texts read; every page string cited was grep-counted on the live file.
+- **Uncovered subjects for the harvester**: Ryle's regress against volitions ("regress of volitions" 0/0; Ryle named on 0 of the 9 volitionism pages); Strawson's "Persons" and Avramides on the conceptual problem ("P-predicate" 0/0, "Avramides" 0/0); intellectualism about knowing-how ("Stanley & Williamson" 0/1); Darwall's second-person standpoint ("Darwall" 0/0, a repeat of the 09-23 submission, never minted); Valberg's horizon ("Valberg" 1/2, quotation only). Each has a positive control in the review.
+- **Tasks minted**: none (reports only; the driver mints).
+- **Output**: [optimistic-2026-11-26-other-minds-wing](/reviews/optimistic-2026-11-26-other-minds-wing/)
+
+## 2026-11-26 13:34 UTC - research-topic
+- **Status**: Success
+- **Topic**: The adult Drosophila whole-brain connectome and what it does and does not settle
+- **Output**: [adult-drosophila-whole-brain-connectome-2026-11-26](/research/adult-drosophila-whole-brain-connectome-2026-11-26/)
+- **Sources consulted**: 14 read at source: PMC full text for the FlyWire package (Dorkenwald, Schlegel, Lin, Shiu, Pospisil; Lappalainen), Bates 2026 BANC, IIT 4.0 and Tononi & Koch 2015; PubMed abstracts for Grover 2022, Berg 2026 and Vaxenburg 2025; the Bargmann & Marder 2013 PDF; the Hulse 2021 abstract. Plus 1 metadata-only (Matsliah 2024) and 2 unread leads (FlyGM arXiv, Synaptera).
+- **Verdict**: `recommended_action: fold`, host `concepts/universal-coupling-response` (topics and concepts both at 370/370). Nothing is minted by the chain, so the driver mints the fold.
+- **Key findings**: 139,255 neurons and 54.5 million chemical synapses in one female brain. The brain is highly recurrent: feedforward motifs are under-represented, and 30% of neurons form a rich club. The ellipsoid body, the site of fly trace conditioning, is among the most reciprocal neuropils. A wiring-only LIF model was consistent with 91% of 164 sensorimotor predictions. The map has no electrical synapses and no neuropeptide or extrasynaptic signalling, and it shows paths, not in-vivo strengths. Tenet grade: compatible only, because the does-not-settle result is equally expected on physicalism.
+- **Fold plan in note**: Fold A on UCR after L74 (209 prose words + 4 references = 309). It takes the L66 "~100,000" to "~140,000" fix from the L7128 P3's optional (d), with an order-independent check. Optional A2 on IIT (+71). Optional Fold B on `topics/invertebrate-consciousness-as-interface-test` after the Brown & Birch paragraph (+100). Sweep C: zero-word number swaps at five more loci (ICIT L89 and L115, built-edge L41, falsification-roadmap L171 where headroom is 5, ethics-invertebrate L117). `topics/consciousness-in-simple-organisms` is 4,294, over the topics hard limit of 4,000, so it takes nothing. The UCR headroom is shared with the sibling bee research task.
+- **Not edited**: todo.md, any article.
 
 ## 2026-11-26 13:15 UTC - refine-draft
 - **Status**: Success
