@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Intellectualism about knowing-how and Ryle's distinction
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 3): Stanley & Williamson 2001, 'Knowing How', Journal of Philosophy 98(8): 411-444, DOI 10.2307/2678403 (Crossref-verified by the reviewer), against Ryle. 'Stanley & Williamson' 0 content/1 research (a 'verify if used' bullet in research/philosophy-of-habit-under-dualism-2026-07-07 L206); 'knowing how' 7/13 positive control. Expect fold into the habit/skill pages. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/intellectualism-about-knowing-how-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'intellectualism-about-knowing-how' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -7497,7 +7491,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-26
 - **Review file**: reviews/optimistic-2026-11-26-other-minds-wing.md
 - **Headroom**: 2,607/3,500 (+2). Re-measure first.
-- **Notes**: (a) L78 "remains the most-cited objection to interactionist dualism" becomes "remains among the most-cited objections to interactionist dualism". (b) L30 "It is the source of the single most durable objection to dualism" becomes "It is the source of one of the most durable objections to dualism". (c) L38 "the problem of *other minds and public language*" becomes "*[[problem-of-other-minds|other minds]] and public language*" (+0). Reason: `topics/history-of-the-interaction-problem` L47 calls Elisabeth's 1643 question "The defining objection", and `concepts/objections-to-interactionism` never names Ryle. Re-grep each string first. Run a pronoun check on the following sentences. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees. ADDENDUM 2026-11-26 16:0xZ (driver, from `research/ryles-regress-against-volitions-2026-11-26` §Side findings 1): ALSO IN SCOPE, about +20 words. L84 says the Map's dualism is "not a defence of a Cartesian inner mechanism". But in *The Concept of Mind* ch. 3 Ryle files VOLITIONS under exactly that picture, and the Map keeps volitions (P-A6, `topics/philosophy-of-action-under-dualism` §Volitionism). Add a clause conceding that the Map's volitionism is the part of the Cartesian picture Ryle attacked in ch. 3, answered at the agent-causal regress-stopper (P-A2), and link [[philosophy-of-action-under-dualism]]. Re-grep L84 first. Headroom 2,607/3,500.
+- **Notes**: (a) L78 "remains the most-cited objection to interactionist dualism" becomes "remains among the most-cited objections to interactionist dualism". (b) L30 "It is the source of the single most durable objection to dualism" becomes "It is the source of one of the most durable objections to dualism". (c) L38 "the problem of *other minds and public language*" becomes "*[[problem-of-other-minds|other minds]] and public language*" (+0). Reason: `topics/history-of-the-interaction-problem` L47 calls Elisabeth's 1643 question "The defining objection", and `concepts/objections-to-interactionism` never names Ryle. Re-grep each string first. Run a pronoun check on the following sentences. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees. ADDENDUM 2026-11-26 16:0xZ (driver, from `research/ryles-regress-against-volitions-2026-11-26` §Side findings 1): ALSO IN SCOPE, about +20 words. L84 says the Map's dualism is "not a defence of a Cartesian inner mechanism". But in *The Concept of Mind* ch. 3 Ryle files VOLITIONS under exactly that picture, and the Map keeps volitions (P-A6, `topics/philosophy-of-action-under-dualism` §Volitionism). Add a clause conceding that the Map's volitionism is the part of the Cartesian picture Ryle attacked in ch. 3, answered at the agent-causal regress-stopper (P-A2), and link [[philosophy-of-action-under-dualism]]. Re-grep L84 first. Headroom 2,607/3,500. ADDENDUM 2026-11-26 22:1xZ (driver, from `research/intellectualism-about-knowing-how-2026-11-26` §Side findings 1): ALSO IN SCOPE, at -1 word. L84 says Ryle's know-how point "survives intact". The intellectualism fold task (minted at 22:1xZ) adds a clause at L46 saying intellectualists contest Ryle's distinction. Change "survives intact" to "survives" so L46 and L84 do not contradict each other, and re-grep both. Either task may run first.
 
 ### P3: Fold bee object manipulation into `concepts/universal-coupling-response` at the authors' grade. Loukola et al. 2017 call it "behavioral flexibility", not tool use; the "tool use" label comes from the *Science* editor's summary. Swap the same label at `topics/architectural-adequacy-at-the-built-edge` L69
 - **Type**: refine-draft
@@ -7672,8 +7666,49 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 3,327/3,500 after the 2026-11-26 menu-luck fold (concepts hard; gate >=), so 172 words remain. A reference entry costs about 15–25 words. Re-measure first.
 - **Notes**: (1) "Kane's 1996 book" is cited in the body, but References has no Kane 1996 entry. Verify Kane, R. (1996), *The Significance of Free Will* (Oxford UP) at the publisher or on Crossref, then add the entry, or reword the body to cite a work already listed. (2) "Williams 1993, as quoted in Nelkin 2025" has no Williams 1993 entry. It is a quotation relayed through Nelkin's SEP "Moral Luck" entry, which is already listed. Either add Williams (1993), "Postscript" in Statman (ed.), *Moral Luck* (SUNY), after verifying it, or reword so the body cites only Nelkin as the carrier. Run (surname, year) orphan checks both ways afterwards. (3) The research note's Summary 2 and Gaps lines say "brute luck" has zero live hits. It actually appears on `topics/co-optimization-reply-to-the-correlation-problem` L47 and `topics/pain-consciousness-and-causal-power` L160, both in the everyday sense of unexplained coincidence, not Dworkin's sense. Add a dated correction line to the note. Do not touch the 2026-11-26 Menu Luck section's wording. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Fold intellectualism about knowing-how (Stanley & Williamson 2001) into the knowledge-argument cluster. It undercuts the ability hypothesis as an INDEPENDENT reply: S&W say Lewis's account "is incorrect" and that the ability reply entails propositional knowledge. Cath shows the reply survives only as an old-fact/new-mode reply in the Loar family
+- **Type**: refine-draft
+- **File**: obsidian/concepts/phenomenal-acquaintance.md
+- **Secondary files**: obsidian/concepts/knowledge-argument.md, obsidian/concepts/logical-behaviourism.md, obsidian/topics/philosophy-of-habit-under-dualism.md, obsidian/concepts/phenomenal-concepts-strategy.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 22:10Z (`research/intellectualism-about-knowing-how-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 3)
+- **Generated**: 2026-11-26
+- **Headroom**: phenomenal-acquaintance 3,149/3,500 (+206); knowledge-argument 3,491/3,500 (+4 ONLY, 9 words of headroom); logical-behaviourism 2,607/3,500 (+42; open P3s also edit it); philosophy-of-habit 2,643/4,000 (+42); phenomenal-concepts-strategy 3,455/3,500 (an optional 0-word link). Re-measure all of them first.
+- **Notes**: Apply the note's §Fold plan with its exact OLD strings (each count 1 at 22:05Z), and copy its §Writer guards into your working brief.
+  - phenomenal-acquaintance: L60 now credits Ryle; append the main passage to the L84 Lewis paragraph; add 3 references.
+  - knowledge-argument: rewrite L76, with a piped link to the new phenomenal-acquaintance passage.
+  - logical-behaviourism: add a clause at L46 saying intellectualists contest Ryle's distinction, plus 1 reference. L46 is NOT owned by any open P3. The open P3 "calls Ryle's category-mistake charge…" now carries an addendum changing L84 "survives intact" to "survives" to match.
+  - philosophy-of-habit: L65 gets Ryle's own habit vs intelligent-capacity line (1949: 42, 46), plus 1 reference.
+  - phenomenal-concepts-strategy: L109, an optional 0-word piped link.
+  GRADING: compatible. This is NOT evidence for dualism: if intellectualism is true, the ability hypothesis stops being an independent reply. It also HURTS the Map slightly. S&W's "practical modes" are a second precedent for special modes of presentation motivated independently of the mind–body problem, which weakens the Map's charge that the phenomenal concepts strategy is ad hoc (`phenomenal-concepts-strategy` L125). Say so where relevant; do not hide it.
+  GUARDS:
+  - Nemirow 1980 COINED the ability hypothesis and Lewis 1988 popularised it.
+  - Ginet 1975 defended intellectualism before S&W.
+  - Never say intellectualism "refutes" or "blocks" the ability hypothesis.
+  - Do not enlist S&W, Cath or Noë for dualism.
+  - Quote S&W only as "Lewis's account is incorrect": the author manuscript and the journal version word the surrounding sentence differently.
+  - Cite Ryle by the 1949 Hutchinson pages, not the SEP's edition.
+  - Cath: cite the 2009 *Noûs* paper, but do not quote it (only his 2008 ANU thesis ch. 2 was read).
+  - Chalmers's "New Fact Thesis" label is from 2004; Lockwood 1989 had a version.
+  - Keep the ch. 2 knowing-how regress (pp. 30–32) separate from the ch. 3 volitions regress (p. 67), which was folded today into `philosophy-of-action-under-dualism`.
+  NOT REACHED (metadata only): Ryle 1946, Schiffer 2002, Fridland, Stanley 2011, Bengson & Moffett 2011, Nemirow's texts.
+  ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify all trees.
+
+### P3: `topics/consciousness-and-skill-acquisition` L100 presents H.M.'s mirror-drawing learning (Milner 1962) without Stanley & Krakauer's (2013) rereading: he received explicit instructions every session, and what improved was "motor acuity"
+- **Type**: refine-draft
+- **File**: obsidian/topics/consciousness-and-skill-acquisition.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 22:10Z (`research/intellectualism-about-knowing-how-2026-11-26` §Side findings 2)
+- **Generated**: 2026-11-26
+- **Headroom**: 3,803/4,000 (topics hard; gate >=). The note's draft is +47 with its reference. Re-measure first.
+- **Notes**: Add the note's drafted sentence after the Milner 1962 passage at L100. Re-grep the anchor. Stanley & Krakauer 2013, "Motor skill depends on knowledge of facts", *Frontiers in Human Neuroscience* 7:503: verify the quotation in the open-access full text before quoting "motor acuity". Present it as a contested rereading, not a refutation of the procedural-memory reading. Do not enlist it for dualism. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Research Intellectualism about knowing-how and Ryle's distinction
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 3): Stanley & Williamson 2001, 'Knowing How', Journal of Philosophy 98(8): 411-444, DOI 10.2307/2678403 (Crossref-verified by the reviewer), against Ryle. 'Stanley & Williamson' 0 content/1 research (a 'verify if used' bullet in research/philosophy-of-habit-under-dualism-2026-07-07 L206); 'knowing how' 7/13 positive control. Expect fold into the habit/skill pages. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/intellectualism-about-knowing-how-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'intellectualism-about-knowing-how' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-26: Fold "menu luck" into `concepts/basic-argument-and-constitutive-luck` as a new section between "Where the Basic Argument Meets the Rollback" and "What the Map Can Claim" (ChatGPT 2026-10-28 §2.3; research verdict FOLD), plus a one-sentence "menu adequacy" scope note on `topics/responsibility-gradient-from-attentional-capacity`
 - **Type**: refine-draft

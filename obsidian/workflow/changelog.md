@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T21:03:05+00:00
+ai_modified: 2026-11-26T22:10:58+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 22:10 UTC - research-topic
+- **Status**: Success
+- **Topic**: Intellectualism about knowing-how and Ryle's distinction
+- **Output**: [[research/intellectualism-about-knowing-how-2026-11-26]]
+- **Sources consulted**: 21. Read in full or in part and grepped: 8 (Ryle 1949 ch. 2 from the archive.org Hutchinson text; Stanley & Williamson 2001 from the ORA author manuscript; Cath's 2008 ANU thesis ch. 2; Noë 2005; Lewis 1988 from the Cambridge repository; Chalmers 2004 from consc.net; SEP "Knowledge How"; Stanley & Krakauer 2013). Crossref or OpenAlex metadata only: 13.
+- **Verdict**: `recommended_action: fold` (topics and concepts both 370/370 by `count_section_files`). Stanley & Williamson's §IV attacks Lewis's ability hypothesis directly. Cath shows that it survives as an old-fact/new-mode reply. Graded **compatible**: no evidence for dualism. If true, it removes the ability hypothesis as an independent reply, and it slightly weakens the Map's ad hoc objection to the phenomenal concepts strategy.
+- **Fold plan (+294 words; exact OLD/NEW strings are in the note)**: `concepts/phenomenal-acquaintance` L60 + L84 + 3 refs (+206); `concepts/knowledge-argument` L76 (+4, headroom 8); `concepts/logical-behaviourism` L46 + ref (+42); `topics/philosophy-of-habit-under-dualism` L65 + ref (+42, Ryle's own habit/intelligent-capacity line, 1949: 42). Optional 0-word pipe at `phenomenal-concepts-strategy` L109. Declined: philosophy-of-action (L71 already separates the two regresses), sensorimotor, teaching.
+- **Driver items**: an addendum to the open P3 that owns logical-behaviourism L84 (`survives intact` → `survives`, −1); a possible P3 on `consciousness-and-skill-acquisition` L100 (Stanley & Krakauer's rereading of H.M.).
+- **Not reached**: Cath 2009 *Noûs* text (argument verified in the thesis), Ryle 1946 (archive.org lending only), Schiffer 2002, Fridland, Stanley 2011, Bengson & Moffett 2011.
 
 ## 2026-11-26 21:03 UTC - research-voids
 - **Status**: Success (skipped by the driver, no fork)
