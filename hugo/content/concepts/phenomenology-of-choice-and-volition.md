@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-11-12 21:04:29+00:00
+ai_modified: 2026-11-26 16:37:53+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[trilemma-of-selection]]'
 created: 2026-01-22
-date: &id001 2026-03-24
+date: &id001 2026-11-26
 description: 'The experiential arc from deliberation through decision to volitional
   execution: felt weight of options, moment of resolution, initiation, sustained control,
   effort, and veto—each phase providing irreducible evidence for conscious causal
@@ -39,7 +39,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-21 16:05:00+00:00
-lastmod: 2026-11-12 21:04:29+00:00
+lastmod: 2026-11-26 16:37:53+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -98,7 +98,7 @@ Attention does not lock on smoothly — introspective reports and contemplative 
 
 Volitional acts vary in felt difficulty. The effort gradient usually tracks real cognitive demands: hard tasks feel hard; easy tasks feel easy. An epiphenomenalist is not embarrassed by this fit: the metabolic cost belongs to the neural processing, which has an obvious adaptive role, and one process producing both the work and the feeling makes the match common causation rather than coincidence. Felt effort also attaches to the selections that are contested — overriding a prepotent response, holding a slipping focus — and not to equally costly processing that runs unfelt. The Map reads that distribution as consciousness doing work at the [interface](/concepts/attention-as-interface/) between intention and neural execution. The distribution fits that reading without evidencing it: if felt effort is control's cost signal, it marks where control is hard, which need not be where conscious contribution is largest ([the skill literature](/concepts/self-control-as-skill-and-scaffolding/#effort-as-evidence)).
 
-Effort also has a directional quality — pushing *against* competing impulses, fatigue, or distraction. This oppositional character suggests volition operates in a space of competing possibilities, selecting one pattern while suppressing alternatives.
+Effort also has a directional quality — pushing *against* competing impulses, fatigue, or distraction. This oppositional character suggests volition operates in a space of competing possibilities, selecting one pattern while suppressing alternatives. The gradient bears on Gilbert Ryle's challenge. He asked whether volitions can be "difficult or easy" and concluded from the lack of answers that "their existence is not asserted on empirical grounds" (Ryle 1949: 64–65); he took bracing oneself to be itself an action, not the volition behind one (1949: 68–69), so the gradient fits volitionism without forcing it.
 
 ### Veto
 
@@ -205,6 +205,7 @@ The framework would face serious difficulty if: (1) trained introspectors report
 1. Mele, A. (2009). *Effective Intentions: The Power of Conscious Will*. Oxford University Press.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 1. Rajan, A., Siegel, S. N., Liu, Y., Bengson, J., Mangun, G. R., & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
+1. Ryle, G. (1949). *The Concept of Mind*. Hutchinson. Chapter 3, "The Will".
 1. Schultze-Kraft, M., Birman, D., Rusconi, M., Allefeld, C., Görgen, K., Dähne, S., Blankertz, B., & Haynes, J.-D. (2016). The point of no return in vetoing self-initiated movements. *PNAS*, 113(4), 1080–1085.
 1. Schurger, A., Sitt, J. D., & Dehaene, S. (2012). An accumulator model for spontaneous neural activity prior to self-initiated movement. *Proceedings of the National Academy of Sciences*, 109(42), E2904–E2913.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.

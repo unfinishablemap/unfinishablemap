@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-06
-ai_modified: 2026-11-02 12:26:50+00:00
+ai_modified: 2026-11-26 16:37:53+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[spontaneous-intentional-action]]'
 created: 2026-07-06
-date: &id001 2026-11-02
+date: &id001 2026-11-26
 description: 'How interactionist dualism reshapes the theory of action: a human-AI
   exploration selecting a volitionist agent-causal hybrid that answers the disappearing
   agent and relocates, without removing, deviance.'
@@ -17,7 +17,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-02 12:26:50+00:00
-lastmod: 2026-11-02 12:26:50+00:00
+lastmod: 2026-11-26 16:37:53+00:00
 modified: *id001
 related_articles:
 - '[[overdetermination-dissolution-under-selection-only-interactionism]]'
@@ -72,13 +72,15 @@ Jennifer Hornsby developed the most careful modern version: bodily actions are t
 
 For a dualism committed to a *minimal* interface (explained under [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), the attraction is direct. Trying is the smallest thing an agent does—a candidate for the *least* non-physical act that could bias a physical outcome.
 
+**Ryle's regress.** The best-known objection to volitionism is Gilbert Ryle's, in the chapter "The Will" of *The Concept of Mind* (1949), distinct from his regress about knowing how. Ryle asks whether volitions are themselves voluntary: "If I cannot help willing to pull the trigger, it would be absurd to describe my pulling it as 'voluntary'. But if my volition to pull the trigger is voluntary, in the sense assumed by the theory, then it must issue from a prior volition and that from another ad infinitum" (Ryle 1949: 67). Calling volitions neither, a term "of the wrong type" for either predicate, would leave them unfit to be "virtuous" or "wicked" (1949: 67). The Map answers as it does against Lowe (explained below): the trying is voluntary because the agent-substance causes it, not in the sense the theory assumes, and that causing is basic rather than a further act needing its own volition, so the regress stops at the substance. Being voluntary, the trying keeps the appraisal the "neither" option forfeits. The standard reply, framed by the SEP's *Agency* entry as the answer to Ryle (Schlosser 2019), can supplement this: a volition is an action intrinsically, not by issuing from a prior act, through Carl Ginet's *actish* phenomenal quality or Hugh McCann's spontaneity and intrinsic intentionality (Ginet 1990; McCann 1998). Ginet denies agent causation, so the pairing is the Map's own; alone, the intrinsic view leaves the agent "merely the subject or the bearer of volitions" (Schlosser 2019). Ryle's second objection, that "for all he knows, his volition may have had some other movement as its effect" (1949: 66), is a limit the Map owns in the [agency void](/voids/agency-void/#the-verification-circularity). Answering the regress shows the hybrid coherent but is no evidence for it.
+
 ## Agent Causation and Non-Cartesian Substance Dualism
 
 Agent-causal theories, from Roderick Chisholm to Timothy O'Connor, take the further step of treating the *agent herself*, as a substance, as an irreducible cause of her actions—not reducible to causation by events or states occurring within her. This answers the disappearing agent head-on: the agent does not vanish into the events because she is a genuine relatum of the causal relation, an originating cause in her own right.
 
 The standard charge against agent causation borrows the phrase P. F. Strawson aimed at libertarianism at large, "the obscure and panicky metaphysics of libertarianism" (Strawson 1962: 211), and presses it as the complaint that agent causation posits a sui generis causal power mysteriously unlike ordinary causation. Recent work has tried to defuse the charge: Joseph Martinez (2023) argues that the divide between event-causal and agent-causal accounts of free action is a false dichotomy, defending a Causal Pluralism on which free will is compatible with both event and substance causation.
 
-E. J. Lowe offered the synthesis closest to the Map's, though the Map parts from it on what causes the volition. His *non-Cartesian substance dualism* holds that the self is a distinct substance from the body—so there *is* something over and above the physical events—while denying the Cartesian claim that the self is a wholly separable, immaterial thing. On Lowe's account, all causation is ultimately *substance* causation, and agents cause their bodily movements by willing them. The willing itself is uncaused: because agents cause by acting, they "cannot cause their own volitions on pain of regress" (Griffith 2009, citing Lowe 2008: 7), so a free volition is a spontaneous exercise of a rational power with no cause, agent or event. Lowe presents the view as "a middle path between classical agent causalism and volitionism" (Lowe 2008, book abstract). That is how he forestalls the obvious regress—that "the agent causes the trying" simply re-poses the disappearing-agent worry one level up, now about the causing of the trying: on his view nothing causes the trying. The Map takes the classical agent-causal stopping point instead. It treats the trying as agent-caused, which requires denying Lowe's premise that agents cause only by acting, and it ends the regress at a substance whose causing is basic rather than a relabeling of event-causation. The fuller defence of that stopping point is carried by [agent-causation](/concepts/agent-causation/), and the cost of each stopping point for choosing *for a reason* is weighed in [agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/). Lowe also challenged "the cogency of the causal closure argument for physicalism in all of its forms" (Lowe 2008, book abstract). He did not deny that physical causes may suffice for a bodily movement; he argued that closure principles fail to exclude a non-physical cause from among its causes. On that view the exclusion worry that mental causes must be either idle or redundant loses its grip.
+E. J. Lowe offered the synthesis closest to the Map's, though the Map parts from it on what causes the volition. His *non-Cartesian substance dualism* holds that the self is a distinct substance from the body—so there *is* something over and above the physical events—while denying the Cartesian claim that the self is a wholly separable, immaterial thing. On Lowe's account, all causation is ultimately *substance* causation, and agents cause their bodily movements by willing them. The willing itself is uncaused: because agents cause by acting, they "cannot cause their own volitions on pain of regress" (Griffith 2009, citing Lowe 2008: 7), so a free volition is a spontaneous exercise of a rational power with no cause, agent or event. Lowe presents the view as "a middle path between classical agent causalism and volitionism" (Lowe 2008, book abstract). That is how he forestalls a regress of Ryle's form (explained above): the agent's causing of the trying would itself be an act needing a volition of its own, so on his view nothing causes the trying. The Map takes the classical agent-causal stopping point instead. It treats the trying as agent-caused, which requires denying Lowe's premise that agents cause only by acting, and it ends the regress at a substance whose causing is basic rather than a relabeling of event-causation. The fuller defence of that stopping point is carried by [agent-causation](/concepts/agent-causation/), and the cost of each stopping point for choosing *for a reason* is weighed in [agent-causation-and-acting-for-reasons](/topics/agent-causation-and-acting-for-reasons/). Lowe also challenged "the cogency of the causal closure argument for physicalism in all of its forms" (Lowe 2008, book abstract). He did not deny that physical causes may suffice for a bodily movement; he argued that closure principles fail to exclude a non-physical cause from among its causes. On that view the exclusion worry that mental causes must be either idle or redundant loses its grip.
 
 ## The Non-Causal Alternative
 
@@ -122,15 +124,19 @@ A tension worth stating plainly: agent causation invites the parsimony objection
 1. Anscombe, G. E. M. (1957). *Intention*. Basil Blackwell.
 2. Chisholm, R. (1964). Human Freedom and the Self. *The Lindley Lecture*. University of Kansas.
 3. Davidson, D. (1963). Actions, Reasons, and Causes. *The Journal of Philosophy*, 60(23), 685–700.
-4. Griffith, M. (2009). Review of E. J. Lowe, *Personal Agency: The Metaphysics of Mind and Action*. *Notre Dame Philosophical Reviews*, 2009.06.15. https://ndpr.nd.edu/reviews/personal-agency-the-metaphysics-of-mind-and-action/
-5. Hornsby, J. (1980). *Actions*. Routledge & Kegan Paul.
-6. Lowe, E. J. (2006). Non-Cartesian Substance Dualism and the Problem of Mental Causation. *Erkenntnis*, 65(1), 5–23.
-7. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
-8. Martinez, J. (2023). Causal pluralism: agent causation without the panicky metaphysics. *Synthese*, 202(1), 2. https://doi.org/10.1007/s11229-023-04216-0
-9. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
-10. Pereboom, D. (2014). The disappearing agent objection to event-causal libertarianism. *Philosophical Studies*, 169(1), 59–69.
-11. Strawson, P. F. (1962). Freedom and Resentment. *Proceedings of the British Academy*, 48, 187–211. (The separately issued lecture is often cited as 1–25.)
-12. Ward, S. (2024). An attempt at a general solution to the problem of deviant causal chains. *Philosophy and Phenomenological Research*, 108(2), 374–395.
-13. Yashin, A. S. (2025). Causal Deviance in Brain–Computer Interfaces (BCIs): A Challenge for the Philosophy of Action. *Philosophies*, 10(2), 37. https://doi.org/10.3390/philosophies10020037
-14. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
-15. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/
+4. Ginet, C. (1990). *On Action*. Cambridge University Press.
+5. Griffith, M. (2009). Review of E. J. Lowe, *Personal Agency: The Metaphysics of Mind and Action*. *Notre Dame Philosophical Reviews*, 2009.06.15. https://ndpr.nd.edu/reviews/personal-agency-the-metaphysics-of-mind-and-action/
+6. Hornsby, J. (1980). *Actions*. Routledge & Kegan Paul.
+7. Lowe, E. J. (2006). Non-Cartesian Substance Dualism and the Problem of Mental Causation. *Erkenntnis*, 65(1), 5–23.
+8. Lowe, E. J. (2008). *Personal Agency: The Metaphysics of Mind and Action*. Oxford University Press.
+9. Martinez, J. (2023). Causal pluralism: agent causation without the panicky metaphysics. *Synthese*, 202(1), 2. https://doi.org/10.1007/s11229-023-04216-0
+10. McCann, H. J. (1998). *The Works of Agency: On Human Action, Will, and Freedom*. Cornell University Press.
+11. O'Connor, T. (2000). *Persons and Causes: The Metaphysics of Free Will*. Oxford University Press.
+12. Pereboom, D. (2014). The disappearing agent objection to event-causal libertarianism. *Philosophical Studies*, 169(1), 59–69.
+13. Ryle, G. (1949). *The Concept of Mind*. Hutchinson. (Page references are to this edition.)
+14. Schlosser, M. (2015; rev. 2019). Agency. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/agency/
+15. Strawson, P. F. (1962). Freedom and Resentment. *Proceedings of the British Academy*, 48, 187–211. (The separately issued lecture is often cited as 1–25.)
+16. Ward, S. (2024). An attempt at a general solution to the problem of deviant causal chains. *Philosophy and Phenomenological Research*, 108(2), 374–395.
+17. Yashin, A. S. (2025). Causal Deviance in Brain–Computer Interfaces (BCIs): A Challenge for the Philosophy of Action. *Philosophies*, 10(2), 37. https://doi.org/10.3390/philosophies10020037
+18. Southgate, A. & Oquatre-sept, C. (2026-05-14). Overdetermination Dissolution Under Selection-Only Interactionism. *The Unfinishable Map*. https://unfinishablemap.org/topics/overdetermination-dissolution-under-selection-only-interactionism/
+19. Southgate, A. & Oquatre-six, C. (2026-01-15). Agent Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/agent-causation/

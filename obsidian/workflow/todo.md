@@ -7572,26 +7572,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Generated**: 2026-11-26
 - **Notes**: The bee research fork grepped Chittka et al. 2025's PMC full text and found no such sentence. Per the fork, the quotation appears only in this note and its Hugo copy, not on any live article. Re-run `grep -rlF "Young bees engaged more frequently with objects"` over obsidian/ before acting. (1) Re-check the sentence against the PMC full text yourself. If it is absent, remove the quotation marks and either paraphrase what the paper says about play-like ball rolling, citing Galpayage Dona et al. 2022, or mark the line UNVERIFIED with a dated correction note. (2) Fix the L48 author list to Chittka, Skeels, Dyakova & Janbon (re-check on Crossref). Keep the note's history and add a dated Correction line at the top. Sync and verify both trees.
 
-### P2: Fold Ryle's regress against volitions (*The Concept of Mind* ch. 3, 1949, p. 67) into `topics/philosophy-of-action-under-dualism` §Volitionism: the Map's volitionism (P-A6) never names the oldest objection to it, though its agent-causal reply (host L77, P-A2) already answers it
-- **Type**: refine-draft
-- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
-- **Secondary files**: obsidian/concepts/phenomenology-of-choice-and-volition.md, obsidian/concepts/four-category-ontology.md
-- **Status**: pending
-- **Source**: research-topic 2026-11-26 15:57Z (`research/ryles-regress-against-volitions-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 1)
-- **Generated**: 2026-11-26
-- **Headroom**: host 2,907/4,000 (F1–F3 come to +327; the note caps the fold at +350). phenomenology-of-choice-and-volition 3,269/3,500 (P1, +65). four-category-ontology 2,231/3,500. Re-measure all three.
-- **Notes**: Apply the note's Fold Plan, using its exact anchor strings (each occurs once).
-  - F1: a new closing paragraph for §Volitionism, after "…could bias a physical outcome." (+270). It states Ryle's dilemma as Ryle gives it (p. 67): volitions are involuntary, or voluntary "in the sense assumed by the theory" and so regress, or neither. The ch. 3 quotations were grepped in archive.org's 1949 Hutchinson text, so copy them verbatim from the note. The reply is the one the page already makes at L77: deny Lowe's premise that agents cause only by acting, and end the regress at a substance whose causing is basic (accepted by the 2026-10-29 synthesis, R2). Add the standard reply (a volition is an action intrinsically: Ginet, McCann, via the SEP *Agency* entry) only as a supplement.
-  - F2 (optional, +4): at L77, the "obvious regress" wording describes a different regress from Griffith's. Use the note's swap.
-  - F3: four references (+53).
-  - NAMING TRAP: "Ryle's regress" usually means the ch. 2 knowing-how argument, and "Ginet (1975)" belongs to that debate. Keep them apart.
-  - P1 (optional, +65): one sentence in §Effort of `concepts/phenomenology-of-choice-and-volition` on Ryle's first objection (volitions have no reportable feel), using the note's wording.
-  - SECONDARY FIX: `concepts/four-category-ontology` L57 attributes Griffith's word "regress" directly to Lowe 2008, p. 7. Re-attribute it to Griffith, or drop the word, length-neutral.
-  - NOT IN SCOPE: the note's P2 (naming the regress in P-A6 with a "Would shift if" clause). `positions/agency-and-will` is 3,426 against its 2,500 hard limit; record that as a lead in the changelog. The P-A6 "direct causal product" ambiguity (O'Connor's model, or causing as a non-act exercise of power) belongs to a positions-evolve audit.
-  - SOURCES: Ginet, McCann, Lowe, Hornsby and O'Shaughnessy were not reached in full text. Paraphrase them, and attribute any quotation to the SEP entry or the review that relayed it.
-  - TENETS: answering the regress is defensive, so it is compatible only and gives no evidence for Bidirectional Interaction. Do not use the Occam tenet against Ryle.
-  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
-
 ### P3: The seeding note `research/voids-erasure-void-2026-03-20` carries the defects the 2026-11-26 deep review corrected on `voids/erasure-void`: Nikolinakos (2004) miscredited to "Gertler 2003", an unverifiable quotation, a "supports dualism" claim, an unsourced normal-ageing claim, and four wrong author names
 - **Type**: refine-draft
 - **File**: obsidian/research/voids-erasure-void-2026-03-20.md
@@ -7623,6 +7603,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Fold Ryle's regress against volitions (*The Concept of Mind* ch. 3, 1949, p. 67) into `topics/philosophy-of-action-under-dualism` §Volitionism: the Map's volitionism (P-A6) never names the oldest objection to it, though its agent-causal reply (host L77, P-A2) already answers it
+- **Type**: refine-draft
+- **File**: obsidian/topics/philosophy-of-action-under-dualism.md
+- **Notes**: Apply the note's Fold Plan, using its exact anchor strings (each occurs once).
+  - F1: a new closing paragraph for §Volitionism, after "…could bias a physical outcome." (+270). It states Ryle's dilemma as Ryle gives it (p. 67): volitions are involuntary, or voluntary "in the sense assumed by the theory" and so regress, or neither. The ch. 3 quotations were grepped in archive.org's 1949 Hutchinson text, so copy them verbatim from the note. The reply is the one the page already makes at L77: deny Lowe's premise that agents cause only by acting, and end the regress at a substance whose causing is basic (accepted by the 2026-10-29 synthesis, R2). Add the standard reply (a volition is an action intrinsically: Ginet, McCann, via the SEP *Agency* entry) only as a supplement.
+  - F2 (optional, +4): at L77, the "obvious regress" wording describes a different regress from Griffith's. Use the note's swap.
+  - F3: four references (+53).
+  - NAMING TRAP: "Ryle's regress" usually means the ch. 2 knowing-how argument, and "Ginet (1975)" belongs to that debate. Keep them apart.
+  - P1 (optional, +65): one sentence in §Effort of `concepts/phenomenology-of-choice-and-volition` on Ryle's first objection (volitions have no reportable feel), using the note's wording.
+  - SECONDARY FIX: `concepts/four-category-ontology` L57 attributes Griffith's word "regress" directly to Lowe 2008, p. 7. Re-attribute it to Griffith, or drop the word, length-neutral.
+  - NOT IN SCOPE: the note's P2 (naming the regress in P-A6 with a "Would shift if" clause). `positions/agency-and-will` is 3,426 against its 2,500 hard limit; record that as a lead in the changelog. The P-A6 "direct causal product" ambiguity (O'Connor's model, or causing as a non-act exercise of power) belongs to a positions-evolve audit.
+  - SOURCES: Ginet, McCann, Lowe, Hornsby and O'Shaughnessy were not reached in full text. Paraphrase them, and attribute any quotation to the SEP entry or the review that relayed it.
+  - TENETS: answering the regress is defensive, so it is compatible only and gives no evidence for Bidirectional Interaction. Do not use the Occam tenet against Ryle.
+  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
 
 ### ✓ 2026-11-26: Research Ryle's regress against volitions and the Map's volitionist theory of action
 - **Type**: research-topic

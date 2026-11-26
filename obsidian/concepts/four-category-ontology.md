@@ -2,9 +2,9 @@
 title: "Four-Category Ontology"
 description: "E.J. Lowe's four-category ontology grounds substance causation: substances, not events, do causal work. The Map uses it to sharpen where its own interaction commitment departs from Lowe's."
 created: 2026-07-06
-modified: 2026-10-21
+modified: 2026-11-26
 human_modified:
-ai_modified: 2026-10-21T08:38:10+00:00
+ai_modified: 2026-11-26T16:37:53+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -54,7 +54,7 @@ On the dominant contemporary view, the causal relata are **events**: one event c
 
 Lowe argues the reduction runs one way only. An event-causal claim, such as that an explosion collapsed a bridge, is elliptical for a claim about a substance: the bomb collapsed it (Lowe 2008: 5; see Griffith 2009). The reverse analysis fails because causing is a kind of doing, and events do nothing; they only happen. If he is right, substance causation is the primitive and event-causation is at best a *façon de parler*.
 
-For Lowe, this reframes agency. **Agent causation is not a special, sui generis kind of causation**—it is simply substance causation with a rational agent as the substance. What makes human agency distinctive is not a new causal relation but the *rational* character of the powers exercised. Chief among these is **volition**: on Lowe's account a volition is a basic mental action, a "spontaneous" exercise of the will's **two-way power**—one an agent can exercise or refrain from exercising in light of reason. Free agents are, in the book's abstract, "unmoved movers, or initiators of new causal chains." Their volitions are wholly uncaused: agents cause their bodily movements by willing, and because agents cause only by acting, an agent-caused volition would start a regress (Lowe 2008: 7). The Map [[philosophy-of-action-under-dualism|departs here]]: it makes the volition agent-caused and so must deny that premise.
+For Lowe, this reframes agency. **Agent causation is not a special, sui generis kind of causation**—it is simply substance causation with a rational agent as the substance. What makes human agency distinctive is not a new causal relation but the *rational* character of the powers exercised. Chief among these is **volition**: on Lowe's account a volition is a basic mental action, a "spontaneous" exercise of the will's **two-way power**—one an agent can exercise or refrain from exercising in light of reason. Free agents are, in the book's abstract, "unmoved movers, or initiators of new causal chains." Their volitions are wholly uncaused: agents cause bodily movements by willing; because agents cause only by acting, an agent-caused volition would start what Griffith calls a regress (Lowe 2008: 7). The Map [[philosophy-of-action-under-dualism|departs here]]: it makes the volition agent-caused and so denies that premise.
 
 Lowe's 2013 chapter "Substance Causation, Powers, and Human Agency" restates the view within a general powers-based theory of substance causation: the will is "a unique kind of spontaneous power", a two-way power that can be exercised "in the light of reason" (chapter abstract). The Map's separate [[causal-powers|causal powers]] article covers powers-realism generically (Bird, Mumford, dispositions); Lowe's distinctive contribution is making substances—not properties or events—the *bearers and exercisers* of those powers, which is what an agent-causal position needs.
 

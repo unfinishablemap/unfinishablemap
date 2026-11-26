@@ -1,9 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T15:57:27+00:00
+ai_modified: 2026-11-26T16:41:09+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-26 16:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/philosophy-of-action-under-dualism]]
+- **Secondary files**: [[concepts/phenomenology-of-choice-and-volition]] (P1), [[concepts/four-category-ontology]] (L57 fix)
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Word counts** (`analyze_length`, body only): host 2,907 → 3,255 (+348; cap +350; topics hard 4,000, headroom 744); phenomenology-of-choice-and-volition 3,269 → 3,341 (+72; concepts hard 3,500, headroom 158); four-category-ontology 2,231 → 2,231 (length-neutral).
+- **Changes**:
+  - F1: new closing paragraph for §Volitionism, "Ryle's regress" (+293). It states Ryle's dilemma as he gives it (1949: 67): involuntary volitions cannot make actions voluntary; volitions voluntary "in the sense assumed by the theory" regress; volitions that are neither cannot be "virtuous" or "wicked". The Map's reply is the L77 one, accepted by synthesis R2: the trying is voluntary because the agent-substance causes it, and that causing is basic, so the regress stops at the substance. The intrinsic reply (Ginet's *actish* quality, McCann's spontaneity and intrinsic intentionality) enters only as a supplement, framed via Schlosser's SEP *Agency* entry, with the flag that Ginet denies agent causation, so the pairing is the Map's. Ryle's second objection (1949: 66) is linked to the agency-void verification circularity. The paragraph closes on coherence, not evidence.
+  - Departures from the note's F1 draft: the third ("neither") horn added, as the task required; reordered so L77's reply leads and the intrinsic reply follows as a supplement; "oldest objection" softened to "best-known", since "oldest" is unsafe; the "intellectualist legend" quotation dropped for a plain "regress about knowing how" (the naming trap is still flagged); a one-clause note that a voluntary trying keeps the appraisal the "neither" option loses.
+  - F2: L77 "obvious regress" gloss (a different regress, the disappearing agent one level up) replaced with "a regress of Ryle's form (explained above): the agent's causing of the trying would itself be an act needing a volition of its own" (+2). This varies the note's "if … were itself an act", because Lowe's premise makes the causing an act. The next sentence ("ends the regress at a substance whose causing is basic") is untouched.
+  - F3: references Ginet 1990, McCann 1998, Ryle 1949 and Schlosser 2015/2019 inserted alphabetically; list renumbered 1–19 (the body cites author-year only).
+  - P1: one sentence plus a Ryle reference closing §Effort of phenomenology-of-choice-and-volition. It cites Ryle's "difficult or easy" challenge (1949: 64–65) and his bracing counter (68–69), calibrated "fits volitionism without forcing it", and softened from the note's "answers".
+  - four-category-ontology L57: "an agent-caused volition would start a regress (Lowe 2008: 7)" becomes "would start what Griffith calls a regress (Lowe 2008: 7)". It is length-neutral: "their" is dropped, "and" becomes ";" and "must deny" becomes "denies".
+- **Quotation verification**: every Ryle quotation was re-grepped this run in the archive.org djvu text of the 1949 Hutchinson edition (OCR "cither" read as "either"). Page numbers were confirmed against the running heads: 64, 65, 66, 67, 68–69. Schlosser's "merely the subject or the bearer of volitions" was grepped in raw SEP *Agency* HTML (rev. 28 Oct 2019). Ginet and McCann appear in paraphrase only, checked against SEP *Incompatibilist Theories* (actish quality; McCann 1998: 180). No quotation is attributed to Ginet, McCann, Lowe, Hornsby or O'Shaughnessy. Ginet 1975 is not cited.
+- **Engagement classification**: engagement with Ryle is Mixed. Mode One for the regress: the second horn depends on the qualifier "in the sense assumed by the theory", in Ryle's own wording, and the Map's agent-caused trying is voluntary in another sense. Mode Three for the residue: Ryle's ghost-in-the-machine diagnosis and his explanatory-idleness ("phlogiston") charge are framework-boundary and are not claimed refuted. The second objection is conceded as an owned limit.
+- **Tenets**: compatible only. Answering the regress is defensive and gives no evidence for Bidirectional Interaction. Tenet 5 is not invoked against Ryle.
+- **Style checks**: no "This is not X. It is Y."; no "load-bearing"; pronoun check passed after each insertion (F1 and P1 are followed by headings; after F2, "The Map takes the classical agent-causal stopping point instead" has no pronoun).
+- **P2 lead (not applied; `positions/agency-and-will` is over its hard limit)**: add to P-A6's Would-shift-if clause: "; or the agent's causing of the trying were shown to be itself an act requiring a volition, since Ryle's regress of volitions (Ryle 1949: 67) would then restart one step back", plus a dated Updated note. The P-A6 "direct causal product" product-versus-identity ambiguity (research note §What the Map owes, item 3) belongs to a positions-evolve audit.
+- **Other side finding still open**: `concepts/logical-behaviourism` L84 understates the commitment, since Ryle files volitions under the ghost myth (1949: 63–64) and P-A6 keeps them (note Side Finding 1). Not in scope here.
+- **Sync**: `scripts/sync.py` run. All three Hugo copies carry the new text and ai_modified; validate.py reports all three valid.
+- **Published**: yes
 
 ## 2026-11-26 16:19 UTC - deep-review
 - **Status**: Success
