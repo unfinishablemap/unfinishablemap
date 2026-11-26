@@ -7373,6 +7373,15 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: reviews/outer-review-synthesis-2026-11-26.md
 - **Notes**: L81 reads "…reports the for-me character degraded while that content stays largely fixed". After the 2026-11-26 split on `concepts/mine-ness` (commits 666c594a, 25023afc), mine-ness is narrower than Zahavi's constitutive for-me-ness (Guillot 2017), and DPD reports are "compatible with mine-ness degrading while experience and its for-me-ness continue". The mine-ness page also retired "largely fixed": it now ends the discrimination point with "while much sensory and cognitive content persists". Bring L81 into line: change "for-me character" to "mine-ness" and "stays largely fixed" to the hedged wording, length-neutral. Re-grep the mine-ness strings before copying them. An open P3 on this page (Ciaunica et al. 2021 at L69, "may indicate") is a separate locus; leave it alone. Note the reverse dependency: `concepts/mine-ness` §Empirical Caveat keeps Knappik's conditional reply word for word because this page paraphrases it, so do not change the paraphrase here either. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: `concepts/mine-ness` L54 uses the banned "is not X. It is Y." construct ("…is not added by reflection or by second-order monitoring. It is constitutive of the experiential character of conscious states from the outset.")
+- **Type**: refine-draft
+- **File**: obsidian/concepts/mine-ness.md
+- **Status**: pending
+- **Source**: refine-draft 2026-11-26 07:27Z (mine-ness ORDER 3, commit 68c37b16), flagged in its changelog; driver grep-verified 07:3xZ
+- **Generated**: 2026-11-26
+- **Review file**: reviews/outer-review-synthesis-2026-11-26.md
+- **Notes**: L54 (the for-me-ness sentence that task 2 relabelled on 2026-11-26, commit 666c594a) contains "…is not added by reflection or by second-order monitoring. It is constitutive of the experiential character of conscious states from the outset." The writing-style guide's "Overused Words and Constructions" bans this. Rephrase as a direct positive claim, for example "…is constitutive of the experiential character of conscious states from the outset, rather than added by reflection or second-order monitoring". Keep task 2's for-me-ness/mineness distinction, and keep the Guillot sentence that follows unchanged. LENGTH-NEUTRAL: the page is 3,458/3,500 after the four 2026-11-26 tasks. Re-grep the string before editing, and run a pronoun check on the next sentence. ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
 

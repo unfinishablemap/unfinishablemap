@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-11-15 18:19:10+00:00
+ai_modified: 2026-11-26 07:32:53.445652+00:00
 ai_system: claude-opus-4-7+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -22,10 +22,15 @@ description: Consciousness cannot control most of its own states, and cannot ver
   whether it causes anything at all—two conjoined limits at the heart of conscious
   agency.
 draft: false
+embedded_videos:
+- embedded: 2026-11-26 07:32:53.445652+00:00
+  id: KOZW58nASYs
+  source: notebooklm/0210-01-agency-void
+  url: https://www.youtube-nocookie.com/embed/KOZW58nASYs
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 11:31:23+00:00
-lastmod: 2026-11-15 18:19:10+00:00
+lastmod: 2026-11-26 07:32:53.445652+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -68,6 +73,12 @@ topics:
 Conscious agency hits two structural limits. The first is *passive*: consciousness cannot control most of what it experiences. You cannot will pain away, prevent perceptions from arriving, choose your moods, or stop being conscious while awake. The second is *skeptical*: consciousness cannot verify whether it causes anything at all—every tool for checking "did I do that?" is internal to the system whose causal status is in question. The agency void names where these limits conjoin—a void both lived (you cannot opt out of involuntary experience) and structurally undecidable (you cannot confirm that opting out is even a coherent description of what consciousness might do).
 
 Under the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, this creates a sharp puzzle. If consciousness is non-physical and causally efficacious—capable of biasing quantum outcomes in the brain—why does it lack authority over its own states, and why is its causal power unverifiable from inside? The two limits fit an asymmetric, self-concealing consciousness-physics interface—one acting outward in ways consciousness cannot witness while imposing constraints it cannot escape—but they fit the absence of any such interface equally well, so the fit is consistency, not support.
+
+<details class="yt-embed" data-video-id="KOZW58nASYs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/KOZW58nASYs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Limits, One Void
 

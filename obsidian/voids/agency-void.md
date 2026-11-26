@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-11-15
 human_modified: null
-ai_modified: 2026-11-15T18:19:10+00:00
+ai_modified: 2026-11-26T07:32:53.445652+00:00
 last_deep_review: 2026-07-19T11:31:23+00:00
 draft: false
 topics:
@@ -59,11 +59,22 @@ last_curated: null
 coalesced_from:
   - "/voids/involuntariness-void/"
   - "/voids/agency-verification-void/"
+embedded_videos:
+  - id: KOZW58nASYs
+    url: https://www.youtube-nocookie.com/embed/KOZW58nASYs
+    embedded: 2026-11-26T07:32:53.445652+00:00
+    source: notebooklm/0210-01-agency-void
 ---
 
 Conscious agency hits two structural limits. The first is *passive*: consciousness cannot control most of what it experiences. You cannot will pain away, prevent perceptions from arriving, choose your moods, or stop being conscious while awake. The second is *skeptical*: consciousness cannot verify whether it causes anything at all—every tool for checking "did I do that?" is internal to the system whose causal status is in question. The agency void names where these limits conjoin—a void both lived (you cannot opt out of involuntary experience) and structurally undecidable (you cannot confirm that opting out is even a coherent description of what consciousness might do).
 
 Under the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, this creates a sharp puzzle. If consciousness is non-physical and causally efficacious—capable of biasing quantum outcomes in the brain—why does it lack authority over its own states, and why is its causal power unverifiable from inside? The two limits fit an asymmetric, self-concealing consciousness-physics interface—one acting outward in ways consciousness cannot witness while imposing constraints it cannot escape—but they fit the absence of any such interface equally well, so the fit is consistency, not support.
+
+<details class="yt-embed" data-video-id="KOZW58nASYs">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/KOZW58nASYs">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Two Limits, One Void
 
