@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Intellectualism about knowing-how and Ryle's distinction
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 3): Stanley & Williamson 2001, 'Knowing How', Journal of Philosophy 98(8): 411-444, DOI 10.2307/2678403 (Crossref-verified by the reviewer), against Ryle. 'Stanley & Williamson' 0 content/1 research (a 'verify if used' bullet in research/philosophy-of-habit-under-dualism-2026-07-07 L206); 'knowing how' 7/13 positive control. Expect fold into the habit/skill pages. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/intellectualism-about-knowing-how-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'intellectualism-about-knowing-how' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-26
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
