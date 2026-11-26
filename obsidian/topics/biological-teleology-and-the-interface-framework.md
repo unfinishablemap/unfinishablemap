@@ -1,10 +1,10 @@
 ---
 title: "Biological Teleology and the Interface Framework"
-description: "How the Map's interface framework transforms biological teleology from metaphor into mechanism—genuine purpose enters nature through conscious selection among brain-prepared options."
+description: "How the Map's interface framework locates where conscious agency adds experienced purpose to biology's naturalised teleology: selection among brain-prepared options."
 created: 2026-03-11
-modified: 2026-03-11
+modified: 2026-11-26
 human_modified:
-ai_modified: 2026-09-16T17:54:00+00:00
+ai_modified: 2026-11-26T19:51:05+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,17 +29,17 @@ related_articles:
   - "[[consciousness-and-cognitive-distinctiveness|consciousness threshold in cognitive evolution]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 ai_generated_date: 2026-03-11
 last_curated:
 last_deep_review: 2026-09-16T17:54:00+00:00
 ---
 
-Biology banished purpose from nature. Darwin showed that apparent design arises from blind variation and selection, and the neo-Darwinian synthesis completed the project: biological "functions" are selected effects, not intentions. Organs exist *because of* what they did, not *for* what they will do. The Unfinishable Map accepts this account for all of biology except one domain. Where conscious organisms act through the [[attention-as-interface|unified selection interface]], the Map proposes that genuine teleology re-enters nature—not as cosmic design or divine intention, but as conscious purpose realised through a specific physical mechanism. This article develops the connection between biological teleology and the Map's interface framework, suggesting that the interface may be where the "as if" purposiveness of biological function becomes the real purposiveness of conscious agency. The argument is conditional on the Map's dualism: it shows what teleology would look like if consciousness is irreducible and causally efficacious, not that the selected-effects account is independently inadequate.
+[[consciousness-evolution-and-biology|Darwin removed external design from biology]], not teleology: apparent design arises from blind variation and selection, and biology kept a naturalised teleology. On selected-effects accounts, one influential family among several, biological "functions" are selected effects, not intentions: organs exist *because of* what they did, not *for* what they will do. The Unfinishable Map accepts that naturalised accounts of function suffice everywhere in biology except one domain. Where conscious organisms act through the [[attention-as-interface|unified selection interface]], the Map proposes that conscious agency adds experienced purpose to biology's naturalised teleology—not as cosmic design or divine intention, but as purpose realised through a specific physical mechanism. This article develops the connection between biological teleology and the Map's interface framework, suggesting that the interface may be where the experienced purposiveness of conscious agency joins the naturalised purposiveness of biological function. The argument is conditional on the Map's dualism: it shows what teleology would look like if consciousness is irreducible and causally efficacious, not that the naturalised accounts are independently inadequate.
 
 ## The Standard Account: Function Without Purpose
 
-Philosophy of biology distinguishes two senses of teleology. *Aetiological* teleology, developed in the selected-effects tradition of Millikan (1984) and Neander (1991), explains a trait by its evolutionary history: the heart's function is to pump blood because pumping blood is why hearts were selected. *Dispositional* teleology describes what a trait currently does: this heart pumps blood now, regardless of evolutionary history. Neither sense involves genuine purpose. The heart does not pump blood *in order to* achieve a goal it represents or values. It pumps because the causal history that produced it involved selection for pumping.
+Philosophy of biology distinguishes several senses of teleology—organisational accounts, for instance, ground function in a system's self-maintenance rather than its selection history—and two frame what follows. *Aetiological* teleology, developed in the selected-effects tradition of Millikan (1984) and Neander (1991), explains a trait by its evolutionary history: the heart's function is to pump blood because pumping blood is why hearts were selected. *Dispositional* teleology describes what a trait currently does: this heart pumps blood now, regardless of evolutionary history. Neither sense involves genuine purpose. The heart does not pump blood *in order to* achieve a goal it represents or values. It pumps because the causal history that produced it involved selection for pumping.
 
 This framework handles biological complexity without invoking minds, intentions, or goals. It works for hearts, kidneys, immune systems, and neural circuits alike. The functionalist tradition in philosophy of mind extends the same logic to consciousness: mental states are defined by their causal roles, and those roles are explained by the same selected-effects framework. Fear exists because fear-behaviour was adaptive. On this view, biological teleology is entirely retrospective—an explanatory idiom, not an ontological feature of nature.
 

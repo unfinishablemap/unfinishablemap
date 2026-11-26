@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 18:35:32+00:00
+ai_modified: 2026-11-26 19:51:43+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 18:35:32+00:00
+lastmod: 2026-11-26 19:51:43+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 19:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [biological-teleology-and-the-interface-framework](/topics/biological-teleology-and-the-interface-framework/)
+- **Original score**: 8/10 (no curate tool; judged against the 2026-11-16 ChatGPT outer-review teleology finding, its item 21, and the 2026-09-16 deep-review Stability Notes)
+- **Word count** (`analyze_length`): 2,580 → 2,611 (+31; budget +40; topics soft 3,000). No reference line added.
+- **Changes**: (1) Lead history rewritten to the grade of `topics/consciousness-evolution-and-biology` L83: "Biology banished purpose from nature ... the neo-Darwinian synthesis completed the project" became "Darwin removed external design from biology, not teleology ... biology kept a naturalised teleology". The Gray letter is not cited here; the point is carried in words and the opening phrase is a piped link to the model page, which holds the Darwin (1874) citation. It is a new body link; that page already links back. (2) "biological 'functions' are selected effects, not intentions" is now scoped: "On selected-effects accounts, one influential family among several". (3) Sentences that depended on "banished" were restated as addition: "this account for all of biology" became "naturalised accounts of function suffice everywhere in biology except one domain"; "genuine teleology re-enters nature" became "conscious agency adds experienced purpose to biology's naturalised teleology" (the model page's wording); "the 'as if' purposiveness ... becomes the real purposiveness" became "the experienced purposiveness of conscious agency joins the naturalised purposiveness of biological function"; and "the selected-effects account is independently inadequate" became "the naturalised accounts". (4) In the Standard Account section, "distinguishes two senses of teleology" no longer implies exhaustiveness. It now names organisational accounts as grounding function in self-maintenance rather than selection history (SEP, as checked 11-16), "and two frame what follows". (5) The frontmatter description dropped "transforms biological teleology from metaphor into mechanism—genuine purpose enters nature" for the same addition framing.
+- **Left as is**: L44 "On this view ... entirely retrospective" (scoped to the selected-effects view). L102 "teleological language is heuristic for most of biology" and its L118 back-reference are the Map's own answer on the 'in order to' construction, and both are Stability-Note strengths. Organisational theorists would contest "heuristic"; that and the rest of review item 21 (autonomy and agency frameworks) remain open and need headroom. The four-senses section, the gazelle paragraph, the DeWall/Lieberman apportionment and the No-Many-Worlds wording were not touched. Darwin, Gray and the function theorists are not enlisted for dualism, and the causal claim is kept, with no epiphenomenalist concession.
+- **Engagement**: the naturalised function accounts are handled as a framework-boundary marking (Mode Three). The page claims an addition the accounts do not by themselves supply, and does not refute them inside their own framework.
+- **Other open task on the page**: none. The only open todo entry naming it is this task; the second grep hit is this task's File line.
+- **Published**: yes
+
+## 2026-11-26 19:38 UTC - research-topic
+- **Status**: Success
+- **Topic**: Valberg's horizonal subject as an inegalitarian first-person realism
+- **Output**: [valberg-horizonal-subject-2026-11-26](/research/valberg-horizonal-subject-2026-11-26/)
+- **Sources consulted**: 15 external. Read in full, every quotation grep-checked in raw text: Valberg 2007 Introduction pp. 1–24 (Princeton's sample PDF via Wayback); Valberg 2017 "Transcendence" and Tartaglia 2017 "Reply" (*J. Philosophy of Life* 7(1), open); Merlo 2021 (Wayback full text); the Builes 2024 preprint. Negative controls with 0 "Valberg": Merlo 2016, Merlo 2013, Lipman 2023a, Kinkaid 2025, Hare 2007. Metadata or abstract only: Crossref/MUSE table of contents; Hart 2013 review (closed); Valberg 2013 "The Temporal Present" (abstract). NDPR has no review (search 0; control "Tartaglia" 2). The book body is unread (archive.org lending-restricted).
+- **Verdict**: `recommended_action: fold`, no article. Topics are 370/370 and concepts 370/370 (`count_section_files`, 19:18Z).
+- **Core finding**: Valberg's "personal horizon" is inegalitarian on one side only. Solipsism is "something that we all know to be true" (p. 13), yet "I know it is like that for everyone" (p. 20), and "The puzzle has no solution" (p. 19). He locates the privilege in the horizon "from within which" items are present, not in a property of items, which is how he differs from both Hare and Merlo. He is not a dualist ally: consciousness is "neither material nor ethereal" (2017), and the horizon "is not a possible term of the causal relation" (p. 21). "Horizonal subject" and "inegalitarian" are not his words. His subject is "the human being" at the horizon's centre.
+- **Tenets**: T1 compatible (irreducibility only; he diagnoses the dualism–physicalism debate as a confusion); T2 silent; T3 conflicts if the Map's subject were the horizon; T4 compatible, not discriminating; T5 compatible. Nothing suggestive or discriminating.
+- **Fold plan (for the driver to mint)**, measured with `analyze_length` on scratch copies. (1) `topics/subjective-facts-and-the-metaphysical-problem-of-other-minds` +127 (3,387 → 3,514): +95 at L65 (the inegalitarian branch), +6 inside the L110 sentence, and a +26 reference. It is disjoint from the queued second-person (+26) and Strawson (+156) folds; the combined total is 3,696. (2) Optional: `topics/the-subject-object-distinction-as-philosophical-discovery` +155 (2,409 → 2,564) at L83 "What is the subject made of?", plus 2 references. It is disjoint from that page's open P3 (L63/L73/L101/L111).
+- **Declined hosts**: egocentric-presentism (14 words of headroom), vertiginous-question (3), mine-ness (41), death-and-consciousness and death-void (off-subject; leads).
 
 ## 2026-11-26 18:35 UTC - deep-review
 - **Status**: Success
