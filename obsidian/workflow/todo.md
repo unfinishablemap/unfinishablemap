@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Darwall's second-person standpoint and second-personal reasons
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 4), and a REPEAT: optimistic-2026-09-23-intersubjective-wing L153 listed it too, and it never reached the harvest state. 'Darwall' 0 content/0 research; 'second-person standpoint' 0/0; positive control 'second-person' 25/16. It bears on topics/the-second-person-evidential-channel, which separates an established method from a hypothesis. Darwall's address and accountability structure is the normative counterpart. Expect fold into that page (topics FULL). Darwall 2006, Harvard UP (Crossref digital-edition DOI 10.4159/9780674253636, dated 2009): verify the print metadata. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/darwall-second-person-standpoint-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'darwall-second-person-standpoint' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-26
-
 ### P3: Research Strawson's Persons and the conceptual problem of other minds
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 2): Strawson's 'Persons' (1958; Individuals ch. 3, 1959) covers P-predicates, the primitive concept of a person, and the claim that self-ascription requires other-ascription; Avramides (Other Minds, 2001) treats the conceptual problem of other minds. 'P-predicate' 0/0, 'Avramides' 0/0, 'conceptual problem of other minds' 0/0. Individuals is cited, but only for sounds and categorial voids. Expect fold into concepts/problem-of-other-minds (its Wittgensteinian Dissolution heading, L76). Metadata is from memory in the review, so verify at the publisher. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/strawson-persons-conceptual-problem-of-other-minds-2026-11-26.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'strawson-persons-conceptual-problem-of-other-minds' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7601,8 +7595,35 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: taxonomy-of-voids 4,908/5,000 (apex hard; gate >=). LENGTH-NEUTRAL or negative only. Re-measure.
 - **Notes**: (1) `apex/taxonomy-of-voids` L123: the clause "ordinary ageing the common one" treats normal ageing as a common case of unnoticed self-degradation. `voids/erasure-void` (deep review, 2026-11-26) now cites Gifford et al. 2014, where people often DO notice their decline. Copy that page's corrected wording, re-grepped, and rephrase L123 to match, length-neutral. (2) LOW PRIORITY: `voids/voids.md` L182 says "lost capacities take their detection mechanisms with them" without qualification. Add "can" or "often" only if it costs zero net words. The low-priority olfactory research-note line (`research/voids-olfactory-void-2026-08-13` L105, "*is* noticed") is recorded in the review file and is not in scope here. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Fold Darwall's second-person standpoint into `topics/the-second-person-evidential-channel` as a NORMATIVE boundary: his presupposition argument concerns what address commits the addresser to, not evidence that a conscious addressee exists. Optionally also fold it into `topics/reactive-attitudes-and-strawsonian-responsibility`
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-second-person-evidential-channel.md
+- **Secondary files**: obsidian/topics/reactive-attitudes-and-strawsonian-responsibility.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-26 17:35Z (`research/darwall-second-person-standpoint-2026-11-26`, recommended_action fold); harvested from optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 4; a repeat of the 09-23 listing)
+- **Generated**: 2026-11-26
+- **Headroom**: host 2,736/4,000 (the fold is +237, bringing it to about 2,973). reactive-attitudes 2,969/4,000 (+172, about 3,141). Re-measure both.
+- **Notes**: Apply the note's §Fold Plan and §Writer Guards with their exact strings.
+  - HOST, items H1–H4. H1 is a 160-word bold item, "The normative second person.", inserted after "and this article does not pretend otherwise." (count 1 at 17:4xZ). H2 is an 8-word clause at L73 separating being responded to from being held answerable. H3 is one Further Reading line, which applies ONLY IF R1 below also lands. H4 is three references.
+  - SECONDARY, item R1: a 134-word paragraph with NO quotation marks, after "But it locates the seam the Map will press." (count 1). That page's 2026-10-26 review declared its quote channel closed. Add two references. The paragraph records that Darwall helps the Strawsonian against Watson; it does not support the Map. Do not use Tenet 5.
+  - CORE POINTS:
+    - Darwall 2014 (*Grazer Philosophische Studien* 90, p. 15): address "is committed to" shared competence and authority. That is a commitment of the addresser, so it cannot show that anyone is there.
+    - On p. 14, awareness of being regarded as an agent "might be no different from a third-personal, observer's awareness".
+    - Isern-Mas & Gomila (2020): normative address PRESUPPOSES the interactive channel the host studies, so it cannot vouch for that channel.
+    - Darwall's "irreducible" means interdefinability among demand, authority, reason and accountability. Do not let it run together with the host's evidential irreducibility hypothesis.
+  - COINERS: "Strawson's Point" is Darwall's own label and is contested by Miller (2014). "Bipolarity" is Michael Thompson's. The practical problem of other minds is Lavin's (2008).
+  - SOURCES: the 2006 book was NOT reached, so every 2006 quotation is second-hand (Lavin, Eilan, Isern-Mas & Gomila). Attribute it as relayed, or paraphrase. Print metadata: Harvard UP, 2006, ISBN 0674022742.
+  - Do NOT strengthen the hedges the 2026-09-14 review protects on the host.
+  - COORDINATION: the open P3 "Second-person channel cluster" edits the host's L77. This fold moves that line to about L79, so whichever task lands second must locate by string.
+  - TENETS: neutral throughout. Darwall's view is metaethical, so it is compatible only.
+  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-26: Research Darwall's second-person standpoint and second-personal reasons
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-26-other-minds-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-26-other-minds-wing (Uncovered Subjects 4), and a REPEAT: optimistic-2026-09-23-intersubjective-wing L153 listed it too, and it never reached the harvest state. 'Darwall' 0 content/0 research; 'second-person standpoint' 0/0; positive control 'second-person' 25/16. It bears on topics/the-second-person-evidential-channel, which separates an established method from a hypothesis. Darwall's address and accountability structure is the normative counterpart. Expect fold into that page (topics FULL). Darwall 2006, Harvard UP (Crossref digital-edition DOI 10.4159/9780674253636, dated 2009): verify the print metadata. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/darwall-second-person-standpoint-2026-11-26.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'darwall-second-person-standpoint' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-26: Fold Ryle's regress against volitions (*The Concept of Mind* ch. 3, 1949, p. 67) into `topics/philosophy-of-action-under-dualism` §Volitionism: the Map's volitionism (P-A6) never names the oldest objection to it, though its agent-causal reply (host L77, P-A2) already answers it
 - **Type**: refine-draft

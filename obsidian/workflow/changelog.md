@@ -5,6 +5,16 @@ ai_modified: 2026-11-26T17:03:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-26 17:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: Darwall's second-person standpoint and second-personal reasons
+- **Output**: [[research/darwall-second-person-standpoint-2026-11-26]]
+- **Sources consulted**: 17. Eight were read in full: Lavin 2008 NDPR; Eilan 2014; Korsgaard 2007; Yaffe 2010; Darwall 2014 (*GPS* 90, his own open text); Isern-Mas & Gomila 2020 (PMC); Miller 2014 (*JESP*); the Warwick Second Person project description. Nine were metadata only: Darwall 2007 and 2010 replies, Wallace 2007, Watson 2007, Lavin 2014, Isern-Mas & Gomila 2022, Crossref digital-edition chapter list, Schilbach et al. 2013 reference list.
+- **Verdict**: `recommended_action: fold`, no article. Topics 370/370 and concepts 370/370 (`count_section_files`). The material is a boundary, not a subject.
+- **Core finding**: Darwall's presupposition argument yields commitments incurred by addressing someone, not findings about the one addressed. It is no evidence for other minds or consciousness, and his conceptual irreducibility lends nothing to the host's evidential *sui generis* hypothesis. Isern-Mas & Gomila 2020 put the dependence the other way: normative address presupposes real-time second-person attribution. Darwall 2014: 14 itself locates the second-personal difference in normative standing rather than extra awareness. No Darwall citation among Schilbach et al. 2013's 294 Crossref references.
+- **Fold plan (for the driver to mint)**: host `topics/the-second-person-evidential-channel` +237 measured (2,736 → 2,973): a new bold item after "and this article does not pretend otherwise." (L61), an 8-word disambiguation at L73, a Further Reading line and 3 references. Secondary host `topics/reactive-attitudes-and-strawsonian-responsibility` +172 (2,969 → 3,141): a quote-free paragraph after "But it locates the seam the Map will press." (L71) and 2 references. It respects that page's closed quote channel and its bedrock note. `concepts/empathy` was checked and declined. The P3 second-person cluster is untouched: disjoint strings, and its L77 becomes L79.
+- **Guards recorded**: Darwall-2006 quotations are second-hand only (book unreachable). "Strawson's Point" is Darwall's label, contested by Miller 2014. "Bipolarity" is M. Thompson's coinage. The practical problem of other minds is Lavin's framing. Fichte's summons must not be imported as an anti-sceptical result. Three senses of "second-personal" in the corpus are kept distinct (Darwall, León, Macarthur).
+
 ## 2026-11-26 17:03 UTC - coalesce
 - **Status**: Success (abandoned, no merge candidate; driver delta check, no fork)
 - **Delta since the last coalesce** (`91c278efc4`, 2026-11-26T01:18Z): `git diff --diff-filter=ADR` over topics, concepts, voids, apex and `archive/` is empty. 15 pages were edited. Only ONE shrank by `analyze_length`: `concepts/mine-ness` 3,491→3,458 (−33, from the four-task outer-review rework). At 3,458/3,500 it cannot absorb a partner. Every other page grew or held (0 to +478; the largest is `topics/consciousness-and-the-ownership-problem` 3,410→3,888 from the deflationary-mineness fold).
