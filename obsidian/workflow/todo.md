@@ -7505,6 +7505,32 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: `falsification-roadmap-for-the-interface-model` has only 5 words of headroom, so ZERO-WORD changes only there. Re-measure every file; all four files are in topics/ (paths verified by the driver at 13:4xZ).
 - **Notes**: Sweep C loci, per the note: `invertebrate-consciousness-as-interface-test` L89 and L115, `architectural-adequacy-at-the-built-edge` L41, `falsification-roadmap-for-the-interface-model` L171, `ethics-of-consciousness-invertebrate-question` L117. Re-grep each for the old count first. Change only the number (~140,000; FlyWire, Dorkenwald et al. 2024, 139,255), and keep every edit at zero words. Where a page gives no source for the number, do not add a reference unless there is headroom. OPTIONAL Fold B (+100): one Shiu et al. 2024 sentence in `invertebrate-consciousness-as-interface-test` §The Natural Zombie Problem, using the note's exact wording. The open P3 on that page (todo, its L43) and the New York Declaration signatory P3 own other lines, so leave those alone. If the section paths in the note differ from these, use the note's. ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
 
+### P3: Second-person channel cluster (optimistic review 2026-11-26, items 1, 3 and 4): link `topics/the-second-person-evidential-channel` L77 to the encounter void; tie the subjective-facts counter-datum to that channel; and bring `voids/voids-between-minds` L99 down to the channel page's hypothesis status
+- **Type**: refine-draft
+- **File**: obsidian/topics/the-second-person-evidential-channel.md
+- **Secondary files**: obsidian/topics/subjective-facts-and-the-metaphysical-problem-of-other-minds.md, obsidian/voids/voids-between-minds.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-26 14:06Z (`reviews/optimistic-2026-11-26-other-minds-wing.md`), priority list items 1, 3 and 4. Every OLD string was grep-checked with count 1 by the reviewer.
+- **Generated**: 2026-11-26
+- **Review file**: reviews/optimistic-2026-11-26-other-minds-wing.md
+- **Headroom**: second-person 2,736/4,000 (+0 here). subjective-facts 3,387/4,000 (+26). voids-between-minds 2,995/3,000, so only 4 words of headroom: +2 here, and the open chroma-void cross-review (todo, voids-between-minds) must then cost nothing. Re-measure all three first.
+- **Notes**: Use the review's exact OLD/NEW strings from §Priority list, items 1, 3 and 4.
+  (1) second-person L77: "For the Map, that remaining distance is the point." Pipe "remaining distance" to `[[voids-between-minds#encounter-the-second-person-void|…]]`. The reviewer confirmed the anchor in the built HTML. +0.
+  (3) subjective-facts L96 gets one sentence saying the second-person channel supports only the weaker "other as a responder" datum, not Kinkaid's claim of a second centre of experience. At L36, link "the epistemological one" to [[problem-of-other-minds]]. +26.
+  (4) voids-between-minds L99 states as fact ("cannot be captured…", "grants a form of knowledge…") what the channel page holds as a hypothesis. Change these to "may" / "may not be capturable" and add the back-link to [[the-second-person-evidential-channel]]. +2 at most. If the headroom is already gone, keep the link and drop the modal change.
+  LEAD, do not edit without checking: voids-between-minds L105 credits Schilbach et al. 2013 with an inference that may come from `research/voids-second-person-void-2026-03-28` L120. Check it against Schilbach et al. 2013 (*BBS* 36(4)) before changing anything. If it fails, and the change is length-neutral, fix it here; otherwise record it in the changelog for a follow-up.
+  ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
+### P3: `concepts/logical-behaviourism` calls Ryle's category-mistake charge "the most-cited objection to interactionist dualism" (L78) and "the single most durable objection to dualism" (L30), against the Map's own history page ("The defining objection arrived in 1643", Elisabeth); also link "other minds" at L38
+- **Type**: refine-draft
+- **File**: obsidian/concepts/logical-behaviourism.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-26 14:06Z (`reviews/optimistic-2026-11-26-other-minds-wing.md`), priority list item 2. OLD strings checked with count 1 by the reviewer.
+- **Generated**: 2026-11-26
+- **Review file**: reviews/optimistic-2026-11-26-other-minds-wing.md
+- **Headroom**: 2,607/3,500 (+2). Re-measure first.
+- **Notes**: (a) L78 "remains the most-cited objection to interactionist dualism" becomes "remains among the most-cited objections to interactionist dualism". (b) L30 "It is the source of the single most durable objection to dualism" becomes "It is the source of one of the most durable objections to dualism". (c) L38 "the problem of *other minds and public language*" becomes "*[[problem-of-other-minds|other minds]] and public language*" (+0). Reason: `topics/history-of-the-interaction-problem` L47 calls Elisabeth's 1643 question "The defining objection", and `concepts/objections-to-interactionism` never names Ryle. Re-grep each string first. Run a pronoun check on the following sentences. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
 
