@@ -2,9 +2,9 @@
 title: "Apex Articles Index"
 description: "Curated index of the Map's apex articles—synthesis pieces integrating topics, concepts, and arguments into unified philosophical narratives."
 created: 2026-01-24
-modified: 2026-11-25
+modified: 2026-11-26
 human_modified: 2026-01-24
-ai_modified: 2026-11-25T01:47:55+00:00
+ai_modified: 2026-11-26T00:27:48+00:00
 last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 social_eligible: false  # section index, not an article — off-voice for the social network
@@ -54,7 +54,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: What your own experience reveals about consciousness and choice
 
-**Thesis**: You don't need a laboratory to investigate consciousness—you have one between your ears. By carefully attending to the phenomenology of choice, you can probe whether experience feels like selecting from options presented by your brain or like passively watching neural processes unfold. Try sitting back and not interfering: does your mind continue making choices, or does something different happen? The Map's claims are testable from the inside.
+**Thesis**: You don't need a laboratory to investigate consciousness—you have one between your ears. By carefully attending to the phenomenology of choice, you can probe whether experience feels like selecting from options presented by your brain or like passively watching neural processes unfold. Try sitting back and not interfering: does your mind continue making choices, or does something different happen? The Map's phenomenological predictions are testable from inside.
 
 **Source articles**:
 - concepts/introspection
@@ -72,7 +72,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Slug**: `consciousness-and-agency`
 
-**Subtitle**: How mind authors action in a physical world
+**Subtitle**: How mind might author action in a physical world
 
 **Thesis**: Genuine authorship requires consciousness to select among quantum possibilities, grounding both free will and moral responsibility.
 
@@ -238,9 +238,9 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Slug**: `attention-as-causal-bridge`
 
-**Subtitle**: How consciousness acts on matter through a bandwidth-limited selection interface
+**Subtitle**: How consciousness might act on matter through a bandwidth-limited selection interface
 
-**Thesis**: Attention is the causal bridge between consciousness and the physical world—a bandwidth-limited selection interface through which mind biases quantum indeterminacy in neural systems.
+**Thesis**: Attention is the proposed causal bridge between consciousness and the physical world—a bandwidth-limited selection interface through which mind biases quantum indeterminacy in neural systems.
 
 **Source articles**:
 - concepts/attention-as-interface
@@ -260,9 +260,9 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Slug**: `phenomenology-of-consciousness-doing-work`
 
-**Subtitle**: What it feels like when mind acts on matter
+**Subtitle**: What it feels like if mind acts on matter
 
-**Thesis**: The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that persists across traditions and that epiphenomenalism cannot accommodate.
+**Thesis**: The felt texture of consciousness in action — effort, selection, holding, and opacity — constitutes a coherent phenomenological profile that persists across traditions and that epiphenomenalism leaves unexplained.
 
 **Source articles**:
 - topics/phenomenology-of-agency-vs-passivity
@@ -307,9 +307,9 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Slug**: `taxonomy-of-voids`
 
-**Subtitle**: What cognitive limits reveal about the architecture of consciousness
+**Subtitle**: What cognitive limits reveal about the minds doing the mapping
 
-**Thesis**: The Map's hundred-plus cognitive voids form a structured taxonomy that reveals the architecture of the minds doing the mapping. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. The convergence is suggestive rather than confirmatory: the catalogue's units of count were defined by the framework the convergence is taken to support, so part of the pattern may be a framework-generated sampling artefact rather than independent confirmation. And bare dualism predicts nothing of the kind—the predictive work is done by the full tenet-package (dualism combined with minimal quantum interaction and a naturally occluded interface). On that calibrated reading the taxonomy is consistent with, and offers cumulative abductive support for, the Map's package, while the selection-effect worry and the framework-internal-coherence reading set the ceiling on how much weight the convergence can carry.
+**Thesis**: The Map's hundred-plus cognitive voids form a structured taxonomy that reveals the architecture of the minds doing the mapping. Organised by type (architectural, adaptive, naturally occluded, deliberately occluded), by domain (perceptual, introspective, phenomenological, social, formal), and by failure signature, the voids converge on a single boundary—the interface where consciousness meets the physical world. The convergence is coherence, not confirmation: the catalogue's units of count were defined by the framework the convergence is taken to support, so part of the pattern may be a framework-generated sampling artefact. And bare dualism predicts nothing of the kind—the predictive work is done by the full tenet-package (dualism combined with minimal quantum interaction and a naturally occluded interface). The taxonomy thus fits the Map's package without lending dualism evidential weight; even the twenty-six voids indexed as framework-independent, the only candidates for a cumulative step, have that step suspended.
 
 **Source articles**:
 - voids/voids
@@ -377,7 +377,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: How irreducible consciousness unifies value, agency, normativity, and moral perception
 
-**Thesis**: If consciousness is irreducible and causally efficacious, it makes available a unified moral architecture—grounding what has value, who bears responsibility, why moral claims bind, and how moral properties are perceived—where materialist ethics pays a higher price, its most ambitious unifications achieving coherence across only two or three of the four domains by handing the rest to supplementary frameworks. This unity has concrete consequences for animal welfare, AI ethics, criminal justice, and the open question of whether value itself participates in the mechanism through which consciousness acts on the physical world.
+**Thesis**: If consciousness is irreducible and causally efficacious, it makes available a unified moral architecture—grounding what has value, who counts morally, why moral claims bind, and how moral properties are perceived—where materialist ethics pays a higher price, its most ambitious unifications achieving coherence across only two or three of the four domains by handing the rest to supplementary frameworks. This unity has concrete consequences for animal welfare, AI ethics, criminal justice, and the open question of whether value itself participates in the mechanism through which consciousness acts on the physical world.
 
 **Source articles**:
 - topics/phenomenal-value-realism
@@ -444,7 +444,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: What it would take to build a complete theory of consciousness acting after decoherence
 
-**Thesis**: Five converging lines of inquiry—the post-decoherence selection gap, quantum Darwinism's menu specification, contextuality's structural constraints, weak measurement's boundary-condition alternative, and stochastic amplification's causal bridge—together constitute a physics research programme that specifies how consciousness could act after decoherence, sidestepping the timing objection that has stalled quantum consciousness theories for two decades — an escape purchased, not free, since a within-Born bias is statistically indistinguishable from chance in aggregate: the bias-without-deviation dilemma the article confronts and entry 34 states whole.
+**Thesis**: Five components of one speculative architecture—the post-decoherence selection gap, quantum Darwinism's menu specification, contextuality's structural constraints, weak measurement's boundary-condition alternative, and stochastic amplification's causal bridge—together constitute a physics research programme that specifies how consciousness could act after decoherence, sidestepping the timing objection that has stalled quantum consciousness theories for two decades — an escape purchased, not free, since a within-Born bias is statistically indistinguishable from chance in aggregate: the bias-without-deviation dilemma the article confronts and entry 34 states whole.
 
 **Source articles**:
 - concepts/post-decoherence-selection
@@ -622,7 +622,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: Using legible artificial architectures as contrast instruments for human introspective opacity
 
-**Thesis**: AI systems are not merely possible analogues of minds; they are contrast instruments for testing whether human introspective opacity reflects a bounded conscious witness or merely the generic limits of any complex self-model—because in AI the provenance, sampling traces, confidence calibration, and source tags that biological introspection hides are externally inspectable.
+**Thesis**: AI systems are not merely possible analogues of minds; they are contrast instruments for testing whether human introspective opacity reflects a bounded conscious witness or merely the generic limits of any complex self-model—because in AI the provenance, sampling traces, confidence calibration, and source tags that biological introspection hides are externally inspectable in principle.
 
 **Source articles**:
 - apex/machine-question
@@ -839,7 +839,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Subtitle**: Why formal systems have authority without sovereignty — and why the limit that binds the reductionist binds the Map too
 
-**Thesis**: Formal systems have authority without sovereignty: no augmentation of explicit rules produces the taking-as that inference requires and no formal system grounds its own authority, which is the case against reduction — but the same discipline discounts the Map's own results, because a removed defeater is not evidence, a two-domain argument is one argument, and an articulation limit does not entail a non-physical operation; a limit proved for form binds form and nothing else.
+**Thesis**: Formal systems have authority without sovereignty: no augmentation of explicit rules produces, on the inferentialist reading, the taking-as that inference requires and no formal system grounds its own authority, which is the case against reduction — but the same discipline discounts the Map's own results, because a removed defeater is not evidence, a two-domain argument is one argument, and an articulation limit does not entail a non-physical operation; a limit proved for form binds form and nothing else.
 
 **Source articles**:
 - topics/consciousness-and-the-normativity-of-reason

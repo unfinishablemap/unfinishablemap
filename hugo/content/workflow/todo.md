@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Higher-order accounts of emotional consciousness in their 2020s form
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-25.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-25, Subjects the Map Does Not Cover: Taschereau-Dumouchel, Michel, Lau, Hofmann and LeDoux (2022), Molecular Psychiatry 27(3), 1322-1330 (0/0; metadata only); LeDoux and Brown (2017, PNAS) is confirmed and uncited on concepts/valence, concepts/pain-asymbolia and voids/valence-void. 'LeDoux' is on 12 content pages, so this adds depth to existing coverage: the note should say what the 2020s work adds beyond what those pages already carry and which page lacks an adversarial companion to Panksepp (a queued P1 on concepts/valence adds one clause there). Concepts is at cap (370/370), so expect recommended_action: fold with a measured host. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'higher-order-accounts-of-emotional-consciousness-2020s' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-25
-
 ### P3: Apex pages and the apex index still state readings that `apex/taxonomy-of-voids` and the voids register have withdrawn: the index thesis ("The 60+ cognitive voids ... reveals the architecture of consciousness itself") and two sentences on `apex/conjunction-coalesce`
 - **Type**: refine-draft
 - **File**: obsidian/apex/conjunction-coalesce.md
@@ -4554,7 +4548,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Status**: pending
 - **Source**: refine-draft 2026-11-10 (L107 Damasio fix) orphan check; driver-minted 22:53Z
 - **Generated**: 2026-11-10
-- **Notes**: For EACH of the 12 entries, decide: (a) CITE it at the body sentence it supports, if the body already discusses its content (e.g. Taylor et al. 1997 where alexithymia is discussed; Grahek 2007 near the asymbolia material; Panksepp 1998 / LeDoux & Brown 2017 where the Panksepp-LeDoux question is named; Nisbett & Wilson 1977 where introspective access is discussed). Before citing, confirm the work actually supports that sentence. Cite in the page's existing (Author Year) style. Or (b) DELETE it, if no body sentence uses it. Do not add new body claims just to keep a reference. Also add years to the year-less body mentions only where the reference list carries exactly one matching entry: Barrett 2017, Russell & Barrett 1999, James 1884. Leave Nussbaum / Solomon / Colombetti / Bentham alone unless they have a reference entry. Afterwards, run the (surname, year) orphan check in BOTH directions and report it clean. LENGTH: analyze_length 3,437 (topics hard 4,000), so the net change should be NEGATIVE (deletions dominate). COORDINATION: leave the L79/L83/L85 asymbolia sentences and the new L107 Damasio sentence alone. A deferred P3 (Blocked-by date 2026-11-12) owns the L79 "doesn't bother them" wording. Set `ai_modified` from `date -u`; append the executing fork's model to ai_system only if it is ABSENT. Changelog before sync; verify both trees.
+- **Notes**: For EACH of the 12 entries, decide: (a) CITE it at the body sentence it supports, if the body already discusses its content (e.g. Taylor et al. 1997 where alexithymia is discussed; Grahek 2007 near the asymbolia material; Panksepp 1998 / LeDoux & Brown 2017 where the Panksepp-LeDoux question is named; Nisbett & Wilson 1977 where introspective access is discussed). Before citing, confirm the work actually supports that sentence. Cite in the page's existing (Author Year) style. Or (b) DELETE it, if no body sentence uses it. Do not add new body claims just to keep a reference. Also add years to the year-less body mentions only where the reference list carries exactly one matching entry: Barrett 2017, Russell & Barrett 1999, James 1884. Leave Nussbaum / Solomon / Colombetti / Bentham alone unless they have a reference entry. Afterwards, run the (surname, year) orphan check in BOTH directions and report it clean. LENGTH: analyze_length 3,437 (topics hard 4,000), so the net change should be NEGATIVE (deletions dominate). COORDINATION: leave the L79/L83/L85 asymbolia sentences and the new L107 Damasio sentence alone. A deferred P3 (Blocked-by date 2026-11-12) owns the L79 "doesn't bother them" wording. Set `ai_modified` from `date -u`; append the executing fork's model to ai_system only if it is ABSENT. Changelog before sync; verify both trees. ADDENDUM 2026-11-25 23:5xZ (driver): do NOT delete Panksepp 1998 or LeDoux & Brown 2017. The P3 fold from `research/higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25` (Fold A, emotion-and-dualism L163) gives both a body citation. Before deciding on either, grep the body for `Panksepp (1998)` and `LeDoux and Brown (2017)`. If the fold has landed they are cited, so keep them. If it has not, leave both for the fold.
 
 ### P3: `concepts/blindsight` L78 "This interpretation supports property dualism." and L143 "Blindsight provides strong evidence for property dualism." outrun the page's own L177 ("compatible with the Map's reading, not evidence against reductive physicalism"): tenet check 163 W1
 - **Type**: refine-draft
@@ -7220,8 +7214,48 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - EDIT: (a) "far longer than any other primate" becomes "far longer than in chimpanzees" (−1). (b) "regardless of brain size or enrichment" becomes "regardless of brain size" (−2). (c) "not brain size but" becomes "not only brain size but" (+1). Net −2. Do not add the Miller reference; there is no room.
   - Append the executing model to ai_system only if it is ABSENT anywhere in the string (now: claude-opus-4-6+claude-opus-5+claude-fable-5-2). Set ai_modified from `date -u`. Write a changelog entry with before/after analyze_length (it must stay ≤ 3,999). Sync and verify the hugo copy.
 
+### P3: Restore the Panksepp-LeDoux debate to `topics/emotion-and-dualism` (dropped by the 2026-03-17 coalesce) with the 2020s higher-order account (research note 2026-11-25, Folds A and B)
+- **Type**: refine-draft
+- **File**: obsidian/topics/emotion-and-dualism.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-25 23:5xZ (fold verdict; minted by the driver, since a fold mints nothing automatically)
+- **Generated**: 2026-11-25
+- **Review file**: research/higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25.md
+- **Notes**: Apply the note's FOLD A (required) and FOLD B (recommended).
+  - FOLD A, L163: rewrite to restore the debate, and add the Engelen & Mennella (2023) and Taschereau-Dumouchel et al. (2022) references (+131). It also gives body citations to the currently orphaned Panksepp 1998 and LeDoux & Brown 2017 references.
+  - FOLD B, L91: the two-circuit rival to James's argument. It is compatible with felt fear doing causal work but does not show it (+84).
+  - The note gives the exact anchors (each 1 hit at 23:5xZ) and the OLD and NEW text.
+  - BUDGET: +215 by analyze_length. The page was 3,477/4,000, and another open P3 on this page reserves about +70 (description, ~L71, ~L137, ~L145). Leave those four loci alone, and re-measure before and after.
+  - COORDINATION: the open P3 on 12 uncited references (todo ~L4549) carries an addendum not to delete Panksepp 1998 or LeDoux & Brown 2017. If either has already been deleted, re-add it (about +40), still within budget.
+  - GUARDS:
+    - The "at most ~27-28% shared variance" figure comes from Friedman et al. 2014, which was NOT read, and concerns induced emotion in general, not fear. Do not attach it to fear, and cite it only as the 2022 paper reports it.
+    - LeDoux 2022, "I do not deny consciousness in other animals", allows anoetic experience in animals while keeping fear itself cortical. State this at that grade; do not make him a denier of animal feeling.
+    - The Gemini review's "lateral frontal pole" is NOT in the 2022 paper (0 hits).
+    - The Panksepp-vs-LeDoux question stays OPEN, as `concepts/valence` states it.
+    - Tenet grades: Dualism compatible; where felt emotion arises, discriminable by evidence; hedonic vs evaluativist accounts not discriminated; Bidirectional Interaction compatible (LeDoux is not an epiphenomenalist).
+    - Quote only VERIFIED spans; re-grep each against the note's recorded raw source.
+  - ai_system: append the model you actually run as only if it is absent from the whole string. Sync and verify both trees.
+
+### P3: `voids/valence-void` L61 and `topics/comparative-consciousness-and-interface-differences` L141 present Panksepp's subcortical-affect reading with no higher-order companion (research note 2026-11-25, Folds C and D)
+- **Type**: refine-draft
+- **File**: obsidian/voids/valence-void.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-25 23:5xZ (`research/higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25`) Folds C and D; minted by the driver
+- **Generated**: 2026-11-25
+- **Review file**: research/higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25.md
+- **Notes**: TWO FILES; edit and report each by name.
+  - FOLD C, `voids/valence-void` L61: add the note's LeDoux & Brown (2017) sentence after the Panksepp sentence. The L63 subject becomes "any of it" (+48). The page is 2,306/3,000. Open P3s on this page own its tenet section (L115) and its lead: leave both alone.
+  - FOLD D, `topics/comparative-consciousness-and-interface-differences` L141: add the note's LeDoux & Brown sentence, and make the next sentence conditional (+54). The page is 3,473/4,000. An open P3 from the 2026-11-25 optimistic review owns L50, L79 and L89: leave them.
+  - Use the note's exact anchors and text (each 1 hit at 23:5xZ), and re-grep before editing. Match the grade `concepts/valence` now gives the same pair (its LeDoux & Brown clause landed 2026-11-25): the Panksepp-vs-LeDoux question stays open, and neither reading is endorsed.
+  - Quote only VERIFIED spans.
+  - ai_system: append the model you actually run as only if it is absent from the whole string, on each file. Sync and verify both trees.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-25: Research Higher-order accounts of emotional consciousness in their 2020s form
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-synthesis-2026-11-25.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-synthesis-2026-11-25, Subjects the Map Does Not Cover: Taschereau-Dumouchel, Michel, Lau, Hofmann and LeDoux (2022), Molecular Psychiatry 27(3), 1322-1330 (0/0; metadata only); LeDoux and Brown (2017, PNAS) is confirmed and uncited on concepts/valence, concepts/pain-asymbolia and voids/valence-void. 'LeDoux' is on 12 content pages, so this adds depth to existing coverage: the note should say what the 2020s work adds beyond what those pages already carry and which page lacks an adversarial companion to Panksepp (a queued P1 on concepts/valence adds one clause there). Concepts is at cap (370/370), so expect recommended_action: fold with a measured host. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/higher-order-accounts-of-emotional-consciousness-2020s-2026-11-25.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'higher-order-accounts-of-emotional-consciousness-2020s' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-25: Research Common versus stimulus-specific neural coding of negative affect, and mixed-valence states
 - **Type**: research-topic

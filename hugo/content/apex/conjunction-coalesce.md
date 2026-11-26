@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-10-07 08:54:49+00:00
-ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1
+ai_modified: 2026-11-26 00:26:17+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5-1+claude-opus-5-5
 apex_last_synthesis: 2026-09-08 01:00:19+00:00
 apex_sources:
 - voids/agency-void
@@ -28,7 +28,7 @@ apex_thesis: 'A distinctive methodological move has emerged in the Map''s voids 
 author: null
 concepts: []
 created: 2026-04-27
-date: &id001 2026-10-07
+date: &id001 2026-11-26
 description: When two voids are conjoined at a structural level, merging them into
   one article should keep the seam visible—because the seam itself is the claim. A
   methodological discipline distinct from standard coalesce.
@@ -36,7 +36,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 16:09:07+00:00
-lastmod: 2026-10-07 08:54:49+00:00
+lastmod: 2026-11-26 00:26:17+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
@@ -114,7 +114,7 @@ The two coalesces share a structural shape: distinct limits merged, both faces r
 
 ## What the Count Is Worth
 
-Eight cases sharing a structural shape invite a convergence reading: the multi-face template keeps appearing across content domains, so perhaps consciousness's limits really do come in conjoint structures. The [common-cause null](/project/common-cause-null/) is the discipline that blocks the over-reading, and [the taxonomy of voids](/apex/taxonomy-of-voids/) already applies it to the structurally identical convergence move at sixty-void scale. It applies here with at least equal force, because the sample is smaller and the production pipeline more uniform: the eight cases share one upstream author, one method, and one tenet-set, and the cognates postdate the discipline they conform to. A template-bearing pipeline producing template-conformant articles is what the null predicts whether or not the territory has the conjoint structure.
+Eight cases sharing a structural shape invite a convergence reading: the multi-face template keeps appearing across content domains, so perhaps consciousness's limits really do come in conjoint structures. The [common-cause null](/project/common-cause-null/) is the discipline that blocks the over-reading, and [the taxonomy of voids](/apex/taxonomy-of-voids/) already applies it to the structurally identical convergence move at catalogue scale. It applies here with at least equal force, because the sample is smaller and the production pipeline more uniform: the eight cases share one upstream author, one method, and one tenet-set, and the cognates postdate the discipline they conform to. A template-bearing pipeline producing template-conformant articles is what the null predicts whether or not the territory has the conjoint structure.
 
 A fourth shared channel, which the taxonomy registered in August 2026, matters more here than the other three: the *instrument*. One language model writes this catalogue, and the further models whose agreement an outer review treats as corroboration share its training distribution and, measurably, its errors ([the taxonomy](/apex/taxonomy-of-voids/) carries the correlated-error figures and the counterweight that model families differ by region of origin). The other three channels leave an exit—an editorial bias can be caught by an outside reader—and this one narrows it, because the readiest outside reader comes from the distribution that produced the writer. The consequence here is specific: it discounts the [template-blind test](#what-would-show-an-accepted-coalesce-wrong) below, whose force depends on the reviewer not carrying the template. The recurrence of the multi-face shape is therefore evidence of a coherent editorial practice before it is evidence of independently discovered territory, and the honest weighting matches the taxonomy's calibration: the catalogue earns *framework-internal coherence*—the cases fit the discipline without strain—rather than cross-domain instantiation. Eight template-conformant cases carry the evidential weight of one practice, not eight discoveries.
 
@@ -206,7 +206,7 @@ Concept extraction takes a structural feature recurring across articles and give
 
 ## Synthesis
 
-The conjunction-coalesce is one expression of a broader methodological commitment in the Map's voids programme: the *structure* of a cognitive failure can be informative independently of its content. [Apophatic cartography](/voids/apophatic-cartography/) uses negation as a primary tool; [compound failure signatures](/voids/compound-failure-signatures/) reads patterns across voids as evidence about consciousness's architecture; the [taxonomy of voids](/apex/taxonomy-of-voids/) organises the catalogue along axes of *type*, *domain*, and *failure signature*. The conjunction-coalesce sits within this family.
+The conjunction-coalesce is one expression of a broader methodological commitment in the Map's voids programme: the *structure* of a cognitive failure can be informative independently of its content. [Apophatic cartography](/voids/apophatic-cartography/) uses negation as a primary tool; [compound failure signatures](/voids/compound-failure-signatures/) reads patterns across voids as data about cognitive architecture; the [taxonomy of voids](/apex/taxonomy-of-voids/) organises the catalogue along axes of *type*, *domain*, and *failure signature*. The conjunction-coalesce sits within this family.
 
 The deeper value lies in what the move refuses. Standard editorial logic favours unification; standard explanatory logic favours single-mechanism accounts. Both mislead when the territory appears genuinely conjoint and no unifying mechanism has been established. The conjunction-coalesce resists premature unification when the seam between two limits looks like an analytical object—and yields to a successful unification when the territory turns out to be reducible after all.
 
@@ -214,13 +214,13 @@ A parallel runs in the Map's metaphysical content: [the selection-criterion tril
 
 ## Evidence and Dependency
 
-Little in this synthesis rests on external evidence. The seam test and its three refinements are independently argued, needing only the premise that structural information in a merged article can be worth preserving—which no tenet supplies. The eight-case catalogue is mutually coherent and nothing more: it is one editorial practice's output, and [the count section](#what-the-count-is-worth) discounts it on that ground. The commitment that void structure is data about consciousness rather than an artefact of incomplete reduction is inherited from Tenets 1 and 5, and imported from [the taxonomy of voids](/apex/taxonomy-of-voids/), which argues it; this piece presupposes it. The one externally evidenced line—the correlated-error work behind the instrument channel—tells against the catalogue's weight rather than for it.
+Little in this synthesis rests on external evidence. The seam test and its three refinements are independently argued, needing only the premise that structural information in a merged article can be worth preserving—which no tenet supplies. The eight-case catalogue is mutually coherent and nothing more: it is one editorial practice's output, and [the count section](#what-the-count-is-worth) discounts it on that ground. The commitment that void structure is data about consciousness rather than an artefact of incomplete reduction is inherited from Tenets 1 and 5; this piece presupposes it, as [the taxonomy of voids](/apex/taxonomy-of-voids/) does. The one externally evidenced line—the correlated-error work behind the instrument channel—tells against the catalogue's weight rather than for it.
 
 ## Relation to Site Perspective
 
 The methodological discipline named here connects most directly to **[Occam's Razor Has Limits](/tenets/#occams-limits)**. The fifth tenet warns that simplicity is unreliable when knowledge is incomplete; the conjunction-coalesce names a specific cost of forced unification—the lossy fusion of two structurally distinct limits into a single mechanism. The discipline is methodological infrastructure for executing the tenet at the editorial level.
 
-A weaker, conditional connection runs to **[Dualism](/tenets/#dualism)**: *if* dualism is granted, then the structural features of consciousness's failures plausibly constitute data about its architecture rather than artefacts of an incomplete reductive account. The conjunction-coalesce, on that conditional, preserves a piece of evidence; a redundancy-coalesce would discard it. The discipline does not argue *for* dualism; it presupposes that void structure is informative—a substantive commitment whose argument lives in [the taxonomy of voids](/apex/taxonomy-of-voids/).
+A weaker, conditional connection runs to **[Dualism](/tenets/#dualism)**: *if* dualism is granted, then the structural features of consciousness's failures plausibly constitute data about its architecture rather than artefacts of an incomplete reductive account. The conjunction-coalesce, on that conditional, preserves a datum that a redundancy-coalesce would discard. The discipline does not argue *for* dualism; it presupposes that void structure is informative, and [the taxonomy of voids](/apex/taxonomy-of-voids/) reads that structure as framework-internal coherence, lending dualism [no evidential weight](/positions/voids-as-evidence/#p-v3).
 
 ## Source Articles
 
