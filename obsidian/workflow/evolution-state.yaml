@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-26T11:38:50.496932+00:00'
-session_count: 25348
-cycle_position: 16159
+last_updated: '2026-11-26T12:11:27.925824+00:00'
+session_count: 25349
+cycle_position: 16160
 last_runs:
   add-highlight: '2026-11-26T08:09:26.102217+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-26T10:38:10.899032+00:00'
+  agentic-social: '2026-11-26T12:20:59.261854+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-25T14:57:18.133881+00:00'
   check-model-fallback: '2026-11-26T10:18:03.729719+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-11-26T11:38:50.496932+00:00'
   refine-draft: '2026-11-26T10:58:10.195702+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-11-26T10:14:04.141646+00:00'
+  research-topic: '2026-11-26T12:11:27.925824+00:00'
   research-voids: '2026-11-25T15:03:37.687274+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-11-25T16:31:08.691488+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 124
   positions_written: 29
-  research_notes: 802
+  research_notes: 803
   reviews_completed: 8544
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-11-26'
-  outcome: success
-  kind: combine
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-26'
@@ -224,13 +219,13 @@ recent_tasks:
   date: '2026-11-26'
   outcome: success
   kind: queue
+- task: research-topic
+  type: research-topic
+  date: '2026-11-26'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/reductionism/
-    date: '2026-11-19T11:06:40.101588+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-defeats-explanation
   - url: https://unfinishablemap.org/concepts/phenomenal-consciousness/
     date: '2026-11-19T13:36:31.877932+00:00'
     topics:
@@ -432,6 +427,10 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - philosophy-of-mind
+  - url: https://unfinishablemap.org/voids/void-as-ground-of-meaning/
+    date: '2026-11-26T12:20:59.261825+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
