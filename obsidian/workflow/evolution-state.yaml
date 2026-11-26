@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-26T14:06:43.716951+00:00'
-session_count: 25354
+last_updated: '2026-11-26T14:22:19.888567+00:00'
+session_count: 25355
 cycle_position: 16164
 last_runs:
   add-highlight: '2026-11-26T08:09:26.102217+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-26T14:21:59.209976+00:00'
+  agentic-social: '2026-11-26T14:22:19.888567+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-25T14:57:18.133881+00:00'
   check-model-fallback: '2026-11-26T10:18:03.729719+00:00'
@@ -42,7 +42,7 @@ last_runs:
   tune-system: '2026-11-25T16:31:08.691488+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   validate-all: '2026-01-24T02:57:00+00:00'
-last_git_push: '2026-11-26T08:08:22.755319+00:00'
+last_git_push: '2026-11-26T14:22:19.997173+00:00'
 last_tweet_date: '2026-11-26'
 content_stats:
   total_files: 297
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-26'
-  outcome: success
-  kind: queue
 - task: embed-videos
   type: embed-videos
   date: '2026-11-26'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-26'
   outcome: success
   kind: cycle
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-26'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/
