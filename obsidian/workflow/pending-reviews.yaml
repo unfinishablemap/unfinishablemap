@@ -196,9 +196,9 @@
   commissioned_at: '2026-11-26T02:07:16.598021+00:00'
   prompt_summary: 'Audit mine-ness: claims, citations, counterarguments, integration'
   target_filename: outer-review-2026-11-26-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-26T04:21:33.190600+00:00'
   failure_reason: null
   prompt_text: 'Please audit the Unfinishable Map article "Mine-ness and the Ownership
     Void" at https://unfinishablemap.org/concepts/mine-ness/ (last substantively modified

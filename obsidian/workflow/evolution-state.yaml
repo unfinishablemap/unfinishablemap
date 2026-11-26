@@ -2,8 +2,8 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-26T03:54:19.212376+00:00'
-session_count: 25324
+last_updated: '2026-11-26T04:13:40.069011+00:00'
+session_count: 25325
 cycle_position: 16148
 last_runs:
   add-highlight: '2026-11-25T08:04:10.769766+00:00'
@@ -22,7 +22,7 @@ last_runs:
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
   commission-claude-review: '2026-11-26T03:21:31.510582+00:00'
   commission-claude-review-chrome-unavailable-at: '2026-08-09T03:08:48.570048+00:00'
-  commission-gemini-review: '2026-11-25T04:22:21.862422+00:00'
+  commission-gemini-review: '2026-11-26T04:13:40.069011+00:00'
   commission-gemini-review-chrome-unavailable-at: '2026-07-14T04:05:59.973844+00:00'
   condense: '2026-11-18T10:21:43.225222+00:00'
   deep-review: '2026-11-26T03:54:19.212376+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-25'
-  outcome: success
-  kind: cycle
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-25'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-26'
   outcome: success
   kind: cycle
+- task: commission-gemini-review
+  type: commission-gemini-review
+  date: '2026-11-26'
+  outcome: success
+  kind: commission
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/positions/replies-to-rivals/

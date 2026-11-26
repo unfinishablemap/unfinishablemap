@@ -1,8 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T03:52:59+00:00
+ai_modified: 2026-11-26T04:32:04+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
+---
+
+## 2026-11-26 04:32 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro (as commissioned; the UI shows no model label, the turn reads "Worked for 18m 21s", and the follow-up composer pill reads Medium, so the effort is unconfirmed). Commissioned 02:07:16Z; reply stamped 2:24 AM.
+- **File**: [[reviews/outer-review-2026-11-26-chatgpt-5-6-sol-pro]] (subject: Audit mine-ness, `concepts/mine-ness`, `fallback:recent-aged`; collected by collect-chatgpt-review)
+- **Extraction**: DOM walk of the turn's main `[data-markdown-text-style]` block, giving 39,398 chars / 4,899 words. The text was written into the page's `<article>` and read back with one `get_page_text` pass, then reassembled from the transcript. Its whole-body SHA-256 matches the in-page value (`07aa26a6…4c4436`).
+- **Claims verified**: about 22. Gallagher 2000 PDF (the patient sentence is absent; the only patient is Frith's, "They're his thoughts"). Guillot 2017 abstract (OpenAlex). Sá Pereira 2026 (*Cogn. Process.* 27(4), epub 08-04; abstract and PMC full text). Pons et al. 2026 (*Sci. Rep.*; PMC full text; all specifics hold). Deane et al. 2020 ("diametrically opposed"). Ratcliffe & Wilkinson 2015. Gallagher 2017. Crossref metadata for Knappik (24(2) 411–435, 2025), Billon (pp. 314–342), Ciaunica 2021 and Gallagher 2012. Six internal cross-page quotations were checked.
+- **High-value findings**: 7 survived. (1) A constructed patient quotation at L82, already flagged on 10-06 and kept "as mandated". (2) The for-me-ness/mineness conflation: the feature is called constitutive and also said to vanish, which the Map's own `thought-insertion` L80 names. (3) The ownership void takes its evidence from separability but rests on constitutive inaccessibility. (4) The L64/L140 relation contradiction. (5) Structurelessness inferred from "irrelational". (6) Sá Pereira and Pons 2026 omitted; Deane and Advaita overstated. (7) The Many-Worlds "no shadow versions" point is non-discriminating, and the Metzinger reply only restates the hard problem.
+- **Partly right / not tasked**: the Ciaunica window extrapolation (already marked as the Map's reading); the L140 quantum gloss (already hedged; residue folded into a task); the Zahavi 2005/2014 year (folded into the metadata item). Methodology items 14–20 were left for the synthesis pass. #17 (the quote-integrity rule) already exists as Audit Four (c-i).
+- **Already tasked**: item (4) of the open P3 "Siblings of the 2026-11-15 `concepts/empathy` deep review" (L48 scope). The second P1 discharges it and records the coordination.
+- **Operator note**: the for-me-ness/mineness collision has been an operator hold since 10-07 (`reviews/system-tune-2026-10-07`). The P1 is scoped to body text only. The page title, the slug and `concepts/depersonalisation`'s title ("…Separability of For-Me-Ness") stay with the operator.
+- **Tasks generated**: 5, all `refine-draft` with `Source: outer-review`. P1 ×2: constructed quote, relation and structurelessness (L7333); for-me-ness/mineness split and narrowing of the void (L7349). P2 ×3: 2026 literature and calibration (L7368); tenet sections (L7384); self-and-self-consciousness L66 and ownership-problem L102 (L7399). parse_tasks active 543 → 548.
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-26 03:52 UTC - deep-review
