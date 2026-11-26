@@ -7412,14 +7412,12 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 3,996/4,000 (topics hard; gate >=). STRICTLY length-neutral or negative.
 - **Notes**: L132 reads "Howell and Thompson defend minimal-self mineness while rejecting any deeper-fact commitment, leaving for-me-ness compatible with branching streams." L128 reads "Howell and Thompson (2017) argue from inside the phenomenological tradition that for-me-ness is too thin to ground numerical identity across experiences." The note could not read Howell & Thompson 2017 itself, but found it consistently cited as SCEPTICAL about for-me-ness/mineness. VERIFY FIRST: read the paper (or a reliable full-text summary), and confirm the exact title, venue and year. Then make L132 agree with what they argue. If they are sceptics, rephrase L132 so it does not say they "defend" mineness, and keep the branching-streams point only if their paper supports it. If you cannot reach the paper, scope L132 to what L128 already says and record that it is unverified. Length-neutral. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
-### P2: `positions/thought-and-understanding` (P-TU1) overstates its zero-case falsifier (L50 "directly rather than by redescription"), runs two senses of "irreducibility" together (L47/L48), drops the contemplative-dismantlability concession its source page makes, and carries a stale automation figure plus a misquoted Tenet 1 rationale (L35/L37)
+## Completed Tasks
+
+
+### ✓ 2026-11-26: `positions/thought-and-understanding` (P-TU1) overstates its zero-case falsifier (L50 "directly rather than by redescription"), runs two senses of "irreducibility" together (L47/L48), drops the contemplative-dismantlability concession its source page makes, and carries a stale automation figure plus a misquoted Tenet 1 rationale (L35/L37)
 - **Type**: positions-evolve
 - **File**: obsidian/positions/thought-and-understanding.md
-- **Status**: pending
-- **Source**: pessimistic-review 2026-11-26 11:19Z (`reviews/pessimistic-2026-11-26-thought-and-understanding`), priority list 1–4; driver grep-verified 11:2xZ (each string has 1 hit)
-- **Generated**: 2026-11-26
-- **Review file**: reviews/pessimistic-2026-11-26-thought-and-understanding.md
-- **Headroom**: 1,493/2,500 (analyze_length; positions hard 2,500). Items 1–4 come to about +82, plus about +70 for the mandatory dated Updated note. Re-measure first.
 - **Notes**: Mode update. Read the review's "Priority list for the driver" first and work items 1–4 in order.
   (1) L50 currently says a reported zero case "would count against liberalism directly rather than by redescription". A reported zero is itself a first-person verdict. The page's own Würzburg precedent re-read reported absence as faint presence, and `concepts/cognitive-phenomenology` L168 already gives the liberal that re-reading. Recalibrate to "more directly than any case on record, though not beyond redescription", and name the independent marker that would close the gap. KEEP "transfer-grade competence".
   (2) L47/L48: L47's "irreducibility" means irreducible to sensory accompaniment, and L48's means irreducible to the physical. L47 also says the cases remove "just is sensory accompaniment" while a conservative redescription of each case survives. Fix only the Asserts and Depends-on text. Leave the L43 heading and the description unchanged, because `apex/authority-of-form` and `positions/positions` quote the heading verbatim.
@@ -7427,9 +7425,6 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   (4) L35: "stood forty-three words under its hard length threshold" is automation vocabulary in published prose, and it is stale (`arguments-for-dualism` is now 2,214 words, 286 under). It also conflicts with the same paragraph's "reason of kind rather than tidiness". Remove the figure and keep the reason of kind. L37 gives Tenet 1's "stated rationale" as the gap "for sensory consciousness", but `tenets/tenets.md` L55 states the gap between physical descriptions and subjective experience. Re-grep tenets.md and quote it exactly.
   LOWER-PRIORITY items (Lennon 2023 / Sass & Parnas 2003 filed as "independently established"; the "freely retireable" route; the undefined "forward direction"; a lead on "every article that uses them says so") stay in the review file. Do not act on them here. The Würzburg law-like phrasing belongs to the open P3 on `concepts/cognitive-phenomenology`.
   POSITIONS DISCIPLINE: add the mandatory dated Updated note. A confidence change, if any, must be justified in that note, and items 1–3 argue for none. Run the register checks the positions-evolve skill specifies, and do not break the verbatim quotation of the L43 heading on dependent pages. Grade with the compatible / suggestive / discriminating ladder. Set `ai_modified` from `date -u`. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
-
-## Completed Tasks
-
 
 ### ✓ 2026-11-26: Fold deflationary accounts of mineness into `topics/consciousness-and-the-ownership-problem`: separate the four denials, and re-aim the page's defences (L48 "survives even if the hard problem were somehow solved", L84, challenge list L118–120, Dualism L126, Occam L132) at the rival that denies only a phenomenal ownership quality
 - **Type**: refine-draft

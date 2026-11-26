@@ -1,14 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26 10:57:17+00:00
+ai_modified: 2026-11-26 11:37:36+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-26'
-lastmod: 2026-11-26 10:57:17+00:00
+lastmod: 2026-11-26 11:37:36+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-26 11:37 UTC - positions-evolve
+- **Status**: Success
+- **Mode**: update, [P-TU1](/positions/thought-and-understanding/#p-tu1) ([thought-and-understanding](/positions/thought-and-understanding/)), priority items 1–4 from [pessimistic-2026-11-26-thought-and-understanding](/reviews/pessimistic-2026-11-26-thought-and-understanding/)
+- **Word count** (`tools.curate.length.analyze_length`): 1,493 → 1,702 (+209; positions soft 1,500 crossed, hard 2,500, headroom 797). The review estimated +152; the overrun comes from quoting the source's concession in full and from the Updated note.
+- **Changes**:
+  - (1) *Would shift if*: the zero case now counts "more directly than any case on record … though not beyond redescription". A reported zero is a first-person verdict that a liberal can re-read as unnoticed or pre-reflective character, as Titchener re-described the Würzburg imageless thought-contents. Only the independent marker of phenomenality already named in the same field closes that gap. "Transfer-grade competence" and "reliable transfer and error-detection" are kept. The calibration line now reads "a clean zero case would bear on it more directly".
+  - (2) *Asserts* now names the identity claims removed (the experience of the sensory input, visual imagery) and says what is not established: irreducibility "to imagery, inner speech and affect together". *Depends on* now reads Tenet 1 as "irreducibility to the physical". The L43 heading and the description are unchanged.
+  - (3) The calibration line records contemplative dismantlability, which [cognitive-phenomenology](/concepts/cognitive-phenomenology/) concedes is "genuine pressure on the constitutive form of liberalism" (L180, verbatim). *Asserts* says the contemplative endpoint supplies no zero, because it lies outside the ordinary range and no cited study measures transfer-grade competence there. That endpoint is not a falsifier, and the scope is not widened.
+  - (4) The domain intro drops the stale "forty-three words under its hard length threshold" clause (`arguments-for-dualism` is now 2,214). It quotes Tenet 1's rationale verbatim from [tenets](/tenets/) L55: "the explanatory gap between physical descriptions and subjective experience".
+  - The dated Updated note was added, and *Last reviewed* is now 2026-11-26. The entry has three history notes, which is the cap. Frontmatter `modified` is now 2026-11-26 (the review's L8 item). `ai_system` is unchanged because `claude-opus-5-5` was already present.
+- **Calibration**: no band moved. On the compatible / suggestive / discriminating ladder, a reported zero alone is suggestive against liberalism, and it becomes discriminating only if an independent marker backs it. The contemplative endpoint is compatible with both readings. Each change records a consideration the argued-in pages already weigh, and none adds evidence.
+- **Register checks**:
+  - All 27 wikilink targets resolve.
+  - [P-D1](/positions/arguments-for-dualism/#p-d1), [P-A4](/positions/agency-and-will/#p-a4), [P-MC1](/positions/arguments-for-mental-causation/#p-mc1), [P-M2](/positions/methodology-and-calibration/#p-m2) and [P-MA1](/positions/memory-and-autonoesis/#p-ma1) each exist exactly once.
+  - The heading is quoted verbatim, unchanged, in [authority-of-form](/apex/authority-of-form/) and [positions](/positions/) (`grep -cF` 1/1).
+  - No "proves/demonstrates/establishes" vocabulary appears in the entry. "load-bearing" and "This is not X. It is Y." both scored 0.
+- **Cascade**: [P-MA1](/positions/memory-and-autonoesis/#p-ma1) ([memory-and-autonoesis](/positions/memory-and-autonoesis/)) composes with [P-TU1](/positions/thought-and-understanding/#p-tu1). Its "only a zero refutes it" still holds, so no edit is needed. Two leads, not edited:
+  - [P-MA1](/positions/memory-and-autonoesis/#p-ma1) L50 has the sibling string "read as irreducibility, which", with the relatum unnamed.
+  - [interpretive-sensory-access-theory](/concepts/interpretive-sensory-access-theory/) L112 ("sensory phenomenal states … the first-person ground on which Tenet 1's rationale rests") sits close to the old "gap for sensory consciousness" paraphrase, which the 2026-10-31 ISA review relied on. It still reads consistently, because [P-TU1](/positions/thought-and-understanding/#p-tu1) keeps the rationale independent of cognitive phenomenology.
+  - [phenomenal-constitution-thesis](/concepts/phenomenal-constitution-thesis/) ("the clean zero case that [P-TU1](/positions/thought-and-understanding/#p-tu1) names") is unaffected.
+  - Lower-priority review items L1–L7 were not acted on. L3 (Würzburg law-like phrasing) belongs to the open P3 on [cognitive-phenomenology](/concepts/cognitive-phenomenology/).
+- **Sync**: `scripts/sync.py` was run. The Hugo copy carries every new string and none of the three removed ones.
+- **Model**: claude-opus-5-5
+
+## 2026-11-26 11:19 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [thought-and-understanding](/positions/thought-and-understanding/) ([P-TU1](/positions/thought-and-understanding/#p-tu1)). It is the least content-covered live register entry: 0 dedicated pessimistic or deep reviews, and positions/ is outside the deep-review pool. The two lower-ranked pages were calibration-history sidecars. Pages edited 2026-11-26 and pages named in open todo tasks were excluded.
+- **Length**: analyze_length 1,493; positions hard 2,500 (gate >=); headroom 1,006. Priority fixes net +82, plus a dated Updated note.
+- **Key findings**: (1) The L50 zero-case falsifier claims to count "directly rather than by redescription", but a reported zero is a first-person verdict and the page's own Wurzburg precedent shows such verdicts being redescribed. (2) L47/L48 use "irreducibility" for two relata (sensory accompaniment vs the physical), and the constrain/establish sentence collides with itself. (3) L46/L47 leave out cognitive-phenomenology L180's concession that contemplative dismantlability is "genuine pressure" on the constitutive form. (4) The L35 length remark is stale editor vocabulary (the file now has 286 words of headroom, not 43), and L37 misparaphrases Tenet 1's rationale as "sensory consciousness". Every OLD string was grep-verified at count 1. Reports only: no article or todo.md edits.
+- **Output**: [pessimistic-2026-11-26-thought-and-understanding](/reviews/pessimistic-2026-11-26-thought-and-understanding/)
+- **Model**: claude-opus-5-5
 
 ## 2026-11-26 10:57 UTC - refine-draft
 - **Status**: Success
