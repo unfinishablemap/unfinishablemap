@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-11-27 07:52:47+00:00
+ai_modified: 2026-11-27 09:44:50+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:57:30+00:00
-lastmod: 2026-11-27 07:52:47+00:00
+lastmod: 2026-11-27 09:44:50+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -101,13 +101,13 @@ Several indirect approaches offer partial leverage without resolving the void:
 
 The interested party void has uncomfortable implications for the Map's own project.
 
-The positive-illusions studies support no tenet; none of their authors argues for dualism ([P-V3](/positions/voids-as-evidence/#p-v3)).
+The empirical studies support no tenet, nor, as cited, do the philosophical sources; none of the positive-illusions authors argues for dualism, and Nagel, though anti-reductionist, argues for the limits of objectivity, not motivated distortion or dualism ([P-V3](/positions/voids-as-evidence/#p-v3)). The void itself does not discriminate: on the Map's reading, [active inference](/topics/predictive-processing-and-dualism/) ([the strongest physicalist rival](/positions/replies-to-rivals/#p-rr2); Laukkonen et al. 2025) predicts the tilt, since a self-evidencing system protects its self-model with no non-physical stakeholder. The Map names no experiment separating the two accounts.
 
 The Map's commitment to [dualism](/tenets/#dualism)---that consciousness is irreducible---is precisely the kind of conclusion that the interested party void predicts inquirers would favour. The stake attaches less to irreducibility, which epiphenomenalism also grants, than to survival and efficacy. So the Map does not count this void as evidence for dualism, requires that case to rest on arguments whose appeal does not track survival, such as the [explanatory-gap](/concepts/explanatory-gap/), and discounts its [introspective arguments](/topics/phenomenology-of-agency-vs-passivity/) as the interested party's own testimony. The [fifth tenet](/tenets/#occams-limits)---Occam's Razor Has Limits---is illustrated here and gains no weight: our epistemic preferences, including the preference for parsimony, may themselves be motivated rather than neutral, a caution that binds the Map's judgements of simplicity as much as its critics'.
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet faces the void most directly. Consciousness has maximum stakes in whether it causally influences the physical world. If consciousness is epiphenomenal, it is unclear why reports would track experience ([the Map's objection](/tenets/#tenet-3-epiphenomenalism)), but the desire to avoid epiphenomenalism is itself suspect.
 
-The Map speculates that the interested party void may partially explain why the mind-body problem has made less progress than comparably difficult problems in physics. The territory is not merely hard to map---the cartographer has reasons to draw the map one way rather than another, and those reasons are invisible to the cartographer.
+The Map speculates that the void partly explains the mind-body problem's slow progress. That record fits the speculation without supporting it: sheer difficulty predicts the same, and the cartographer's stakes would explain every side's stalling, the Map's included.
 
 The honest response is to apply the void to the Map as well: to map the void's contours as carefully as anything else, to discount the arguments it most threatens, and to recognise that the Map itself is drawn by an interested party.
 
@@ -135,11 +135,12 @@ The honest response is to apply the void to the Map as well: to map the void's c
 10. Heflick, N. A., Goldenberg, J. L., Hart, J., & Kamp, S.-M. (2015). "Death Awareness and Body–Self Dualism: A Why and How of Afterlife Belief." *European Journal of Social Psychology*, 45(2), 267--275. https://doi.org/10.1002/ejsp.2075
 11. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
 12. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
-13. Moore, M. T., & Fresco, D. M. (2012). "Depressive Realism: A Meta-Analytic Review." *Clinical Psychology Review*, 32(6), 496--509. https://doi.org/10.1016/j.cpr.2012.05.004
-14. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-15. Nietzsche, F. (1887). *On the Genealogy of Morals*, Third Essay, §§24, 27. Trans. W. Kaufmann & R. J. Hollingdale. Vintage, 1967.
-16. Shepperd, J. A., et al. (2013). "Taking Stock of Unrealistic Optimism." *Perspectives on Psychological Science*, 8(4), 395--411. https://doi.org/10.1177/1745691613485247
-17. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
-18. Taylor, S. E., & Brown, J. D. (1988). "Illusion and Well-Being: A Social Psychological Perspective on Mental Health." *Psychological Bulletin*, 103(2), 193--210. https://doi.org/10.1037/0033-2909.103.2.193
-19. Taylor, S. E., & Brown, J. D. (1994). "Positive Illusions and Well-Being Revisited: Separating Fact from Fiction." *Psychological Bulletin*, 116(1), 21--27. https://doi.org/10.1037/0033-2909.116.1.21
-20. Zell, E., et al. (2020). "The Better-Than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis." *Psychological Bulletin*, 146(2), 118--149. https://doi.org/10.1037/bul0000218
+13. Laukkonen, R. E., Friston, K. J., & Chandaria, S. (2025). "A Beautiful Loop: An Active Inference Theory of Consciousness." *Neuroscience & Biobehavioral Reviews*, 176, 106296. https://doi.org/10.1016/j.neubiorev.2025.106296
+14. Moore, M. T., & Fresco, D. M. (2012). "Depressive Realism: A Meta-Analytic Review." *Clinical Psychology Review*, 32(6), 496--509. https://doi.org/10.1016/j.cpr.2012.05.004
+15. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+16. Nietzsche, F. (1887). *On the Genealogy of Morals*, Third Essay, §§24, 27. Trans. W. Kaufmann & R. J. Hollingdale. Vintage, 1967.
+17. Shepperd, J. A., et al. (2013). "Taking Stock of Unrealistic Optimism." *Perspectives on Psychological Science*, 8(4), 395--411. https://doi.org/10.1177/1745691613485247
+18. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
+19. Taylor, S. E., & Brown, J. D. (1988). "Illusion and Well-Being: A Social Psychological Perspective on Mental Health." *Psychological Bulletin*, 103(2), 193--210. https://doi.org/10.1037/0033-2909.103.2.193
+20. Taylor, S. E., & Brown, J. D. (1994). "Positive Illusions and Well-Being Revisited: Separating Fact from Fiction." *Psychological Bulletin*, 116(1), 21--27. https://doi.org/10.1037/0033-2909.116.1.21
+21. Zell, E., et al. (2020). "The Better-Than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis." *Psychological Bulletin*, 146(2), 118--149. https://doi.org/10.1037/bul0000218

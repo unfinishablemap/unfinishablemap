@@ -1,9 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T09:29:32+00:00
+ai_modified: 2026-11-27T09:46:05+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 09:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/interested-party-void]]
+- **Task**: P2 "`voids/interested-party-void` never names the physicalist rival that predicts its phenomenon" (outer-review 2026-11-27, Claude Fable 5.2, §6 bullet 3, §5 items 2 and 8, fixes 11d–e and 12, methodology item 5). ORDER 5 of 5 under the combine-outer-reviews 2026-11-27 Budget rule.
+- **Original score**: not run (`scripts/curate.py` is absent)
+- **Preconditions**: all four CHECKs read 0 before editing ("chronically", "falsely objectifying", "gains additional force", "understanding void"), so ORDERS 1–4 (159d0217, f85833b1, 23e1b01d, c6742be2) had run. Their wording is untouched. Smilansky had 0 hits (ORDER 3 cut him), so the firewall names no Smilansky clause.
+- **Word count** (`analyze_length`): 2,798 → 2,875 (+77). Ceiling min(80, 2,999 − 2,798) = +80, so the page could go to 2,878. Voids hard is 3,000 (gate `>=`), so the page is 124 below it.
+- **Changes** (my paragraphs only: the firewall line, two new sentences after it, and the progress paragraph):
+  - (1) FIREWALL. OLD: "The positive-illusions studies support no tenet; none of their authors argues for dualism (P-V3)." → NEW: "The empirical studies support no tenet, nor, as cited, do the philosophical sources; none of the positive-illusions authors argues for dualism, and Nagel, though anti-reductionist, argues for the limits of objectivity, not motivated distortion or dualism (P-V3)." The scope now covers Kunda, the TMT and Heflick studies, and the corrected philosophical sources: Nagel, Alston, Nietzsche, Bacon and the Buddhist paragraph. The positive-illusions authors clause is kept. "As cited" is deliberate, because Bacon's rational-soul theology and Dharmakīrti-style Buddhist anti-materialism make a corpus-wide "none argues for dualism" unsafe. Nagel is called "anti-reductionist" instead of the brief's "anti-physicalist", because anti-reductionism is what the cited book (false objectification about the mind) and the bat paper attest. The wording follows ORDER 2's L46 ("His limit concerns what an objective conception can contain").
+  - (2) RIVAL (two new sentences). NEW: "The void itself does not discriminate: on the Map's reading, [[predictive-processing-and-dualism|active inference]] ([[positions/replies-to-rivals#^p-rr2|the strongest physicalist rival]]; Laukkonen et al. 2025) predicts the tilt, since a self-evidencing system protects its self-model with no non-physical stakeholder. The Map names no experiment separating the two accounts." This concedes co-extension and names no discriminator, matching P-RR2's "The pages name no experiment separating the two views". It does not repeat ORDER 3's "does not count this void as evidence for dualism" (L102). It gives the reason (the rival predicts the tilt equally) where L102 gives the verdict. Both links are piped, at no word cost.
+  - (3) PROGRESS SPECULATION, regraded as compatible-only. OLD: "The Map speculates that the interested party void may partially explain why the mind-body problem has made less progress than comparably difficult problems in physics. The territory is not merely hard to map---the cartographer has reasons to draw the map one way rather than another, and those reasons are invisible to the cartographer." (53 words) → NEW: "The Map speculates that the void partly explains the mind-body problem's slow progress. That record fits the speculation without supporting it: sheer difficulty predicts the same, and the cartographer's stakes would explain every side's stalling, the Map's included." (38 words, −15).
+    - The physics comparison is DROPPED rather than reconciled with L70's "fierce partisanship" (kept, 1 hit).
+    - "Invisible to the cartographer" is dropped as stronger than the page's calibrated "cannot certify from the inside".
+    - The "not merely X---Y" construct is gone.
+    - The cartographer image survives in "the cartographer's stakes" and in L108's "drawn by an interested party".
+  - (4) REFERENCES. Laukkonen, Friston & Chandaria (2025) is added as entry 13, and the old entries 13–20 are renumbered 14–21. Metzinger is NOT added: the entry plus a body mention would have broken the ceiling.
+- **Source check** (Laukkonen et al. 2025, OpenAlex `abstract_inverted_index`, re-fetched 09:34Z; doi and volume/article 176/106296 confirmed). Each verified phrase hits once: "epistemic depth, which is the recurrent sharing of the Bayesian beliefs throughout the system" and "continuously evidences this knowing". "protect", "self-protect" and "stake" hit 0, and the nonsense control hits 0. The abstract also calls the loop "distinct from self-consciousness". So the self-protection inference is NOT attributed to the authors. It is introduced as "on the Map's reading", and the citation sits on "active inference", not on the inference. "Self-evidencing" follows the topic page's gloss.
+- **Engagement classification**: engagement with active inference is framework-boundary marking. The datum (stake-driven distortion of self-judgement) is conceded co-extensive, and no in-framework refutation is attempted. The residual dispute stays where `topics/predictive-processing-and-dualism` and P-RR2 put it. No mode label is in the body. Epiphenomenalism is not conceded.
+- **Internal-quote check**: no page outside `workflow/` and `reviews/` quotes the replaced firewall or progress sentences (grep, 0 files).
+- **Frontmatter**: `ai_modified` 2026-11-27T09:44:50+00:00 (from `date -u`). `ai_system` already contained `claude-opus-5-5` and is unchanged. `last_deep_review` is untouched.
+- **Style**: no "This is not X. It is Y."; "load-bearing" 0 in file. Pronoun pass: "it" in L106 refers to the speculation; "its self-model" refers to the system.
+- **For the operator (not actioned)**: P-RR2's "Argued in" list does not include this page. That entry is an accounting claim owned by `/positions-evolve`.
+- **Published**: yes
+- **Not done**: todo.md untouched; no commit.
 
 ## 2026-11-27 09:29 UTC - refine-draft
 - **Status**: Success
