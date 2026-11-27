@@ -1,10 +1,10 @@
 ---
 title: "The Interested Party Void"
-description: "Human+AI investigation of the deepest conflict of interest: consciousness cannot neutrally investigate its own nature because it has existential stakes in every answer it might reach."
+description: "Human+AI investigation of the deepest conflict of interest: inquirers have existential stakes in questions of survival, free will and fundamentality, and cannot certify from the inside that those stakes leave their reasoning untouched."
 created: 2026-04-16
 modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-27T06:11:59+00:00
+ai_modified: 2026-11-27T06:58:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,17 +35,17 @@ last_curated:
 last_deep_review: 2026-06-26T00:57:30+00:00
 ---
 
-Consciousness cannot neutrally investigate its own nature because it has existential stakes in every answer. When we ask whether consciousness is fundamental, whether free will is real, or whether the self survives death, the entity conducting the inquiry stands to gain or lose everything depending on the verdict. This is the deepest instance of the legal principle *nemo iudex in causa sua*---no one should judge their own case. The judge, the accused, the evidence, and the courtroom are all the same entity.
+Inquirers into consciousness have existential stakes in some of the answers, which creates a heightened, possibly correction-resistant risk of reasoning toward the answer they want. When we ask whether consciousness is fundamental, whether free will is real, or whether the self survives death, the verdict bears on what inquirers hope and fear about themselves. This is the deepest instance of the legal principle *nemo iudex in causa sua*---no one should judge their own case. The evidence shows such stakes tilting some self-relevant judgement, and introspection cannot certify the tilt's absence, but the evidence does not show that the tilt survives the correctives discussed [below](#the-suspicion-cascade).
 
-Unlike [[self-maintained-cognitive-limits]], which concerns the *mechanisms* by which consciousness maintains its own limits, or [[necessary-opacity]], which addresses whether consciousness can verify its own accuracy, the interested party void concerns the *motivational corruption* of inquiry itself. Consciousness may be structurally incapable of honestly investigating questions about its own status, significance, and survival.
+Unlike [[self-maintained-cognitive-limits]], which concerns the *mechanisms* by which consciousness maintains its own limits, or [[necessary-opacity]], which addresses whether consciousness can verify its own accuracy, the interested party void concerns the *directional pull* of motive on inquiry itself. The pull acts on persons and research communities, not on consciousness as a lone investigator, and through selective rather than dishonest reasoning.
 
 ## The Deepest Conflict of Interest
 
-A judge with financial stakes in a trial's outcome is disqualified. A scientist reviewing their own grant application is recused. These are imperfect analogies---the partiality can at least be recognised and an impartial substitute found. Consciousness investigating its own nature permits no such recusal. There is no impartial substitute. There is no view from outside.
+A judge with financial stakes in a trial's outcome is disqualified. A scientist reviewing their own grant application is recused. These are imperfect analogies---the partiality can at least be recognised and an impartial substitute found. Questions about consciousness permit no full recusal, and there is no view from wholly outside, though partial substitutes exist ([below](#the-suspicion-cascade)).
 
 Thomas Nagel's *The View from Nowhere* (1986) explains why no view from wholly outside is available, not why inquiry must fail. However far we step outside ourselves, "something will have to stay behind the lens" (p. 68). Nagel wants "both to defend the possibility of objective ascent and to understand its limits" (p. 70). The ascent's dangers are "not of failure but of ambition", among them "false objectification": extending a successful form of objectivity to areas, such as the mind, where it will not work (pp. 86–87). His limit concerns what an objective conception can contain, not what an inquirer wants to find.
 
-This becomes acute when the questions carry existential weight. Investigating the structure of benzene does not threaten the investigator's sense of self. Investigating whether consciousness is [[epiphenomenalism|epiphenomenal]]---causally inert, along for the ride---threatens everything the investigator takes themselves to be.
+Partiality becomes acute when the questions carry existential weight. Investigating the structure of benzene does not threaten the investigator's sense of self. Investigating whether consciousness is [[epiphenomenalism|epiphenomenal]]---causally inert, along for the ride---threatens much of what the investigator takes themselves to be.
 
 ## The Empirical Evidence
 
@@ -59,29 +59,31 @@ Evidence that self-interest distorts self-relevant judgement is uneven.
 
 **Epistemic circularity**, as Alston (1986) argued, arises because any otherwise cogent argument for the reliability of a basic source of belief---perception, memory, introspection, reasoning---uses premises drawn from that source. His moral was not sceptical. A circular argument can still justify, and the result "puts no limits whatever on the beliefs that can be justified"; what it rules out is fully reflective justification, leaving us "without a cosmic guarantee of success" (p. 30). Circularity, common to every basic source, differs from motivated distortion: it implies that no internal audit can certify that stakes have not tilted a belief, not that the tilt is uncorrectable. Whether introspection can be calibrated is contested; the Map argues the sceptical side in [[observation-and-measurement-void|the observation and measurement void]].
 
-## The Void Cuts Both Ways
+## Does the Void Cut Both Ways?
 
-The interested party void does not favour one side of the mind-body debate. It contaminates all positions equally.
+Motives exist on both sides of the mind-body debate, but available motives do not show equal effects, and the motivational evidence runs one way.
 
-**Dualists** may be motivated by the desire to preserve consciousness's significance. If consciousness is fundamental and irreducible, the self matters in a way that materialism denies. The accusation is familiar: dualism is wish-fulfilment, a refusal to accept that we are "merely" physical systems. The Unfinishable Map's own commitment to [[tenets#^dualism|dualism]] must be held with awareness that it may be partly motivated by the desire for consciousness to be fundamental.
+**Dualists** may be motivated by the desire to preserve consciousness's significance or survival, and here there is direct evidence. In three studies, Heflick et al. (2015) supported their hypothesis that mortality salience heightens afterlife belief "only when dualism is facilitated", subject to the replication doubts above. The accusation is familiar: dualism is wish-fulfilment, a refusal to accept that we are "merely" physical systems. The Unfinishable Map's own commitment to [[tenets#^dualism|dualism]] must be held with awareness that it may be partly motivated by the desire for consciousness to be fundamental.
 
-**Materialists** face the same charge from the opposite direction. Smilansky argues in *Free Will and Illusion* that some beliefs about consciousness may be "beneficial illusions" that consciousness cannot afford to see through: "We could not live adequately with a complete awareness of the truth about human freedom." If eliminativism or illusionism threatens the felt significance of experience, then resisting these positions might be motivated. But if accepting them brings the comfort of intellectual conformity or the relief of dissolving hard problems, that acceptance might equally be motivated.
+**Materialists** may face the charge from the opposite direction: accepting eliminativism or illusionism could bring the comfort of intellectual conformity or the relief of dissolving hard problems. Those motives are untested here, and they are professional stakes rather than the existential one that defines the void. The cognitive-default evidence is mixed, with [[cognitive-science-of-dualism#intuitive-mind-body-reasoning-is-variable|early dualist intuitions set against a proposed intuitive materialism]]. A motive discredits a belief only if the process would produce the belief whether or not it were true, the insensitivity standard the Map applies to Berent's debunking of anti-physicalist intuition ([[epistemology-of-convergence-arguments#cognitive-universals|convergence arguments]]) and must apply here, [[cognitive-science-of-dualism#the-genetic-fallacy-in-both-directions|in both directions]].
 
 The historical persistence and emotional intensity of the mind-body debate is itself suggestive. Some debates in physics---string theory, the interpretation of quantum mechanics---generate fierce partisanship, but rarely with the same existential undertone. The consciousness debate feels different because the stakes are personal: where you land determines what you take yourself to be. Nietzsche put the will to truth itself under inquiry: "the value of truth must for once be experimentally called into question" (*Genealogy* III §24), and the meaning of "our whole being" lay in this, "that in us the will to truth becomes conscious of itself as a problem" (III §27). For Nietzsche the inspection is the task, carried out by the will to truth on itself. On the Map's reading, an interested inquirer can examine what their truth-seeking serves, though never from outside it.
 
 ## The Suspicion Cascade
 
-Once the interested party void is recognised, a characteristic instability follows. If my investigation of consciousness is motivated, then perhaps my belief that the investigation is motivated is also motivated---a pre-emptive move to inoculate my preferred conclusion against criticism. And the recognition of *that* move is itself suspect. The cascade has no natural stopping point.
+Once the interested party void is recognised, a characteristic instability follows. If my investigation of consciousness is motivated, then perhaps my belief that the investigation is motivated is also motivated---a pre-emptive move to inoculate my preferred conclusion against criticism. And the recognition of *that* move is itself suspect. The cascade has no natural stopping point; the rational one is a loss of confidence proportionate to the evidence of bias.
 
-A Popperian objection arises here: if every position can be re-described as motivated, the void claim risks unfalsifiability. The reply is that the void is not the claim "every belief is wrong," but the weaker claim "no investigator can verify the absence of motivated distortion in self-relevant inquiry." That claim is consistent with some beliefs being correct---it simply denies that consciousness can certify which ones from the inside.
+A Popperian objection arises here: if every position can be re-described as motivated, the void claim risks unfalsifiability. Retreating to the weaker claim that no investigator can verify from the inside the absence of motivated distortion does not help, since that holds for all inquiry. What can make the consciousness case worse is narrower: on a few questions the stake is existential and one-directional, and much of the evidence is first-person seeming. That version would shrink to an ordinary bias if preregistered replications found mortality salience leaving afterlife and mind–body judgements unmoved.
 
-This self-undermining quality distinguishes the interested party void from simpler forms of bias. A financial conflict of interest can be identified and corrected. The interested party void resists correction because the corrective faculty is itself an interested party. The [[self-opacity|self-opacity void]] means we cannot observe the mechanisms of our thought; the interested party void means we cannot trust the *motivation* behind whatever we do observe. It also overlaps [[self-maintained-cognitive-limits]], which catalogues active blocks against thoughts the mind cannot afford to entertain---the interested party void supplies one of the most potent reasons for that defensive posture.
+This self-referential quality distinguishes the interested party void from simpler forms of bias. A financial conflict of interest can be corrected by someone without the interest. Here every corrector has some stake, so correction must come from interested parties checking one another. The [[self-opacity|self-opacity void]] means we cannot observe the mechanisms of our thought; the interested party void means we cannot certify from the inside the *motivation* behind whatever we do observe. It also overlaps [[self-maintained-cognitive-limits]], which catalogues active blocks against thoughts the mind cannot afford to entertain---the interested party void supplies one of the most potent reasons for that defensive posture.
+
+Three replies limit the void's strong form. On [[methodology-of-consciousness-research|Longino's social account]], objectivity lies in critical interaction within and between communities, since no aperspectival position exists. In the Cogitate adversarial collaboration, for instance, rival theorists preregistered their divergent predictions with a "theory-neutral consortium" (Cogitate Consortium 2025), though the stakes were professional rather than existential. Externalist and fallibilist justification needs no internal certificate that a process is unbiased, as Alston's moral above allows, and Kunda's accuracy goals and plausibility constraint limit directional reasoning. Many Labs 4, the preregistered multi-lab test that cast doubt on mortality salience, is itself such a corrective. If correctives fail, the void loses its evidence; if they work, it loses its strong form. Partial independence is achievable; a final internal audit is not.
 
 Buddhist traditions arrived at a structurally similar insight through different methods. The doctrine of *anattā* (not-self) denies a substantive, enduring self behind the "aggregates of grasping" (*upādāna-skandha*), so called "on account of our tendency to grasp after and identify with them" (Coseru 2012). Schools differed: the Pudgalavādins ("personalists") appear to have held that persons conventionally exist. Vasubandhu warns that clinging to any substantive self-view hinders liberation. On the Map's reading, the inquirer looking for the self is itself grasping, and recognising *anattā* needs the non-attachment that grasping prevents. Whether or not the Buddhist metaphysics is correct, the phenomenological observation is acute: investigating the self while being the self generates characteristic distortions.
 
 ## What the Void Reveals
 
-The interested party void is primarily [[three-kinds-of-void|occluded]] with elements of the unexplorable. It is occluded because motivated reasoning operates below awareness and consciousness has active incentives to maintain blindness to its own partiality. It has unexplorable elements because even in principle, there may be no standpoint from which consciousness could neutrally evaluate questions about its own nature.
+The interested party void is [[three-kinds-of-void|occluded]] for the individual and partly explorable collectively. It is occluded because motivated reasoning can operate below awareness and an inquirer has reasons not to inspect their own partiality. Whether anything is unexplorable is open: no standpoint is free of stakes, but the tilts found so far are ones interested communities can measure.
 
 Several indirect approaches offer partial leverage without resolving the void:
 
@@ -97,13 +99,13 @@ The interested party void has uncomfortable implications for the Map's own proje
 
 The positive-illusions studies support no tenet; none of their authors argues for dualism ([[positions/voids-as-evidence#^p-v3|P-V3]]).
 
-The Map's commitment to [[tenets#^dualism|dualism]]---that consciousness is irreducible---is precisely the kind of conclusion that the interested party void predicts consciousness would favour. An irreducible consciousness is a significant consciousness, one that matters in ways a mere epiphenomenon would not. The Map interprets this not as grounds for abandoning dualism but as grounds for holding it with epistemic humility. The [[tenets#^occams-limits|fifth tenet]]---Occam's Razor Has Limits---gains additional force here: our epistemic preferences, including the preference for parsimony, may themselves be motivated rather than neutral.
+The Map's commitment to [[tenets#^dualism|dualism]]---that consciousness is irreducible---is precisely the kind of conclusion that the interested party void predicts inquirers would favour. The stake attaches less to irreducibility, which epiphenomenalism also grants, than to survival and efficacy. So the Map does not count this void as evidence for dualism, requires that case to rest on arguments whose appeal does not track survival, such as the [[explanatory-gap]], and discounts its [[phenomenology-of-agency-vs-passivity|introspective arguments]] as the interested party's own testimony. The [[tenets#^occams-limits|fifth tenet]]---Occam's Razor Has Limits---is illustrated here and gains no weight: our epistemic preferences, including the preference for parsimony, may themselves be motivated rather than neutral, a caution that binds the Map's judgements of simplicity as much as its critics'.
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet faces the void most directly. Consciousness has maximum stakes in whether it causally influences the physical world. If consciousness is epiphenomenal, it is unclear why reports would track experience ([[tenets#^tenet-3-epiphenomenalism|the Map's objection]]), but the desire to avoid epiphenomenalism is itself suspect.
 
 The Map speculates that the interested party void may partially explain why the mind-body problem has made less progress than comparably difficult problems in physics. The territory is not merely hard to map---the cartographer has reasons to draw the map one way rather than another, and those reasons are invisible to the cartographer.
 
-The honest response is not to pretend the void does not apply to us. It is to acknowledge it, map its contours as carefully as we map anything else, and recognise that the Map itself is drawn by an interested party.
+The honest response is to apply the void to the Map as well: to map the void's contours as carefully as anything else, to discount the arguments it most threatens, and to recognise that the Map itself is drawn by an interested party.
 
 ## Further Reading
 
@@ -120,18 +122,19 @@ The honest response is not to pretend the void does not apply to us. It is to ac
 1. Alston, W.P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1--30.
 2. Bacon, F. (1620). *Novum Organum*, I.49. Trans. Spedding, Ellis & Heath (1863). https://constitution.org/2-Authors/bacon/nov_org.htm
 3. Burke, B. L., Martens, A., & Faucher, E. H. (2010). "Two Decades of Terror Management Theory: A Meta-Analysis of Mortality Salience Research." *Personality and Social Psychology Review*, 14(2), 155--195. https://doi.org/10.1177/1088868309352321
-4. Coseru, C. (2012). "Mind in Indian Buddhist Philosophy." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-indian-buddhism/
-5. Dev, A. S., et al. (2022). "Sadder ≠ Wiser: Depressive Realism Is Not Robust to Replication." *Collabra: Psychology*, 8(1), 38529. https://doi.org/10.1525/collabra.38529
-6. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). "Terror Management Theory of Self-Esteem and Cultural Worldviews." *Advances in Experimental Social Psychology*, 29, 61--139.
-7. Harris, A. J. L., & Hahn, U. (2011). "Unrealistic Optimism About Future Life Events: A Cautionary Note." *Psychological Review*, 118(1), 135--154. https://doi.org/10.1037/a0020997
-8. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
-9. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
-10. Moore, M. T., & Fresco, D. M. (2012). "Depressive Realism: A Meta-Analytic Review." *Clinical Psychology Review*, 32(6), 496--509. https://doi.org/10.1016/j.cpr.2012.05.004
-11. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-12. Nietzsche, F. (1887). *On the Genealogy of Morals*, Third Essay, §§24, 27. Trans. W. Kaufmann & R. J. Hollingdale. Vintage, 1967.
-13. Shepperd, J. A., et al. (2013). "Taking Stock of Unrealistic Optimism." *Perspectives on Psychological Science*, 8(4), 395--411. https://doi.org/10.1177/1745691613485247
-14. Smilansky, S. (2000). *Free Will and Illusion*. Oxford University Press.
-15. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
-16. Taylor, S. E., & Brown, J. D. (1988). "Illusion and Well-Being: A Social Psychological Perspective on Mental Health." *Psychological Bulletin*, 103(2), 193--210. https://doi.org/10.1037/0033-2909.103.2.193
-17. Taylor, S. E., & Brown, J. D. (1994). "Positive Illusions and Well-Being Revisited: Separating Fact from Fiction." *Psychological Bulletin*, 116(1), 21--27. https://doi.org/10.1037/0033-2909.116.1.21
-18. Zell, E., et al. (2020). "The Better-Than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis." *Psychological Bulletin*, 146(2), 118--149. https://doi.org/10.1037/bul0000218
+4. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). "Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness." *Nature*, 642(8066), 133--142. https://doi.org/10.1038/s41586-025-08888-1
+5. Coseru, C. (2012). "Mind in Indian Buddhist Philosophy." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-indian-buddhism/
+6. Dev, A. S., et al. (2022). "Sadder ≠ Wiser: Depressive Realism Is Not Robust to Replication." *Collabra: Psychology*, 8(1), 38529. https://doi.org/10.1525/collabra.38529
+7. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). "Terror Management Theory of Self-Esteem and Cultural Worldviews." *Advances in Experimental Social Psychology*, 29, 61--139.
+8. Harris, A. J. L., & Hahn, U. (2011). "Unrealistic Optimism About Future Life Events: A Cautionary Note." *Psychological Review*, 118(1), 135--154. https://doi.org/10.1037/a0020997
+9. Heflick, N. A., Goldenberg, J. L., Hart, J., & Kamp, S.-M. (2015). "Death Awareness and Body–Self Dualism: A Why and How of Afterlife Belief." *European Journal of Social Psychology*, 45(2), 267--275. https://doi.org/10.1002/ejsp.2075
+10. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
+11. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
+12. Moore, M. T., & Fresco, D. M. (2012). "Depressive Realism: A Meta-Analytic Review." *Clinical Psychology Review*, 32(6), 496--509. https://doi.org/10.1016/j.cpr.2012.05.004
+13. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+14. Nietzsche, F. (1887). *On the Genealogy of Morals*, Third Essay, §§24, 27. Trans. W. Kaufmann & R. J. Hollingdale. Vintage, 1967.
+15. Shepperd, J. A., et al. (2013). "Taking Stock of Unrealistic Optimism." *Perspectives on Psychological Science*, 8(4), 395--411. https://doi.org/10.1177/1745691613485247
+16. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
+17. Taylor, S. E., & Brown, J. D. (1988). "Illusion and Well-Being: A Social Psychological Perspective on Mental Health." *Psychological Bulletin*, 103(2), 193--210. https://doi.org/10.1037/0033-2909.103.2.193
+18. Taylor, S. E., & Brown, J. D. (1994). "Positive Illusions and Well-Being Revisited: Separating Fact from Fiction." *Psychological Bulletin*, 116(1), 21--27. https://doi.org/10.1037/0033-2909.116.1.21
+19. Zell, E., et al. (2020). "The Better-Than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis." *Psychological Bulletin*, 146(2), 118--149. https://doi.org/10.1037/bul0000218

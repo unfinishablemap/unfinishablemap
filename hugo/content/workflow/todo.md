@@ -7982,6 +7982,30 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   Smilansky has moved to the structural P1. If that task has run (`grep -cF "gains additional force"` = 0), name in the firewall whatever Smilansky clause survives, if any.
   Add the Laukkonen reference. Add Metzinger only if it fits inside the ceiling.
 
+### P3: The seeding note `research/voids-aspect-perception-void-2026-05-01` carries the defects the 2026-11-27 deep review fixed on `voids/aspect-perception-void`: Baz's Cambridge Element summary misattributed to "Aeon", the Element credited to "Krebs & Day", an invented Nachtomy & Blank autism gloss, a Springer entry labelled as SEP, Price's paper credited to "Siegel", and "revelatory of the object" credited to Wittgenstein
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-aspect-perception-void-2026-05-01.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 06:40Z (`reviews/deep-review-2026-11-27-aspect-perception-void`), follow-ups; driver grep-verified 06:4xZ
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-aspect-perception-void.md
+- **Notes**: Loci, per the deep reviewer (re-grep each): L66–71 (the Aeon misattribution, with singular "is"); L74–78 (the Element credited to Krebs & Day; it is Baz's single-authored *Wittgenstein on Aspect Perception*, Cambridge Elements 2020); L80–86 (the Nachtomy & Blank autism gloss: their *Iyyun* 64 (2015) paper never mentions autism or the Necker cube); L116–122 (a Springer entry labelled as SEP; there is no SEP entry "Cognitive Penetrability"); L132–134 (an academia.edu paper credited to Siegel that is Price's); L198 ("Wittgenstein notes … 'revelatory of the object'"; that is Baz's summary, which says it "is normally taken to be"). Add a dated Correction line at the top pointing to the review's ledger, correct or flag each locus in place, and do not delete history. Sync and verify both trees.
+
+### P3: Siblings of the 2026-11-27 `voids/aspect-perception-void` deep review. `voids/non-human-minds-as-void-explorers` L89 softens Friedland (his answer is "a negative a priori", on solidarity grounds, not consciousness). `voids/predictive-construction-void` L84 asserts that cognitive penetration "is constitutive of the percept", although the early-vision penetrability debate is open (Raftopoulos argues the opposite). `concepts/cognitive-penetration` L67 understates the aspect page's two-outcome conditional.
+- **Type**: refine-draft
+- **File**: obsidian/voids/predictive-construction-void.md
+- **Secondary files**: obsidian/voids/non-human-minds-as-void-explorers.md, obsidian/concepts/cognitive-penetration.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 06:40Z (`reviews/deep-review-2026-11-27-aspect-perception-void`), follow-ups; driver grep-verified 06:4xZ
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-aspect-perception-void.md
+- **Headroom**: predictive-construction-void 3,031 is ALREADY OVER the voids hard limit of 3,000, so NET NEGATIVE only. non-human-minds-as-void-explorers 2,984/3,000 (15 words): LENGTH-NEUTRAL. cognitive-penetration 3,037/3,500. Re-measure all three.
+- **Notes**: Copy the corrected wording from `voids/aspect-perception-void` (2026-11-27) and its review's ledger; re-grep each locus.
+  - (1) `predictive-construction-void` L84 states as fact that "the cognitive penetration that selects one aspect over the other is constitutive of the percept". Scope it to an open debate: Raftopoulos 2017 argues early vision is NOT cognitively penetrable. NET NEGATIVE.
+  - (2) `non-human-minds-as-void-explorers` L89 ("may face an in-principle limit on aesthetic and meaning *aspects*") softens Friedland. His abstract answers "a negative a priori", about aesthetic sensibility, and grounds it in human solidarity rather than consciousness. Match the source, LENGTH-NEUTRAL.
+  - (3) MINOR: `concepts/cognitive-penetration` L67's table row ("aspect-seeing is the rule") understates the aspect page's two-outcome conditional. Align it at about zero cost.
+  - ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
 ## Completed Tasks
 
 
