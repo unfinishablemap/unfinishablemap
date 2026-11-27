@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-11-15 15:20:49+00:00
+ai_modified: 2026-11-27 00:06:32+00:00
 ai_system: claude-opus-4-6+claude-opus-4-8+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -17,7 +17,7 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[post-decoherence-selection]]'
 created: 2026-03-10
-date: &id001 2026-11-15
+date: &id001 2026-11-27
 description: At a decision point of genuine indeterminacy the trilemma foregrounds
   three horns—determinism, randomness, mental causation. Human-AI analysis of why
   only directed selection preserves authorship, treated as a heuristic not a complete
@@ -26,7 +26,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-15 06:13:05+00:00
-lastmod: 2026-11-15 15:20:49+00:00
+lastmod: 2026-11-27 00:06:32+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,13 +74,13 @@ Popper stated the demand the third horn must meet in 1965, before any of this li
 
 The third horn proposes that consciousness itself resolves the indeterminacy—not randomly, but guided by the agent's reasons, values, and deliberation. The outcome is neither fixed by prior physics nor arbitrary. The agent selects.
 
-This is the Map's position: [agent-causal](/concepts/agent-causation/) libertarianism grounded in the [attention-as-interface hypothesis](/concepts/attention-as-interface/). The brain generates competing options. Physics leaves the resolution genuinely open. Consciousness biases which option crosses threshold—and does so for reasons that matter to the agent.
+This is the Map's position: [agent-causal](/concepts/agent-causation/) libertarianism grounded in the [attention-as-interface hypothesis](/concepts/attention-as-interface/). The brain generates competing options. Physics leaves the resolution genuinely open. Consciousness [biases which option crosses threshold](/positions/quantum-interface/#mechanism-debt), leaving Born statistics intact—and does so for reasons that matter to the agent.
 
 Three features distinguish this from randomness:
 
 **Reasons-guidance.** [Selection tracks reasons](/concepts/reasons-responsiveness/)—goals, values, considerations that bear on the decision. The [valence of anticipated outcomes](/topics/valence-and-conscious-selection/) provides the common metric by which consciousness evaluates competing options. Those reasons didn't *determine* the outcome (alternatives remained possible), but they [*guided*](/topics/agent-causation-and-acting-for-reasons/) it, making the choice intelligible and the agent's in a way a random outcome cannot be. They do not explain why A rather than B, since in the rollback above the reasons for B were present in every replay too. That difference is the agent's settling, [a primitive whose modal structure is owed rather than supplied](/concepts/rollback-argument-against-agent-causation/).
 
-**Phenomenology of effort.** Random processes don't feel like anything. But choosing feels effortful, and the effort scales with difficulty. William James observed that the free-will question "relates solely to the amount of effort of attention." The felt cost corresponds to genuine causal engagement—consciousness doing work to stabilise the selected option against competitors.
+**Phenomenology of effort.** Random processes don't feel like anything. But choosing feels effortful, and the effort scales with difficulty. William James observed that the free-will question "relates solely to the amount of effort of attention." The felt cost would correspond, on the Map's reading, to genuine causal engagement—consciousness doing work to stabilise the selected option against competitors.
 
 **Neural distinctiveness.** Self-chosen attention shows more frontal theta and frontoparietal coherence than instructed attention (Rajan et al. 2019)—a relative increase, measured for visuospatial attention rather than action generally. The brain registers the difference between choosing and following. Its authors read that difference as added decision load, which needs no non-physical contributor; the signature locates where selection happens without showing that consciousness does it.
 
@@ -99,7 +99,7 @@ Reasons-responsive compatibilism is the most developed of these set-aside positi
 
 ## The Mechanism Question
 
-Horn 3 faces an obvious challenge: *how* does consciousness bias physical outcomes? The [quantum Zeno mechanism](/concepts/quantum-consciousness/) provides one candidate. Mental effort acts as rapid quantum observation, stabilising desired neural patterns against decoherence into alternatives. Consciousness doesn't inject energy or violate [conservation laws](/concepts/conservation-laws-and-mental-causation/)—it shapes which pre-existing possibility actualises. This satisfies the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: the smallest possible non-physical influence at the point of genuine indeterminacy.
+Horn 3 faces an obvious challenge: *how* does consciousness bias physical outcomes? The [quantum Zeno mechanism](/concepts/quantum-consciousness/) provides one candidate. Mental effort acts as rapid quantum observation, stabilising desired neural patterns against decoherence into alternatives. Consciousness doesn't inject energy or violate [conservation laws](/concepts/conservation-laws-and-mental-causation/)—it shapes which pre-existing possibility actualises. This fits the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet: the smallest possible non-physical influence at the point of genuine indeterminacy.
 
 Whether neural decision points actually involve quantum indeterminacy is empirically contested, and the question is presently underdetermined by the evidence. Tegmark (2000) argues that decoherence timescales in warm biological tissue are far too short for quantum effects to influence neural processing. Others respond differently: Stapp (2007) proposes discrete observation events that do not require sustained coherence, while Fisher (2015) identifies nuclear spins with coherence times potentially exceeding neural timescales. The [comparative evaluation of quantum consciousness mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) assesses these proposals against shared scientific and philosophical criteria. The Map does not require this question to be settled, because the trilemma's philosophical force does not depend on any specific mechanism. What matters is the logical structure: if choices involve genuine indeterminacy and are neither arbitrary nor predetermined, *something* with the character of directed selection must be operating. Whether that selection works through [non-retrocausal mechanisms](/topics/forward-in-time-conscious-selection/) (quantum Zeno effects, orchestrated collapse, CSL dynamics), retrocausal influence, or mechanisms not yet imagined, the trilemma's logic applies regardless.
 
@@ -146,7 +146,7 @@ The trilemma connects to each of the five [tenets](/tenets/):
 - [free-will](/topics/free-will/) — The broader case for agent-causal libertarian free will
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The neural architecture where selection occurs
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics creates space for mental causation, and the luck challenge the trilemma's second horn makes vivid
-- [reasons-responsiveness](/concepts/reasons-responsiveness/) — Why reasons-guided selection escapes the luck objection
+- [reasons-responsiveness](/concepts/reasons-responsiveness/) — How reasons-guided selection answers the luck objection
 - [agent-causation](/concepts/agent-causation/) — The metaphysical framework for Horn 3
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of choosing vs observing
 - [mental-effort](/concepts/mental-effort/) — Why the felt cost of attention supports genuine causal engagement

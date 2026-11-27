@@ -5,6 +5,21 @@ ai_modified: 2026-11-26T23:35:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-27 00:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/trilemma-of-selection]]
+- **Original score**: not scored (`scripts/curate.py` is absent). This was a targeted calibration fix from `reviews/optimistic-2026-10-28-luck-and-randomness-objection-wing.md`, Calibration Concern 1.
+- **Word count** (`tools.curate.length.analyze_length`; topics hard 4,000, gate `>=`): 3,564 → 3,573 (+9, within the task's ±10).
+- **Changes**:
+  - L72 (Horn 3 position statement): installed the page's first link to the mechanism debt, a zero-word pipe on "biases which option crosses threshold" → `[[positions/quantum-interface#^mechanism-debt|…]]`. Added "leaving Born statistics intact" (+4), so "biases" here and at L131 cannot be read as odds-shifting. This matches P-Q2's "biases *which* outcome … frequencies stay Born-exact" and the wing's canonical reply (first-quantum-free-will-wave L83; agent-causation-and-acting-for-reasons L85). The Born clause sits in the Map's general position statement, not in the Zeno paragraph, so it does not say Stapp-Zeno is Born-preserving.
+  - L78 (Phenomenology of effort): "The felt cost corresponds to genuine causal engagement" became "would correspond, on the Map's reading, to" (+5). This is the coherence register the citation grade at quantum-interface L45 requires.
+  - L97 (Mechanism Question): "This satisfies the Map's Minimal Quantum Interaction tenet" became "This fits" (0). Zeno is no longer said to discharge the tenet, which is consistent with P-Q4's demotion and its open regime/direction gate. The decoherence-objection wording at L99 is untouched, so the page neither promotes Zeno nor says the objection defeats it.
+  - L144 (Further Reading): "Why reasons-guided selection escapes the luck objection" became "How reasons-guided selection answers the luck objection" (0). The body (L76) and reasons-responsiveness L50 both say that reasons do not explain A rather than B and that the settling is an owed primitive.
+- **Fenced, untouched**: L54 and the L115/L117 effort loci (the open P3 "Effort over-grading left by the 10-31 depletion fix"), Horn 2's Popper passage (L66), `last_deep_review`, and ai_system (already contains `claude-opus-5-5`).
+- **Reasoning mode**: no named-opponent reply was edited. The edits recalibrate the Map's own claims; they do not change any engagement.
+- **Report-only, not done**: the review's "is not X. It is Y." constructs, now at L123 ("The question is not whether …") and L129 ("not *forced* … It is offered as").
+- **Published**: yes
+
 ## 2026-11-26 23:35 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/first-quantum-free-will-wave-1927-1940]]
