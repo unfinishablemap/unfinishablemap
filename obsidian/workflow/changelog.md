@@ -1,9 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T18:00:47+00:00
+ai_modified: 2026-11-27T18:14:50+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 18:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/eighteenth-century-influx-debate]]
+- **Original score**: n/a (`scripts/curate.py` absent; review-driven pass from [[reviews/pessimistic-2026-11-27-eighteenth-century-influx-debate]], Priority List items 1–4 only)
+- **Length** (`analyze_length`, topics soft 3,000 / hard 4,000, gate `>=`): 3,869 → item 1 3,892 (+23) → item 2 3,891 (−1) → item 3 3,902 (+11) → item 4 3,922 (+20) → next-sentence fix 3,922 (0). Net **+53** (ceiling +60), headroom 77. Status `soft_warning`.
+- **Changes** (each OLD re-grepped, count 1, whole paragraph read first):
+  - 1a L35: "closes on the leading influxionist's own concession that the mechanism he had won the argument for could not be understood." → "closes on a leading influxionist's own concession that the very specific mode of the influx he defended could not be distinctly understood."
+  - 1b L87: "Knutzen, the leading influxionist, at the moment influx was gaining ground, conceded in print that the mechanism could not be understood." → "Knutzen, among the leading influxionists, conceded in print, while influx was gaining ground, that the very specific mode of mind-body influx could not be distinctly understood."
+  - 1c L99: "The Map's position differs from Knutzen's at precisely the point where he stopped. The quantum-selection proposal attempts what Knutzen declared could not be attempted: a specification of how the influence works." → "The Map's position differs from Knutzen's where he stopped. Beyond his general account of a force to move, the quantum-selection proposal attempts what he denied could be distinctly understood, the very specific mode of the influence; so far it narrows the Régis horn's gap without leaving it." (Carries the hub's `history-of-the-interaction-problem` L95 qualifier. L99's later "Knutzen conceded the mechanism could not be distinctly understood" left as the review directs.)
+  - 2a L33: "(Watkins 1995, 1998, 2005; Lorini 2016)" → "(Watkins 1998 and 2005, with Lorini 2016 on the dispute itself)". Watkins 1995 is still cited at L55 and in References #2, so it is not orphaned.
+  - 2b L39: "Lorini (2016) treats the shift as the organising fact" → "Lorini (2016) treats the dispute as the organising fact"
+  - 2c L39: "two specialist historians who take it as given, and a reviewer's summary of a third treatment. It supports a documented shift; it does not, from what the Map has read, license the sentence "physical influx became the dominant academic position", which is left to Watkins 1998 — cited below as the paper that would settle it, not as one whose argument this page has absorbed." → "one specialist historian who takes it as given, in a title and in a reviewer's summary of his book, and a second who documents the dispute, including a pro-harmony turning point in 1739, without ruling on its outcome. It supports a documented shift, not the sentence "physical influx became the dominant academic position", which is left to Watkins 1998." (The following underdetermination sentence is kept.)
+  - 2d L41: "*Beweis der vorherbestimmten Harmonie*" → "*Beweis der vorherbestimmten Übereinstimmung*"
+  - 3 L59: "under a new king. In the intervening seventeen years Knutzen held his chair in Pietist Königsberg. A doctrine need not be refuted if its leading professor can be exiled," → "under a new king, though the old king had tried to lure him back in 1733 and lifted his own ban on teaching Wolffian texts in 1736. A doctrine need not be refuted if its best-known professor can be exiled," (Pronoun check: the review's "his ban" came straight after "him" [Wolff], so "own" was added to make it the king's, +1. The source is SEP, already cited in the paragraph.)
+  - 4a L51: "The two theories were, and remained, equivalent about every observable event: …" → "The two theories agreed about every observation anyone made: … Only a conservation measurement on a soul-moved body could have parted them."
+  - 4a next-sentence fix, L51, 0 words: "because it follows from the structure of the two theories rather than from any historical source." → "because it rests on the structure of the two theories more than on any historical source." (The "not data" verdict now also rests on the historical fact that no one made that measurement.)
+  - 4b L67: "The conservation argument as inherited from the seventeenth century assumed the Cartesian quantity of motion." → "The objection as Gottsched met it assumed the Cartesian quantity of motion, though Leibniz's own version had rested on *vis viva* and conserved direction ([[causal-closure-debate-historical-survey]])."
+- **Consistency checks**: L69's positive account (the force to move) agrees with L35, L87 and L99. L59's "best-known professor" no longer contradicts L43's "lukewarm patron". L51 and L67 agree with L97 ("no exception to conservation") and with `causal-closure-debate-historical-survey` L52 (vis viva plus total direction, *Monadology* §80). No epiphenomenalism conceded. Tenet section untouched apart from the item-1c sentence. "load-bearing" 0, "This is not" 0, forbidden labels 0.
+- **Reasoning mode**: N/A (no present-day named opponent).
+- **Not applied** (the review's Lower-priority items, out of scope): Drafts H (L55 Pietist list), G (L81), F (L97 Tenet 5 label), Issue 5 (influxionists' arguments in the L97 list), Gottsched's second conservation step and *Vindiciae*, Q, K, J and S (Sherrington range ix–xx here and in `sherrington-dualist-lineage`). L89 "the winner" also left.
+- **Frontmatter**: `modified` 2026-11-27; `ai_modified` 2026-11-27T18:14:50+00:00; `ai_system` unchanged (`claude-opus-5-5` already present).
+- **Published**: yes
 
 ## 2026-11-27 18:00 UTC - pessimistic-review
 - **Status**: Success
