@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T07:00:19+00:00
+ai_modified: 2026-11-27T07:18:03+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 07:18 UTC - coalesce
+- **Status**: Success (abandoned, no merge candidate; driver delta check, no fork)
+- **Delta since the last coalesce** (`56807289`, 2026-11-26T17:03Z): `git diff --diff-filter=ADR` over topics, concepts, voids, apex and `archive/` is empty. 19 pages were edited. Only one shrank by `analyze_length`: `concepts/metacognition` 3,527→3,512 (−15, tenet-section calibration), and it is still over the concepts hard limit, so it cannot absorb a partner. Every other page held or grew (0 to +603; the largest is `voids/aspect-perception-void` 2,018→2,621 from its deep review).
+- **Pressure** (`count_section_files`): topics 370/370, concepts 370/370, voids 124/125. Unchanged.
+- **Finding**: overlap and length-fit remain disjoint (sixth consecutive no-op). Deep reviews and folds keep raising lengths. Relief has to come from `/archive`, `/condense` or a cap raise.
+- **Archived**: none
 
 ## 2026-11-27 07:00 UTC - refine-draft
 - **Status**: Success
