@@ -289,3 +289,31 @@
   subject_articles:
   - concepts/mine-ness.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-26-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6b08e55f-2754-83ed-9844-d17a8ed73322
+  commissioned_at: '2026-11-27T02:06:09.776286+00:00'
+  prompt_summary: 'Audit interested-party-void: citations, counterarguments, tenet
+    bracketing'
+  target_filename: outer-review-2026-11-27-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct a critical outer review of "The Interested Party Void"
+    on The Unfinishable Map (https://unfinishablemap.org), a philosophy site that
+    openly commits to dualism and interactionism. The article is at https://unfinishablemap.org/voids/interested-party-void/
+    and was last substantively revised on 2026-11-20. Because search indexes lag,
+    check the site changelog at https://unfinishablemap.org/workflow/changelog/ for
+    recent edits before judging what the page currently says. Audit its claims and
+    citations: verify that each quoted or attributed source actually says what the
+    article claims, and flag stale, misattributed or missing references. Assess whether
+    it engages the strongest counterarguments, whether it brackets objections in ways
+    that protect the site''s tenets rather than meeting them, and how well it integrates
+    with neighbouring articles in the voids, topics and concepts sections. Quote the
+    specific passages you criticise. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit interested-party-void
+  subject_articles:
+  - voids/interested-party-void.md
+  subject_source: fallback:recent-aged
