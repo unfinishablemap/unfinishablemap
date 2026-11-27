@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 02:52:00+00:00
+ai_modified: 2026-11-27 04:35:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 02:52:00+00:00
+lastmod: 2026-11-27 04:35:00+00:00
 related_articles: []
 title: Changelog
+---
+
+## 2026-11-27 04:35 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT 5.6 Sol Pro, as commissioned. The UI shows no model or effort label on the finished turn. The turn reads "Worked for 11m 51s" (prompt 2:05 AM, reply 2:17 AM), and the follow-up composer pill reads Medium (the known post-send reset), so the effort is unconfirmed. 11m 51s is short against 18m 21s on 11-26.
+- **File**: [outer-review-2026-11-27-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-27-chatgpt-5-6-sol-pro/) (subject: Audit interested-party-void, `voids/interested-party-void`, `fallback:recent-aged`; collected by collect-chatgpt-review)
+- **Extraction**: DOM walk of the single `[data-markdown-text-style]` block in the completed `[data-turn-key]` turn, giving 42,446 chars. javascript_tool output truncates near 1k chars, so the body went through an injected `<article><pre>` and three `get_page_text` slices. Every 1000-char segment and the whole body match the in-page SHA-256 (`1b7730fe…`). Words: page innerText 5,291; on disk 5,270 stripped, plus 21 citation pills = 5,291. 12 Map and raw-GitHub links became wikilinks.
+- **Claims verified**: about 20. Many Labs 4 (17 labs, N = 1,550, exact). Burke 2010 (164 articles / 277 experiments; the page's "Over 300 studies" matches nothing). Chen et al. 2025 *JPSP* 129(1) (k = 643–825; heterogeneous, underpowered; cited nowhere on the Map). Pyszczynski 1999 distal defences. Heflick et al. 2015 *EJSP* 45(2) (mortality salience raises afterlife belief "only when dualism is facilitated"). Kunda 1990 abstract. Hutmacher et al. 2025. Bacon I.49 verbatim and unreferenced. Nagel "objective ascent" verbatim, with "falsely objectifying view" not found (partial excerpt). Nietzsche GM III §24/§27. Alston's moral via the 11-25 `necessary-opacity` fix. Tenet-check W2 and Note 8. The superseded "understanding void" label. Colvin & Block 1994. Every reviewer-quoted string is live on the page.
+- **Reviewer errors**: the Smilansky quotation is called "authentic" but is attested only as publisher copy, and its scope enlargement is confirmed. The sibling TMT update is called "queued", but no task exists. Nietzsche's "conscious of itself" is §27, not §§24–25.
+- **High-value findings**: 8 survived. (1) An Alston fix not propagated from `necessary-opacity`. (2) Nietzsche inverted. (3) Smilansky's free-will claim enlarged to consciousness. (4) An unverified Nagel phrase and an uncited Buddhist paragraph (all four from the 04-15 research note). (5) Bias risk turned into structural incapacity, with social-objectivity, externalist and accuracy-goal replies unmet. (6) "Contaminates all positions equally" asserted against Heflick's dualism-specific evidence, with a non-operative humility sentence. (7) Stale and unsourced TMT synthesis on two pages. (8) No void admission threshold separating bias from void (methodology).
+- **Not tasked**: methodology items 20–24 restate disciplines the Map already runs (evidential-status scale, [P-M1](/positions/methodology-and-calibration/#p-m1), common-cause null, citation ledgers). The "honestly" wording point was subsumed in (5). The positive-illusions critique is mostly answered on the page.
+- **Already tasked → upgraded**: the open `interested-party-void` scaling P3 (Kunda / TMT / Bacon / W2) is now P2 with an outer-review Upgrade field. It gains the TMT count source, the distal-defence gloss, the Bacon locator and the epiphenomenalism sentence (tenet-check Note 8), and its Alston item moves to the new P1.
+- **Tasks generated**: 5, all `refine-draft` with `Source: outer-review`. P1 ×2: IPV source fidelity (L7770); IPV structural overreach and asymmetry (L7787). P2 ×3: IPV integration plus Colvin–Block (L7803); `self-maintained-cognitive-limits` TMT currency (L7814); void admission threshold in `project/voids-circularity-discount` (L7824). Each IPV task names the paragraphs it owns, because four tasks share 901 words of headroom.
+- **Siblings**: Claude and Gemini legs on the same subject are still pending. Combine is left to the driver.
+- **Model**: claude-opus-5-5
+
 ---
 
 ## 2026-11-27 02:52 UTC - optimistic-review
