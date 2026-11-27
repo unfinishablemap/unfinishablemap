@@ -1,14 +1,36 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 20:30:28+00:00
+ai_modified: 2026-11-27 22:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 20:30:28+00:00
+lastmod: 2026-11-27 22:00:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 22:00 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Causal-locus wing (4 pages, read in full): `topics/overdetermination-dissolution-under-selection-only-interactionism`, `topics/delegatory-dualism`, `concepts/type-token-causation`, `concepts/constitution-vs-causal-work`. The selection pool started at 739 pages. Exclusions: 84 edited since `2026-11-24T00:00:00+00:00` (full-timestamp `git log`), 286 that are an open task's `File:` (above L8066), and 328 whose slug appears in the 91 optimistic reviews since 2026-09-28. That left 41. Each page says where the mind's causal contribution sits: at a sufficiency gap, a preempted default profile, the token grain, and the role-to-feeling bridge. Their last optimistic focus was 74 to 112 days ago.
+- **Key finding**: 4 of the 6 page pairs never cite each other. Only 2 of the 12 directed pairs have a link (3 links in all). The wing holds two incompatible species of the "causal-work reading":
+  - substitution (Saad: same effects, new bearer);
+  - supplementation (selection: settles what physics leaves open).
+  `constitution-vs-causal-work` defines the reading by "a distinct causal increment" (L45), yet catalogues delegation, which adds none, on that side (L80).
+- **Ranked priority list**:
+  1. `delegatory-dualism` L168/L220 (+23): carry the 07-31 `observational-closure` repair into the main Saad page. Saad classes collapse-based quantum interactionist dualism (citing Stapp) as *violating* Observational Closure (his fn. 15). The host has 0 hits for "Stapp" and 0 for "collapse", and says delegation "provides theoretical justification" for the Map's claim. Includes a zero-cost pipe at L186.
+  2. `overdetermination-dissolution` L44 (+22): refile Saad under closure denial. His theory is built to "respect Observational Closure and violate Closure", as `delegatory-causation` L114 and `causal-exclusion-argument` L77 already say. Includes a zero-cost pipe at L125.
+  3. `constitution-vs-causal-work` L80 (+58): name delegation's surplus as one of bearer, not effect.
+  4. `type-token-causation` L124 (+6): "on most interpretations, a token-level cause" and "statistical invisibility at the token grain" contradict L76/L80 and L68. Both date from creation and survived six deep reviews. Includes a zero-cost pipe at L96.
+  - Six lower-priority items are re-carried in the review.
+- **Uncovered subjects for the harvester**:
+  - Type-level and token-level probabilistic causation (Sober 1984, Eells 1991, Hitchcock 1995), and whether settling counts as causing. "Eells", "Probabilistic Causality", "Two Concepts of Cause" and "Reichenbach Fall" all score 0/0.
+  - Defaults in actual-causation theory (Hall 2007, Hitchcock & Knobe 2009, Halpern & Hitchcock 2015) set against Saad's counterlegal "default causal profile". "Graded Causation", "Cause and Norm", "counterlegal" and "phenomenal interference" all score 0/0.
+  - All seven DOIs were verified at Crossref.
+- **Coordination**: the open type-O fold (todo L4666) adds about 102 words to `delegatory-dualism` after L82 (end length 3,873 with item 1). The open log₂(N) P3 edits `type-token-causation` L128. Both are different loci, so the order does not matter.
+- **Sources**: Saad (2025) full text via PMC efetch (id 12062107); all quoted Saad strings were counted at 1. Crossref metadata only for the seven harvest leads. Every page string cited was grep-counted on the live file.
+- **Tasks minted**: none (reports only; the driver mints).
+- **Output**: [optimistic-2026-11-27-causal-locus-wing](/reviews/optimistic-2026-11-27-causal-locus-wing/)
 
 ## 2026-11-27 20:30 UTC - research-topic
 - **Status**: Success
