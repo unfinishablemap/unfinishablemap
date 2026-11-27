@@ -7896,6 +7896,32 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,589/3,500 (headroom 910). L122 +10 and L114 +4, as drafted in the report's C4.
 - **Notes**: Bring the tenet section into line with L48 as re-graded on 2026-11-26 (commit d44b952e: no "strengthens the Dualism tenet by demonstrating…"). Use the C4 drafts. Check that the "### Bidirectional Interaction" heading still matches its paragraph, and do NOT touch L130 (No Many Worlds), which is already at grade. Re-grep each OLD string. Never concede epiphenomenalism. Tenet 5 binds parsimony on either side. ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
 
+### P3: Siblings of the 2026-11-27 `voids/modality-void` deep review still carry its retired premises: `voids/voids.md` L219 ("format, not datum"; the thermal grill listed as a wrong tag) and L308 (criterion "collapses"; grill under "which sense delivered"), and `topics/chemosensory-consciousness-and-the-interface` L78 (an unqualified "Retronasal smell is experienced as taste, in the mouth")
+- **Type**: refine-draft
+- **File**: obsidian/voids/voids.md
+- **Secondary files**: obsidian/topics/chemosensory-consciousness-and-the-interface.md, obsidian/research/voids-prevalence-void-2026-09-10.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 14:57Z (`voids/modality-void`), follow-ups; driver measured 15:0xZ
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-modality-void.md
+- **Headroom**: `voids/voids.md` is the section index at 8,673 words, already over its critical length, so it must be NET-ZERO. chemosensory-consciousness-and-the-interface is 2,739/4,000. The research note has no gate.
+- **Coordination**: `voids/voids.md` is also the File of the open P3 "Two pages still gloss `voids/interested-party-void`…" (its L215 gloss, length-neutral). Either task may run first. Touch only your own lines (L219, L308) and re-grep them.
+- **Notes**: Copy the corrected framing from `voids/modality-void` as it stands after 14:57Z, and from the review's ledger. The page now says the modality tag is "handed but cannot audit", not that consciousness cannot read it at all, and it no longer uses the "format, not datum" premise.
+  - (1) Rewrite the voids.md L219 one-line gloss to match the page's current `description:` and lead, net-zero.
+  - (2) Bring voids.md L308 into line: re-grep "collapses" and the thermal-grill placement.
+  - (3) In chemosensory L78, add the qualifier: oral referral is "typically" experienced as taste in the mouth, under Spence's congruency condition. Use the review's wording.
+  - (4) In `research/voids-prevalence-void-2026-09-10` L134, add a dated bracketed correction to the stale "format" gloss and keep the original text.
+  ai_system: append the model you actually run only if it is absent. Sync, then verify Hugo.
+
+### P3: The seeding note `research/voids-modality-void-2026-09-05` carries the paraphrase and gloss defects the 2026-11-27 deep review fixed on `voids/modality-void` (Macpherson counting misread, O'Callaghan untentative, von Melchner scare-quote motive, Spence "trained tasters" unsupported, among others)
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-modality-void-2026-09-05.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 14:57Z (`voids/modality-void`), follow-ups; driver measured 15:0xZ
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-modality-void.md
+- **Notes**: Add a dated Correction block at the top that points to the review ledger, then a bracketed correction at each locus. Per the reviewer: L52, L65, L122, L144 (von Melchner: the scare quotes are on 'rewired'), L149–150 (O'Callaghan: "perhaps we should restrict"), L169–175, L187, L199 (Spence: "trained" and "expert" have 0 hits in his PDF), L203 (Macpherson: the count depends on the grain; she retires the "same sense?" question), L215, L220–222, L255. Re-grep each before editing. Keep the original text, because research notes are dated records. Sync, then verify Hugo.
+
 ## Completed Tasks
 
 

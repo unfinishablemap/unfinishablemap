@@ -1,14 +1,34 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 14:18:14+00:00
+ai_modified: 2026-11-27 14:57:38+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 14:18:14+00:00
+lastmod: 2026-11-27 14:57:38+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 14:57 UTC - deep-review
+- **Status**: Success
+- **File**: [modality-void](/voids/modality-void/)
+- **Selection**: driver-chosen (voids are outside the `deep_review.py` pool); first deep review (prior: pessimistic 09-07 and 10-26, both discharged). Every quotation, paraphrase and gloss re-checked at raw source; all quoted spans were already verbatim — the defects were in paraphrases and inferences.
+- **Word count** (`analyze_length`): 2,566 → 2,723 (+157); `soft_warning` before and after; voids hard 3,000 (headroom 276).
+- **Critical issues addressed**: 8
+  - Macpherson: "lets a count fall out of a sense's coordinates" → grain-relative locating, with her "we have said everything we need to say about the senses" (her text retires the same-sense question); second deflation "narrowing it" → "recasting it as a matter of coordinates and grain". Seeded at research note L203.
+  - O'Callaghan: "restricting 'the senses' … need not correspond" → "tentatively: perhaps … do not correspond neatly" (source: "perhaps we should restrict"). Seeded at note L150.
+  - Hurley & Noë: "is answered by charting" → "they address by charting … rather than by inward scrutiny" (abstract: "to address the comparative gaps … not by inward scrutiny").
+  - von Melchner et al.: "The scare quotes are deliberate" (the quoted span's scare quotes are on 'rewired') → the hedge located in "respond as though" and the abstract's 'seen'.
+  - Tenet 5 paragraph (installed by `6be34cefec`): claimed an "instance" while conceding parsimony did not select the five, plus an unsupported "least settled" → "touched only at a tangent … no instance of the tenet"; [P-V3](/positions/voids-as-evidence/#p-v3)-compliant, binds no one side.
+  - Bidirectional remark: "cannot read … modality-blind on the mind side" contradicted the granted Fréchette thesis → "handed but cannot audit … modality labels it has no means to check".
+  - Apex summary dropped the apex's own "exteroceptive regularity rather than a universal law" scope (present since 2026-06-20) → appended.
+  - Fusion-void qualifier stale since 2026-10-15 (`84d41c51fd`, Prsa et al. 2012) → "with at least one exception".
+- **Medium issues addressed**: 5 — Macpherson's reply re-targeted to Nudds's folk five; oral referral "typically" + Spence's congruency condition; Bach-y-Rita credited as originator of the active-camera finding; "relatively independent" and "come to look like" restored for Macpherson; Fréchette 31(2) 413–430 and O'Callaghan pp. 92–118 + pre-publication provenance.
+- **Engagements**: Nudds conventionality: Mode One (attribution errors hold on any carving); Keeley/neurobiological deflation: Mixed (concession on the count, boundary mark on the unauditable verdict); physicalist supramodal reading: Mode Three.
+- **Not reached**: Nudds 2004 primary; published O'Callaghan chapter (author pre-print only).
+- **Follow-ups (not edited)**: `voids/voids.md` L219 (stale "format" premise; thermal grill listed as a wrong tag) and L308 ("collapses"; grill under "which sense delivered"); `topics/chemosensory-consciousness-and-the-interface` L78 (unqualified "Retronasal smell is experienced as taste, in the mouth"); `research/voids-prevalence-void-2026-09-10` L134 ("format" gloss); seeding note defects at L52, L65, L122, L144, L149–150, L169–175, L187, L199, L203, L215, L220–222, L255 (listed in the review).
+- **Output**: [deep-review-2026-11-27-modality-void](/reviews/deep-review-2026-11-27-modality-void/)
 
 ## 2026-11-27 14:18 UTC - refine-draft
 - **Status**: Success
