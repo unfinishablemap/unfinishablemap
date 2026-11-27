@@ -7720,6 +7720,38 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Headroom**: 2,528/3,500 (concepts hard). About +20. Re-measure first.
 - **Notes**: Torres Alegre's (2025) result is restricted to finite dimensions and to rules of the form P = Φ(τ). It holds "combined with standard reconstruction results", and a rule conditioned on anything beyond τ falls outside its class. This page's L51 states those restrictions, but L38 and L67 drop them. Scope both, copying the restrictions from L51 or from `concepts/generalised-probabilistic-theories` L64 (fixed 2026-11-27). Re-grep the strings first. If the page cites the 2026 follow-up (arXiv:2602.09056), present it as the same author's follow-up, not independent support. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
 
+### P3: Live siblings of the 2026-11-27 `voids/meaning-void` deep review. The phenomenal-transparency spectrum page inverts Metzinger (thought's referential mechanism "transparent"; Metzinger calls cognitive reference phenomenally OPAQUE). `concepts/intentionality` and `apex/machine-question` credit Haugeland's original/derived distinction to Searle. A naturalisation page credits Hutto & Myin's sentence to their reviewer. `voids/voids.md` says both faces "resist physical reduction".
+- **Type**: refine-draft
+- **File**: obsidian/concepts/phenomenal-transparency-opacity-spectrum.md
+- **Secondary files**: obsidian/concepts/intentionality.md, obsidian/apex/machine-question.md, obsidian/topics/the-naturalisation-failure-for-content.md, obsidian/voids/voids.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 01:38Z (`reviews/deep-review-2026-11-27-meaning-void`), follow-ups; driver grep-verified 01:4xZ
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-meaning-void.md
+- **Headroom**: spectrum 3,042/3,500; intentionality 3,491/3,500 (8 words, so this edit must be LENGTH-NEUTRAL); machine-question 5,923 against apex hard 5,000 (ALREADY OVER, so NET NEGATIVE only); naturalisation-failure 3,925/4,000 (about neutral); voids.md is the section index (length-neutral). Re-measure all of them.
+- **Notes**: Copy the verified wording from `voids/meaning-void` (2026-11-27) and the review's ledger. Re-grep each locus.
+  - (1) `concepts/phenomenal-transparency-opacity-spectrum` L105–109: "The referential mechanism is transparent" inverts Metzinger. His own German 2003 text calls deliberate thought "the paradigmatic example" of opaque states ("Kognitive Referenz ist phänomenal undurchsichtig"), and Limanowski & Friston 2018 say the same in English. Also update the stale L129 description of meaning-void.
+  - (2) `concepts/intentionality` L137: "John Searle distinguishes between *original* and *derived* intentionality". The original/derivative wording is Haugeland's, in his 1980 *BBS* commentary. Searle's reply in the same issue: "Haugeland's distinction between original and derivative intentionality is somewhat like mine between intrinsic intentionality and observer-relative ascriptions of intentionality." Re-attribute at zero net. `apex/machine-question` L100 implies the same, so fix it at net negative.
+  - (3) `topics/the-naturalisation-failure-for-content` L67: "As Roberts puts the worry, 'biology lacks the resources…'". Roberts's NDPR review quotes that sentence as Hutto & Myin's own (2013, p. 79). Re-attribute it to Hutto & Myin, as quoted in Roberts's review.
+  - (4) `voids/voids.md` L186: "Both faces resist physical reduction" should become "have so far resisted", matching meaning-void's corrected lead.
+  ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
+### P3: Archived predecessors and seeding notes of `voids/meaning-void` carry the defects the 2026-11-27 deep review fixed: the Metzinger inversion, Pitt's gloss, Haugeland-as-Searle, "felt sense" credited to Gendlin 1962, an unverified IEP quote, and a "gap in nature" sentence in Wikipedia's wording credited to Levine
+- **Type**: refine-draft
+- **File**: archive/voids/intentionality-void.md
+- **Secondary files**: archive/voids/semantic-void.md, obsidian/research/voids-intentionality-void-2026-02-05.md, obsidian/research/intentionality-consciousness-2026-01-14.md, obsidian/research/voids-semantic-void-2026-02-17.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 01:38Z (`reviews/deep-review-2026-11-27-meaning-void`), follow-ups; driver grep-verified 01:4xZ
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-meaning-void.md
+- **Notes**:
+  - ARCHIVE pages, which are still served: `archive/voids/intentionality-void.md` repeats defects 1–3 (L46, L52, L90: the Metzinger transparency inversion, the Pitt gloss, and "original vs derivative" credited to Searle). `archive/voids/semantic-void.md` L84–88 credits "felt sense" to the 1962 book; its term is "felt meaning". Add a one-line dated editor's note under each archive notice pointing to the corrected `voids/meaning-void`, or make minimal re-attributions. Keep the archive notice and URL intact.
+  - RESEARCH NOTES: add a dated Correction line to each and flag, without deleting:
+    - `voids-intentionality-void-2026-02-05`: the Pitt gloss and an unverified IEP "no widely accepted solution" quote.
+    - `intentionality-consciousness-2026-01-14`: the same IEP quote.
+    - `voids-semantic-void-2026-02-17`: a "gap in nature" sentence that reads like Wikipedia's wording rather than Levine's (also in two other research notes; grep and flag them too), plus an unverified Gendlin quote that has spread into `archive/voids/semantic-void`.
+  - Copy verified wording from the review's citation ledger. Sync and verify both trees.
+
 ## Completed Tasks
 
 

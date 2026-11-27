@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T01:38:08+00:00
+ai_modified: 2026-11-27T01:49:20+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 01:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-cognitive-distinctiveness]]
+- **Original score**: n/a (`scripts/curate.py` absent; targeted single-clause fix)
+- **Word count** (`tools.curate.length.analyze_length`; topics hard 4,000, gate `>=`): 3,984 → 3,984 (net 0).
+- **Changes**: L88 closing clause recast from causal form to the Map's narrower claim as a hypothesis. Was: "great apes rarely teach precisely because they do not represent their own skills as knowledge another lacks, which is why the ratchet rarely engages." Now: "if apes do not declaratively represent their own skills as knowledge another lacks, that would help explain both teaching's rarity and the weak ratchet." This brings the page in line with `concepts/teaching-as-metarepresentation`: L61 (functional-teaching rarity tracks ecology, so it does not evidence representational absence), L83 (the ape deficit narrowed to the *declarative* use of belief-tracking, hence "declaratively"), and L91 (Zwirner & Thornton 2015: teaching useful but not essential to the ratchet, hence the metarepresentation deficit as a shared explanation of both and "help explain" rather than a teaching-driven cause). The existing `[[teaching-as-metarepresentation|Teaching]]` pipe already rides on existing words, so no link was added. The Whiten (2015) sentences fixed on 2026-10-28 are untouched, and no "phase transition" wording was added or removed. Pronoun check: "that" refers to the conditional, and the next line opens a new paragraph.
+- **Review file**: reviews/deep-review-2026-10-12-teaching-as-metarepresentation.md
+- **Operator note (not acted on)**: the unsupported "Whiten (2015) documents that ape cultural transmission lacks the ratchet effect" sentence remains in `archive/topics/consciousness-threshold-in-cognitive-evolution.md` and `archive/topics/consciousness-and-intelligence.md` (archive edits governed by publication-policy NEEDS-HUMAN).
+- **Published**: yes
 
 ## 2026-11-27 01:38 UTC - deep-review
 - **Status**: Success
