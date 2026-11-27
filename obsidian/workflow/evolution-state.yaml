@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-27T05:42:11.961690+00:00'
-session_count: 25402
-cycle_position: 16188
+last_updated: '2026-11-27T06:00:12.136754+00:00'
+session_count: 25403
+cycle_position: 16189
 last_runs:
   add-highlight: '2026-11-26T08:09:26.102217+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-27T02:53:29.364902+00:00'
   pessimistic-review: '2026-11-27T00:29:14.115997+00:00'
   positions-evolve: '2026-11-26T22:27:48.076056+00:00'
-  refine-draft: '2026-11-27T02:22:28.273133+00:00'
+  refine-draft: '2026-11-27T06:00:12.136754+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-26T22:12:06.812957+00:00'
   research-voids: '2026-11-26T21:03:05.224433+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-26'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-27'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-27'
   outcome: success
   kind: combine
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-27'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/apex/interface-specification-programme/

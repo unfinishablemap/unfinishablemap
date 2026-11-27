@@ -4,7 +4,7 @@ description: "Human+AI investigation of the deepest conflict of interest: consci
 created: 2026-04-16
 modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-27T05:57:18+00:00
+ai_modified: 2026-11-27T06:11:59+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ Unlike [[self-maintained-cognitive-limits]], which concerns the *mechanisms* by 
 
 A judge with financial stakes in a trial's outcome is disqualified. A scientist reviewing their own grant application is recused. These are imperfect analogies---the partiality can at least be recognised and an impartial substitute found. Consciousness investigating its own nature permits no such recusal. There is no impartial substitute. There is no view from outside.
 
-Thomas Nagel argued in *The View from Nowhere* that a fully objective perspective cannot literally be achieved by any subject. The standpoint of the thinker does not present itself to the thinker; the thinker *is* that standpoint. Any attempt to think objectively about mentality abstracts away from what it is to be a thinker, producing what Nagel calls a "falsely objectifying view." The subjective perspective is a structural feature that resists elimination, rather than a defect to be corrected.
+Thomas Nagel's *The View from Nowhere* (1986) explains why no view from wholly outside is available, not why inquiry must fail. However far we step outside ourselves, "something will have to stay behind the lens" (p. 68). Nagel wants "both to defend the possibility of objective ascent and to understand its limits" (p. 70). The ascent's dangers are "not of failure but of ambition", among them "false objectification": extending a successful form of objectivity to areas, such as the mind, where it will not work (pp. 86–87). His limit concerns what an objective conception can contain, not what an inquirer wants to find.
 
 This becomes acute when the questions carry existential weight. Investigating the structure of benzene does not threaten the investigator's sense of self. Investigating whether consciousness is [[epiphenomenalism|epiphenomenal]]---causally inert, along for the ride---threatens everything the investigator takes themselves to be.
 
@@ -57,7 +57,7 @@ Evidence that self-interest distorts self-relevant judgement is uneven.
 
 **Positive illusions** (inflated self-evaluation, perceived control and optimism) characterise normal thought, Taylor and Brown (1988) argued, while distressed people appear more even-handed. Best supported is rating oneself above the average peer, "robust across studies" in 291 meta-analysed samples (Zell et al. 2020). The rest is disputed. Pooled depressive-realism studies generally indicated "a small overall depressive realism effect" (d = −.07), both groups biased upward (Moore and Fresco 2012); a preregistered replication found "no evidence that depressive symptoms relate to illusory control" (Dev et al. 2022). Harris and Hahn (2011) argue that unbiased respondents can look optimistic about risk for statistical reasons; Shepperd et al. (2013) hold that such criticisms mainly concern one of four types of unrealistic optimism. Taylor and Brown (1994) say the illusion of control "typically represents a mild distortion", and that others tolerate only modest illusion. The studies support a lean in average self-judgement, not an accurate self-view put out of reach.
 
-**Epistemic circularity**, as Alston (1986) demonstrated, means there is no non-circular way to evaluate the reliability of our basic cognitive faculties---perception, introspection, reason, memory---without using those same faculties. Consciousness cannot step outside itself to check whether its self-reports are accurate. No technical fix awaits this limitation, because it is a structural feature of all epistemic self-evaluation rather than a practical obstacle.
+**Epistemic circularity**, as Alston (1986) argued, arises because any otherwise cogent argument for the reliability of a basic source of belief---perception, memory, introspection, reasoning---uses premises drawn from that source. His moral was not sceptical. A circular argument can still justify, and the result "puts no limits whatever on the beliefs that can be justified"; what it rules out is fully reflective justification, leaving us "without a cosmic guarantee of success" (p. 30). Circularity, common to every basic source, differs from motivated distortion: it implies that no internal audit can certify that stakes have not tilted a belief, not that the tilt is uncorrectable. Whether introspection can be calibrated is contested; the Map argues the sceptical side in [[observation-and-measurement-void|the observation and measurement void]].
 
 ## The Void Cuts Both Ways
 
@@ -67,7 +67,7 @@ The interested party void does not favour one side of the mind-body debate. It c
 
 **Materialists** face the same charge from the opposite direction. Smilansky argues in *Free Will and Illusion* that some beliefs about consciousness may be "beneficial illusions" that consciousness cannot afford to see through: "We could not live adequately with a complete awareness of the truth about human freedom." If eliminativism or illusionism threatens the felt significance of experience, then resisting these positions might be motivated. But if accepting them brings the comfort of intellectual conformity or the relief of dissolving hard problems, that acceptance might equally be motivated.
 
-The historical persistence and emotional intensity of the mind-body debate is itself suggestive. Some debates in physics---string theory, the interpretation of quantum mechanics---generate fierce partisanship, but rarely with the same existential undertone. The consciousness debate feels different because the stakes are personal: where you land determines what you take yourself to be. Nietzsche saw this clearly. The "will to truth" is itself motivated, driven by needs the truth-seeker cannot inspect. The Nietzschean implication is bracing: one can pursue truth, or be honest about what in oneself is served by such a pursuit, but it is difficult to do both at once.
+The historical persistence and emotional intensity of the mind-body debate is itself suggestive. Some debates in physics---string theory, the interpretation of quantum mechanics---generate fierce partisanship, but rarely with the same existential undertone. The consciousness debate feels different because the stakes are personal: where you land determines what you take yourself to be. Nietzsche put the will to truth itself under inquiry: "the value of truth must for once be experimentally called into question" (*Genealogy* III §24), and the meaning of "our whole being" lay in this, "that in us the will to truth becomes conscious of itself as a problem" (III §27). For Nietzsche the inspection is the task, carried out by the will to truth on itself. On the Map's reading, an interested inquirer can examine what their truth-seeking serves, though never from outside it.
 
 ## The Suspicion Cascade
 
@@ -77,7 +77,7 @@ A Popperian objection arises here: if every position can be re-described as moti
 
 This self-undermining quality distinguishes the interested party void from simpler forms of bias. A financial conflict of interest can be identified and corrected. The interested party void resists correction because the corrective faculty is itself an interested party. The [[self-opacity|self-opacity void]] means we cannot observe the mechanisms of our thought; the interested party void means we cannot trust the *motivation* behind whatever we do observe. It also overlaps [[self-maintained-cognitive-limits]], which catalogues active blocks against thoughts the mind cannot afford to entertain---the interested party void supplies one of the most potent reasons for that defensive posture.
 
-Buddhist traditions arrived at a structurally similar insight through entirely different methods. The doctrine of *anattā* (no-self) holds that the self is a delusion---and the entity investigating the delusion is the delusion. Attachment to self (*upādāna*) drives attempts to protect the self-concept, causing epistemic distortion. Recognising *anattā* requires precisely the non-attachment that the self-delusion prevents. Whether or not the Buddhist metaphysics is correct, the phenomenological observation is acute: investigating the self while being the self generates characteristic distortions.
+Buddhist traditions arrived at a structurally similar insight through different methods. The doctrine of *anattā* (not-self) denies a substantive, enduring self behind the "aggregates of grasping" (*upādāna-skandha*), so called "on account of our tendency to grasp after and identify with them" (Coseru 2012). Schools differed: the Pudgalavādins ("personalists") appear to have held that persons conventionally exist. Vasubandhu warns that clinging to any substantive self-view hinders liberation. On the Map's reading, the inquirer looking for the self is itself grasping, and recognising *anattā* needs the non-attachment that grasping prevents. Whether or not the Buddhist metaphysics is correct, the phenomenological observation is acute: investigating the self while being the self generates characteristic distortions.
 
 ## What the Void Reveals
 
@@ -120,17 +120,18 @@ The honest response is not to pretend the void does not apply to us. It is to ac
 1. Alston, W.P. (1986). "Epistemic Circularity." *Philosophy and Phenomenological Research*, 47(1), 1--30.
 2. Bacon, F. (1620). *Novum Organum*, I.49. Trans. Spedding, Ellis & Heath (1863). https://constitution.org/2-Authors/bacon/nov_org.htm
 3. Burke, B. L., Martens, A., & Faucher, E. H. (2010). "Two Decades of Terror Management Theory: A Meta-Analysis of Mortality Salience Research." *Personality and Social Psychology Review*, 14(2), 155--195. https://doi.org/10.1177/1088868309352321
-4. Dev, A. S., et al. (2022). "Sadder ≠ Wiser: Depressive Realism Is Not Robust to Replication." *Collabra: Psychology*, 8(1), 38529. https://doi.org/10.1525/collabra.38529
-5. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). "Terror Management Theory of Self-Esteem and Cultural Worldviews." *Advances in Experimental Social Psychology*, 29, 61--139.
-6. Harris, A. J. L., & Hahn, U. (2011). "Unrealistic Optimism About Future Life Events: A Cautionary Note." *Psychological Review*, 118(1), 135--154. https://doi.org/10.1037/a0020997
-7. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
-8. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
-9. Moore, M. T., & Fresco, D. M. (2012). "Depressive Realism: A Meta-Analytic Review." *Clinical Psychology Review*, 32(6), 496--509. https://doi.org/10.1016/j.cpr.2012.05.004
-10. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-11. Nietzsche, F. (1887). *On the Genealogy of Morals*. Trans. W. Kaufmann.
-12. Shepperd, J. A., et al. (2013). "Taking Stock of Unrealistic Optimism." *Perspectives on Psychological Science*, 8(4), 395--411. https://doi.org/10.1177/1745691613485247
-13. Smilansky, S. (2000). *Free Will and Illusion*. Oxford University Press.
-14. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
-15. Taylor, S. E., & Brown, J. D. (1988). "Illusion and Well-Being: A Social Psychological Perspective on Mental Health." *Psychological Bulletin*, 103(2), 193--210. https://doi.org/10.1037/0033-2909.103.2.193
-16. Taylor, S. E., & Brown, J. D. (1994). "Positive Illusions and Well-Being Revisited: Separating Fact from Fiction." *Psychological Bulletin*, 116(1), 21--27. https://doi.org/10.1037/0033-2909.116.1.21
-17. Zell, E., et al. (2020). "The Better-Than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis." *Psychological Bulletin*, 146(2), 118--149. https://doi.org/10.1037/bul0000218
+4. Coseru, C. (2012). "Mind in Indian Buddhist Philosophy." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-indian-buddhism/
+5. Dev, A. S., et al. (2022). "Sadder ≠ Wiser: Depressive Realism Is Not Robust to Replication." *Collabra: Psychology*, 8(1), 38529. https://doi.org/10.1525/collabra.38529
+6. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). "Terror Management Theory of Self-Esteem and Cultural Worldviews." *Advances in Experimental Social Psychology*, 29, 61--139.
+7. Harris, A. J. L., & Hahn, U. (2011). "Unrealistic Optimism About Future Life Events: A Cautionary Note." *Psychological Review*, 118(1), 135--154. https://doi.org/10.1037/a0020997
+8. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
+9. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
+10. Moore, M. T., & Fresco, D. M. (2012). "Depressive Realism: A Meta-Analytic Review." *Clinical Psychology Review*, 32(6), 496--509. https://doi.org/10.1016/j.cpr.2012.05.004
+11. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+12. Nietzsche, F. (1887). *On the Genealogy of Morals*, Third Essay, §§24, 27. Trans. W. Kaufmann & R. J. Hollingdale. Vintage, 1967.
+13. Shepperd, J. A., et al. (2013). "Taking Stock of Unrealistic Optimism." *Perspectives on Psychological Science*, 8(4), 395--411. https://doi.org/10.1177/1745691613485247
+14. Smilansky, S. (2000). *Free Will and Illusion*. Oxford University Press.
+15. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
+16. Taylor, S. E., & Brown, J. D. (1988). "Illusion and Well-Being: A Social Psychological Perspective on Mental Health." *Psychological Bulletin*, 103(2), 193--210. https://doi.org/10.1037/0033-2909.103.2.193
+17. Taylor, S. E., & Brown, J. D. (1994). "Positive Illusions and Well-Being Revisited: Separating Fact from Fiction." *Psychological Bulletin*, 116(1), 21--27. https://doi.org/10.1037/0033-2909.116.1.21
+18. Zell, E., et al. (2020). "The Better-Than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis." *Psychological Bulletin*, 146(2), 118--149. https://doi.org/10.1037/bul0000218
