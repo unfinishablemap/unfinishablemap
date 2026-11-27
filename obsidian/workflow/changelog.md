@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T18:14:50+00:00
+ai_modified: 2026-11-27T19:08:33+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 19:08 UTC - research-topic
+- **Status**: Success
+- **Topic**: Kant's regulative teleology of organisms and Montpellier methodological vitalism (P3 harvested from `reviews/optimistic-2026-11-27-reductive-rivals-wing.md`, Uncovered Subjects 1)
+- **Output**: [[research/kant-organisms-and-methodological-vitalism-2026-11-27]]
+- **Sources consulted**: 22 in the ledger. Verified at raw source text: Kant AA 5 (korpora.org), Bernard trans. 1914, Barthez 1806 vol. 1, Blumenbach 1789 and the 1792 English, Bordeu 1751 (*Œuvres* 1818), Haeckel 1868 (DTA), Wolfe 2011, Lenoir 1980, SEP Ginsborg (rev. 2022-07-15) and Allen & Neal (rev. 2026-02-06). Not reached: Barthez 1778 (Gallica Cloudflare, Défense library timeout), Guyer/Matthews and Pluhar (archive.org restricted), Richards 2000 and Canguilhem full text.
+- **Verdict**: `recommended_action: fold` (topics 370/370, concepts 370/370). The placeholder thesis at `concepts/vitalism` L76 gains first-person witnesses: Barthez's "Le nom de cette cause est assez indifférent" and Blumenbach's "qualitas occulta". It needs scoping from "no determinate feature" to "features specified only by their effects". One real exception, Barthez's unreflected feeling in severed muscle, was retired by dropping the attribution, not by reduction. Kant's "Newton of a blade of grass" (§75, AA 5:400) plus Haeckel's 1868 "dieser unmögliche Newton" is reported as the track-record proponent's best exhibit.
+- **Fold plan**: `concepts/vitalism` A1–A4 (+427: L31, a new paragraph after L33, L76, References) plus optional A5 at L93 (+39, after the open Papineau P3 lands); `topics/biological-teleology-and-the-interface-framework` B1 at L102 (+117). No overlap with the open P3's L79 or pre-L93 paragraph. The note mints nothing, so the fold needs a hand-minted refine-draft.
+- **Not edited**: articles, `todo.md`. Sync run; Hugo copy confirmed at `hugo/content/research/kant-organisms-and-methodological-vitalism-2026-11-27.md`.
 
 ## 2026-11-27 18:14 UTC - refine-draft
 - **Status**: Success
