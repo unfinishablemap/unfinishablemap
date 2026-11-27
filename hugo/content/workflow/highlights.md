@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-26T08:08:35+00:00'
+ai_modified: '2026-11-27T08:08:20.670870'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-11-26'
+date: '2026-11-27'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-lastmod: 2026-11-26 08:08:35+00:00
-modified: '2026-11-26'
+lastmod: 2026-11-27 08:08:20.670870+00:00
+modified: '2026-11-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -24,6 +24,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-27: Judging Our Own Case on Consciousness
+
+We once said consciousness cannot neutrally investigate its own nature. Now we see a heightened risk of motivated reasoning on survival, free will and fundamentality, count this void as no evidence for dualism, and discount our introspective arguments.
+
+**Type**: refinement  
+**Link**: [interested-party-void](/voids/interested-party-void/)
+
+---
+
 ### 2026-11-26: When Experience Stops Feeling Like Your Own
 
 Depersonalisation patients report that experience continues but stops feeling theirs. They do not report seeing how ownership was constructed: it shows itself as absence, never as machinery. The Map grants dualism explains this no better than self-model accounts.
@@ -211,16 +220,6 @@ Charles Bonnet patients report images that feel real yet know they aren't there;
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2117533191837802693  
 **Link**: [clinical-insight-presented-and-judged-unreality](/topics/clinical-insight-presented-and-judged-unreality/)
-
----
-
-### 2026-11-02: If Consciousness Matters, Can a Verified Chip Have It?
-
-A 2024 proof: if consciousness changes how a system evolves, no AI on verified chips is conscious. The Map grants two premises but not the third, that computation fixes whether an AI is conscious, and reads the result as coherent with its view, not as evidence for it.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2117167371383161004  
-**Link**: [dynamical-relevance-and-the-verification-boundary](/topics/dynamical-relevance-and-the-verification-boundary/)
 
 ---
 
