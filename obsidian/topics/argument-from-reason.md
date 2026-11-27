@@ -2,9 +2,9 @@
 title: "The Argument from Reason"
 description: "If thoughts are fully explained by physical causes, no belief is rationally justified—including physicalism itself. A self-defeat argument for dualism."
 created: 2026-01-23
-modified: 2026-11-15
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-15T19:19:20+00:00
+ai_modified: 2026-11-27T13:49:06+00:00
 draft: false
 last_deep_review: 2026-07-26T00:06:51+00:00
 topics:
@@ -148,13 +148,13 @@ The argument from reason supports three of the Map's five tenets—conditionally
 
 **[[tenets#occams-limits|Occam's Razor Has Limits]]**: Physicalism appears simpler—one ontological category instead of two—but the simplicity is self-stultifying. A metaphysics that could not account for rational justification could not be *rationally accepted*; it is illusory economy when it eliminates the conditions for rational belief. This exemplifies how Occam's Razor misleads when knowledge is incomplete: the "simpler" theory undermines the very reasoning that might justify it.
 
-The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds, but it argues that consciousness must have causal efficacy—for which the [[stapp-quantum-mind|quantum interface]] explains *how* that efficacy might operate without violating conservation laws, while the [[attention-as-interface|attention mechanism]] supplies the phenomenological correlate: intellectual effort may be the felt character of consciousness selecting among neural states responsive to normative constraints.
+The argument doesn't directly support Minimal Quantum Interaction or No Many Worlds; it requires only that consciousness act causally, by whatever mechanism.
 
 ## Objections and Responses
 
 **"This assumes dualism to prove dualism—circular reasoning."** The argument is transcendental, not circular. It shows that physicalism is *self-defeating*: if true, we cannot have rational grounds for believing it. Self-defeat arguments reveal internal inconsistencies, not question-begging; this one demonstrates that rational inference requires properties physical description cannot capture. The same [[self-stultification]] structure appears in the [[introspection|introspection debate]]: if introspective reports are causally disconnected from experiences, no claim about consciousness can be rationally trusted—including that introspection is unreliable.
 
-**"Evolution gave us reliable faculties for survival-relevant domains."** Perhaps, but (1) this doesn't address non-survival-relevant beliefs (philosophy, mathematics, abstract reasoning), and (2) evolutionary reliability still presupposes the normative concept of truth. What makes survival-tracking *reliable* rather than merely adaptive? The answer requires normative evaluation that physicalism struggles to ground.
+**"Evolution gave us reliable faculties."** Mercier and Sperber's [[consciousness-and-the-normativity-of-reason#why-the-map-holds-physical-processes-cannot-close-the-gap|argumentative theory]] (2011) gives its strongest form: skilled arguers are "not after the truth", but vigilant audiences track argument quality, so groups solve logic problems most individuals fail. Mathematics is thus within evolution's reach, though perhaps not metaphysics. Yet the theory explains why evaluators respond to good arguments, not what makes one good.
 
 **"AI systems perform logical inference purely physically."** This deserves careful treatment as AI capabilities advance. AI systems produce outputs matching logical derivations with increasing sophistication—proving theorems, identifying fallacies, constructing novel arguments—and dismissing this as "mere pattern-matching" risks underestimating what they accomplish and may not remain credible as capabilities grow.
 
@@ -199,6 +199,8 @@ Kim, Jaegwon. *Mind in a Physical World: An Essay on the Mind-Body Problem and M
 Hasker, William. "Persons and the Unity of Consciousness." In *The Waning of Materialism*, edited by R. Koons and G. Bealer, 175–190. Oxford University Press, 2010.
 
 Lewis, C.S. *Miracles: A Preliminary Study*. 1st ed. 1947; revised 2nd ed. 1960. (Chapter 3, "The Cardinal Difficulty of Naturalism," substantially rewritten after Anscombe's critique.)
+
+Mercier, Hugo, and Dan Sperber. "Why Do Humans Reason? Arguments for an Argumentative Theory." *Behavioral and Brain Sciences*, vol. 34, no. 2, 2011, pp. 57–74.
 
 Plantinga, Alvin. *Warrant and Proper Function*. Oxford University Press, 1993. (Chapter 12 presents the Evolutionary Argument Against Naturalism.)
 

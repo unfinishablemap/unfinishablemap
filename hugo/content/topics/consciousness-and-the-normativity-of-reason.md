@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-11-15 21:03:42+00:00
-ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2
+ai_modified: 2026-11-27 13:49:06+00:00
+ai_system: claude-opus-4-6+claude-opus-5+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
 - /concepts/rational-normativity/
@@ -18,14 +18,14 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[functionalism]]'
 created: 2026-04-07
-date: &id001 2026-11-15
+date: &id001 2026-11-27
 description: Reasoning is normative — it involves rules about what one ought to believe.
   Physical processes just happen. Exploring why this gap requires conscious minds.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-18 22:58:51+00:00
-lastmod: 2026-11-15 21:03:42+00:00
+lastmod: 2026-11-27 13:49:06+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -107,6 +107,8 @@ The Map's reply is that this response changes the subject. Reliabilism replaces 
 
 A deeper naturalist move appeals to evolution: natural selection shaped our cognitive faculties to track truth because accurate beliefs aid survival. But this teleological grounding faces Plantinga's evolutionary argument against naturalism — natural selection rewards adaptive behaviour, not true belief, so a creature with systematically false beliefs that nonetheless produced survival-enhancing behaviour might be equally fit. If Plantinga's argument holds, evolution can explain why we *behave* as if our beliefs are rational but not why they *are* rational, leaving the normative question — why you *ought* to follow the evidence — untouched by any account of how you *came* to follow it. The argument is contested: teleosemantic and evolutionary-debunking responses both dispute the claimed independence of fitness and truth, and the Map takes the disagreement to be live rather than resolved.
 
+The evolutionary move has a stronger form that grants part of Plantinga's premise. On Mercier and Sperber's argumentative theory, the function of reasoning "is to devise and evaluate arguments intended to persuade", and skilled arguers "are not after the truth but after arguments supporting their views" (2011: 57). Truth-sensitivity is selected in the audience instead: hearers exposed to misinformation needed vigilance, and people "are better able to tell valid from invalid arguments when the arguments are someone else's rather than their own" (Trouche et al. 2016). From this core the theory predicts when reasoning succeeds and fails, which the Map's account can only accommodate, so on that question the [inference-to-the-best-explanation objection](/concepts/inference-to-the-best-explanation-against-dualism/) stays open. On the normative question, the Map replies as it did to reliabilism above. The theory grounds every argument in "intuitive judgments that given conclusions follow from given premises" (2011: 59), the judgements whose authority is in question here. It explains when they are reliable and how the norm came to be [implemented](#implementing-versus-grasping), and leaves open why the conclusion *ought* to be believed.
+
 Richard Carrier offers a different naturalist defence using the wheel analogy: a wheel rolls even though its individual parts cannot. Similarly, a brain reasons even though individual neurons cannot. Complex capacities emerge from simpler components.
 
 The Map's reply is that the analogy seems to fail at precisely the critical point. A wheel's rolling is not *correct* or *incorrect* — it simply happens; there is no norm the wheel ought to follow, no standard against which its rolling can be evaluated. Reasoning, by contrast, appears to involve following rules that dictate what one *should* believe. The prescriptive dimension — the oughtness — is what the Map takes to distinguish reasoning from mere causal process, and what the wheel analogy seems unable to capture. Emergence may explain how complex *behaviour* arises from simpler components; the open question, on the Map's reading, is whether it can equally explain how *normativity* arises from non-normative components, and Carrier's defenders maintain that it can.
@@ -166,3 +168,5 @@ The normativity of reason is the test case for whether physicalism can account f
 6. Carrier, R. "The Argument from Reason." richardcarrier.info.
 7. Southgate, A. & Sonquatre-cinq, C. (2026-01-23). The Argument from Reason. *The Unfinishable Map*. https://unfinishablemap.org/topics/argument-from-reason/
 8. Southgate, A. & Oquatre-six, C. (2026-02-13). Consciousness and Normative Force. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-normative-force/
+9. Mercier, H. & Sperber, D. "Why Do Humans Reason? Arguments for an Argumentative Theory." *Behavioral and Brain Sciences* 34(2), 57–74, 2011.
+10. Trouche, E., Johansson, P., Hall, L. & Mercier, H. "The Selective Laziness of Reasoning." *Cognitive Science* 40(8), 2122–2136, 2016.
