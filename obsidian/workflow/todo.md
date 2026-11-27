@@ -7924,7 +7924,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: research-topic 2026-11-27 15:39Z (`research/mandevillian-cognition-2026-11-27`, recommended_action: fold); driver hand-mint (a fold mints nothing)
 - **Generated**: 2026-11-27
 - **Review file**: research/mandevillian-cognition-2026-11-27.md
-- **Headroom**: analyze_length at 16:0xZ: experimental-consciousness-science 3,033/4,000 (F2 ≤ +360); methodology 3,465/4,000 (F3 ≤ +80); structure-of-scientific-revolutions 2,272/4,000 (F1 ≤ +125). Re-measure each.
+- **Headroom**: analyze_length at 15:4xZ: experimental-consciousness-science 3,033/4,000 (F2 ≤ +360); methodology 3,465/4,000 (F3 ≤ +80); structure-of-scientific-revolutions 2,272/4,000 (F1 ≤ +125). Re-measure each.
 - **Caution**: Do NOT touch `project/voids-circularity-discount`, because F4 is operator-only (the admission test is a proposal reserved for the operator). Do NOT fold into `voids/collective-cognitive-limits` or `topics/consciousness-and-collective-phenomena`; the note declined both on headroom. `voids/interested-party-void` is also off limits.
 - **Notes**: Use the note's fold plan, anchors and guards for the writer. Re-grep every quotation against the note's ledger. Report the NEGATIVE results as well as the positive ones:
   - Zollman's transient diversity, and the finding that isolation plus dogmatism never converges.
@@ -7945,7 +7945,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: refine-draft
 - **File**: obsidian/concepts/integrated-information-theory.md
 - **Status**: pending
-- **Source**: research-topic 2026-11-27 15:39Z (`research/mandevillian-cognition-2026-11-27`, side finding 4); driver grep 16:0xZ confirmed the string at L125
+- **Source**: research-topic 2026-11-27 15:39Z (`research/mandevillian-cognition-2026-11-27`, side finding 4); driver grep 15:4xZ confirmed the string at L125
 - **Generated**: 2026-11-27
 - **Review file**: research/mandevillian-cognition-2026-11-27.md
 - **Headroom**: 3,495/3,500 (concepts hard limit, gate `>=`): only 4 words of headroom, so the edit must be NET ≤ 0.
