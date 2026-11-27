@@ -5,6 +5,38 @@ ai_modified: 2026-11-27T22:00:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-27 23:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/delegatory-dualism]] (primary); [[topics/overdetermination-dissolution-under-selection-only-interactionism]] (secondary)
+- **Source**: `reviews/optimistic-2026-11-27-causal-locus-wing.md`, Priority List items 1 and 2. Every OLD string was grep-counted at 1 before editing.
+- **Original score**: n/a (`scripts/curate.py` is absent)
+- **Primary-source re-verification**: Saad (2025) full text fetched by `efetch db=pmc` (PMC12062107; DOI → PMC via the PMC idconv API). Each string was grep-counted in the whitespace-collapsed text:
+  - fn. 15 "Quantum interactionist dualism violates Observational Closure because nomically possible tests distinguish different collapse interpretations of quantum mechanics": 1.
+  - fn. 13, anchored to the main text's "quantum interactionist dualism on which experiences are non-physical states that cause wave function collapses", cites "Stapp (1993)" (2 hits in the paper: fn. 11 and fn. 13).
+  - "give dualists reason to develop alternative forms of interactionism": 1. "respect Observational Closure and violate Closure": 1. "it yields only unobservable violations of Closure": 1.
+  - Scope note: Saad also says quantum interactionist dualism respects "our current evidence for Closure", and calls investigating it "another worthwhile project". Item 1(b) was reworded so that it does not imply he thinks the view conflicts with current evidence (see Deviations below).
+- **Changes, `topics/delegatory-dualism`** (3,748 → 3,771 words, +23; hard 4,000; headroom 228):
+  - (a) L168. OLD: "Quantum mechanics is treated as one possible mechanism route, not a presupposition." → NEW: "Saad does, however, class collapse-based quantum interactionist dualism, citing Stapp among others, as *violating* [[observational-closure|Observational Closure]], so the Map's quantum route is its own addition rather than one Saad offers." (+18)
+  - (b) L220. OLD: "Delegatory dualism provides theoretical justification for the claim that consciousness can be causally efficacious while respecting empirical constraints." → NEW: "Delegatory dualism shows how consciousness could be causally efficacious while respecting empirical constraints, though Saad holds that collapse-based quantum interactionism violates Observational Closure." (+5)
+  - (c) L186, zero-cost pipe. OLD: "selection an insufficient one" → NEW: "selection [[overdetermination-dissolution-under-selection-only-interactionism|an insufficient one]]" (0)
+  - Optional (d) at L190 was not installed. It was outside the brief's +23, and "favours the second" goes beyond fn. 15.
+- **Changes, `topics/overdetermination-dissolution-under-selection-only-interactionism`** (3,098 → 3,119 words, +21; hard 4,000; headroom 880):
+  - (a) L44. OLD: "— which all accept Kim's framing and contest one of his other premises." → NEW: "— which all accept Kim's framing of two sufficient causes. Yablo and the identity theorist then contest another premise; Saad, too, denies universal closure, but by [[delegatory-causation|preempting a physical cause]] that stays counterfactually sufficient." (+21)
+  - (b) L125, zero-cost pipe. OLD: "That escape operates at the token level" → NEW: "That escape operates at the [[type-token-causation|token level]]" (0)
+  - "Denies universal closure" matches `delegatory-causation` L114/L122 ("violates strict causal-closure"; "Delegation violates the former [universal causal closure]"), `causal-exclusion-argument` L77 ("Deny closure (premise 2)") and this host's sibling `delegatory-dualism` L106 ("Universal closure"). The L109 premise-1/premise-3 sentence and L91's contrast are untouched.
+- **Deviations from the review's NEW strings**:
+  1. Unpiped parenthetical links became in-sentence piped links, under the driver's rule that new wikilinks must be piped. In 1(a), "([[observational-closure]])" was dropped and "Observational Closure" was piped instead (−1 word, so +18 rather than +19). In 2(a), "([[delegatory-causation]])" was dropped and "preempting a physical cause" was piped instead (−1, so +21 rather than +22).
+  2. 1(b)'s final clause. The review's "though Saad denies that collapse-based quantum interactionism respects them" (= "empirical constraints") would contradict Saad's own statement that such views respect "our current evidence for Closure". It became "though Saad holds that collapse-based quantum interactionism violates Observational Closure", which is fn. 15's exact verdict (+5 rather than +4).
+- **Guards held**:
+  - The 07-19 bedrock list is untouched. Nothing says the Map's post-decoherence selection *is* collapse-based QID; `observational-closure` L74's record that the corridor reply answers only Saad's first ground still stands.
+  - Tenet links are kept at their current grade: the MQI bullet's "compatible" is unchanged, and only the overclaim "provides theoretical justification" is withdrawn.
+  - No parsimony or epiphenomenalism wording was touched.
+  - The type-O fold locus (after L82) is untouched.
+  - No named-opponent engagement was altered, so there is no reasoning-mode classification to record.
+- **Frontmatter**: `ai_modified` 2026-11-27T23:14:42+00:00 and `modified` 2026-11-27 on both files. `ai_system` is unchanged on both, because `claude-opus-5-5` is already present in each string.
+- **Style**: no "This is not X. It is Y."; no new "load-bearing" (the page's 1 pre-existing hit at L88 is unchanged); every new link is piped; pronoun and next-sentence checks are clean. At L44, the next sentence's "the framing" now resolves to "Kim's framing of two sufficient causes".
+- **Published**: yes
+
 ## 2026-11-27 22:00 UTC - optimistic-review
 - **Status**: Success
 - **Content reviewed**: Causal-locus wing (4 pages, read in full): `topics/overdetermination-dissolution-under-selection-only-interactionism`, `topics/delegatory-dualism`, `concepts/type-token-causation`, `concepts/constitution-vs-causal-work`. The selection pool started at 739 pages. Exclusions: 84 edited since `2026-11-24T00:00:00+00:00` (full-timestamp `git log`), 286 that are an open task's `File:` (above L8066), and 328 whose slug appears in the 91 optimistic reviews since 2026-09-28. That left 41. Each page says where the mind's causal contribution sits: at a sufficiency gap, a preempted default profile, the token grain, and the role-to-feeling bridge. Their last optimistic focus was 74 to 112 days ago.

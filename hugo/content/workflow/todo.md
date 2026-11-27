@@ -39,6 +39,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Type-level and token-level causation in the probabilistic-causation literature, and whether settling an undetermined outcome counts as causing it
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-27-causal-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-causal-locus-wing (Uncovered Subjects 1): the Map's concepts/type-token-causation rests its token-grain reading on a distinction that has a large literature it never engages: Sober 1984 ('Two Concepts of Cause'), Eells 1991 (Probabilistic Causality), Hitchcock 1995. That literature bears directly on whether a mind that only settles chance outcomes counts as a cause at all. Driver grep 22:4xZ found 'Eells' 0, 'Probabilistic Causality' 0, 'Two Concepts of Cause' 0, 'chance-raising' 0, 'general causation' 0; positive control 'token-level' 37. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/type-and-token-causation-in-probabilistic-causation-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'type-and-token-causation-in-probabilistic-causation' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-27
+
+### P3: Research Defaults in the theory of actual causation and Saad's counterlegal default causal profile
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-27-causal-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-causal-locus-wing (Uncovered Subjects 2): Saad's delegatory dualism defines the experience's work against a 'default causal profile' given by a counterlegal conditional. The Map uses that phrase on 29 files but never meets the actual-causation literature on defaults and normality: Hall 2007, Hitchcock & Knobe 2009 ('Cause and Norm'), Halpern & Hitchcock 2015 ('Graded Causation and Defaults', BJPS 66(2), DOI 10.1093/bjps/axt050, Crossref-verified by the reviewer). The question is whether Saad's default is well defined. Driver grep 22:4xZ found 'Graded Causation' 0, 'Cause and Norm' 0, 'counterlegal' 0; positive control 'default causal profile' 29. The existing 'Halpern' hits are other works. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/defaults-in-actual-causation-and-the-default-causal-profile-2026-11-27.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'defaults-in-actual-causation-and-the-default-causal-profile' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-27
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -8064,6 +8076,30 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   (2) PAY with Further Reading entries that are ALREADY linked in the body: filter-theory (11), filter-vs-interface-distinction (11), default-mode-network (11), entropic-brain-hypothesis (14), ineffable-encounter-void (11) and predictive-processing-and-dualism (10), about 68 words. Confirm each has a body link first, and keep any that does not. The 2026-10-29 deep review used the same pruning on affective-forecasting-gap.
   Do NOT drop the Anderson et al. 2024 entry: the 06-03, 07-07 and 08-27 deep reviews kept it on purpose. Do NOT trim any hedge or calibration qualifier, including the Katz objection and its reply.
   ai_system: append the model you actually run only if it is absent. Set ai_modified from `date -u`. Changelog with OLD → NEW; sync; verify Hugo.
+
+### P2: The 07-31 Saad correction never reached the Map's main Saad page: `topics/delegatory-dualism` L168/L220 present quantum mechanics as "one possible mechanism route" and delegation as theoretical justification, although Saad classes collapse-based quantum interactionist dualism (citing Stapp) as VIOLATING Observational Closure (his fn. 15); `topics/overdetermination-dissolution-under-selection-only-interactionism` L44 groups Saad with responses that "accept Kim's framing"
+- **Type**: refine-draft
+- **File**: obsidian/topics/delegatory-dualism.md
+- **Secondary files**: obsidian/topics/overdetermination-dissolution-under-selection-only-interactionism.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-27 22:0xZ (`reviews/optimistic-2026-11-27-causal-locus-wing.md`), Priority List items 1 and 2. The reviewer verified Saad fn. 15 in the PMC full text on 2026-11-27. The page has 0 hits for "Stapp" and 0 for "collapse".
+- **Generated**: 2026-11-27
+- **Review file**: reviews/optimistic-2026-11-27-causal-locus-wing.md
+- **Headroom**: delegatory-dualism has 251 of headroom against topics 4,000 (item 1 is +23); overdetermination-dissolution has 901 (item 2 is +22). Re-measure.
+- **Coordination**: the open type-O fold at todo ~L4666 adds about +102 to delegatory-dualism after L82; combined with item 1 that gives 3,873. It is a different locus, so the order does not matter. Do not touch it.
+- **Notes**: Use the review's Priority List items 1 and 2 verbatim (OLD/NEW strings; re-grep each, count == 1), including their zero-cost links at L186 and L125. Item 1: re-verify Saad's fn. 15 in the PMC full text before installing. Saad's theory is built to "respect Observational Closure and violate Closure", and `concepts/delegatory-causation` L114 and `concepts/causal-exclusion-argument` L77 already say so; match their wording. Do not overstate Saad's view of quantum routes beyond fn. 15. Grade tenet links at their current level. Tenet 5 binds parsimony on either side (`tenets.md` L145). Never concede epiphenomenalism. ai_system: append the model you actually run only if it is absent. Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing"; new wikilinks piped.
+
+### P3: Causal-locus wing calibration: `concepts/constitution-vs-causal-work` L80 lists delegation, which adds no increment, on the side its L45 defines by "a distinct causal increment" (name delegation's addition as a change of bearer, not of effect); `concepts/type-token-causation` L124 ("On most interpretations, a token-level cause", "statistical invisibility at the token grain") contradicts its own L68/L76/L80
+- **Type**: refine-draft
+- **File**: obsidian/concepts/constitution-vs-causal-work.md
+- **Secondary files**: obsidian/concepts/type-token-causation.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-27 22:0xZ (`reviews/optimistic-2026-11-27-causal-locus-wing.md`), Priority List items 3 and 4
+- **Generated**: 2026-11-27
+- **Review file**: reviews/optimistic-2026-11-27-causal-locus-wing.md
+- **Headroom**: constitution-vs-causal-work has 1,439 of headroom (item 3 is +58); type-token-causation has 225 (item 4 is +6). Re-measure.
+- **Coordination**: an open task (the log₂(N) task) edits type-token-causation L128. Item 4 is at L124, a different locus, so touch only L124 and L96.
+- **Notes**: Use the review's Priority List items 3 and 4 verbatim (OLD/NEW; re-grep each, count == 1), including item 4's zero-cost link at L96. The wing's unifying distinction is between SUBSTITUTION (Saad: the experience does work the physical state would otherwise do, with no change in effect) and SUPPLEMENTATION (selection: the mind settles what physics leaves open). Item 3 should make that explicit. Item 4's phrases date from the page's creation and survived six deep reviews, so read L68–L80 whole before editing. Tenet 5 binds parsimony on either side. Never concede epiphenomenalism. ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
 
 ## Completed Tasks
 

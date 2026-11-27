@@ -2,9 +2,9 @@
 title: "Delegatory Dualism"
 description: "Bradford Saad's 2025 theory explains how consciousness causes behavior without overdetermination: physical states delegate causal responsibilities to experiences."
 created: 2026-01-29
-modified: 2026-11-14
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-14T01:51:40+00:00
+ai_modified: 2026-11-27T23:14:42+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -165,7 +165,7 @@ What metaphysical mechanism allows a non-physical cause to preempt a physical on
 
 ### Objection: Does this framework require a specific quantum interpretation?
 
-**Response**: Saad does not discuss Many-Worlds or commit to any particular quantum interpretation. Delegatory dualism is a framework about causal structure—how mental causation avoids overdetermination—not about the physical mechanism of mind-body interaction. Quantum mechanics is treated as one possible mechanism route, not a presupposition.
+**Response**: Saad does not discuss Many-Worlds or commit to any particular quantum interpretation. Delegatory dualism is a framework about causal structure—how mental causation avoids overdetermination—not about the physical mechanism of mind-body interaction. Saad does, however, class collapse-based quantum interactionist dualism, citing Stapp among others, as *violating* [[observational-closure|Observational Closure]], so the Map's quantum route is its own addition rather than one Saad offers.
 
 ---
 
@@ -183,7 +183,7 @@ The frameworks operate at different levels:
 
 **Delegatory dualism** specifies *how* mental causation avoids overdetermination: through delegation and preemption. This is a claim about causal structure—the logic of mind-body interaction.
 
-The Map once proposed integrating the two: quantum indeterminacy as the physical mechanism and delegation as the causal structure. Consciousness would bias quantum outcomes (the mechanism), and this biasing was offered as the physical state delegating its causal role to the experience (the structure). Preemption could also run the other way, so experience's authority over the brain state is the dualist's commitment, not the machinery's. [[delegation-meets-quantum-selection|Delegation Meets Quantum Selection]] developed the integration as a single event; the Map has since withdrawn that fusion, because trumping needs a sufficient physical cause and selection an insufficient one, keeping only its own candidate reading that Saad's "default causal profile" corresponds to the Born-rule probability distribution. [[one-structure-three-vocabularies|One Structure, Three Vocabularies]] adds a third register — the bandwidth literature's "prepared options" — and argues the three may be one structure described three ways; crucially, that convergence is a coherence fact about the Map's vocabulary, raising no independent evidence that the default causal profile is real.
+The Map once proposed integrating the two: quantum indeterminacy as the physical mechanism and delegation as the causal structure. Consciousness would bias quantum outcomes (the mechanism), and this biasing was offered as the physical state delegating its causal role to the experience (the structure). Preemption could also run the other way, so experience's authority over the brain state is the dualist's commitment, not the machinery's. [[delegation-meets-quantum-selection|Delegation Meets Quantum Selection]] developed the integration as a single event; the Map has since withdrawn that fusion, because trumping needs a sufficient physical cause and selection [[overdetermination-dissolution-under-selection-only-interactionism|an insufficient one]], keeping only its own candidate reading that Saad's "default causal profile" corresponds to the Born-rule probability distribution. [[one-structure-three-vocabularies|One Structure, Three Vocabularies]] adds a third register — the bandwidth literature's "prepared options" — and argues the three may be one structure described three ways; crucially, that convergence is a coherence fact about the Map's vocabulary, raising no independent evidence that the default causal profile is real.
 
 The [[entanglement-binding-hypothesis]] may cohere with delegation—without thereby lending it independent support. An entangled quantum state spanning many neurons would—if macroscopic neural entanglement were physically sustainable, which the [[decoherence-and-macroscopic-superposition|decoherence literature]] renders strongly doubtful at brain temperatures—constitute a single non-decomposable physical state with a collective default causal profile, arguably what Saad's Subset Law* maps to unified experience. On this reading entanglement would provide the physical holism while delegation explains how that unified state's causal work gets taken over by experience, and together they might cohere on complementary aspects of the mind-body problem: entanglement addressing why experience is *unified*, delegation addressing how it is *causally efficacious*. This is a coherence proposal rather than an established result—and consistent with the Part II disclaimer above, the coherence of the combination is not itself evidence for either component. It presupposes both that macroscopic neural entanglement is physically sustainable (a premise the decoherence consensus contests, not merely an open question) and that the entangled state's default profile is the right object for the Subset Law to range over, neither of which is settled.
 
@@ -217,7 +217,7 @@ Delegatory dualism bears on the Map's core tenets as follows—supporting some d
 
 **Bidirectional Interaction tenet**: The Efficacy constraint directly embodies bidirectional interaction. Experiences cause physical effects—pain causes wincing, beliefs cause assertions. The delegation mechanism explains *how* without overdetermination. The Map reads delegation as running in both directions, since consciousness also hands causal work off to trained procedural systems in [[skill-delegation|skill delegation]] and [[philosophy-of-habit-under-dualism|habit]]—though that parallel is structural rather than evidential, and supplies no further access to the default causal profile.
 
-**Minimal Quantum Interaction tenet**: Observational Closure is compatible with minimal quantum interaction. Both hold that mental causation should not produce empirically detectable violations of physical patterns. Delegatory dualism provides theoretical justification for the claim that consciousness can be causally efficacious while respecting empirical constraints.
+**Minimal Quantum Interaction tenet**: Observational Closure is compatible with minimal quantum interaction. Both hold that mental causation should not produce empirically detectable violations of physical patterns. Delegatory dualism shows how consciousness could be causally efficacious while respecting empirical constraints, though Saad holds that collapse-based quantum interactionism violates Observational Closure.
 
 **Occam's Razor Has Limits tenet**: Delegatory dualism demonstrates that sophisticated dualist theories can satisfy stringent constraints. The framework is more complex than epiphenomenalism but more explanatory. Simplicity isn't everything.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-14
-ai_modified: 2026-11-13 23:12:23+00:00
+ai_modified: 2026-11-27 23:14:42+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -15,14 +15,14 @@ concepts:
 - '[[trumping-preemption]]'
 - '[[psychophysical-laws]]'
 created: 2026-05-14
-date: &id001 2026-11-13
+date: &id001 2026-11-27
 description: How the Map's strictest reading of Tenet 2 dissolves Kim's overdetermination
   objection — human–AI exploration of selection at a genuine physical gap as non-competition.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-27 06:42:00+00:00
-lastmod: 2026-11-13 23:12:23+00:00
+lastmod: 2026-11-27 23:14:42+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ topics:
 
 Kim's exclusion argument turns on overdetermination: if physical causes are already sufficient for every physical effect, any additional mental cause either duplicates that work (a systematic and intolerable coincidence) or does nothing at all. Selection-only interactionism — the Map's strictest reading of [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quantum-interaction) — dissolves rather than answers this objection. The dissolution turns on a single structural fact: physics at a quantum indeterminacy is not silent on *what could happen* but is silent on *which possibility becomes actual*. The physical contribution specifies the candidate set and its Born-rule probabilities; the mind-side contribution is the realisation of one candidate among the rest. Two operations, two domains, one outcome. There is no second sufficient cause to compete with the first, because the first is not sufficient. Overdetermination requires causal redundancy, and selection-only architecture has none to give.
 
-This is a different move from the standard responses to Kim — Yablo's proportionality, the identity-theory collapse, or Saad's delegatory dualism — which all accept Kim's framing and contest one of his other premises. Selection-only interactionism rejects the framing: at the quantum selection event, the physical and mental contributions are not two routes to the same effect but two parts of a single completed cause. The cost of the dissolution is the empirical price tag developed in [selection-only-mind-influence](/topics/selection-only-mind-influence/): Born-rule preservation, absence of any signature in unconditioned outcome frequencies, content-confinement. The argument is not free, but neither is it ad hoc — it follows directly from what "minimal" means in the Map's tenet.
+This is a different move from the standard responses to Kim — Yablo's proportionality, the identity-theory collapse, or Saad's delegatory dualism — which all accept Kim's framing of two sufficient causes. Yablo and the identity theorist then contest another premise; Saad, too, denies universal closure, but by [preempting a physical cause](/concepts/delegatory-causation/) that stays counterfactually sufficient. Selection-only interactionism rejects the framing: at the quantum selection event, the physical and mental contributions are not two routes to the same effect but two parts of a single completed cause. The cost of the dissolution is the empirical price tag developed in [selection-only-mind-influence](/topics/selection-only-mind-influence/): Born-rule preservation, absence of any signature in unconditioned outcome frequencies, content-confinement. The argument is not free, but neither is it ad hoc — it follows directly from what "minimal" means in the Map's tenet.
 
 One framing point should be flagged at the outset, because the title's word "dissolution" is easy to over-read. What gets dissolved is the *overdetermination structure*: if mind only selects among brain-generated candidates, there are not two sufficient causes to coincide, so Kim's premise 3 has nothing to grip. That conditional result holds whenever the selection-only architecture is in place. It also answers closure only when closure is read as *sufficient* physical causation; read probabilistically, closure poses a different question — physics fixes the chances, Born-preserving selection leaves them intact, and what selection adds beyond chance is left open here, a debt the Map [takes up and owns elsewhere](/apex/born-preserving-causal-efficacy/). Whether the selection-only architecture is itself the *correct* account of mind, as against physicalism — which avoids overdetermination by a different route, identifying mental causes with physical ones — is a separate question, and it is underdetermined by the evidence. Physicalism and selection-only interactionism are, on the overdetermination question alone, empirically equivalent: both escape Kim, by incompatible means, and the escape itself does not adjudicate between them. The dissolution is therefore conditional on the framework, not a standalone result that favours the Map over its rivals.
 
@@ -125,7 +125,7 @@ The overdetermination dissolution under selection-only interactionism is the cle
 
 The Map's broader strategy in [the epiphenomenalist threat](/topics/the-epiphenomenalist-threat/) argues that frameworks lacking a specific causal mechanism for consciousness drift toward epiphenomenalism by gravitational attraction. The dissolution presented here is the structural reason why the Map's framework escapes the well: not because consciousness is given a redundant copy of the physical-side causal story but because it is given a distinct, non-redundant role at a point where physical-side sufficiency fails.
 
-That escape operates at the token level — a genuine per-trial role, fixing which candidate actualises, with no redundant second cause. It leaves untouched the finer worry, internal to interactionism, that a per-trial selection which preserves Born statistics across the ensemble might still be dismissed as type-level idleness by a physicalist for whom efficacy means a statistical signature. That is the [ensemble-level epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) question — tracked as the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt) (position [P-Q3](/positions/quantum-interface/#p-q3)) and held open rather than discharged by the dissolution. The overdetermination result clears Kim's sufficient-cause exclusion argument; it does not settle whether ensemble-invisible per-trial selection is a channel a physicalist would recognise.
+That escape operates at the [token level](/concepts/type-token-causation/) — a genuine per-trial role, fixing which candidate actualises, with no redundant second cause. It leaves untouched the finer worry, internal to interactionism, that a per-trial selection which preserves Born statistics across the ensemble might still be dismissed as type-level idleness by a physicalist for whom efficacy means a statistical signature. That is the [ensemble-level epiphenomenalism](/concepts/ensemble-level-epiphenomenalism/) question — tracked as the Map's [mechanism debt](/positions/quantum-interface/#mechanism-debt) (position [P-Q3](/positions/quantum-interface/#p-q3)) and held open rather than discharged by the dissolution. The overdetermination result clears Kim's sufficient-cause exclusion argument; it does not settle whether ensemble-invisible per-trial selection is a channel a physicalist would recognise.
 
 ## Further Reading
 
