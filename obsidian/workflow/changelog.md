@@ -1,9 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T08:22:59+00:00
+ai_modified: 2026-11-27T08:56:31+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 08:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/thrownness-void]]
+- **Selection**: driver-chosen (voids are outside the `deep_review.py` pool); 5th deep review; the 2026-07-19 stability notes were superseded and all quotations re-verified at raw source.
+- **Word count** (`analyze_length`): 2,410 → 2,439 (+29; ~18 of it reference metadata); `soft_warning` before and after; voids hard 3,000.
+- **Critical issues addressed**: 3
+  - RTSP Tenet 5: "the tenet, which constrains only the Map's own reasoning" → "which governs appeals to simplicity on either side". `tenets.md` L145 says the tenet binds parsimony "not only its critics'", and the next sentence of the article constrains critics. Introduced by 8f5adb1c from a research-note template.
+  - Sartre facticity: "body, social class, past, world … None of these were chosen" → "place, body, past, and a position already marked out by others (*Being and Nothingness*, Part Four, ch. 1)". This is Barnes's own list; "my past" includes chosen acts.
+  - Augustine ref: "Trans. Pilkington (1887)" → "… as revised by K. Knight for New Advent". The quoted "believe **in** the word of others" is Knight's revision; the 1887 NPNF text has "on".
+- **Medium issues addressed**: 9
+  - Bayne gloss "multidimensional" → "piecemeal, … leave that question open". PMC full text has 0 hits for graded or multidimensional; its Outstanding Questions ask about a sharp onset and piecemeal emergence.
+  - Lineage: "recurs whenever this tradition" → "recurs across four analyses".
+  - Occluded face: the missing access-to-revision premise is now stated.
+  - Husserl: "cognitive constitution" → "empirical make-up", and the Map's use is marked against *Ideas I* §46 ("necessary" ego / "contingent" world).
+  - Consent: "pre-existential consent is incoherent" scoped to actual consent; hypothetical consent is now named.
+  - Apophatic: "not unconscious" glossed.
+  - "reveals" → "could help show".
+  - McGinn 2014 orphan cited inline.
+  - Heidegger H-numbers added (p. 173 = H. 134; p. 330 = H. 284) with a pagination note.
+- **Verification**: 11/11 quoted strings verbatim at raw source.
+  - Sources: M&R djvu; Barnes 2011 text; Lingis *E&E* Kluwer text (ch. 4 §1 p. 65; ch. 4 §2; ch. 3 §2); Arendt HC p. 9; New Advent and CCEL; Cambridge Core (Withy, pp. 753–756, DOI .204; a WebSearch "Wrathall" attribution was refuted at the publisher).
+  - Also checked: Husserl §§31–32 and §46; Bayne PMC10660191; McGinn 1989 pp. 352 and 361–362; SEP lineage facts ×3.
+- **Engagements**: constitution-view physicalist, Mode Three (boundary marked, "consistency, not support"); McGinn, distinguished as a naturalist thesis.
+- **Follow-ups (not edited)**:
+  - (1) "constrains only the Map's own reasoning" is live at `concepts/rollback-argument-against-agent-causation` L110, `concepts/basic-argument-and-constitutive-luck` L135, `concepts/transparency-method-of-self-knowledge` L105 and `topics/chain-of-thought-as-verbal-protocol` L120, and in the research-note template (`research/blocks-harder-problem-2026-10-24` L413).
+  - (2) The research note `voids-thrownness-void-2026-03-30` has 10 defect groups; see the review's Remaining Items.
+  - (3) "never in control of our own being from the ground up" is a Wikipedia paraphrase in quotation marks, also in `archive/voids/framework-void.md`.
+- **ai_system**: unchanged (`claude-opus-5-5` already present). `ai_modified` and `last_deep_review` are 2026-11-27T08:53:25+00:00.
+- **Synced**: hugo/content/voids/thrownness-void.md confirmed (11/11 new strings present, 0 old Tenet 5 clause).
+- **Output**: [[reviews/deep-review-2026-11-27-thrownness-void]]
 
 ## 2026-11-27 08:22 UTC - refine-draft
 - **Status**: Success
