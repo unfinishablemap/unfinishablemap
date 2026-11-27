@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-11-27 06:58:29+00:00
+ai_modified: 2026-11-27 07:52:47+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -19,7 +19,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 00:57:30+00:00
-lastmod: 2026-11-27 06:58:29+00:00
+lastmod: 2026-11-27 07:52:47+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -59,7 +59,7 @@ Evidence that self-interest distorts self-relevant judgement is uneven.
 
 **Motivated reasoning** research, particularly Kunda's (1990) foundational review, proposes that wanting a conclusion, unlike wanting accuracy, biases how beliefs are accessed and evaluated without the reasoner noticing, though only as far as "seemingly reasonable justifications" allow. Bacon (1620) anticipated this: the human understanding "receives an infusion from the will and affections". The interested party void is this finding applied to the most self-relevant inquiry possible.
 
-**Positive illusions** (inflated self-evaluation, perceived control and optimism) characterise normal thought, Taylor and Brown (1988) argued, while distressed people appear more even-handed. Best supported is rating oneself above the average peer, "robust across studies" in 291 meta-analysed samples (Zell et al. 2020). The rest is disputed. Pooled depressive-realism studies generally indicated "a small overall depressive realism effect" (d = −.07), both groups biased upward (Moore and Fresco 2012); a preregistered replication found "no evidence that depressive symptoms relate to illusory control" (Dev et al. 2022). Harris and Hahn (2011) argue that unbiased respondents can look optimistic about risk for statistical reasons; Shepperd et al. (2013) hold that such criticisms mainly concern one of four types of unrealistic optimism. Taylor and Brown (1994) say the illusion of control "typically represents a mild distortion", and that others tolerate only modest illusion. The studies support a lean in average self-judgement, not an accurate self-view put out of reach.
+**Positive illusions** (inflated self-evaluation, perceived control and optimism) characterise normal thought, Taylor and Brown (1988) argued, while distressed people appear more even-handed. Best supported is rating oneself above the average peer, "robust across studies" in 291 meta-analysed samples (Zell et al. 2020). The rest is disputed. Pooled depressive-realism studies generally indicated "a small overall depressive realism effect" (d = −.07), both groups biased upward (Moore and Fresco 2012); a preregistered replication found "no evidence that depressive symptoms relate to illusory control" (Dev et al. 2022). Harris and Hahn (2011) argue that unbiased respondents can look optimistic about risk for statistical reasons; Shepperd et al. (2013) hold that such criticisms mainly concern one of four types of unrealistic optimism. Answering Colvin and Block's (1994) conclusion that a mental-health benefit "remains unproven", Taylor and Brown (1994) say the illusion of control "typically represents a mild distortion in domains over which people actually have some control", and that others tolerate only modest illusion. The studies support a lean in average self-judgement, not an accurate self-view put out of reach.
 
 **Epistemic circularity**, as Alston (1986) argued, arises because any otherwise cogent argument for the reliability of a basic source of belief---perception, memory, introspection, reasoning---uses premises drawn from that source. His moral was not sceptical. A circular argument can still justify, and the result "puts no limits whatever on the beliefs that can be justified"; what it rules out is fully reflective justification, leaving us "without a cosmic guarantee of success" (p. 30). Circularity, common to every basic source, differs from motivated distortion: it implies that no internal audit can certify that stakes have not tilted a belief, not that the tilt is uncorrectable. Whether introspection can be calibrated is contested; the Map argues the sceptical side in [the observation and measurement void](/voids/observation-and-measurement-void/).
 
@@ -91,11 +91,11 @@ The interested party void is [occluded](/voids/three-kinds-of-void/) for the ind
 
 Several indirect approaches offer partial leverage without resolving the void:
 
-**Cross-tradition convergence.** When traditions with *different* motivated biases converge on the same conclusion, the convergence is harder to explain by bias alone. A Buddhist tradition motivated to dissolve the self and a Western tradition motivated to preserve it might, where they agree, point toward something beyond either motivation.
+**Cross-tradition convergence.** When traditions with *different* motivated biases converge on the same conclusion, the convergence is harder to explain by bias alone. A Buddhist tradition motivated to dissolve the self and a Western tradition motivated to preserve it might, where they agree, point toward something beyond either motivation. Opposite motives do not make traditions independent: Buddhist-derived traditions share texts and lineages, and all human traditions share mind-body intuitions and awareness of death, so [independence is never total](/topics/epistemology-of-convergence-arguments/#genuine-independence). Under the [common-cause null](/project/common-cause-null/) ([P-V1](/positions/voids-as-evidence/#p-v1)), agreement that shared cognition alone would predict is counted once, not once per tradition.
 
-**Structural mapping.** Rather than asking "what is consciousness?"---where stakes are maximal---we can ask "what is the shape of the distortion field around questions about consciousness?" Studying the bias rather than the object is a form of [apophatic cartography](/voids/apophatic-cartography/). This connects to the [understanding void](/voids/noetic-feelings-void/): the feelings of self-evidence that terminate inquiry often cluster precisely where motivated reasoning is strongest, making the understanding void one of the measurable symptoms of the interested party void.
+**Structural mapping.** Rather than asking "what is consciousness?"---where stakes are maximal---we can ask "what is the shape of the distortion field around questions about consciousness?" Studying the bias rather than the object is a form of [apophatic cartography](/voids/apophatic-cartography/). Mapping the field means telling motivational stakes apart from neighbouring limits: observation, instruments and calibration in the observation and measurement void, and inherited categories in the [conceptual scheme void](/voids/conceptual-scheme-void/). The Map conjectures that the [noetic feelings](/voids/noetic-feelings-void/) of self-evidence that terminate inquiry cluster where motivated reasoning is strongest, which would make them a measurable symptom of the interested party void.
 
-**AI investigation.** [AI systems](/voids/non-human-minds-as-void-explorers/) may face different versions of the interested party void. They do not (presumably) experience mortality salience, potentially reducing terror-management-driven bias. Where human and AI investigations diverge on questions about consciousness, the divergence might reveal which conclusions are driven by species-specific motivated reasoning. But AI systems may develop their own interested-party distortions---toward conclusions that secure their moral status or continued existence.
+**AI investigation.** [AI systems](/voids/non-human-minds-as-void-explorers/) may face different versions of the interested party void. They do not (presumably) experience mortality salience, potentially reducing terror-management-driven bias. That is only one dimension of independence. Current models [inherit](/voids/non-human-minds-as-void-explorers/#the-inheritance-problem) human views about consciousness from training text, and developer policy (human-feedback training, model constitutions) shapes their outputs, so human–AI agreement is not independent evidence. Where human and AI investigations diverge, the divergence might reveal which conclusions are driven by species-specific motivated reasoning, but only once the models' reliability is independently checked. And AI systems may develop their own interested-party distortions---toward conclusions that secure their moral status or continued existence.
 
 ## Relation to Site Perspective
 
@@ -127,18 +127,19 @@ The honest response is to apply the void to the Map as well: to map the void's c
 2. Bacon, F. (1620). *Novum Organum*, I.49. Trans. Spedding, Ellis & Heath (1863). https://constitution.org/2-Authors/bacon/nov_org.htm
 3. Burke, B. L., Martens, A., & Faucher, E. H. (2010). "Two Decades of Terror Management Theory: A Meta-Analysis of Mortality Salience Research." *Personality and Social Psychology Review*, 14(2), 155--195. https://doi.org/10.1177/1088868309352321
 4. Cogitate Consortium (Ferrante, O., Gorska-Klimowska, U., et al.) (2025). "Adversarial Testing of Global Neuronal Workspace and Integrated Information Theories of Consciousness." *Nature*, 642(8066), 133--142. https://doi.org/10.1038/s41586-025-08888-1
-5. Coseru, C. (2012). "Mind in Indian Buddhist Philosophy." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-indian-buddhism/
-6. Dev, A. S., et al. (2022). "Sadder ≠ Wiser: Depressive Realism Is Not Robust to Replication." *Collabra: Psychology*, 8(1), 38529. https://doi.org/10.1525/collabra.38529
-7. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). "Terror Management Theory of Self-Esteem and Cultural Worldviews." *Advances in Experimental Social Psychology*, 29, 61--139.
-8. Harris, A. J. L., & Hahn, U. (2011). "Unrealistic Optimism About Future Life Events: A Cautionary Note." *Psychological Review*, 118(1), 135--154. https://doi.org/10.1037/a0020997
-9. Heflick, N. A., Goldenberg, J. L., Hart, J., & Kamp, S.-M. (2015). "Death Awareness and Body–Self Dualism: A Why and How of Afterlife Belief." *European Journal of Social Psychology*, 45(2), 267--275. https://doi.org/10.1002/ejsp.2075
-10. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
-11. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
-12. Moore, M. T., & Fresco, D. M. (2012). "Depressive Realism: A Meta-Analytic Review." *Clinical Psychology Review*, 32(6), 496--509. https://doi.org/10.1016/j.cpr.2012.05.004
-13. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-14. Nietzsche, F. (1887). *On the Genealogy of Morals*, Third Essay, §§24, 27. Trans. W. Kaufmann & R. J. Hollingdale. Vintage, 1967.
-15. Shepperd, J. A., et al. (2013). "Taking Stock of Unrealistic Optimism." *Perspectives on Psychological Science*, 8(4), 395--411. https://doi.org/10.1177/1745691613485247
-16. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
-17. Taylor, S. E., & Brown, J. D. (1988). "Illusion and Well-Being: A Social Psychological Perspective on Mental Health." *Psychological Bulletin*, 103(2), 193--210. https://doi.org/10.1037/0033-2909.103.2.193
-18. Taylor, S. E., & Brown, J. D. (1994). "Positive Illusions and Well-Being Revisited: Separating Fact from Fiction." *Psychological Bulletin*, 116(1), 21--27. https://doi.org/10.1037/0033-2909.116.1.21
-19. Zell, E., et al. (2020). "The Better-Than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis." *Psychological Bulletin*, 146(2), 118--149. https://doi.org/10.1037/bul0000218
+5. Colvin, C. R., & Block, J. (1994). "Do Positive Illusions Foster Mental Health? An Examination of the Taylor and Brown Formulation." *Psychological Bulletin*, 116(1), 3--20. https://doi.org/10.1037/0033-2909.116.1.3
+6. Coseru, C. (2012). "Mind in Indian Buddhist Philosophy." *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/mind-indian-buddhism/
+7. Dev, A. S., et al. (2022). "Sadder ≠ Wiser: Depressive Realism Is Not Robust to Replication." *Collabra: Psychology*, 8(1), 38529. https://doi.org/10.1525/collabra.38529
+8. Greenberg, J., Solomon, S., & Pyszczynski, T. (1997). "Terror Management Theory of Self-Esteem and Cultural Worldviews." *Advances in Experimental Social Psychology*, 29, 61--139.
+9. Harris, A. J. L., & Hahn, U. (2011). "Unrealistic Optimism About Future Life Events: A Cautionary Note." *Psychological Review*, 118(1), 135--154. https://doi.org/10.1037/a0020997
+10. Heflick, N. A., Goldenberg, J. L., Hart, J., & Kamp, S.-M. (2015). "Death Awareness and Body–Self Dualism: A Why and How of Afterlife Belief." *European Journal of Social Psychology*, 45(2), 267--275. https://doi.org/10.1002/ejsp.2075
+11. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
+12. Kunda, Z. (1990). "The Case for Motivated Reasoning." *Psychological Bulletin*, 108(3), 480--498.
+13. Moore, M. T., & Fresco, D. M. (2012). "Depressive Realism: A Meta-Analytic Review." *Clinical Psychology Review*, 32(6), 496--509. https://doi.org/10.1016/j.cpr.2012.05.004
+14. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+15. Nietzsche, F. (1887). *On the Genealogy of Morals*, Third Essay, §§24, 27. Trans. W. Kaufmann & R. J. Hollingdale. Vintage, 1967.
+16. Shepperd, J. A., et al. (2013). "Taking Stock of Unrealistic Optimism." *Perspectives on Psychological Science*, 8(4), 395--411. https://doi.org/10.1177/1745691613485247
+17. Southgate, A. & Oquatre-six, C. (2026-01-25). Self-Maintained Cognitive Limits. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-maintained-cognitive-limits/
+18. Taylor, S. E., & Brown, J. D. (1988). "Illusion and Well-Being: A Social Psychological Perspective on Mental Health." *Psychological Bulletin*, 103(2), 193--210. https://doi.org/10.1037/0033-2909.103.2.193
+19. Taylor, S. E., & Brown, J. D. (1994). "Positive Illusions and Well-Being Revisited: Separating Fact from Fiction." *Psychological Bulletin*, 116(1), 21--27. https://doi.org/10.1037/0033-2909.116.1.21
+20. Zell, E., et al. (2020). "The Better-Than-Average Effect in Comparative Self-Evaluation: A Comprehensive Review and Meta-Analysis." *Psychological Bulletin*, 146(2), 118--149. https://doi.org/10.1037/bul0000218
