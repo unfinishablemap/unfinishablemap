@@ -2,9 +2,9 @@
 title: "Metacognition, Metarepresentation, and Consciousness"
 description: "Metacognition and metarepresentation are cognitive tools consciousness enables, not what consciousness is. Dissociation evidence and comparative cognition reveal their distinct but interrelated roles."
 created: 2026-01-18
-modified: 2026-10-28
+modified: 2026-11-27
 human_modified: null
-ai_modified: 2026-11-14T18:08:33+00:00
+ai_modified: 2026-11-27T02:20:43+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -131,7 +131,7 @@ The Jourdain transition—from procedural to declarative—marks the **metarepre
 
 ## The Metarepresentation Threshold
 
-The metarepresentation threshold is the cognitive boundary between *having* mental states and *representing those states as mental states*. Below it, organisms monitor and adjust behaviour using procedural metacognition—implicit feelings of uncertainty, confidence, or familiarity that guide action without being understood as mental phenomena. Above it, organisms possess declarative metarepresentation: they know that they know, doubt that they doubt, and can reflect on their cognition as an object of thought. This threshold appears to require [[consciousness-as-amplifier|phenomenal consciousness]] and marks where consciousness becomes causally indispensable. The capacities that emerge above it are distinctly human: cumulative culture, evaluating one's own inferences for consistency, counterfactual thinking, transformational creativity that changes a domain's rules, teaching, and moral agency.
+The metarepresentation threshold is the cognitive boundary between *having* mental states and *representing those states as mental states*. Below it, organisms monitor and adjust behaviour using procedural metacognition—implicit feelings of uncertainty, confidence, or familiarity that guide action without being understood as mental phenomena. Above it, organisms possess declarative metarepresentation: they know that they know, doubt that they doubt, and can reflect on their cognition as an object of thought. On the Map's reading, this threshold requires [[consciousness-as-amplifier|phenomenal consciousness]] and marks where consciousness would be causally indispensable. The capacities that emerge above it are distinctly human: cumulative culture, evaluating one's own inferences for consistency, counterfactual thinking, transformational creativity that changes a domain's rules, teaching, and moral agency.
 
 ### Evidence for a Discrete Threshold
 
@@ -141,7 +141,7 @@ The comparative record shows no clear intermediate cases among well-studied spec
 
 Neurological evidence points the same way. The aPFC, particularly Brodmann area 10, is disproportionately enlarged in humans, and its grey-matter structure correlates with metacognitive accuracy independent of first-order performance (Fleming et al. 2010)—a dissociation that the causal frontopolar-stimulation result above (Kapetaniou et al. 2025) confirms at the level of intervention. The substrate for metarepresentation appears to be an all-or-nothing anatomical feature rather than a gradually scalable capacity.
 
-The [[baseline-cognition|baseline cognition hypothesis]] adds structural evidence. If consciousness were removed from human cognition, the remaining capacities would resemble great ape cognition: working memory of roughly 2±1 items (Read, Manrique & Walker 2022), procedural but not declarative metacognition, product- but not process-oriented social learning. The selective pattern of the human-ape gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—matches what a [[consciousness-and-cognitive-distinctiveness|consciousness-driven threshold]] predicts rather than a uniform scaling effect.
+The [[baseline-cognition|baseline cognition hypothesis]] adds structural evidence. If consciousness were removed from human cognition, the remaining capacities would resemble great ape cognition: working memory of roughly 2±1 items (Read, Manrique & Walker 2022), procedural but not declarative metacognition, product- but not process-oriented social learning. The selective pattern of the human-ape gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—fits a [[consciousness-and-cognitive-distinctiveness|consciousness-driven threshold]], though an expanded-prefrontal-capacity account predicts the same selectivity.
 
 ### Why the Threshold Falls in the Wrong Place for HOT
 
@@ -177,15 +177,15 @@ Metarepresentation, by contrast, develops late and gradually in children: joint 
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Metacognition's dissociability from consciousness supports irreducibility. If consciousness were just metacognitive function, it would be functionally defined and multiply realisable. But consciousness can exist without metacognitive access (blindsight) and metacognitive discrimination can occur without conscious awareness (blind insight). If metarepresentation requires the "standing back" that consciousness provides, metarepresentation itself evidences consciousness's irreducibility.
+**[[tenets#^dualism|Dualism]]**: Metacognition's dissociability from consciousness fits irreducibility without evidencing it. Consciousness can exist without metacognitive access (blindsight) and metacognitive discrimination without conscious awareness (blind insight), so consciousness is not metacognitive function; first-order physicalism predicts the same double dissociation, and the step to irreducibility is the Map's commitment.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Metacognitive trainability exemplifies consciousness causally influencing physical processes—through deliberate practice, consciousness improves its own access mechanisms and represents its own representations. Without this, [[cumulative-culture|cumulative culture]], explicit reasoning, and deliberate self-improvement are impossible.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Metacognitive trainability is consistent with consciousness causally influencing physical processes, but practice changes the brain on every view, so the datum fits the tenet without evidencing it ([[tenets#^tenet-3-standing|Tenet 3's standing]]). The Map posits that [[cumulative-culture|cumulative culture]], explicit reasoning and deliberate self-improvement depend on that influence.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: HOT theorists achieve apparent simplicity by identifying consciousness with metacognitive function—but this dissolves the phenomenon requiring explanation. The "simpler" claim that metarepresentation is merely more complex information processing fails to explain why it correlates with expanded consciousness and distinguishes humans from great apes despite comparable neural complexity.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: HOT theory's identification of consciousness with metacognitive function is the simpler account; the tenet blocks only the step from simpler to likelier, and binds the Map's own preference for a conscious threshold equally.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Metacognition operates at the cognitive level—prefrontal computations at millisecond timescales tracking the *results* of any quantum selection, not the selection itself. Metarepresentation requires binding multiple representational levels into unified awareness; the quantum Zeno framework offers one speculative mechanism for maintaining coherence across these substrates.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Metacognitive reports are uniformly of determinate, singular experiences—never superposed or branching states. Metarepresentation presupposes a unified subject: *I* represent *my* representations. If consciousness branched between having a belief and representing it as a belief, the indexical "I" in "I know that I know" could not coherently refer to multiple branch-descendants at once.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Metarepresentation presupposes a unified subject—*I* represent *my* representations—but an Everettian predicts the same singular reports on every branch, so the datum cannot decide the point; the determinate subject is a [[tenets/background-commitments|posit the Map adopts]], not a result read off metacognitive reports.
 
 ## What Would Challenge This View?
 

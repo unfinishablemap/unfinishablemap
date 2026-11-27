@@ -1,14 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 01:49:20+00:00
+ai_modified: 2026-11-27 02:21:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 01:49:20+00:00
+lastmod: 2026-11-27 02:21:14+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 02:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Original score**: n/a (`scripts/curate.py` absent; six scripted replacements from a tenet check)
+- **Word count** (`tools.curate.length.analyze_length`; concepts hard 3,500, gate `>=`): 3,527 → 3,512 (net −15). The page is still 15 over the hard limit. The open P3 on References entries the body never cites owns the cut below the gate, and no references were touched in this pass.
+- **Changes**: the six Relation-section and threshold loci from tenet-check-2026-10-29 Priority 4 (W4), each OLD string re-grepped at count 1:
+  - (a) L134 (+3): "appears to require … marks where consciousness becomes causally indispensable" → "On the Map's reading, this threshold requires … marks where consciousness would be causally indispensable". The review's NEW had "where it would be"; "consciousness" replaces "it" (no word change) because the next sentence's "above it" refers to the threshold.
+  - (b) L144 (0): "matches what a consciousness-driven threshold predicts rather than a uniform scaling effect" → "fits a consciousness-driven threshold, though an expanded-prefrontal-capacity account predicts the same selectivity". This carries the deflationary rival that `consciousness-as-amplifier` L105/L111 concedes "predicts equally well", in place of the "uniform scaling" straw version.
+  - (c) L180 Dualism (−6): "supports irreducibility … metarepresentation itself evidences consciousness's irreducibility" → "fits irreducibility without evidencing it … first-order physicalism predicts the same double dissociation, and the step to irreducibility is the Map's commitment". This agrees with the page's own L71 ("favours first-order views").
+  - (d) L182 Bidirectional Interaction (+13; the review priced it at +12): "exemplifies consciousness causally influencing physical processes … Without this, … are impossible" → "is consistent with … but practice changes the brain on every view, so the datum fits the tenet without evidencing it ([Tenet 3's standing](/tenets/#tenet-3-standing)). The Map posits that cumulative culture, explicit reasoning and deliberate self-improvement depend on that influence." Two departures from the review's NEW. "changes" replaces "reshapes" so that nothing reads as a structural-change claim after the Baird 2018 no-structural-difference correction (1df337d86b). The review's closing "On the Map's posit, … run through it" had an unclear "it"; "The Map posits that … depend on that influence" fixes that at +1.
+  - (e) L184 Occam (−14; the review priced it at −13): the outward tiebreaker form ("HOT theorists achieve apparent simplicity … despite comparable neural complexity", which also contradicted L142's "disproportionately enlarged in humans") → the defensive form only: "HOT theory's identification of consciousness with metacognitive function is the simpler account; the tenet blocks only the step from simpler to likelier, and binds the Map's own preference for a conscious threshold equally". The review's ", and the tenet … ; it binds" became "; the tenet … , and binds", which saves 1 word and offsets (d).
+  - (f) L188 No Many Worlds (−11): the claim that metacognitive reports are "never superposed or branching" and the branch-descendant reference argument → "an Everettian predicts the same singular reports on every branch, so the datum cannot decide the point; the determinate subject is a [posit the Map adopts](/tenets/background-commitments/), not a result read off metacognitive reports".
+- **Guards held**: L128, L142 and the Tenet 2 paragraph (L186) are untouched. No references were added or removed. Epiphenomenalism is not conceded: each physicalist prediction is attributed to the rival and each posit stays the Map's. Pronoun check: (b) and (f) end their paragraphs, (c)–(e) are each followed by a fresh bold tenet subject, and (a)'s following "above it" keeps the threshold as its referent.
+- **Anchors**: `^tenet-3-standing` sits at tenets L95 and renders as `/tenets/#tenet-3-standing`. `tenets/background-commitments` exists. Both were confirmed in the Hugo copy after sync.
+- **Engagement classification** (editor-internal): HOT at (e): framework-boundary marking (Mode Three); parsimony is disarmed both ways rather than turned on HOT. First-order physicalism at (c), the deflationary capacity account at (b) and the Everettian at (f): Mode Three; each rival is named as predicting the datum, and the Map's step is labelled a commitment or posit.
+- **Residue (not in scope; for the driver)**: Assessment L204 still says "the comparative evidence shows metarepresentation tracks the expansion of conscious workspace rather than increased computational power". That contradicts the new (b) concession. It needs a net-negative one-clause fix, for example "fits the expansion of conscious workspace, though a capacity account predicts the same pattern".
+- **Review file**: reviews/tenet-check-2026-10-29.md
+- **Published**: yes
 
 ## 2026-11-27 01:49 UTC - refine-draft
 - **Status**: Success
