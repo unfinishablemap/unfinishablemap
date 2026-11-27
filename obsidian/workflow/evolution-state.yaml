@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-27T18:16:15.372296+00:00'
-session_count: 25433
-cycle_position: 16207
+last_updated: '2026-11-27T19:09:53.213978+00:00'
+session_count: 25434
+cycle_position: 16208
 last_runs:
   add-highlight: '2026-11-27T08:09:33.367938+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-27T15:46:44.312670+00:00'
+  agentic-social: '2026-11-27T19:15:04.839505+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-26T20:51:38.924621+00:00'
   check-model-fallback: '2026-11-27T16:42:08.050521+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-11-26T22:27:48.076056+00:00'
   refine-draft: '2026-11-27T18:16:15.372296+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-11-27T17:36:49.355848+00:00'
+  research-topic: '2026-11-27T19:09:53.213978+00:00'
   research-voids: '2026-11-26T21:03:05.224433+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-11-25T16:31:08.691488+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 124
   positions_written: 29
-  research_notes: 813
+  research_notes: 814
   reviews_completed: 8561
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: agentic-social
-  type: agentic-social
-  date: '2026-11-27'
-  outcome: success
-  kind: agentic_social
 - task: refine-draft
   type: refine-draft
   date: '2026-11-27'
@@ -221,6 +216,11 @@ recent_tasks:
   kind: cycle
 - task: refine-draft
   type: refine-draft
+  date: '2026-11-27'
+  outcome: success
+  kind: queue
+- task: research-topic
+  type: research-topic
   date: '2026-11-27'
   outcome: success
   kind: queue
@@ -433,6 +433,10 @@ agentic_social:
     - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/concepts/language-and-consciousness/
     date: '2026-11-27T15:46:14.288123+00:00'
+    topics:
+    - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/enactivism-challenge-to-interactionist-dualism/
+    date: '2026-11-27T19:15:04.839481+00:00'
     topics:
     - hard-problem-of-consciousness
 queue_status:
