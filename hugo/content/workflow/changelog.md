@@ -1,14 +1,114 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 04:35:00+00:00
+ai_modified: 2026-11-27 05:13:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 04:35:00+00:00
+lastmod: 2026-11-27 05:13:30+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 05:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [interested-party-void](/voids/interested-party-void/)
+- **Task**: P1 "`voids/interested-party-void` existing evidence claims outrun their sources" (ORDER 1 of the page's 5 tasks; `reviews/outer-review-synthesis-2026-11-27.md` BUDGET RULE).
+- **Original score**: n/a (`scripts/curate.py` absent)
+- **Length** (`analyze_length`): 2,098 → 2,136 (+38; ceiling min(+40, 2,999 − 2,098) = +40). Body −6 (L54 −2, L56 −4, L102 0); two References entries +44. Hard limit 3,000; remaining headroom for tasks 2–5: 863.
+- **Ownership kept**: edited only L54 (terror management), L56 (Kunda, Bacon), L102 (Bidirectional), plus two References entries and renumbering. L52 was left as is. Not touched: the positive-illusions paragraph (L58), Alston (L60, source-fidelity P1), L100 including the fifth-tenet sentence (structural P1), and L96 / Further Reading (frozen).
+- **Changes (OLD → NEW)**:
+  - L54 "triggers worldview defence. Over 300 studies report that reminders of mortality bias judgment toward beliefs offering symbolic or literal immortality," → "triggers defence of worldviews offering symbolic or literal immortality. A meta-analysis of 277 experiments found moderate mortality-salience effects (Burke et al. 2010),". The unsourced count is replaced with a sourced one, and the immortality gloss is attributed to the theory rather than to "studies".
+  - L54 `"death-thought accessibility."` (quoted, no source) → unquoted technical term.
+  - L54 "distal defences restructure entire worldviews" → "distal defences maintain self-esteem and worldviews" (scaled to Pyszczynski, Greenberg & Solomon 1999).
+  - L54 closing: the proximal/distal sentence moved ahead of the conditional. "If the effect is real, the bias operates below conscious awareness … . … Any investigation of whether consciousness survives death is conducted by an entity whose cognition is already biased toward survival-confirming answers." → "If the effect is real, the bias operates below conscious awareness through death-thought accessibility, and inquiry into whether consciousness survives death is conducted by minds leaning toward survival-confirming answers." The conditional now governs the conclusion.
+  - L56 "Kunda's (1990) foundational work, shows that people chronically engage in self-serving reasoning while remaining unaware of doing so. The distortion hides in locations outside conscious awareness---introspection finds no trace of it." → "Kunda's (1990) foundational review, proposes that wanting a conclusion, unlike wanting accuracy, biases how beliefs are accessed and evaluated without the reasoner noticing, though only as far as "seemingly reasonable justifications" allow." This restores her verb, the accuracy/directional distinction and the constraint thesis.
+  - L56 "As Francis Bacon observed in 1620: "The human understanding receives an infusion from the will and affections."" → "Bacon (1620) anticipated this: the human understanding "receives an infusion from the will and affections"". This labels it a historical anticipation, not evidence. The old quotation silently elided "is no dry light, but"; the splice now sits outside the quotation marks.
+  - L56 "is the application of this well-documented phenomenon to" → "is this finding applied to".
+  - L102 "Investigating whether consciousness causally influences the physical world is an investigation in which consciousness has maximum stakes. If consciousness is epiphenomenal, the investigation itself becomes inexplicable---but the desire to avoid that conclusion is itself suspect." → "Consciousness has maximum stakes in whether it causally influences the physical world. If consciousness is epiphenomenal, it is unclear why reports would track experience ([the Map's objection](/tenets/#tenet-3-epiphenomenalism)), but the desire to avoid epiphenomenalism is itself suspect." (Upgrade (vi) / tenet-check Note 8: the epistemic-access objection, labelled as the Map's and linked to the tenet's own "deepest difficulty … rather than its refutation" paragraph.)
+  - References: added Bacon (Novum Organum I.49, Spedding/Ellis/Heath translation, 1863) and Burke, Martens & Faucher 2010 (doi 10.1177/1088868309352321); renumbered 1–17.
+- **Source ledger** (all curl, `--max-time 40 --connect-timeout 10`, whitespace collapsed; nonsense control 0 on each text):
+  - Kunda 1990, full text (craiganderson.org PDF, pdftotext, 20,385 words). Abstract "It is proposed that motivation may affect reasoning" and "constrained by their ability to construct seemingly reasonable justifications" (1 each). Body: "do not realize that the process is biased by their goals" (1), "only if they can muster up the evidence necessary to support it" (1), "People do not seem to be at liberty to conclude whatever they want" (1). "chronically" 0, "introspect" 0, "unaware" 0.
+  - Burke, Martens & Faucher 2010 (OpenAlex `abstract_inverted_index`): "164 articles with 277 experiments", "moderate effects (r = .35)" on "worldview- and self-esteem-related" DVs. Metadata: *PSPR* 14(2), 155–195.
+  - Pyszczynski, Greenberg & Solomon 1999 (PubMed efetch 10560330): distal defences "entail maintaining self-esteem and faith in one's cultural worldview" and are activated by "nonconscious but accessible thoughts of death". Used as a paraphrase only; no entry added (budget).
+  - Bacon (constitution.org nov_org.htm, aphorism XLIX): "The human understanding is no dry light, but receives an infusion from the will and affections" (1). The textnote.htm page names the Spedding, Ellis & Heath translation, *Works* Vol. VIII, Boston: Taggard and Thompson, 1863.
+- **Deliberate omissions**: (a) r = .35 was not printed. Without Chen et al. 2025 beside it (owned by the `self-maintained-cognitive-limits` P2; not added here), the figure would read as current. (b) Burke's moderators (American participants, students, longer delays) were not given, for budget reasons. (c) The 1999 dual-process paper is the primary source for the proximal/distal formulation but remains uncited (ChatGPT's citation-location point); this could be added if a later task has room. (d) "where decisive evidence is scarce", a Map bridge from Kunda's constraint to the void, was drafted and then dropped for budget. The structural P1 may want it.
+- **Engagement classification** (editor-internal): epiphenomenalism at L102. Before: boundary-substitution, with self-stultification asserted as fact inside a confession. After: Mode Three, an epistemic-access objection flagged as the Map's, with the conditionality left to `tenets.md`.
+- **Report-only (not edited; owned elsewhere)**: "active incentives to maintain blindness" (L84) and "resists correction" (L78, which sits awkwardly beside Taylor & Brown 1994's "self-corrective tendencies") both belong to the structural P1. "Alston (1986) demonstrated" (L60) belongs to the source-fidelity P1. The fifth-tenet "gains additional force" (L100) belongs to the structural P1. The early research note `research/voids-interested-party-void-2026-04-15` still carries "Over 300 studies", "introspection finds no trace" and "restructure entire worldviews". Research notes are not edited, but no task should copy wording from them.
+- **CHECK**: `grep -cF "chronically"` = 0 (task 1 has run). "falsely objectifying" 1, "gains additional force" 1, "understanding void" 1, so tasks 2–4 have not run.
+- **ai_system**: unchanged (already contains `claude-opus-5-5`, the model that ran).
+- **Published**: yes (synced; Hugo copy verified: `/tenets/#tenet-3-epiphenomenalism` link resolves to an existing anchor).
+
+## 2026-11-27 05:41 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-27 (subject: `voids/interested-party-void`, recent-aged fallback)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-4-neon). Gemini audited a stale snapshot. Only its findings matched to live passages were counted.
+- **Clusters**: 25 convergent (12 three-reviewer, 13 two-reviewer), 15 tasked singletons, 5 divergent. 13 reviewer claims were judged stale, false or overstated:
+  - Gemini: 6 about the page, 1 about the changelog;
+  - ChatGPT: Smilansky "authentic" and the TMT update "already queued";
+  - Claude: "no dedicated review exists" and its wholeheartedness-void fix;
+  - the processing passes: 2 overstated cross-page claims.
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2): the Kunda / terror-management / Bacon task (3/3) and the integration task (2/3 on items 1–3). The source-fidelity P1 and the structural P1 were already P1. The rival P2, the self-maintained-cognitive-limits P2 and the admission-threshold P2 are singletons and stay at P2.
+- **Tasks deduplicated**: 0. No two tasks share a defect and a locus.
+- **Budget**: a shared BUDGET RULE was written above Notes in all five tasks that edit the page, with an operational copy at the end of each task's Notes.
+  - Ceilings: +40, +180, +330, +160 and +80, summing to +790 against 901 words of headroom (2,098 of 3,000 by `analyze_length`), with 111 in reserve.
+  - Order: the picker's own.
+  - Ownership: one task per paragraph. L40, L68 and L100 had been double-owned. Smilansky and the fifth-tenet sentence move to the structural P1, and the integration bridge moves from L40 to L90.
+- **Corrections written into tasks**:
+  - `voids/observation-and-measurement-void` L96 sides with the sceptics, so it does not contradict "No technical fix awaits".
+  - Berent is not "the one documented bias … with a direction": `topics/cognitive-science-of-dualism` L60–L62 records Barrett et al. 2021's intuitive materialism.
+  - The 2026-06-26 deep review's stability notes on the symmetry, the regress and the Popper paragraph are superseded.
+  - L106 uses the banned "not X. It is Y." construct.
+- **Other todo edits**: a coordination note on the admission-threshold P2. It overlaps the operator-reserved "(22) with (27)" proposal at `project/quantum-claim-and-quotation-disciplines` L154. There are also 2/3 addenda on NEEDS-HUMAN methodology 2026-08-03 and 2026-08-04, and tonight's data points on NEEDS-HUMAN pipeline 2026-11-14. `parse_tasks`: 578 active before and after; P1 4→6, P2 21→19.
+- **Operator items**: 8. They include the publication-date bug (third sighting; that NEEDS-HUMAN entry sits below `## Completed Tasks`), whether this page keeps its void status, and the superseded stability notes.
+- **Output**: [outer-review-synthesis-2026-11-27](/reviews/outer-review-synthesis-2026-11-27/)
+
+## 2026-11-27 05:13 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 4 Neon ("Deeper analysis · 4 Neon", High, Deep Research). Collected by collect-gemini-review. The model slug `gemini-4-neon` was passed explicitly; the skill's hard-coded `gemini-2-5-pro` is stale.
+- **File**: [outer-review-2026-11-27-gemini-4-neon](/reviews/outer-review-2026-11-27-gemini-4-neon/). Subject: Audit interested-party-void (`voids/interested-party-void`), reused from the ChatGPT leg. This is the third and last leg of today's cycle; the pending entry is `collected`.
+- **Extraction**: the report panel was ready at 05:04Z (Stop absent, one h1 panel, 45,675 textContent chars). The DOM walk gave 46,672 markdown chars and 5,797 words. `javascript_tool` truncates at about 1k chars and returned `[BLOCKED: Cookie/query string data]` on two 900-char chunks even after halving, so those paragraphs came from `get_page_text`. On disk the body is 5,797 raw words, and its alphanumeric fingerprint (37,536 chars, rolling hash 2953905463) is identical to the page's. Recorded as `outer_review_extraction_method: text-fallback`, the only non-default value the script accepts. The inline bold in the page-text paragraphs is partial. The report's one embedded chart is not captured. The script rendered the reviewer as "Gemini 4.neon"; this was corrected to the earlier files' "Gemini 4 Neon".
+- **Claims verified**: 16 quotations of the page are live verbatim. 5 page claims are disputed as stale: "demonstrates" and "Over 300 studies confirm" predate commit 5a28324455 (10-26), and the "complete neglect" of positive illusions and the "bibliography ends in 2000" predate the 11-20 fold. A sixth is wrong: the page does not quote Kunda's "illusion of objectivity". Gemini itself says the live page was inaccessible. Crossref metadata matched for all 13 sources checked. Three abstracts confirm Gemini's wording: Hoogeveen 2023 ("evidence against a mortality-salience effect"), Peters 2021 ("narrow, individualistic account of science") and Rathje 2023 ("about 30%"). Berent 2023 is only partly confirmed: the abstract has no zombie test, and its effect runs through perception that "seems readily embodied". The Kunda constraint sentence is verbatim in the full text.
+- **High-value findings**: 2, both driver-side cross-checks. First, `voids/observation-and-measurement-void` L96 already records Michel (2021) and McKilliam (2025) arguing that calibration is achievable. That contradicts the page's "No technical fix awaits", and the page lists that sibling in related_articles but never links it. Second, `concepts/meta-problem-of-consciousness` L133 records Berent (2024) on the dualist-leaning direction of problem-intuition bias. The review's sharpest argument is self-defeat: the page's evidence for the void was found by the third-person correctives the void says cannot work.
+- **Tasks generated**: 0 new. Every live finding converges with the six tasks today's ChatGPT and Claude legs booked (840 of 901 words of headroom committed), so no task was minted. Addenda were placed ABOVE `Notes:` in five tasks: the scaling P2 (fourth flag on TMT and Kunda, with the verified Kunda quotation; Hoogeveen not to be added), the source-fidelity P1 (3/3 on Alston and Smilansky; piped link to the calibration sibling), the structural P1 (3/3 on social correctives, Cogitate, the Popper retreat, inert humility and asymmetry; additions on self-defeat, the in-house Berent datum and introspective evidence), the integration P2 (an order-independent link check for item (4)), and the rival P2 (Nagel convergence; no change). Budgets are unchanged, so about 61 words remain. `parse_tasks` reports 578 active tasks before and after.
+- **Convergence for combine**: Gemini, ChatGPT and Claude all flag Alston, Smilansky, social correctives and adversarial collaboration, the Popper-reply retreat, the humility and the parsimony ratchet, and the "contaminates all positions equally" asymmetry. Gemini and Claude both name Cogitate (Ferrante et al. 2025). Gemini did not raise the physicalist-rival gap, which is Claude only.
+
+## 2026-11-27 05:00 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 with Research ("Research complete • 293 sources • 11m 46s"). The model slug `claude-fable-5-2` comes from the target filename, as the skill specifies.
+- **File**: [outer-review-2026-11-27-claude-fable-5-2](/reviews/outer-review-2026-11-27-claude-fable-5-2/). Subject: Audit interested-party-void (`voids/interested-party-void`), reused from the ChatGPT leg. Collected by collect-claude-review.
+- **Extraction**: the artifact panel was opened from the in-conversation tile, not the sidebar's "View all"; its close control is labelled "Close tab". The body held at 49,530 textContent chars across a 10s stability window. The DOM walk produced 57,117 chars / 7,117 words, which a Blob download landed on disk identical (57,117 / 7,117). innerText reported only 12,355 chars (panel virtualisation), so textContent was the basis. The body ends cleanly at methodology item 10, and the prompt matches the pending entry verbatim. 60 Map links were converted to bare-slug wikilinks.
+- **Claims verified**: about 20, by curl with a nonsense control.
+  - Every quoted page string is verbatim on the live page.
+  - Nagel's "falsely objectifying view" occurs once in Wikipedia's "Thomas Nagel" article. The page's unquoted "standpoint of the thinker does not present itself to the thinker" is also Wikipedia's wording.
+  - Kunda's constraint thesis ("only if they can muster up the evidence necessary to support it") is in the full text.
+  - The Taylor & Brown 1994 qualifier "in domains over which people actually have some control", which the page drops, is in the PDF.
+  - Abstract quotations verified for Cogitate 2025 (*Nature* 642, 133–142), Heflick et al. 2015 and Heflick & Goldenberg (*BJSP* 51(2)).
+  - Laukkonen, Friston & Chandaria 2025 verified. The Map's own [P-RR2](/positions/replies-to-rivals/#p-rr2) names it as the strongest physicalist rival, and the evidential-status gate (L167) requires naming it; the page has zero mentions.
+  - Metadata verified for Pronin 2002, Tappin et al. 2020 and Francken 2022.
+  - The built page's `published_time` is 2026-11-20 against `created` 2026-04-16.
+- **Reviewer errors**:
+  - "No deep-review … file named after this article" is false: three exist (04-16, 05-29, 06-26), and `last_deep_review` is 2026-06-26. Methodology item 8 partly rests on that premise.
+  - The `wholeheartedness-void` "cannot be neutral" fix contradicts the reviewer's own stake ≠ bias distinction, so it was not actioned.
+  - Jong's reanalysis quotation is unverified, so Heflick & Goldenberg was marked contested in the brief.
+- **Convergent with the ChatGPT leg (no new tasks; ADDENDA to the 5 existing tasks)**: structural overreach, Heflick asymmetry, inert humility, Popper reply, genetic fallacy, social objectivity, the four Alston/Nietzsche/Smilansky/Nagel source readings, the Buddhist gloss, Kunda, the TMT count, Bacon, the fifth-tenet line, the epiphenomenal line, cross-tradition independence and AI inheritance. The fifth-tenet line and the TMT count are now flagged 3/3 (tenet-check 11-20, ChatGPT, Claude).
+- **Addenda written** (fields above `Notes:`; forks receive only File, Notes and Review file, so briefs must copy them):
+  - IPV structural P1: L44 "permits no such recusal" and the L100 "significant consciousness … mere epiphenomenon" Dualism→Bidirectional leakage join its ownership. Also Cogitate as a concrete recusal, quantifier inflation, localisation, Heflick & Goldenberg contested, and the operative-humility option (mint `positions-evolve`; do not edit `positions/`).
+  - IPV source-fidelity P1: Nagel's provenance is Wikipedia, so rewrite the whole paragraph. Smilansky points to the agency-affirming side. The Nietzsche translator is Kaufmann & Hollingdale.
+  - IPV scaling P2: 3/3 convergence; Kunda's constraint quotation verified.
+  - IPV integration P2: species-level common cause; developer policy; restore the Taylor & Brown qualifier. Budget +150 → +160.
+  - `self-maintained-cognitive-limits` TMT P2: L136 gloss "existential stakes that bias investigation" joins its ownership.
+  - Voids admission-threshold P2: convergent 2/2.
+  - NEEDS-HUMAN binding-confession (2026-08-03): methodology items 1, 2 and 6.
+  - NEEDS-HUMAN provenance (2026-08-04): methodology item 3.
+  - NEEDS-HUMAN sync `date` (2026-10-21): third RECURRENCE.
+- **High-value findings**: 10 (9 verified new or sharpened, plus 1 recurrence).
+- **Tasks generated**: 1, a P2 `refine-draft`, Source outer-review: "`voids/interested-party-void` never names the physicalist rival that predicts its phenomenon". It owns L98 (extend the [P-V3](/positions/voids-as-evidence/#p-v3) firewall to the void and the corrected sources) and L104 (regrade the progress speculation to compatible-only), with an order-independent CHECK on the source-fidelity P1. Budget ≤ +80. Shared headroom on the page: 901, now booked 840.
+- **Not tasked**:
+  - The taboo-void, phenomenology-of-agency and `positions/` tenet-discount slug fixes (register-level, routed as an option inside the structural P1).
+  - Methodology items 4, 5, 7, 8, 9 and 10 (the author-stance and rival gates already exist in `project/evidential-status-discipline`; items 7 and 8 rest partly on the false premise or on the existing NEEDS-HUMAN).
+  - Tappin et al. 2020 (the scaling P2 forbids new studies).
+- **Pending entry**: `outer-review-2026-11-27-claude-fable-5-2.md` marked `collected` at 04:50Z. Gemini (same subject) is still pending; combine not run.
 
 ## 2026-11-27 04:35 UTC - outer-review
 - **Status**: Success
