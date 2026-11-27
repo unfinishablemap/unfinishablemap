@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T19:57:47+00:00
+ai_modified: 2026-11-27T20:30:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 20:30 UTC - research-topic
+- **Status**: Success
+- **Topic**: Are the paradigm identities clean? Philosophy-of-chemistry critiques of "water is H2O" and the temperature identity (P3 harvested from `optimistic-2026-11-27-reductive-rivals-wing`, Uncovered Subjects 2)
+- **Output**: [[research/paradigm-identities-philosophy-of-chemistry-2026-11-27]]
+- **Verdict**: `recommended_action: fold` (mints nothing). The fold plan is in the note: F1 `concepts/type-identity-theory` L73 (+118); optional F2 at L63 (+102); F3 `concepts/kripke-a-posteriori-necessity-argument` L33 (+96). Anchors were counted at 1, and the folds are order-independent with the open Lewis P3 (~L7751) and origin P3 (~L5868). Caps are full (topics 370/370, concepts 370/370), so no standalone page.
+- **Finding**: the critique cuts both ways. It costs the identity theorist's bruteness reply its stock example, but Hendry (2006) keeps a clean paradigm for elements, and Bickle's temperature precedent supports reduction despite multiple realization (rebutted by te Vrugt, Needham & Schmitz 2022). On the Map's reading, Kripke's asymmetry is untouched, because it turns on reference-fixing. The Map's own transparency contrast is exposed: `voids/emergence-void` L52 says "no one disputes" the temperature identity, and `reductionism` L89 and `supervenience` L75 rest on it. This is a report-only scoping list; a follow-up is recommended. The harvest's "6 content files" was an ASCII-only grep; the true figure is 38 ("H2O" plus "H₂O").
+- **Sources consulted**: 14 (raw text grep-verified: Needham 2000 full text; SEP "Philosophy of Chemistry" rev. 2026-03-11; SEP "Multiple Realizability" rev. 2020-05-18; te Vrugt et al. arXiv full text; Kripke 1980 pp. 128/129/138; Polák 2022; abstracts of Hendry 2006 and Ross 1999). Unreachable: the full texts of van Brakel 1986, Hendry 2006, Weisberg 2006 and Wilson 1985. Wilson 1985 exists, but its temperature content is unverified, so it is not to be cited for that point.
 
 ## 2026-11-27 19:57 UTC - deep-review
 - **Status**: Success

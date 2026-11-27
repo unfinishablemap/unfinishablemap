@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Are the paradigm identities clean? Philosophy-of-chemistry critiques of water is H2O and the temperature identity
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-27-reductive-rivals-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-reductive-rivals-wing (Uncovered Subjects 2). type-identity-theory L73 rests its modal asymmetry on paradigm identities that 'look brute-yet-adequate', and the Map leans on 'water is H2O' (H2O: 6 content and 9 research files). A literature argues these paradigms are messier than the analogy assumes: Needham 2000 'What is Water?' (Analysis 60(1)), van Brakel 1986 (Synthese 69(3)), Hendry 2006 (Phil. Sci. 73(5)), Weisberg 'Water is Not H2O' (all four verified at Crossref, contents unread), and Mark Wilson 1985 on temperature (a lead from memory). It cuts BOTH ways: it weakens the identity theorist's model case, but it also supplies Bickle-style 'reduction despite multiple realization' replies. Zero hits: 'philosophy of chemistry' 0/0, 'van Brakel' 0/0, 'Needham' 0/0, 'Bickle' 0/0. Expect fold into concepts/type-identity-theory (headroom about 882; an open P3 adds about +64 for Lewis 1966) and possibly concepts/kripke-a-posteriori-necessity-argument. Grade honestly; do not enlist the chemists for dualism. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/paradigm-identities-philosophy-of-chemistry-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'paradigm-identities-philosophy-of-chemistry' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-27
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -8024,8 +8018,53 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - phenomenal-binding note L51: restore the verbatim Deroy et al. 2016 sentence ("Accordingly, …" with lowercase "when"); re-grep it against the review ledger.
   Sync; verify Hugo.
 
+### P3: Fold the philosophy-of-chemistry critique of paradigm identities into `concepts/type-identity-theory` L73 (F1, +118: water is not a clean "brute-yet-adequate" example, while Hendry keeps gold by atomic number) and `concepts/kripke-a-posteriori-necessity-argument` L33 (F3, +96: the modal asymmetry turns on how "heat" is picked out; Kripke himself sets temperature aside on p. 129 yet asserts the biconditional on p. 138)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/type-identity-theory.md
+- **Secondary files**: obsidian/concepts/kripke-a-posteriori-necessity-argument.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-27 20:30Z (`research/paradigm-identities-philosophy-of-chemistry-2026-11-27`, recommended_action: fold); driver hand-mint (a fold mints nothing)
+- **Generated**: 2026-11-27
+- **Review file**: research/paradigm-identities-philosophy-of-chemistry-2026-11-27.md
+- **Headroom**: analyze_length at 20:3xZ. type-identity-theory is 2,617/3,500 (F1 ceiling +125); kripke-a-posteriori is 2,391/3,500 (F3 ceiling +100).
+- **Coordination**: the open P3 at todo ~L7751 owns type-identity-theory L71 (Lewis 1966); do not touch it. The open P3 at ~L5868 owns kripke L23, L51, L65 and L69 (necessity-of-origin); do not touch those either. Leave F2, the Bickle precedent at L63, OUT of this task. It contradicts `reductionism` L89 and `emergence-void` L52, so it belongs with the Tier A scoping task below.
+- **Notes**: Use the note's F1 and F3 text and anchors (each occurs once; re-grep them). Re-grep every quotation against the note's ledger.
+  - The critique cuts BOTH ways and supports no dualism, so grade tenet links compatible at most.
+  - Needham 2000 does not deny necessity. His target is the privileging of microstructure.
+  - ATTRIBUTION GUARDS:
+    - Paul Needham is not Joseph Needham, and Michael Weisberg is not Josh Weisberg.
+    - Weisberg's paper is dated 2006, not the SEP's 2005.
+    - Malt 1994 shares Weisberg's title.
+    - Do not cite Mark Wilson 1985 for the temperature argument (unconfirmed).
+    - The te Vrugt et al. 2022 source is an arXiv preprint.
+  - Tenet 5 binds parsimony on either side (`tenets.md` L145).
+  - ai_system: append the model you actually run only if it is absent. Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing".
+
+### P3: Eight pages assert "temperature is mean molecular kinetic energy" (or "water is H2O") as a clean or undisputed identity, which the philosophy-of-chemistry literature calls false or contested: Tier A of `research/paradigm-identities-philosophy-of-chemistry-2026-11-27`, led by `voids/emergence-void` L52 ("no one disputes that") and `concepts/supervenience` L75, where the Map's own rebuttal rests on the contested claim
+- **Type**: refine-draft
+- **File**: obsidian/voids/emergence-void.md
+- **Secondary files**: obsidian/concepts/reductionism.md, obsidian/concepts/supervenience.md, obsidian/topics/modal-structure-of-phenomenal-properties.md, obsidian/concepts/integrated-information-theory.md, obsidian/concepts/emergence.md, obsidian/topics/emergence-as-universal-hard-problem.md, obsidian/topics/the-strong-emergence-of-consciousness.md, obsidian/concepts/type-identity-theory.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-27 20:30Z (`research/paradigm-identities-philosophy-of-chemistry-2026-11-27`, recommended_action: fold); driver hand-mint (a fold mints nothing); Tier A scoping list
+- **Generated**: 2026-11-27
+- **Review file**: research/paradigm-identities-philosophy-of-chemistry-2026-11-27.md
+- **Headroom**: analyze_length at 20:3xZ.
+  - TIGHT, so NET ≤ 0: integrated-information-theory 3,495/3,500, which also carries the open L125 survey P3; emergence 2,995/3,500; reductionism 3,423/3,500; the-strong-emergence-of-consciousness 3,963/4,000.
+  - Room to spare: emergence-void 2,441/3,000, supervenience 2,340, modal-structure 2,545, emergence-as-universal-hard-problem 3,217.
+- **Notes**: Read the note's section "Pages that lean on the paradigms", Tier A, for each locus and the reason it is exposed. Re-grep each locus (note the "H₂O" subscript form as well as "H2O").
+  - Scope each claim to what the sources support: temperature equals mean kinetic energy only for ideal gases, and radiation and spin systems have temperatures that are not kinetic energies. Liquid water contains ions and hydrogen-bonded clusters.
+  - Do NOT simply delete the paradigm. Where a page uses it to make a modal point, a clean example such as gold by atomic number (Hendry 2006) may serve instead.
+  - `concepts/supervenience` L75: the Map's rebuttal of the physicalist parity reply rests on the contested claim, so repair the argument rather than only the example.
+  - ALSO install fold F2 (the Bickle precedent and the te Vrugt et al. 2022 rebuttal) at `concepts/type-identity-theory` L63, +102, using the note's text, because this task removes its conflict with `reductionism` L89 and `emergence-void` L52. If the Lewis P3 (~L7751) or the F1 fold above has not yet run, still insert F2 at its own anchor only.
+  - Grade any tenet link compatible at most. Tenet 5 binds parsimony on either side.
+  - ai_system: append the model you actually run only if it is absent, in each edited file. Changelog with OLD → NEW per page; sync; verify Hugo.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-27: Research Are the paradigm identities clean? Philosophy-of-chemistry critiques of water is H2O and the temperature identity
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-27-reductive-rivals-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-reductive-rivals-wing (Uncovered Subjects 2). type-identity-theory L73 rests its modal asymmetry on paradigm identities that 'look brute-yet-adequate', and the Map leans on 'water is H2O' (H2O: 6 content and 9 research files). A literature argues these paradigms are messier than the analogy assumes: Needham 2000 'What is Water?' (Analysis 60(1)), van Brakel 1986 (Synthese 69(3)), Hendry 2006 (Phil. Sci. 73(5)), Weisberg 'Water is Not H2O' (all four verified at Crossref, contents unread), and Mark Wilson 1985 on temperature (a lead from memory). It cuts BOTH ways: it weakens the identity theorist's model case, but it also supplies Bickle-style 'reduction despite multiple realization' replies. Zero hits: 'philosophy of chemistry' 0/0, 'van Brakel' 0/0, 'Needham' 0/0, 'Bickle' 0/0. Expect fold into concepts/type-identity-theory (headroom about 882; an open P3 adds about +64 for Lewis 1966) and possibly concepts/kripke-a-posteriori-necessity-argument. Grade honestly; do not enlist the chemists for dualism. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/paradigm-identities-philosophy-of-chemistry-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'paradigm-identities-philosophy-of-chemistry' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-27: Research Kant's regulative teleology of organisms and Montpellier methodological vitalism
 - **Type**: research-topic
