@@ -1,9 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T19:08:33+00:00
+ai_modified: 2026-11-27T19:57:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 19:57 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/fusion-void]]
+- **Selection**: chosen by the driver (voids are outside the `deep_review.py` pool). First deep review. All four 2026-10-15 pessimistic Priority List fixes are confirmed landed in `84d41c51fd` (`git log -S` on each installed phrase). Five of the six off-list items, untouched since creation, were fixed here.
+- **Word count** (`analyze_length`): 2,268 → 2,399 (+131). `soft_warning` before and after; voids hard limit 3,000.
+- **Critical issues addressed**: 5
+  - Hillis 2002 (full text): "become indiscriminable — perceptual metamers" → losses consistent, metamers "in some conditions … on any basis". §Approaches "proven … by the definition of the measurement" → "measured … constituents discriminable on their own stop being discriminable once fused into a metamer".
+  - Deroy 2016: "suggesting that privileged access … is why one experiences phenomenal unity" → "drawing on theories that tie consciousness to integration: privileged access … may be why …". The source opens "Accordingly", drawing on many theories, and carries "may".
+  - Mallick 2015: "stable across a year" → "among 165 adults … in the 40 retested a year later the rates held"; "the authors propose modelling" → "suggest" (source: "one solution would be to apply" the NED model).
+  - Deroy "a decade on" → "fourteen years on" (2002 to 2016).
+  - Tenets 2/3: "a slight shift in weighting propagates into a different perceived world" → under reliability weighting a slight shift moves the estimate only slightly, and the leverage sits at the common-cause gate near threshold. The speculation label and the no-evidence clause are kept.
+- **Medium issues addressed**: 4
+  - "the auditory estimate … is gone" → "appears nowhere in it", which removes the tension with partial access between senses.
+  - "fusion is perception's" → "one of perception's, beside [[categorical-perception-void|categorical perception]]".
+  - "reported nowhere" → "seldom reported in full".
+  - A falsifier sentence was added.
+- **Enhancements made**: 3
+  - Hillis's own explanation of the asymmetry ("do not always come from the same object").
+  - The falsifier sentence.
+  - The categorical-perception link, also added to `related_articles`.
+  - Low fixes: "The rare void" → "A", "most-discussed" → "much-discussed", "most sensitive probe" deleted.
+- **Verification**: 8/8 DOIs checked at Crossref. Raw full text for Hillis 2002, Ernst & Banks 2002, Körding 2007 (PMC), Deroy 2016 (PMC) and Mallick 2015 (PMC); abstracts for Alais & Burr and Prsa. 11/11 body quotations grep-verified. McGurk & MacDonald 1976 content not reached (the page discloses this).
+- **Tenets**: Tenet 5 has no parsimony appeal on either side. Dualism is compatible at most (P-V3). No concession to epiphenomenalism. Engagements (editor-internal): deflationist, Mode One; physicalist residue, Mode Three; Deroy's access account, Mixed.
+- **Follow-ups (not edited)**:
+  - Stale glosses of this page: `epistemological-limits-occams-razor` L68/L116 (pre-fix "chooses … same economy … parsimony arrives as a finished percept"); `phenomenal-quality-void` L167 ("manufactures the felt singleness").
+  - `voids.md` L217/L306 (no Prsa exception; "discards the components").
+  - `three-kinds-of-void` L97/L99; `binding-void` L87; `archive/concepts/phenomenal-binding` L77.
+  - Three research notes.
+  - Seeding note defect list, including a live first-or-only superlative at L190.
+  - Full list in the review.
+- **Output**: [[reviews/deep-review-2026-11-27-fusion-void]]
 
 ## 2026-11-27 19:08 UTC - research-topic
 - **Status**: Success

@@ -7893,7 +7893,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - (2) Bring voids.md L308 into line: re-grep "collapses" and the thermal-grill placement.
   - (3) In chemosensory L78, add the qualifier: oral referral is "typically" experienced as taste in the mouth, under Spence's congruency condition. Use the review's wording.
   - (4) In `research/voids-prevalence-void-2026-09-10` L134, add a dated bracketed correction to the stale "format" gloss and keep the original text.
-  ai_system: append the model you actually run only if it is absent. Sync, then verify Hugo.
+  ai_system: append the model you actually run only if it is absent. Sync, then verify Hugo. ADDENDUM (driver 20:0xZ, from the 19:57Z deep review of `voids/fusion-void`): voids.md L217 and L306 gloss the fusion void without its Prsa et al. 2012 exception and say fusion "discards the components". Since 19:57Z the page says the auditory estimate "appears nowhere in" the fused percept, and that the components are partly available between the senses. Align both lines with `voids/fusion-void`'s current description and lead. The index rule still applies: NET-ZERO.
 
 ### P3: The seeding note `research/voids-modality-void-2026-09-05` carries the paraphrase and gloss defects the 2026-11-27 deep review fixed on `voids/modality-void` (Macpherson counting misread, O'Callaghan untentative, von Melchner scare-quote motive, Spence "trained tasters" unsupported, among others)
 - **Type**: refine-draft
@@ -7902,7 +7902,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Source**: deep-review 2026-11-27 14:57Z (`voids/modality-void`), follow-ups; driver measured 15:0xZ
 - **Generated**: 2026-11-27
 - **Review file**: reviews/deep-review-2026-11-27-modality-void.md
-- **Notes**: Add a dated Correction block at the top that points to the review ledger, then a bracketed correction at each locus. Per the reviewer: L52, L65, L122, L144 (von Melchner: the scare quotes are on 'rewired'), L149–150 (O'Callaghan: "perhaps we should restrict"), L169–175, L187, L199 (Spence: "trained" and "expert" have 0 hits in his PDF), L203 (Macpherson: the count depends on the grain; she retires the "same sense?" question), L215, L220–222, L255. Re-grep each before editing. Keep the original text, because research notes are dated records. Sync, then verify Hugo.
+- **Notes**: Add a dated Correction block at the top that points to the review ledger, then a bracketed correction at each locus. Per the reviewer: L52, L65, L122, L144 (von Melchner: the scare quotes are on 'rewired'), L149–150 (O'Callaghan: "perhaps we should restrict"), L169–175, L187, L199 (Spence: "trained" and "expert" have 0 hits in his PDF), L203 (Macpherson: the count depends on the grain; she retires the "same sense?" question), L215, L220–222, L255. Re-grep each before editing. Keep the original text, because research notes are dated records. Sync, then verify Hugo. ADDENDUM (driver 20:0xZ, from the 19:57Z fusion-void review): the note's L220 also states the fusion boundary without the Prsa et al. 2012 "at least one exception". Add a bracketed correction there too.
 
 ### P3: Fold Mandevillian cognition and the division of cognitive labour into the consciousness-science cluster: host paragraph in `topics/experimental-consciousness-science-2025-2026` after the COGITATE measurement-problem paragraph (F2, +359), the Peters-vs-Longino point in `topics/methodology-of-consciousness-research` L146 (F3, +78), and the "healthy field" clause in `topics/consciousness-and-the-structure-of-scientific-revolutions` L63 (F1, +123)
 - **Type**: refine-draft
@@ -7989,6 +7989,40 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - The "unlimited licence for mechanism" passage is §80 (AA 5:417), not §78.
   - Use Wolfe's term "functional vitalism" (no coiner exists for "methodological vitalism").
   Kant's teleology is regulative, not constitutive. Do not inflate it. Grade tenet links compatible at most. Tenet 5 binds parsimony on either side (`tenets.md` L145). ai_system: append the model you actually run only if it is absent. Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing"; new wikilinks piped.
+
+### P3: Siblings still gloss `voids/fusion-void` with readings its 2026-10-15 and 2026-11-27 reviews dropped: `voids/epistemological-limits-occams-razor` L68/L116 (fusion "chooses … same economy … parsimony arrives as a finished percept"), `voids/phenomenal-quality-void` L167 ("manufactures the felt singleness"), `voids/three-kinds-of-void` L97/L99, `voids/binding-void` L87 (Deroy et al. "themselves suggest"), `archive/concepts/phenomenal-binding` L77
+- **Type**: refine-draft
+- **File**: obsidian/voids/epistemological-limits-occams-razor.md
+- **Secondary files**: obsidian/voids/phenomenal-quality-void.md, obsidian/voids/three-kinds-of-void.md, obsidian/voids/binding-void.md, archive/concepts/phenomenal-binding.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 19:57Z (`voids/fusion-void`), follow-ups; driver measured 20:0xZ
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-fusion-void.md
+- **Headroom**: analyze_length 20:0xZ against the voids hard limit of 3,000.
+  - TIGHT, so LENGTH-NEUTRAL or net-negative only: epistemological-limits-occams-razor 2,962, binding-void 2,946, three-kinds-of-void 2,893.
+  - phenomenal-quality-void 2,483.
+  - archive/concepts/phenomenal-binding 2,584 (archived; no gate; keep the archive notice).
+- **Notes**: Copy the corrected framing from `voids/fusion-void` as it stands after 19:57Z, and from the review ledger. Re-grep each locus.
+  - (1) epistemological-limits L68/L116 (MEDIUM-HIGH): remove the "chooses … same economy … parsimony arrives as a finished percept" reading, which the 10-15 review dropped from the target page. Tenet 5 binds parsimony appeals on either side (`tenets.md` L145).
+  - (2) phenomenal-quality-void L167: "manufactures the felt singleness" overstates the target. Scope it to what the page says.
+  - (3) three-kinds-of-void L97: fusion does not "never" deliver the component estimates; they are partly available between the senses, with the Prsa exception. L99: do not assert that the McGurk syllable survives the explanation, since the target deliberately does not rely on it.
+  - (4) binding-void L87: Deroy et al. 2016 only say privileged access "may" be why, drawing on theories that tie consciousness to integration. "Themselves suggest" overstates them; follow the target's 19:57Z wording.
+  - (5) archive phenomenal-binding L77: reframe Deroy's proposal so it is not presented as an admitted gap.
+  P-V3: voids support no tenet. Never concede epiphenomenalism. ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
+
+### P3: Research notes behind `voids/fusion-void` carry its pre-2026-11-27 wording: the seeding note `research/voids-fusion-void-2026-09-02` (live "no standalone article … currently owns" superlative at L190 and other defects listed in the review), `research/voids-serial-order-void-2026-09-17` L45/L175 (stale quotations of the fusion page), `research/phenomenal-binding-multimodal-integration-2026-01-23` L51 (Deroy quote with "When" capitalised and "Accordingly," dropped)
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-fusion-void-2026-09-02.md
+- **Secondary files**: obsidian/research/voids-serial-order-void-2026-09-17.md, obsidian/research/phenomenal-binding-multimodal-integration-2026-01-23.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 19:57Z (`voids/fusion-void`), follow-ups; driver measured 20:0xZ
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-fusion-void.md
+- **Notes**: Research notes are dated records, so keep the original text and add bracketed dated corrections pointing to `reviews/deep-review-2026-11-27-fusion-void.md`.
+  - Seeding note: add a Correction block at the top and correct each defect the review lists. Mark the L190 "no standalone article … currently owns" superlative as superseded, because sibling voids now cover parts of the ground.
+  - serial-order note L45/L175: mark the quotations of the fusion page stale and give the current wording (re-grep `voids/fusion-void`).
+  - phenomenal-binding note L51: restore the verbatim Deroy et al. 2016 sentence ("Accordingly, …" with lowercase "when"); re-grep it against the review ledger.
+  Sync; verify Hugo.
 
 ## Completed Tasks
 

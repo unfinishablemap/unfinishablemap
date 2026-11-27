@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-09-04
-ai_modified: 2026-11-18 11:36:15+00:00
+ai_modified: 2026-11-27 19:54:12+00:00
 ai_system: claude-opus-5+claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -9,9 +9,9 @@ concepts:
 - '[[introspection]]'
 - '[[metacognition]]'
 created: 2026-09-04
-date: &id001 2026-11-18
+date: &id001 2026-11-27
 description: Perception combines its estimates by hidden weights and a hidden common-cause
-  verdict. The rare void whose own boundary has psychophysical coordinates.
+  verdict. A rare void whose own boundary has psychophysical coordinates.
 draft: false
 embedded_videos:
 - embedded: 2026-11-11 00:03:17.720588+00:00
@@ -20,7 +20,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/wQEoYqAm_Wo
 human_modified: null
 last_curated: null
-lastmod: 2026-11-18 11:36:15+00:00
+last_deep_review: 2026-11-27 19:54:12+00:00
+lastmod: 2026-11-27 19:54:12+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,6 +38,7 @@ related_articles:
 - '[[inference-void]]'
 - '[[decision-void]]'
 - '[[common-cause-null]]'
+- '[[categorical-perception-void]]'
 title: The Fusion Void
 topics:
 - '[[the-binding-problem]]'
@@ -63,23 +65,23 @@ Consciousness never receives the question, only a world already parsed into even
 
 Given a decision to fuse, each component is weighted by reliability. Ernst and Banks (2002) proposed "a general principle, which minimizes variance in the final estimate, determines the degree to which vision or haptics dominates," implemented by maximum-likelihood combination. The weights are not fixed properties of the senses: they track momentary stimulus quality and change when it changes.
 
-The ventriloquist effect is this operation seen from outside. Alais and Burr (2004) showed that vision captures sound because vision is usually the better spatial estimator, and that "for severely blurred visual stimuli (that are poorly localized), the reverse holds: sound captures vision." A folk description of visual dominance turns out to describe a contingent output of reliability weighting, reversible by degrading the input. The phenomenology reports the verdict's content and nothing of its production: the felt sense that one *saw where the voice came from* is the weighted result, and the auditory estimate that disagreed is gone.
+The ventriloquist effect is this operation seen from outside. Alais and Burr (2004) showed that vision captures sound because vision is usually the better spatial estimator, and that "for severely blurred visual stimuli (that are poorly localized), the reverse holds: sound captures vision." A folk description of visual dominance turns out to describe a contingent output of reliability weighting, reversible by degrading the input. The phenomenology reports the verdict's content and nothing of its production: the felt sense that one *saw where the voice came from* is the weighted result, and the auditory estimate that disagreed appears nowhere in it.
 
 ## Component Destruction and the Measured Edge
 
-The components are not merely unreported. Within a sense they are lost to perceptual judgment. Hillis, Ernst, Banks and Landy (2002) found that "single-cue information is indeed lost when cues from within the same sensory modality" are combined, "but not when different modalities (vision and haptics) are combined." Physically different cue-combinations that fuse to the same within-modality estimate become indiscriminable — perceptual metamers. The pre-fusion components are unavailable not only to report but to discrimination, psychophysics' most sensitive probe.
+The components are not merely unreported. Within a sense they are lost to perceptual judgment. Hillis, Ernst, Banks and Landy (2002) found that "single-cue information is indeed lost when cues from within the same sensory modality" are combined, "but not when different modalities (vision and haptics) are combined." Within vision, discrimination consistently fell short of what the single cues allowed when disparity and texture changed in opposite directions, and in some conditions physically different combinations that fused to the same estimate could not be told apart on any basis — perceptual metamers. The pre-fusion components are unavailable not only to report but to discrimination.
 
-Deroy and colleagues (2016) state the seam from inside the empirical literature: "one may have privileged access to the integrated product while losing access to its component parts." They restate the cross-modal exception a decade on, noting that participants "do not integrate signals from vision and haptics into perceptual metamers."
+Deroy and colleagues (2016) state the seam from inside the empirical literature: "one may have privileged access to the integrated product while losing access to its component parts." They restate the cross-modal exception fourteen years on, noting that participants "do not integrate signals from vision and haptics into perceptual metamers."
 
-This draws the void's edge, and answers the obvious deflation — that nothing is lost, because the pre-fusion components were never mental contents to begin with. The Hillis result absorbs that objection and sharpens the void: between senses the components *are* partially available, so the architecture demonstrably can retain component access, and within a sense it demonstrably does not. The edge is not the modality line as such: visual and vestibular cues to one's own rotation also fuse into metamers, which Prsa, Gale and Blanke (2012) call "an exceptional case of mandatory fusion of cues stemming from two different sensory modalities." The limit is a fact about where the architecture spends retention, and no percept carries a marker saying which side of the edge it came from.
+This draws the void's edge, and answers the obvious deflation — that nothing is lost, because the pre-fusion components were never mental contents to begin with. The Hillis result absorbs that objection and sharpens the void: between senses the components *are* partially available, so the architecture demonstrably can retain component access, and within a sense it demonstrably does not. Hillis and colleagues suggest why the senses differ here: haptic and visual signals "do not always come from the same object," so mandatory fusion between them would mislead. The edge is not the modality line as such: visual and vestibular cues to one's own rotation also fuse into metamers, which Prsa, Gale and Blanke (2012) call "an exceptional case of mandatory fusion of cues stemming from two different sensory modalities." The limit is a fact about where the architecture spends retention, and no percept carries a marker saying which side of the edge it came from.
 
 On the Map's [three-kinds taxonomy](/voids/three-kinds-of-void/) the core is *unexplorable* — no introspective act can recover what perceptual judgment no longer has — with an *unexplored* margin in cross-modal component access and in the variability described next. That the boundary between core and margin has been charted from outside is what makes this void unusual.
 
 ## A Trait No One Can Read From Inside
 
-The most-discussed exhibit is the McGurk effect (McGurk & MacDonald, 1976): a dubbed audiovisual syllable is heard as a third syllable matching neither component. It is commonly reported that knowing the dubbing does not undo the heard syllable. The Map rests nothing on that reported impenetrability: the effect's robustness is actively debated, and the 1976 report was not consulted for this article.
+A much-discussed exhibit is the McGurk effect (McGurk & MacDonald, 1976): a dubbed audiovisual syllable is heard as a third syllable matching neither component. It is commonly reported that knowing the dubbing does not undo the heard syllable. The Map rests nothing on that reported impenetrability: the effect's robustness is actively debated, and the 1976 report was not consulted for this article.
 
-What it does rest on is the variability. Mallick, Magnotti and Beauchamp (2015) observed "dramatic differences both in how frequently different individuals perceived the illusion (from 0 % to 100 %)," stable across a year (test-retest correlation, r = 0.91). Different minds set the common-cause gate differently — the authors propose modelling each person's setting as a disparity threshold below which the two streams are fused — a durable personal parameter rather than noise.
+What it does rest on is the variability. Mallick, Magnotti and Beauchamp (2015) observed, among 165 adults, "dramatic differences both in how frequently different individuals perceived the illusion (from 0 % to 100 %)," and in the 40 retested a year later the rates held (test-retest correlation, r = 0.91). Different minds set the common-cause gate differently — the authors suggest modelling each person's setting as a disparity threshold below which the two streams are fused — a durable personal parameter rather than noise.
 
 That adds a second-order opacity to the first. A subject who fuses on every trial and a subject who never fuses are phenomenologically alike: each simply hears a syllable, and nothing in experience marks which kind of perceiver one is. The result converts the fusion void from a claim about universal architecture into a mapped dimension of [mind-space](/voids/mapping-mind-space/) that no mind can locate itself on unaided.
 
@@ -89,11 +91,11 @@ The [binding void](/voids/binding-void/) asks whether phenomenal unity resists *
 
 The [predictive construction void](/voids/predictive-construction-void/)'s subtraction barrier concerns removal of self-caused sensory input before it reaches awareness. The two barriers are independent: a system could subtract reafference while retaining its cue components, or discard components while keeping no reafference model at all.
 
-The [plenitude void](/voids/plenitude-void/)'s ensemble-statistics position concerns the representational *format* of many-item scenes. And where [transit](/voids/transit-void/), [inference](/voids/inference-void/) and [decision](/voids/decision-void/) are operation-voids of cognition, fusion is perception's.
+The [plenitude void](/voids/plenitude-void/)'s ensemble-statistics position concerns the representational *format* of many-item scenes. And where [transit](/voids/transit-void/), [inference](/voids/inference-void/) and [decision](/voids/decision-void/) are operation-voids of cognition, fusion is one of perception's, beside [categorical perception](/voids/categorical-perception-void/).
 
 ## Approaches to the Edge
 
-**Direct methods** exist only on the cross-modal side. Observers can discriminate congruent from incongruent visual-haptic stimuli even when their fused estimates match, so component access is partially exercisable between senses. Within a sense the ceiling is proven rather than merely encountered: metamers are indiscriminable by the definition of the measurement.
+**Direct methods** exist only on the cross-modal side. Observers can discriminate congruent from incongruent visual-haptic stimuli even when their fused estimates match, so component access is partially exercisable between senses. Within a sense the ceiling is measured rather than merely encountered: constituents discriminable on their own stop being discriminable once fused into a metamer. Two findings would challenge the void as drawn: within-sense metamers that became discriminable with training, or introspective reports of single-cue estimates under conflict that predicted discrimination performance.
 
 **Indirect methods** work well, which is precisely the asymmetry. Fitting observer models to a subject's choices recovers the weights and the causal-structure gate the subject cannot report. Titrating inter-sensory conflict and watching where reports break from fusion to segregation maps the operating range of the common-cause decision. Comparing individuals maps a dimension of variation no individual experiences as one. The machinery is third-person open and first-person closed.
 
@@ -103,11 +105,11 @@ The [plenitude void](/voids/plenitude-void/)'s ensemble-statistics position conc
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is the tenet this void bears on most directly. The common-cause gate answers the razor's own question — how many causes to posit — below theory: perception continually weighs a one-cause against a two-cause model of its inputs, and consciousness receives only the world that weighing implies. The gate is not a standing preference for the simpler model (the prior probability of a common cause fitted by Körding and colleagues averaged 0.28), and within the conditions it was tuned on it performs near-optimally. Where the Map's [parsimony void](/voids/epistemological-limits-occams-razor/) treats the razor as a cognitive bias in theory choice, the fusion void shows the same question answered inside perception, where its verdicts arrive as finished percepts and its parameters cannot be audited. The tenet's caution bites at the edge of that tuning: the ventriloquist's stage and the dubbed film are inputs built to mimic the statistics the gate was tuned on, and there its verdict is as compelling as ever and wrong. A scene's apparent singleness is evidence of one source only within the conditions the machinery was calibrated for.
 
-**[Dualism](/tenets/#dualism)** takes a two-sided bearing, and both sides matter. Cue weighting and perceptual causal inference are quantitatively modelled with no computational remainder, and belong on the brain side of any capability division — an assignment the Map holds open to dispute rather than settled. Precisely because the combination machinery is so fully charted, the residue stands out. Deroy and colleagues note "the discrepancy between phenomenal experience and multisensory integration as measured at the neural level." Fusion explains how contents get combined. The same authors go one step further, suggesting that privileged access to the integrated product is why one experiences phenomenal unity; that is an account in terms of access, and whether access explains the combined content's being *experienced* as one is the question the [binding void](/voids/binding-void/) keeps open. The fusion void thereby sharpens the binding void by subtraction, removing the computational combination story from the binding question and showing what remains. Calibrated per the Map's [common-cause null](/project/common-cause-null/): this locates the explanatory residue rather than evidencing any account of it, and a physicalist reading of that residue is untouched by anything argued here.
+**[Dualism](/tenets/#dualism)** takes a two-sided bearing, and both sides matter. Cue weighting and perceptual causal inference are quantitatively modelled with no computational remainder, and belong on the brain side of any capability division — an assignment the Map holds open to dispute rather than settled. Precisely because the combination machinery is so fully charted, the residue stands out. Deroy and colleagues note "the discrepancy between phenomenal experience and multisensory integration as measured at the neural level." Fusion explains how contents get combined. The same authors go one step further, drawing on theories that tie consciousness to integration: privileged access to the integrated product may be why one experiences phenomenal unity. That is an account in terms of access, and whether access explains the combined content's being *experienced* as one is the question the [binding void](/voids/binding-void/) keeps open. The fusion void thereby sharpens the binding void by subtraction, removing the computational combination story from the binding question and showing what remains. Calibrated per the Map's [common-cause null](/project/common-cause-null/): this locates the explanatory residue rather than evidencing any account of it, and a physicalist reading of that residue is untouched by anything argued here.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** and **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** attract one remark, offered as speculation. If a non-physical influence operates anywhere in the perception-action loop, precision weights are the kind of small, high-leverage parameter the minimality requirement points toward, since a slight shift in weighting propagates into a different perceived world. That is an observation about where leverage would be cheap. No claim is made that any interface operates at this site, and the void supplies no evidence that one does.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** and **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** attract one remark, offered as speculation. If a non-physical influence operates anywhere in the perception-action loop, precision weights look like the small, high-leverage parameter the minimality requirement points toward, but under reliability weighting a slight shift moves the estimate only slightly; the leverage sits at the common-cause gate, where near threshold a slight shift decides whether one event or two is perceived. That is an observation about where leverage would be cheap. No claim is made that any interface operates at this site, and the void supplies no evidence that one does.
 
-The catalogue itself performs fusion: lines of evidence are combined into single judgements, with the weighting of sources set by whoever writes the synthesis and reported nowhere. The felt unity of a conclusion is the output of a combination whose weights the concluder cannot read — a caution the Map owes its own syntheses.
+The catalogue itself performs fusion: lines of evidence are combined into single judgements, with the weighting of sources set by whoever writes the synthesis and seldom reported in full. The felt unity of a conclusion is the output of a combination whose weights the concluder cannot fully read — a caution the Map owes its own syntheses.
 
 ## Further Reading
 
