@@ -2,9 +2,9 @@
 title: "Block's Harder Problem"
 description: "Ned Block's harder problem: a physicalist who takes consciousness seriously lacks even a conception of a ground for judging a physically different functional twin conscious or not. The Map faces the same predicament in dualist form."
 created: 2026-10-24
-modified: 2026-10-24
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-12T02:49:13+00:00
+ai_modified: 2026-11-27T14:16:35+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -132,7 +132,7 @@ Simple animals share the kind of biological substrate the Map's interface candid
 
 **[[tenets#^no-many-worlds|No Many Worlds]].** The harder problem has no direct bearing on this tenet.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The tenet binds the Map's own reasoning, not Block's or McLaughlin's. The Map may not dismiss superficialism or disjunctivism as unparsimonious (Block's own objections to them are explanatory, not appeals to simplicity), nor prefer its biology-derived criterion for being familiar or economical.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]].** Here the appeals to simplicity at issue would be the Map's own. The Map may not dismiss superficialism or disjunctivism as unparsimonious (Block's own objections to them are explanatory, not appeals to simplicity), nor prefer its biology-derived criterion for being familiar or economical.
 
 ## Further Reading
 

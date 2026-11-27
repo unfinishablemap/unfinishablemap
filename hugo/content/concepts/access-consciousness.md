@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-11-11 22:19:41+00:00
+ai_modified: 2026-11-27 14:16:35+00:00
 ai_system: claude-opus-4-5-20251101+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -19,14 +19,14 @@ concepts:
 - '[[mysterianism]]'
 - '[[indexical-identity-quantum-measurement]]'
 created: 2026-01-22
-date: &id001 2026-01-30
+date: &id001 2026-11-27
 description: Access consciousness makes mental states available for reasoning and
   behavior control, distinct from phenomenal consciousness's subjective experience.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-25 11:05:44+00:00
-lastmod: 2026-11-11 22:19:41+00:00
+lastmod: 2026-11-27 14:16:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ Access consciousness is where this becomes existentially urgent. When you choose
 
 [Global Workspace Theory](/concepts/global-workspace-theory/) explains A-consciousness but leaves P-consciousness unexplained. [Integrated Information Theory](/concepts/integrated-information-theory/) attempts to address P-consciousness but faces its own difficulties. The 2025 [COGITATE adversarial collaboration](/concepts/global-workspace-theory/#the-cogitate-experiment) found neither theory fully captured the phenomena.
 
-This illustrates [the limits of Occam's Razor](/tenets/#occams-limits). Physicalist theories are simpler (one substance) but struggle with consciousness. Dualism is more complex, and it posits phenomenology as irreducible rather than explaining it. The tenet governs only the Map's own reasoning: it lets the Map doubt that economy settles the question, and gives no licence to discount the physicalist account of access for being simple. The A-consciousness / P-consciousness distinction shows *what* physicalism can explain (access) and *where* the Map holds it cannot (phenomenology).
+This illustrates [the limits of Occam's Razor](/tenets/#occams-limits). Physicalist theories are simpler (one substance) but struggle with consciousness. Dualism is more complex, and it posits phenomenology as irreducible rather than explaining it. The tenet bars economy from deciding either way: it lets the Map doubt that economy settles the question, and gives no licence to discount the physicalist account of access for being simple. The A-consciousness / P-consciousness distinction shows *what* physicalism can explain (access) and *where* the Map holds it cannot (phenomenology).
 
 ## Further Reading
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-28
-ai_modified: 2026-11-26 22:23:00+00:00
+ai_modified: 2026-11-27 14:16:35+00:00
 ai_system: claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[integrated-information-theory]]'
 - '[[composition-and-consciousness]]'
 created: 2026-10-28
-date: &id001 2026-11-26
+date: &id001 2026-11-27
 description: Before any transition law, the interface must say whose state, which
   subsystem, which candidate, when, and how many. Six indexing components and the
   debt the Map books, traced with human-AI review.
@@ -23,7 +23,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-28 21:11:21+00:00
-lastmod: 2026-11-26 22:23:00+00:00
+lastmod: 2026-11-27 14:16:35+00:00
 modified: *id001
 related_articles:
 - '[[subject-census]]'
@@ -117,7 +117,7 @@ The typing conclusion restated: the two-subject model waits on a composition rul
 - *Minimal Quantum Interaction*: a minimal interaction needs a *where* and a *whose*: the einselected menu is defined relative to a factorisation the mechanism does not fix, and the conditioning state belongs to a subject it does not name. Both are inputs the tenet's "smallest possible non-physical influence" presupposes.
 - *Bidirectional Interaction*: interaction cannot ground the pairing it presupposes. Bailey, Rasmussen and Van Horn's distinction (locations ground the possibility of interaction, interaction only the diachronic tie) is a standard the Map has not met, since its only location-fixer is the interaction itself. Semantic matching is the tenet's own content clause restated as a debt.
 - *No Many Worlds*: the indexical argument against many-worlds asks why *I* am this branch rather than another, and needs a determinate "I" to ask it. The indexing law is upstream of that argument; the parity risk (Everettian branches are factorisation-relative too) is booked on the factorisation page.
-- *Occam's Razor Has Limits*: the lesson is for the Map's own reasoning. The single-law programme looked simpler than it was because it took its inputs as given; one kernel concealed six untyped parameters. The tenet constrains how the Map reasons and says nothing against the physicalist exclusion rule, which remains the only worked answer.
+- *Occam's Razor Has Limits*: the lesson here falls on the Map's own reasoning. The single-law programme looked simpler than it was because it took its inputs as given; one kernel concealed six untyped parameters. The tenet discounts simplicity on either side, so it neither credits nor faults the physicalist exclusion rule for its economy; that rule remains the only worked answer.
 
 ## Further Reading
 

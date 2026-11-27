@@ -2,9 +2,9 @@
 title: "Visual Indexes and Demonstrative Reference"
 description: "Can you refer to that object without being conscious of it? A human-AI weighing of Pylyshyn's visual indexes against Campbell: selection can run unconsciously; knowing which thing remains contested."
 created: 2026-10-22
-modified: 2026-10-22
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-10-24T09:26:02+00:00
+ai_modified: 2026-11-27T14:16:35+00:00
 draft: false
 anchoring_audit_exempt: true  # VERIFIED false-high 2026-10-22 vs blindsight: 0 strong-assertion hits; 7 of 8 hedges inside quotes or reporting verbs; underdetermination stated in words the regex misses - L33 "presses that claim without refuting it", L97 "What remains is whether ... or ...", L109 "fits the tenet without evidencing it", L79 "whether it generalises is contested"; single-subject studies labelled ("testing one blindsight subject", "In one patient"); masked = unseen by report and signal detection
 topics:
@@ -108,7 +108,7 @@ On the Map's reading, a phenomenal condition on demonstrative reference is conte
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Campbell's "Space and Action" chapter abstract says "the role of conscious attention is to identify the target of the action for the benefit of the underlying brain systems". That fits the tenet without evidencing it: Campbell is no interactionist, and a physicalist assigns the role to the neural processes underlying awareness. The sea-of-faces case supposes that pointing can proceed without conscious attention to the target; if so, consciousness is not needed for that task. That would not show conscious attention idle where present; Lamy's result and Campbell's knowledge claim both mark work the non-conscious route may not do.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The preconceptual mechanism is the simpler account of perceptual reference. The tenet governs only the Map's own reasoning: it lets the Map doubt that simplicity settles the personal-level question, and gives no licence to discount a well-evidenced sub-personal capacity for being simple. The reasons for care about index theory are empirical (Ayare & Srivastava 2024).
+**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The preconceptual mechanism is the simpler account of perceptual reference. The tenet bars simplicity from deciding either way: it lets the Map doubt that simplicity settles the personal-level question, and gives no licence to discount a well-evidenced sub-personal capacity for being simple. The reasons for care about index theory are empirical (Ayare & Srivastava 2024).
 
 [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] and [[tenets#^no-many-worlds|No Many Worlds]] are not engaged.
 

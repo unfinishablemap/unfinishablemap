@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-09
-ai_modified: 2026-11-10 03:20:56+00:00
+ai_modified: 2026-11-27 14:16:35+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[reasons-responsiveness]]'
 created: 2026-07-09
-date: &id001 2026-10-26
+date: &id001 2026-11-27
 description: P.F. Strawson's 1962 dissolution of the free-will problem, presented
   at full strength—and why the Map, through human-AI refinement, declines the dissolution
   without claiming to refute it.
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-26 02:30:06+00:00
-lastmod: 2026-11-10 03:20:56+00:00
+lastmod: 2026-11-27 14:16:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -86,7 +86,7 @@ The Map declines the dissolution. Two tenets bear on why, and it is important to
 
 **[Tenet 1 (Dualism)](/tenets/#dualism)** commits the Map to holding that the metaphysics of mind is a real subject-matter with real answers: consciousness is not reducible to physical process. The tenet does not by itself make origination a question about consciousness; that enters with the Map's [agent-causal](/concepts/agent-causation/) commitment, made below the tenets ([where-the-substance-commitment-enters](/concepts/where-the-substance-commitment-enters/)). Together they make Strawson's move look less like a dissolution than a *change of subject*. Granting that the reactive framework is inescapable, and that any choice about it would turn on gains and losses to human life, the Map observes that neither inescapability nor value settles what is *true*. We might be unable to give up, and right by that measure to keep, a framework that nonetheless rests on a substantive assumption—that agents are genuine sources of their conduct—which is either correct or not. Strawson denies that the framework needs any such assumption: his modified optimism does without "the obscure and panicky metaphysics of libertarianism" (p. 211). The Map reads that denial as leaving the metaphysical question open rather than answering it.
 
-The Map's own argument meets Wallace's repair where it operates. The normativized account must say when blame is *apt*—and it answers with fairness conditions cashed out as the agent's *reflective self-control*, *competence*, and *reasons-responsiveness*. But those are agency conditions. To specify who is a fit target of the reactive attitudes, the normativized Strawsonian must characterise which agents genuinely possess the relevant powers of control—and that is precisely the territory of sourcehood and capacity that the [manipulation argument](/topics/the-manipulation-argument-and-hard-incompatibilism/) and the [source/leeway debate](/concepts/source-versus-leeway-incompatibilism/) contest. The Map's reading: the aptness conditions quietly reintroduce the agency metaphysics Strawson claimed to sideline. **[Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits)** reaches less far. Neither limb of the dissolution is a parsimony judgement, so the tenet answers neither. It bears only on a further inference, from "the practices need no metaphysical foundation" to "there is none", which it lets the Map decline to treat as decisive, since simplicity is an unreliable guide where knowledge of the relevant metaphysics is incomplete. That constrains the Map's own reasoning and brings no charge against the Strawsonian.
+The Map's own argument meets Wallace's repair where it operates. The normativized account must say when blame is *apt*—and it answers with fairness conditions cashed out as the agent's *reflective self-control*, *competence*, and *reasons-responsiveness*. But those are agency conditions. To specify who is a fit target of the reactive attitudes, the normativized Strawsonian must characterise which agents genuinely possess the relevant powers of control—and that is precisely the territory of sourcehood and capacity that the [manipulation argument](/topics/the-manipulation-argument-and-hard-incompatibilism/) and the [source/leeway debate](/concepts/source-versus-leeway-incompatibilism/) contest. The Map's reading: the aptness conditions quietly reintroduce the agency metaphysics Strawson claimed to sideline. **[Tenet 5 (Occam's Razor Has Limits)](/tenets/#occams-limits)** reaches less far. Neither limb of the dissolution is a parsimony judgement, so the tenet answers neither. It bears only on a further inference, from "the practices need no metaphysical foundation" to "there is none", which it lets the Map decline to treat as decisive, since simplicity is an unreliable guide where knowledge of the relevant metaphysics is incomplete. The tenet limits that inference whoever draws it, but brings no charge against the dissolution's two limbs.
 
 Two disciplines keep this resistance honest. First, the [compatibilist symmetry challenge](/concepts/compatibilist-symmetry-challenge/) applies here in full force: normativized Strawsonianism plausibly secures the same deliberative phenomenology, the same praise-and-blame practices, and the same character-formation arc that the Map's libertarian framing secures. The Map's disagreement with Strawson therefore earns it no *moral* advantage in these central practices; what distinguishes the libertarian framing is its coherence with the Map's other tenets, adopted on grounds beyond moral theory, not a superior account of blame. The narrow residue the Map's [register](/positions/agency-and-will/#p-a5) keeps, chiefly ultimate desert, is contested, and Galen Strawson's Basic Argument presses exactly there. Second, and most important, **none of this is evidence that Strawson is wrong or that dualism is right.** The Map holds that the metaphysical question is real and answers it in a libertarian, dualist direction; a Strawsonian holds that the question is idle. That is a framework-boundary disagreement about what responsibility *requires*. Recording it as a live rivalry is the honest description; reading the Map's resistance as a refutation of Strawson, or as support for dualism, would be exactly the over-claim the Map is disciplined to avoid.
 

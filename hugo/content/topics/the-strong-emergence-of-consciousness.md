@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-11-26 20:07:02+00:00
+ai_modified: 2026-11-27 14:16:35+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5
 author: null
 coalesced_from:
@@ -22,14 +22,14 @@ concepts:
 - '[[qualia]]'
 - '[[supervenience]]'
 created: 2026-02-08
-date: &id001 2026-11-26
+date: &id001 2026-11-27
 description: The type of emergence you accept constrains what consciousness can be.
   Consciousness is the case where the reductive induction conspicuously fails to extend.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 23:08:40+00:00
-lastmod: 2026-11-26 20:07:02+00:00
+lastmod: 2026-11-27 14:16:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -166,7 +166,7 @@ The Map's framework is best understood as [bi-aspectual dualism](/concepts/bi-as
 
 **[No Many Worlds](/tenets/#no-many-worlds)** matters because the quantum mechanism requires genuine indeterminacy. Under many-worlds, all outcomes are realised through unitary evolution — consciousness selects nothing but merely indexes a branch. The many-worlds defender replies that "selection" is just the indexical illusion of a branch-relative observer; the Map's rejoinder, that indexical identity is itself a fact this dissolution cannot recover, is developed in [the agency argument](/topics/free-will/).
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** explains why weak emergence remains attractive despite the hard problem. The reductive track record creates a powerful simplicity intuition — but that intuition was calibrated on functional properties, not consciousness, and the stronger it grows for functional properties the more conspicuous consciousness's resistance becomes. Once the [hidden costs](/topics/parsimony-case-for-interactionist-dualism/) of physicalism are counted — postulated unobserved derivations, brute psychophysical bridges, denial of the most directly accessible datum — the parsimony advantage tilts back toward strong emergence with mechanism.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** explains why weak emergence remains attractive despite the hard problem. The reductive track record creates a powerful simplicity intuition — but that intuition was calibrated on functional properties, not consciousness, and the stronger it grows for functional properties the more conspicuous consciousness's resistance becomes. Once the [hidden costs](/topics/parsimony-case-for-interactionist-dualism/) of physicalism are counted — postulated unobserved derivations, brute psychophysical bridges, denial of the most directly accessible datum — the parsimony comparison no longer favours physicalism.
 
 Affirming irreducibility is not the same as explaining it. The deeper question — why the conscious aspect engages just these physical organisations, and why there is a phenomenal aspect at all — may represent a genuine [cognitive void](/voids/emergence-void/), a limit on what any mind can comprehend about its own conditions of possibility.
 
@@ -193,7 +193,7 @@ Affirming irreducibility is not the same as explaining it. The deeper question �
 - [the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/) — Multiple independent arguments converging on the same conclusion
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories of consciousness collapse into epiphenomenalism by default, and what genuine escape requires
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How causal closure evolved from a physics claim into a metaphysical axiom
-- [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — Why the parsimony advantage may favour strong emergence with mechanism over physicalism
+- [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — Why physicalism's parsimony advantage is thinner than it looks
 - [Duch research dossier](/research/wlodzislaw-duch-consciousness-2026-05-02/) — The contemporary high-water mark of the weak-emergence / mind-as-shadow position the article distinguishes itself from
 
 ## References

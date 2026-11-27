@@ -2,9 +2,9 @@
 title: "The Strong Emergence of Consciousness"
 description: "The type of emergence you accept constrains what consciousness can be. Consciousness is the case where the reductive induction conspicuously fails to extend."
 created: 2026-02-08
-modified: 2026-11-26
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-26T20:07:02+00:00
+ai_modified: 2026-11-27T14:16:35+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -164,7 +164,7 @@ The Map's framework is best understood as [[bi-aspectual-ontology|bi-aspectual d
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** matters because the quantum mechanism requires genuine indeterminacy. Under many-worlds, all outcomes are realised through unitary evolution — consciousness selects nothing but merely indexes a branch. The many-worlds defender replies that "selection" is just the indexical illusion of a branch-relative observer; the Map's rejoinder, that indexical identity is itself a fact this dissolution cannot recover, is developed in [[topics/free-will|the agency argument]].
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** explains why weak emergence remains attractive despite the hard problem. The reductive track record creates a powerful simplicity intuition — but that intuition was calibrated on functional properties, not consciousness, and the stronger it grows for functional properties the more conspicuous consciousness's resistance becomes. Once the [[parsimony-case-for-interactionist-dualism|hidden costs]] of physicalism are counted — postulated unobserved derivations, brute psychophysical bridges, denial of the most directly accessible datum — the parsimony advantage tilts back toward strong emergence with mechanism.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** explains why weak emergence remains attractive despite the hard problem. The reductive track record creates a powerful simplicity intuition — but that intuition was calibrated on functional properties, not consciousness, and the stronger it grows for functional properties the more conspicuous consciousness's resistance becomes. Once the [[parsimony-case-for-interactionist-dualism|hidden costs]] of physicalism are counted — postulated unobserved derivations, brute psychophysical bridges, denial of the most directly accessible datum — the parsimony comparison no longer favours physicalism.
 
 Affirming irreducibility is not the same as explaining it. The deeper question — why the conscious aspect engages just these physical organisations, and why there is a phenomenal aspect at all — may represent a genuine [[emergence-void|cognitive void]], a limit on what any mind can comprehend about its own conditions of possibility.
 
@@ -191,7 +191,7 @@ Affirming irreducibility is not the same as explaining it. The deeper question �
 - [[the-convergence-argument-for-dualism]] — Multiple independent arguments converging on the same conclusion
 - [[the-epiphenomenalist-threat]] — Why most theories of consciousness collapse into epiphenomenalism by default, and what genuine escape requires
 - [[causal-closure-debate-historical-survey]] — How causal closure evolved from a physics claim into a metaphysical axiom
-- [[parsimony-case-for-interactionist-dualism]] — Why the parsimony advantage may favour strong emergence with mechanism over physicalism
+- [[parsimony-case-for-interactionist-dualism]] — Why physicalism's parsimony advantage is thinner than it looks
 - [[research/wlodzislaw-duch-consciousness-2026-05-02|Duch research dossier]] — The contemporary high-water mark of the weak-emergence / mind-as-shadow position the article distinguishes itself from
 
 ## References

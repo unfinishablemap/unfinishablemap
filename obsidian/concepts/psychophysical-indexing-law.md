@@ -2,9 +2,9 @@
 title: "The Psychophysical Indexing Law"
 description: "Before any transition law, the interface must say whose state, which subsystem, which candidate, when, and how many. Six indexing components and the debt the Map books, traced with human-AI review."
 created: 2026-10-28
-modified: 2026-11-26
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-26T22:23:00+00:00
+ai_modified: 2026-11-27T14:16:35+00:00
 last_deep_review: 2026-10-28T21:11:21+00:00
 draft: false
 topics:
@@ -113,7 +113,7 @@ The typing conclusion restated: the two-subject model waits on a composition rul
 - *Minimal Quantum Interaction*: a minimal interaction needs a *where* and a *whose*: the einselected menu is defined relative to a factorisation the mechanism does not fix, and the conditioning state belongs to a subject it does not name. Both are inputs the tenet's "smallest possible non-physical influence" presupposes.
 - *Bidirectional Interaction*: interaction cannot ground the pairing it presupposes. Bailey, Rasmussen and Van Horn's distinction (locations ground the possibility of interaction, interaction only the diachronic tie) is a standard the Map has not met, since its only location-fixer is the interaction itself. Semantic matching is the tenet's own content clause restated as a debt.
 - *No Many Worlds*: the indexical argument against many-worlds asks why *I* am this branch rather than another, and needs a determinate "I" to ask it. The indexing law is upstream of that argument; the parity risk (Everettian branches are factorisation-relative too) is booked on the factorisation page.
-- *Occam's Razor Has Limits*: the lesson is for the Map's own reasoning. The single-law programme looked simpler than it was because it took its inputs as given; one kernel concealed six untyped parameters. The tenet constrains how the Map reasons and says nothing against the physicalist exclusion rule, which remains the only worked answer.
+- *Occam's Razor Has Limits*: the lesson here falls on the Map's own reasoning. The single-law programme looked simpler than it was because it took its inputs as given; one kernel concealed six untyped parameters. The tenet discounts simplicity on either side, so it neither credits nor faults the physicalist exclusion rule for its economy; that rule remains the only worked answer.
 
 ## Further Reading
 

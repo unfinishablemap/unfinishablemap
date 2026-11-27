@@ -2,9 +2,9 @@
 title: "Access Consciousness"
 description: "Access consciousness makes mental states available for reasoning and behavior control, distinct from phenomenal consciousness's subjective experience."
 created: 2026-01-22
-modified: 2026-01-30
+modified: 2026-11-27
 human_modified: null
-ai_modified: 2026-11-11T22:19:41+00:00
+ai_modified: 2026-11-27T14:16:35+00:00
 draft: false
 last_deep_review: 2026-07-25T11:05:44+00:00
 topics:
@@ -130,7 +130,7 @@ Access consciousness is where this becomes existentially urgent. When you choose
 
 [[global-workspace-theory|Global Workspace Theory]] explains A-consciousness but leaves P-consciousness unexplained. [[integrated-information-theory|Integrated Information Theory]] attempts to address P-consciousness but faces its own difficulties. The 2025 [[global-workspace-theory#the-cogitate-experiment|COGITATE adversarial collaboration]] found neither theory fully captured the phenomena.
 
-This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physicalist theories are simpler (one substance) but struggle with consciousness. Dualism is more complex, and it posits phenomenology as irreducible rather than explaining it. The tenet governs only the Map's own reasoning: it lets the Map doubt that economy settles the question, and gives no licence to discount the physicalist account of access for being simple. The A-consciousness / P-consciousness distinction shows *what* physicalism can explain (access) and *where* the Map holds it cannot (phenomenology).
+This illustrates [[tenets#^occams-limits|the limits of Occam's Razor]]. Physicalist theories are simpler (one substance) but struggle with consciousness. Dualism is more complex, and it posits phenomenology as irreducible rather than explaining it. The tenet bars economy from deciding either way: it lets the Map doubt that economy settles the question, and gives no licence to discount the physicalist account of access for being simple. The A-consciousness / P-consciousness distinction shows *what* physicalism can explain (access) and *where* the Map holds it cannot (phenomenology).
 
 ## Further Reading
 

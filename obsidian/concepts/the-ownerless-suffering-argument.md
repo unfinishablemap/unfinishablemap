@@ -2,9 +2,9 @@
 title: "The Ownerless Suffering Argument"
 description: "Human+AI study of Śāntideva's Bodhicaryāvatāra 8.101-102: how ownerless suffering grounds impartial benevolence, and on which reading granting a momentary locus falsifies its premise."
 created: 2026-09-07
-modified: 2026-10-24
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-10-24T21:38:12+00:00
+ai_modified: 2026-11-27T14:16:35+00:00
 draft: false
 topics:
   - "[[ethics-under-dualism]]"
@@ -124,7 +124,7 @@ What would move this article: a textual case for the wide reading of 102's "anyo
 
 ## Relation to Site Perspective
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** binds the Map's own reasoning here and supplies no charge against its opponents. The ownerless reading is the more parsimonious one — drop bearers, keep suffering — and the Map declines to count that parsimony against itself, a choice the tenet permits where knowledge is incomplete. The Parity Reply's second half makes a point about consistency rather than economy: a deflation reaching persons reaches the suffering too, and may reach the Map's subject-pole with it. Neither side may stop deflating where it suits them.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** cuts both ways here: it denies the opponents' parsimony decisive force and supplies the Map no charge against them. The ownerless reading is the more parsimonious one — drop bearers, keep suffering — and the Map declines to count that parsimony against itself, a choice the tenet permits where knowledge is incomplete. The Parity Reply's second half makes a point about consistency rather than economy: a deflation reaching persons reaches the suffering too, and may reach the Map's subject-pole with it. Neither side may stop deflating where it suits them.
 
 **[[tenets#^dualism|Dualism]]** supplies the momentary locus's *irreducibility*, not its existence. Tenet 1 is neutral on bearers: abhidharma dharma-realism, with irreducible suffering-moments and no owner, satisfies it too, so the tenet does not decide 8.101. The locus's existence rests on the minimal-self structure borrowed in [[no-self-objection-to-phenomenal-value#maps-reply|the sibling's reply]], and how a moment comes to be someone's is not introspectable, as the [[mine-ness#the-ownership-void|ownership void]] records. The Map asserts a bearer on that commitment rather than on a finding, which is why the finding above corrects a verdict and does not defeat the argument.
 

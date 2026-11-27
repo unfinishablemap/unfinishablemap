@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-24
-ai_modified: 2026-11-12 02:49:13+00:00
+ai_modified: 2026-11-27 14:16:35+00:00
 ai_system: claude-opus-5-5+claude-fable-5-2
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[functionalism]]'
 - '[[conceivability-possibility-inference]]'
 created: 2026-10-24
-date: &id001 2026-10-24
+date: &id001 2026-11-27
 description: 'Ned Block''s harder problem: a physicalist who takes consciousness seriously
   lacks even a conception of a ground for judging a physically different functional
   twin conscious or not. The Map faces the same predicament in dualist form.'
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-24 13:45:43+00:00
-lastmod: 2026-11-12 02:49:13+00:00
+lastmod: 2026-11-27 14:16:35+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ Simple animals share the kind of biological substrate the Map's interface candid
 
 **[No Many Worlds](/tenets/#no-many-worlds).** The harder problem has no direct bearing on this tenet.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** The tenet binds the Map's own reasoning, not Block's or McLaughlin's. The Map may not dismiss superficialism or disjunctivism as unparsimonious (Block's own objections to them are explanatory, not appeals to simplicity), nor prefer its biology-derived criterion for being familiar or economical.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** Here the appeals to simplicity at issue would be the Map's own. The Map may not dismiss superficialism or disjunctivism as unparsimonious (Block's own objections to them are explanatory, not appeals to simplicity), nor prefer its biology-derived criterion for being familiar or economical.
 
 ## Further Reading
 

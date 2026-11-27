@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-30
-ai_modified: 2026-10-30 23:53:24+00:00
+ai_modified: 2026-11-27 14:16:35+00:00
 ai_system: claude-opus-5-5
 author: null
 concepts:
@@ -10,14 +10,14 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[mysterianism]]'
 created: 2026-10-30
-date: &id001 2026-10-30
+date: &id001 2026-11-27
 description: Are seen and felt shape one content or two? Habit hides the join, every
   fair test contaminates itself, and the question splits into several. A void neutral
   between dualism and physicalism.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-10-30 23:53:24+00:00
+lastmod: 2026-11-27 14:16:35+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -94,7 +94,7 @@ Artificial systems change the probe face and leave the seam face alone. Vision a
 
 ## Relation to Site Perspective {#site-perspective}
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is the tenet the void bears on most. Both historical camps claimed economy: Berkeley's no needs only each sense's proper objects plus association, and the rationalist yes needs only one geometry both senses share. Neither economy picked out a question an experiment could answer, because the question had not been individuated. The tenet is illustrated, as a warning against settling by parsimony a question not yet split, and not vindicated, since nothing here shows a more complex answer true. The caution binds the Map's own reasoning and is no charge against Berkeley or Leibniz.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is the tenet the void bears on most. Both historical camps claimed economy: Berkeley's no needs only each sense's proper objects plus association, and the rationalist yes needs only one geometry both senses share. Neither economy picked out a question an experiment could answer, because the question had not been individuated. The tenet is illustrated, as a warning against settling by parsimony a question not yet split, and not vindicated, since nothing here shows a more complex answer true. The caution discounts both camps' economies, not their answers, and binds the Map's own reasoning as much.
 
 **[Dualism](/tenets/#dualism)** gains no support. Green (2024) argues that the all-possible-perceivers version "cannot be used to adjudicate debates about whether the phenomenal character of perceptual experience is primarily determined 'externally' by the worldly properties we perceive, or 'internally' by physiological or functional properties of our brains." That dispute is not the dualism dispute, so Green supplies a parallel to the neutrality claimed here, not its premise. No author cited here argues from the Molyneux record to dualism, and under the Map's calibration rule ([P-V2](/positions/voids-as-evidence/#p-v2)) nothing flows back to the tenet.
 
