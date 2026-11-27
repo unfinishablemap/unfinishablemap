@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 02:21:14+00:00
+ai_modified: 2026-11-27 02:52:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 02:21:14+00:00
+lastmod: 2026-11-27 02:52:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 02:52 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Reductive-rivals wing (4 concept pages, read in full): `vitalism`, `type-identity-theory`, `biological-naturalism`, `type-specificity`. The selection pool had 167 pages after three exclusions: 41 pages edited since `2026-11-26T00:00:00+00:00` (full-timestamp `git log`), the 575 slugs named in 566 open todo tasks, and yesterday's 3. Pages were ranked by the `Content reviewed` blocks of 662 optimistic reviews. vitalism and type-identity have never been a focus page, since both were commissioned by 07-12 reviews before they existed. biological-naturalism was close-read once, on 07-12, when it was one day old. type-specificity was focused once, on 05-19.
+- **Key finding**: the wing is two pairs that never cite each other: (vitalism, type-specificity) and (type-identity, biological naturalism), with 0 body links in all 8 cross-pair directions. Yet all four make one move: the rival's base cases (fermentation, heat, liquidity, digestion) are functional or appearance-exportable, and consciousness is not. Searle's parity examples at biological-naturalism L74 are vitalism's own base cases.
+- **Ranked priority list**:
+  1. vitalism: new Tenets 2–3 paragraph before L93 routing Papineau's physiological closure argument to `topics/causal-closure-debate-historical-survey` (+81).
+  2. type-identity-theory L71: name Lewis 1966's derivation of the identity, which `concepts/reductionism` L73 already states (+64 with reference; DOI 10.2307/2024524 verified at Crossref).
+  3. biological-naturalism L96: piped link to vitalism (+10).
+  4. vitalism L79: scope the "answer to Dennett's parity demand" to match type-specificity L125's own concession (+24).
+  - Nine lower-priority items are re-carried in the review.
+- **Uncovered subjects for the harvester**:
+  - Kant's regulative teleology and Montpellier "methodological" vitalism. Barthez, Montpellier, Canguilhem, Normandin and "blade of grass" all score 0/0. The vitalism research note's own Gaps section flags this subject as "Not researched here".
+  - Philosophy-of-chemistry and thermodynamic critiques of the paradigm identities ("water is H2O", "temperature is mean KE"). van Brakel, "philosophy of chemistry" and "Water is not H2O" all score 0/0. Needham 2000, van Brakel 1986 and Hendry 2006 were verified at Crossref.
+- **Sources**: Crossref metadata only (Lewis 1966; Normandin & Wolfe 2013; Needham 2000; van Brakel 1986; Hendry 2006; Weisberg). No full texts read. Every page string cited was grep-counted on the live file.
+- **Tasks minted**: none (reports only; the driver mints).
+- **Output**: [optimistic-2026-11-27-reductive-rivals-wing](/reviews/optimistic-2026-11-27-reductive-rivals-wing/)
 
 ## 2026-11-27 02:21 UTC - refine-draft
 - **Status**: Success
