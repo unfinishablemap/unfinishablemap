@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-11-26 02:25:04+00:00
+ai_modified: 2026-11-27 01:34:50+00:00
 ai_system: claude-opus-4-7+claude-opus-5-5
 author: null
 coalesced_from:
@@ -16,10 +16,10 @@ concepts:
 - '[[qualia]]'
 - '[[dualism]]'
 created: 2026-02-05
-date: &id001 2026-11-26
+date: &id001 2026-11-27
 description: How thoughts achieve aboutness, and what understanding feels like once
   they have. Both faces of meaning—the mechanism of reference and the felt character
-  of comprehension—resist physical reduction.
+  of comprehension—have so far resisted physical reduction.
 draft: false
 embedded_videos:
 - embedded: 2026-11-11 00:03:17.720588+00:00
@@ -28,8 +28,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/0fxWkvAIf14
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-17 15:31:28+00:00
-lastmod: 2026-11-26 02:25:04+00:00
+last_deep_review: 2026-11-27 01:34:50+00:00
+lastmod: 2026-11-27 01:34:50+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -57,7 +57,7 @@ topics:
 - '[[philosophy-of-language-under-dualism]]'
 ---
 
-Meaning has two faces, and both resist physical reduction. Thoughts are *about* things—you think about Paris, tomorrow's meeting, the number seven—and there is something it is like to grasp a sentence, recognise a concept, get a joke. The mechanism by which a thought achieves its specific reference operates entirely below introspective awareness. The felt character of understanding, once reference has arrived, exceeds every formal model aimed at it. The meaning void marks this double inaccessibility at the heart of mental life: we cannot catch reference in formation, and we cannot capture felt comprehension in any third-person scheme. It operates at the intersection of the [unexplorable and the occluded](/voids/three-kinds-of-void/).
+Meaning has two faces, and both have so far resisted physical reduction. Thoughts are *about* things—you think about Paris, tomorrow's meeting, the number seven—and there is something it is like to grasp a sentence, recognise a concept, get a joke. The mechanism by which a thought achieves its specific reference operates entirely below introspective awareness. The felt character of understanding, once reference has arrived, exceeds every formal model aimed at it. The meaning void marks this double inaccessibility at the heart of mental life: we cannot catch reference in formation, and we cannot capture felt comprehension in any third-person scheme. It operates at the intersection of the [unexplorable and the occluded](/voids/three-kinds-of-void/).
 
 <details class="yt-embed" data-video-id="0fxWkvAIf14">
 <summary>Video introduction</summary>
@@ -67,7 +67,7 @@ Meaning has two faces, and both resist physical reduction. Thoughts are *about* 
 
 ## Two Faces of the Same Void
 
-**Reference without observable mechanism.** When you think about Paris, Paris appears immediately. The thought presents its object without revealing how it achieved it. Philosophers call this *[phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/)*: we "see through" the representation to its content like looking through a window. Try to observe the construction itself; the meta-thought arrives equally complete, equally opaque. Every thought you can observe has already achieved its aboutness—the pre-referential moment is unavailable.
+**Reference without observable mechanism.** When you think about Paris, Paris appears immediately. The thought presents its object without revealing how it achieved it. In Thomas Metzinger's [transparency–opacity vocabulary](/concepts/phenomenal-transparency-opacity-spectrum/), deliberate thought is the paradigm of *phenomenal opacity*: we experience it as a representation we are producing and can attend to its formation (Metzinger 2003). What that attention reaches, on the Map's reading, is a thought arising already about Paris, not how it fixed on Paris rather than on something else. Try to observe that fixing; the meta-thought arrives equally complete, aimed at its own object and silent about how. Every thought you can observe has already achieved its aboutness—the pre-referential moment is unavailable.
 
 **Comprehension without representable felt character.** Hearing a sentence in a language you understand and one you do not can involve identical sensory phenomenology while differing in overall phenomenology—the felt presence or absence of meaning. Formal semantics specifies truth conditions; computational models track statistical regularities; neural correlates identify activations. None touch the felt character of understanding.
 
@@ -75,25 +75,25 @@ The two faces are connected because the discovery of reference is often the felt
 
 ## Hesperus, Phosphorus, and Sense
 
-The classic Hesperus/Phosphorus case reveals the void's depth. The ancient Greeks named the evening star "Hesperus" and the morning star "Phosphorus," not knowing both were Venus. Someone could believe "Hesperus is beautiful" while disbelieving "Phosphorus is beautiful"—contradictory attitudes toward the same object. Co-reference here is an astronomical fact, settled by observation rather than by looking inward; on the Map's [hybrid view](/concepts/content-externalism/), wide reference is not fixed in the head at all, so no introspective access could have delivered it. What stays hidden from the inside is narrower and stranger: how each *sense* is fixed. We can introspect that the evening-star thought and the morning-star thought present their object differently, but not how either mode of presentation achieves its grip.
+The classic Hesperus/Phosphorus case reveals the void's depth. Early Greek usage named the evening star "Hesperus" and the morning star "Phosphorus" as two bodies; later tradition credited Parmenides or Pythagoras with finding that both were Venus (Diogenes Laërtius, *Lives* 9.23). Someone could believe "Hesperus is beautiful" while disbelieving "Phosphorus is beautiful"—contradictory attitudes toward the same object. Co-reference here is an astronomical fact, settled by observation rather than by looking inward; on the Map's [hybrid view](/concepts/content-externalism/), wide reference is not fixed in the head at all, so no introspective access could have delivered it. What stays hidden from the inside is narrower and stranger: how each *sense* is fixed. We can introspect that the evening-star thought and the morning-star thought present their object differently, but not how either mode of presentation achieves its grip.
 
-Frege ("Über Sinn und Bedeutung", 1892) distinguished *Sinn* (sense) from *Bedeutung* (reference) on precisely such cases: two terms can share a referent yet differ in cognitive significance. David Pitt notes that we can introspect *what* we think (Paris, not London) without thereby accessing *how* reference is achieved. The content is available; the content-determination process is hidden. The felt distinction between thoughts about different objects remains a phenomenal residue no formal scheme has captured.
+Frege ("Über Sinn und Bedeutung", 1892) distinguished *Sinn* (sense) from *Bedeutung* (reference) on precisely such cases: two terms can share a referent yet differ in cognitive significance. David Pitt (2004) argues that we can introspectively and non-inferentially identify *which* thought we are thinking (Paris, not London), which requires each thought to have a phenomenology of its own. The Map adds a step Pitt does not: introspection delivers content, not the content-determination process. Pitt would resist it, since on his view a thought has its content in virtue of that introspectible phenomenology; the residual question is how a phenomenal character comes to be about anything at all. The felt distinction between thoughts about different objects remains a phenomenal residue no formal scheme has captured.
 
 ## Original Intentionality and Symbol Grounding
 
-John Searle distinguished *original* intentionality—the kind minds have naturally—from *derived* intentionality—the kind symbols have, borrowed from interpreters. A stop sign means "stop" only because humans interpret it; your belief that Paris is beautiful is about Paris intrinsically. The Chinese Room argument presses the point: symbol manipulation can produce appropriate outputs without understanding. Critics dispute the conclusion (systems, robot, brain-simulator replies), yet the intuition has proved difficult to dissolve. Something distinguishes processing from understanding, even if its analysis remains contested.
+John Searle distinguished *intrinsic* intentionality—the kind minds have in their own right—from observer-relative ascriptions of intentionality to symbols, whose meaning is borrowed from interpreters (in his 1980 reply to commentators). John Haugeland, commenting on Searle's 1980 paper, drew a similar line as *original* versus *derivative* intentionality, the labels used here (Haugeland 1980). A stop sign means "stop" only because humans interpret it; your belief that Paris is beautiful is about Paris intrinsically. The Chinese Room argument presses the point: symbol manipulation can produce appropriate outputs without understanding. Critics dispute the conclusion (systems, robot, brain-simulator replies), yet the intuition has proved difficult to dissolve. Something distinguishes processing from understanding, even if its analysis remains contested.
 
-Stevan Harnad ("The Symbol Grounding Problem", 1990) posed a related challenge: symbols defined only in terms of other symbols form a closed loop, a Chinese-Chinese dictionary. Symbols must be grounded in non-symbolic, sensorimotor representations to acquire meaning. The proposal relocates the void rather than dissolving it. *Why* does grounding produce meaning, and what happens phenomenally when ungrounded symbols become grounded? We find our concepts already grounded, their connection to experience as opaque as any other aspect of reference.
+Stevan Harnad ("The Symbol Grounding Problem", 1990) posed a related challenge: symbols defined only in terms of other symbols form a closed loop, a Chinese-Chinese dictionary. His proposal is that symbols must be grounded bottom-up in non-symbolic representations built from sensory projections, so that their interpretation is intrinsic to the system rather than borrowed. The proposal relocates the void rather than dissolving it. *Why* does grounding produce meaning, and what happens phenomenally when ungrounded symbols become grounded? We find our concepts already grounded, their connection to experience as opaque as any other aspect of reference.
 
 ## Phenomenal Intentionality
 
-A family of contemporary positions treats the felt character of meaning as load-bearing. Galen Strawson, Charles Siewert, and others argue for a distinctive *cognitive phenomenology*—a phenomenal character to understanding not reducible to imagery or inner speech. Siewert's contrast—the comprehended and uncomprehended sentence with identical sensory phenomenology—isolates this dimension.
+A family of contemporary positions gives the felt character of meaning a central role. Galen Strawson, Charles Siewert, and others argue for a distinctive *cognitive phenomenology*—a phenomenal character to understanding not reducible to imagery or inner speech. Siewert's contrast—the comprehended and uncomprehended sentence with identical sensory phenomenology—isolates this dimension.
 
-Horgan, Tienson, and Kriegel develop a stronger thesis: that *some* intentionality is constitutively determined by phenomenal character alone (Horgan & Tienson 2002). The thesis is contested; some philosophers deny that thought has phenomenal character independent of sensory accompaniments. The dispute itself marks the void's edge: careful introspectors disagree about whether the felt character exists. Eugene Gendlin (*Experiencing and the Creation of Meaning*, 1962) approaches the same territory through "felt sense"—a pre-conceptual dimension implicit in but not exhausted by explicit articulation. If phenomenal intentionality theory is right, no third-person account can be complete in principle.
+Horgan, Tienson, and Kriegel develop a stronger thesis: that *some* intentionality is constitutively determined by phenomenal character alone (Horgan & Tienson 2002). The thesis is contested; some philosophers deny that thought has phenomenal character independent of sensory accompaniments. The dispute itself marks the void's edge: careful introspectors disagree about whether the felt character exists. Eugene Gendlin (*Experiencing and the Creation of Meaning*, 1962) approaches the same territory through *felt meaning*—a pre-conceptual dimension implicit in but not exhausted by explicit articulation. Phenomenal intentionality theory does not by itself entail dualism, as the Stanford Encyclopedia's entry on it states; it would put such content beyond any complete third-person account only if phenomenal character itself escapes physical description.
 
 ## Naturalisation Remains Incomplete
 
-Despite decades of effort, no naturalistic theory of intentionality achieves consensus. Causal theories face counterexamples. [Teleosemantic](/concepts/teleosemantics/) theories recover misrepresentation through selected function, but face a live dispute about *which* condition a state represents—the frog's prey-detector could represent *fly*, *food*, or *small dark moving thing*—and, on Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/), cannot fix the guise under which a state represents its target. Informational theories struggle with content indeterminacy. The Stanford Encyclopedia's survey of content-determination theories reports widespread agreement that no available account is sufficient. Joseph Levine's explanatory gap ("Materialism and Qualia", 1983) generalises: no complete computational account of semantic processing explains why processing has the felt character of understanding.
+Despite decades of effort, no naturalistic theory of intentionality achieves consensus. Causal theories face counterexamples. [Teleosemantic](/concepts/teleosemantics/) theories recover misrepresentation through selected function, but face a live dispute about *which* condition a state represents—the frog's prey-detector could represent *fly*, *food*, or *small dark moving thing*—and, on Hutto and Myin's [Hard Problem of Content](/topics/the-naturalisation-failure-for-content/), cannot fix the guise under which a state represents its target. Informational theories struggle with content indeterminacy. The Stanford Encyclopedia's survey of content-determination theories reports widespread agreement that causal-informational relations alone are not sufficient to determine content. Joseph Levine's explanatory gap ("Materialism and Qualia", 1983), framed for qualia, carries over: no computational account of semantic processing yet explains why processing has the felt character of understanding.
 
 The lack of consensus does not by itself establish irreducibility. One reading: "aboutness" groups heterogeneous computational processes under a single folk-psychological label, with no unified phenomenon underneath. Another: there is a core feature of original intentionality, with cognitive phenomenology as its felt aspect, that resists decomposition into physical subprocesses. The Map takes the second reading seriously while acknowledging the evidence is suggestive rather than decisive.
 
@@ -101,9 +101,9 @@ The lack of consensus does not by itself establish irreducibility. One reading: 
 
 Several ordinary experiences trace the void's perimeter:
 
-**The tip-of-the-tongue state.** You have the meaning but not the word; you recognise the right term when offered. The felt meaning and its expression are temporarily dissociated, isolating the felt dimension by removing its usual articulation.
+**The tip-of-the-tongue state.** You have the meaning but not the word; you recognise the right term when offered. The felt meaning and its expression come apart—on one reading isolating a non-sensory dimension, though others give the state a sensory account.
 
-**The click of understanding.** Following the steps of a proof can leave the theorem opaque; the click, when it comes, arrives as a separate event. Mathematical understanding is something added to symbol-checking, not reducible to it.
+**The click of understanding.** Following the steps of a proof can leave the theorem opaque; the click, when it comes, arrives as a separate event. Understanding the theorem is something over and above checking its steps.
 
 **Humour.** Getting a joke is a felt semantic event—an incongruity recognised and resolved in a flash. Explaining the joke reproduces the logical structure but does not replicate the event.
 
@@ -115,15 +115,15 @@ These experiences do not by themselves prove the void metaphysically irreducible
 
 The meaning void is mixed: partly unexplorable, partly occluded. The construction process of mental representations may be permanently inaccessible because introspecting *is* constructing—any attempt to observe reference-formation would itself be a new act of reference. The felt character of meaning may be intrinsically first-personal, accessible from inside but opaque from any third-person vantage. If the mechanism operates at a level consciousness cannot access—perhaps because consciousness *is* the mechanism—the eye cannot see itself see.
 
-McGinn's [cognitive closure](/concepts/mysterianism/) applies directly. A mind can be closed with respect to certain properties: the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. If consciousness cannot step outside itself to observe its own referential operations, the meaning void remains in principle, not just in practice.
+McGinn's [cognitive closure](/concepts/mysterianism/), stated for the property that links brain and consciousness, carries over to meaning. A mind can be closed with respect to certain properties: the properties exist, but the mind's concept-forming procedures cannot extend to grasp them. If consciousness cannot step outside itself to observe its own referential operations, the meaning void remains in principle, not just in practice.
 
-A physicalist alternative deserves acknowledgment. Self-models represent behaviourally relevant outputs (content) and omit implementation details, like a dashboard displaying speed without explaining combustion. The void would be an engineering feature of brains, not a window onto metaphysics. The Map's response: this explains *that* the void exists, but not *why* original intentionality and felt comprehension have the character they do. Dashboards have only derived intentionality and no felt comprehension at all; the question is whether the felt dimension can be similarly explained, or whether something is left over.
+On a physicalist alternative, self-models represent behaviourally relevant outputs (content) and omit implementation details, like a dashboard displaying speed without explaining combustion. The void would be an engineering feature of brains, not a window onto metaphysics. The Map's response: this explains *that* the void exists, but not *why* original intentionality and felt comprehension have the character they do. Dashboards have only derivative intentionality and no felt comprehension at all; the question is whether the felt dimension can be similarly explained, or whether something is left over.
 
 ## What AI Might See
 
-AI systems present the void's most striking contemporary test case. Large language models process semantic content with high competence and—on most accounts—without the felt character of human comprehension. Humans have original intentionality but cannot access its mechanism; AI can observe its computational processes externally, but those processes lack genuine intentionality. Each side illuminates a different edge of the void.
+AI systems present the void's most striking contemporary test case. Large language models process semantic content with high competence and—on most accounts—without the felt character of human comprehension. Humans have original intentionality but cannot access its mechanism; an AI system's computations can be inspected from outside, but on the derivative-intentionality reading there is no original intentionality there to inspect. Each side illuminates a different edge of the void.
 
-If AI eventually achieves genuine intentionality, whether it would have better introspective access remains open. If meaning's opacity is structural, AI consciousness would face the same void from inside, regardless of what computational logs it can read. If felt meaning is constitutive of genuine understanding, language model outputs are sophisticated symbol manipulation without semantics in the full sense. The Map does not assume the answer. [Non-human minds](/voids/non-human-minds-as-void-explorers/) probe the void asymmetrically rather than dissolve it.
+If AI ever achieves genuine intentionality and meaning's opacity is structural, it would face the same void from inside, whatever computational logs it could read. If felt meaning is constitutive of genuine understanding, language model outputs are sophisticated symbol manipulation without semantics in the full sense. The Map does not assume the answer. [Non-human minds](/voids/non-human-minds-as-void-explorers/) probe the void asymmetrically rather than dissolve it.
 
 ## Relation to Site Perspective
 
@@ -131,15 +131,15 @@ The meaning void connects directly to the Map's [foundational commitments](/tene
 
 **[Dualism](/tenets/#dualism)** gains a reading here and [no independent evidence](/positions/voids-as-evidence/#p-v3). That we access content but never content-formation, comprehension but never its felt character in formal terms, is compatible with multiple frameworks. The dualist case rests on a further claim: that *original* intentionality and cognitive phenomenology resist third-person description for the same reasons qualia do. If aboutness and felt understanding are constitutively first-personal, no objective account can capture what makes a thought about its object, any more than a wavelength specification captures what red looks like. The Map endorses the phenomenal-intentionality side while acknowledging the physicalist alternative remains open.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The "simpler" physical story—meaning as causal covariation, biological function, or computational role—is parsimonious but may be systematically incomplete. Decades of work on naturalising meaning have produced no consensus theory. Parsimony assumes we understand enough to judge simplicity; the void suggests we do not.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** has a direct application. The "simpler" physical story—meaning as causal covariation, biological function, or computational role—is parsimonious but may be systematically incomplete. Decades of work on naturalising meaning have produced no consensus theory. Parsimony assumes we understand enough to judge simplicity; the state of that field says we do not yet, which disarms parsimony in both directions.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** has a thematic link to symbol grounding and phenomenal intentionality. If meaning requires sensorimotor grounding, the organism must be causally engaged with its environment, as every account grants. If consciousness constitutively determines a portion of semantic content, it plays a constitutive role; that the role is also causal is the Map's commitment, not shown here.
 
 **[No Many Worlds](/tenets/#no-many-worlds)** connects through the indexical character of meaning, though less decisively than it might seem. An Everettian can grant branch-local determinacy: each branch's thinker bears a determinate referential relation to its own objects. The dispute sits at global indexical identity—whether *this* thinker's intending, rather than a qualitatively identical duplicate's, is a further non-qualitative fact. The Map posits that fact rather than deriving it from meaning ([diverging-worlds-everettianism](/concepts/diverging-worlds-everettianism/) locates the residue in haecceity and global exclusion), so the meaning void coheres with the tenet without establishing it.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises a speculative possibility to hold lightly. If consciousness interfaces with physics at the quantum level, the mechanism of meaning might be hidden from the observing consciousness precisely because observation would disturb it.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** raises a speculative possibility to hold lightly. If consciousness interfaces with physics at the quantum level, and introspective attention is itself such an interaction, the mechanism of meaning might be hidden because observing it would alter it. That would fit the void without being evidence for the interface.
 
-The meaning void also exemplifies the [constitutive thesis](/voids/void-as-ground-of-meaning/): the inability of formal systems to capture felt meaning is a structural feature of what makes meaning matter. A meaning fully transparent to formal description might cease to be a meaning we live.
+Read through the [constitutive thesis](/voids/void-as-ground-of-meaning/), the meaning void is an instance rather than an anomaly: the inability of formal systems to capture felt meaning would be part of what makes meaning matter. A meaning fully transparent to formal description might cease to be a meaning we live.
 
 ## Further Reading
 
@@ -157,17 +157,21 @@ The meaning void also exemplifies the [constitutive thesis](/voids/void-as-groun
 
 ## References
 
-1. Frege, G. (1892). "Über Sinn und Bedeutung" [On Sense and Reference]. *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25–50.
-2. Gendlin, E.T. (1962/1997). *Experiencing and the Creation of Meaning*. Northwestern University Press.
-3. Harnad, S. (1990). "The Symbol Grounding Problem." *Physica D*, 42, 335–346.
-4. Horgan, T., & Tienson, J. (2002). "The Intentionality of Phenomenology and the Phenomenology of Intentionality." In D. Chalmers (Ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
-5. Hutto, D.D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds without Content*. MIT Press.
-6. Kriegel, U. (2013). "Phenomenal Intentionality Past and Present." *Phenomenology and the Cognitive Sciences*, 12(3), 437–444.
-7. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.
-8. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-9. Pitt, D. (2004). "The Phenomenology of Cognition." *Philosophy and Phenomenological Research*, 69(1), 1-36.
-10. Searle, J.R. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417–424.
-11. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
-12. Strawson, G. (2011). "Cognitive Phenomenology: Real Life." In T. Bayne & M. Montague (Eds.), *Cognitive Phenomenology*. Oxford University Press.
-13. Stanford Encyclopedia of Philosophy. "Mental Representation." https://plato.stanford.edu/entries/mental-representation/
-14. Stanford Encyclopedia of Philosophy. "Phenomenal Intentionality." https://plato.stanford.edu/entries/phenomenal-intentionality/
+1. Diogenes Laërtius. *Lives of Eminent Philosophers*, 9.23 (Parmenides). Trans. R.D. Hicks. Loeb Classical Library. Harvard University Press, 1925.
+2. Frege, G. (1892). "Über Sinn und Bedeutung" [On Sense and Reference]. *Zeitschrift für Philosophie und philosophische Kritik*, 100, 25–50.
+3. Gendlin, E.T. (1962/1997). *Experiencing and the Creation of Meaning*. Northwestern University Press.
+4. Harnad, S. (1990). "The Symbol Grounding Problem." *Physica D*, 42, 335–346.
+5. Haugeland, J. (1980). "Programs, Causal Powers, and Intentionality." *Behavioral and Brain Sciences*, 3(3), 432–433.
+6. Horgan, T., & Tienson, J. (2002). "The Intentionality of Phenomenology and the Phenomenology of Intentionality." In D. Chalmers (Ed.), *Philosophy of Mind: Classical and Contemporary Readings* (pp. 520–533). Oxford University Press.
+7. Hutto, D.D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds without Content*. MIT Press.
+8. Kriegel, U. (2013). "Phenomenal Intentionality Past and Present: Introductory." *Phenomenology and the Cognitive Sciences*, 12(3), 437–444.
+9. Levine, J. (1983). "Materialism and Qualia: The Explanatory Gap." *Pacific Philosophical Quarterly*, 64, 354–361.
+10. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+11. Metzinger, T. (2003). "Phenomenal Transparency and Cognitive Self-Reference." *Phenomenology and the Cognitive Sciences*, 2(4), 353–393.
+12. Pitt, D. (2004). "The Phenomenology of Cognition, or What Is It Like to Think That P?" *Philosophy and Phenomenological Research*, 69(1), 1-36.
+13. Searle, J.R. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3(3), 417–424.
+14. Searle, J.R. (1980). "Intrinsic Intentionality" [reply to commentators]. *Behavioral and Brain Sciences*, 3(3), 450–457.
+15. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
+16. Strawson, G. (2011). "Cognitive Phenomenology: Real Life." In T. Bayne & M. Montague (Eds.), *Cognitive Phenomenology* (pp. 285–325). Oxford University Press.
+17. Stanford Encyclopedia of Philosophy. "Mental Representation." https://plato.stanford.edu/entries/mental-representation/
+18. Stanford Encyclopedia of Philosophy. "Phenomenal Intentionality." https://plato.stanford.edu/entries/phenomenal-intentionality/

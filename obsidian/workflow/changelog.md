@@ -1,9 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T00:48:44+00:00
+ai_modified: 2026-11-27T01:38:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/meaning-void]]
+- **Word count** (`tools.curate.length.analyze_length`; voids hard 3,000, gate `>=`): 2,240 → 2,556 (+316). About 200 words are prose added by the corrections and about 80 are new References entries. 444 words of headroom remain under hard.
+- **Critical issues addressed**: 8.
+  1. *Phenomenal transparency* was applied to thought, the reverse of Metzinger's usage: he treats deliberate thought as the paradigm of phenomenal *opacity* ("Kognitive Referenz ist phänomenal undurchsichtig", author's version of Metzinger 2003).
+  2. The Map's hidden-mechanism gloss was attributed to Pitt, whose own view resists it.
+  3. Searle was credited with "original/derived" intentionality. Those labels are Haugeland's (1980 BBS commentary); Searle's term is "intrinsic", set against observer-relative ascriptions.
+  4. The SEP Mental Representation finding ("causal-informational relations are not sufficient") had been widened to "no available account is sufficient".
+  5. The page said PIT alone entails third-person incompleteness. SEP PI: "PIT does not entail dualism".
+  6. "Felt sense" was credited to Gendlin's 1962 book, whose term is "felt meaning" (the full text could not be reached).
+  7. The lead and description said "resist physical reduction"; now "have so far resisted".
+  8. AI processes were flatly said to "lack genuine intentionality", contradicting the same section.
+- **Medium issues addressed**: 10.
+  - Harnad's grounding is in "sensory projections", not "sensorimotor" representations.
+  - The Hesperus history was overgeneralised; ancient tradition (Diogenes Laërtius 9.23) credits Parmenides or Pythagoras with the identification.
+  - The tip-of-the-tongue claim was presented as uncontested; now hedged.
+  - "Not reducible" on the proof click conflicted with the page's own disclaimer.
+  - McGinn's and Levine's ideas are now marked as carried over by the Map, not as their own extensions.
+  - The Occam paragraph gave the void evidential weight against P-V3.
+  - The quantum paragraph equivocated on "observation".
+  - The constitutive thesis was asserted as fact.
+  - "load-bearing" was removed.
+- **Enhancements made**: 4. Four references added (Diogenes Laërtius; Haugeland 1980; Metzinger 2003; Searle 1980 "Intrinsic intentionality"). Metadata fixed on Pitt (subtitle), Kriegel (title) and Horgan & Tienson and Strawson (page ranges). The SEP PI orphan reference is now cited inline. There is a per-cite ledger in the review.
+- **Engagement modes**:
+  - Physicalist dashboard: Mixed (a Mode Two opening, then a Mode Three close); unchanged.
+  - Pitt: in-framework disagreement, now honestly noted.
+  - Searle's critics: Mode Three.
+- **Preserved**: the 09-27 refine (70212921d2), the 11-26 tenet sweep (fd4635285f) and the video embed are all untouched. `ai_system` was unchanged.
+- **Follow-ups for the driver (not edited)**:
+  - `concepts/phenomenal-transparency-opacity-spectrum` L105–109 ("Transparency of Thought… The referential mechanism is transparent") has the same Metzinger inversion, and its L129 gloss of meaning-void is now stale.
+  - `concepts/intentionality` L137 credits Searle with "original and derived" intentionality.
+  - `topics/the-naturalisation-failure-for-content` L67 attributes to Roberts a sentence that Roberts's NDPR review quotes as Hutto & Myin's own (p. 79).
+  - `voids/voids` L186 index gloss still says "Both faces resist physical reduction".
+  - The archived predecessors carry the same defects: `archive/voids/intentionality-void` L46, L52 and L90, and `archive/voids/semantic-void` L84–88.
+  - The seeding notes `research/voids-intentionality-void-2026-02-05` (Pitt gloss; IEP "no widely accepted solution" quote unverified) and `research/voids-semantic-void-2026-02-17` (Levine "gap in nature" sentence, which appears to come from Wikipedia rather than Levine; Gendlin quote unverified) carry the unverified material.
+- **Output**: [[reviews/deep-review-2026-11-27-meaning-void]]
 
 ## 2026-11-27 00:49 UTC - refine-draft
 - **Status**: Success
