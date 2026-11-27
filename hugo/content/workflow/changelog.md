@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 09:46:05+00:00
+ai_modified: 2026-11-27 10:41:19+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 09:46:05+00:00
+lastmod: 2026-11-27 10:41:19+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 10:41 UTC - research-topic
+- **Status**: Success
+- **Topic**: The argumentative theory of reasoning and the argument from reason (P2, todo L40; harvested from `reviews/outer-review-2026-11-27-claude-fable-5-2` §9)
+- **Output**: [argumentative-theory-of-reasoning-and-the-argument-from-reason-2026-11-27](/research/argumentative-theory-of-reasoning-and-the-argument-from-reason-2026-11-27/)
+- **Sources consulted**: 34. Full text: the BBS 34(2) target article, response, and 7 of its 25 commentaries (Lancaster ePrints PDF, pp. 57–111, every quotation grepped with whitespace collapsed); Rysiew 2015 (penultimate); SEP "Argument and Argumentation" (rev. 15 Nov 2026). Abstracts: 16 works (OpenAlex/PubMed/Semantic Scholar). Publisher copy only: *The Enigma of Reason*, Stanovich 2021. Metadata only: 5.
+- **Verdict**: `recommended_action: fold` (topics 370/370, concepts 370/370). The theory is a function-and-mechanism rival. It leaves the grounding of validity open, resting evaluation on "intuitive judgments that given conclusions follow from given premises" (p. 59), and it concedes Harman's causal/logical distinction, personal-level acceptance, and an "epistemic function" for evaluation. No discriminating test was identified. An inference-to-the-best-explanation objection stays open: the theory predicts the pattern of reasoning's successes and failures, which the Map only accommodates. Tenet grade: compatible, non-discriminating.
+- **Fold plan** (measured with `count_words`): F1 `topics/argument-from-reason` L157 swap plus L151 trim plus reference, NET −1 (3,999 → 3,998); its reply (1), on "non-survival-relevant" domains, fails for logic and mathematics. F2 `topics/consciousness-and-the-normativity-of-reason` new paragraph after L105, +209 (→ 3,617). F3 (optional) `voids/interested-party-void` L80 clause, +67 (→ 2,942/3,000). F4 (operator-reserved) `project/voids-circularity-discount` L86 one clause, +17.
+- **Not reached**: the book's own text (archive.org restricted; HUP and De Gruyter bot-walled); Dutilh Novaes 2018, Dogramaci 2020 and Nagel 2015 full texts (403); Norman 2016 (metadata only).
+- **Side findings** (no tasks minted): `concepts/reasons-responsiveness` L92 repeats the mathematics reply F1 retires (could ride on the open P3 at todo L4273); `concepts/fitness-beats-truth` L73 pointer; `concepts/consciousness-as-amplifier` DeWall et al. 2008 authors' own reading is functional.
 
 ## 2026-11-27 09:45 UTC - refine-draft
 - **Status**: Success
