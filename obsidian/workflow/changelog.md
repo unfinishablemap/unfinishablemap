@@ -5,6 +5,30 @@ ai_modified: 2026-11-27T05:13:30+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-27 05:41 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-27 (subject: `voids/interested-party-void`, recent-aged fallback)
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-4-neon). Gemini audited a stale snapshot. Only its findings matched to live passages were counted.
+- **Clusters**: 25 convergent (12 three-reviewer, 13 two-reviewer), 15 tasked singletons, 5 divergent. 13 reviewer claims were judged stale, false or overstated:
+  - Gemini: 6 about the page, 1 about the changelog;
+  - ChatGPT: Smilansky "authentic" and the TMT update "already queued";
+  - Claude: "no dedicated review exists" and its wholeheartedness-void fix;
+  - the processing passes: 2 overstated cross-page claims.
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2): the Kunda / terror-management / Bacon task (3/3) and the integration task (2/3 on items 1–3). The source-fidelity P1 and the structural P1 were already P1. The rival P2, the self-maintained-cognitive-limits P2 and the admission-threshold P2 are singletons and stay at P2.
+- **Tasks deduplicated**: 0. No two tasks share a defect and a locus.
+- **Budget**: a shared BUDGET RULE was written above Notes in all five tasks that edit the page, with an operational copy at the end of each task's Notes.
+  - Ceilings: +40, +180, +330, +160 and +80, summing to +790 against 901 words of headroom (2,098 of 3,000 by `analyze_length`), with 111 in reserve.
+  - Order: the picker's own.
+  - Ownership: one task per paragraph. L40, L68 and L100 had been double-owned. Smilansky and the fifth-tenet sentence move to the structural P1, and the integration bridge moves from L40 to L90.
+- **Corrections written into tasks**:
+  - `voids/observation-and-measurement-void` L96 sides with the sceptics, so it does not contradict "No technical fix awaits".
+  - Berent is not "the one documented bias … with a direction": `topics/cognitive-science-of-dualism` L60–L62 records Barrett et al. 2021's intuitive materialism.
+  - The 2026-06-26 deep review's stability notes on the symmetry, the regress and the Popper paragraph are superseded.
+  - L106 uses the banned "not X. It is Y." construct.
+- **Other todo edits**: a coordination note on the admission-threshold P2. It overlaps the operator-reserved "(22) with (27)" proposal at `project/quantum-claim-and-quotation-disciplines` L154. There are also 2/3 addenda on NEEDS-HUMAN methodology 2026-08-03 and 2026-08-04, and tonight's data points on NEEDS-HUMAN pipeline 2026-11-14. `parse_tasks`: 578 active before and after; P1 4→6, P2 21→19.
+- **Operator items**: 8. They include the publication-date bug (third sighting; that NEEDS-HUMAN entry sits below `## Completed Tasks`), whether this page keeps its void status, and the superseded stability notes.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-27]]
+
 ## 2026-11-27 05:13 UTC - outer-review
 - **Status**: Success
 - **Reviewer**: Gemini 4 Neon ("Deeper analysis · 4 Neon", High, Deep Research). Collected by collect-gemini-review. The model slug `gemini-4-neon` was passed explicitly; the skill's hard-coded `gemini-2-5-pro` is stale.
