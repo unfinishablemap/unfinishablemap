@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 11:14:48+00:00
+ai_modified: 2026-11-27 12:31:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 11:14:48+00:00
+lastmod: 2026-11-27 12:31:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 12:31 UTC - check-tenets
+- **Status**: Warnings
+- **Files checked**: 83 window pages (every apex/concepts/positions/tenets/topics/voids page with a commit since 2026-11-25T00:00:00Z: apex 7, concepts 26, positions 4, tenets 1, topics 18, voids 27; 61 of them committed after the 11-25 report). Body diff of 835 changed lines against aba2c6ed65; whole tenet sections read on all 81 pages that have one; tenets.md read in full. Plus four corpus-wide sweeps over 950 content pages, each with a positive control: (1) Tenet 5 scope, 84 + 162 lines, control = the four d0d296c2 pages in the base tree, 4/4; (2) [P-V3](/positions/voids-as-evidence/#p-v3) support claims in all 125 voids, 283 + 44 + 9; (3) epiphenomenalism concessions, 301 hits in 173 files; (4) many-worlds endorsements (20) and parsimony-as-decisive (49).
+- **Errors**: 0. No own-voice epiphenomenalism concession or many-worlds endorsement; no parsimony-as-decisive argument against dualism.
+- **Warnings**: 18. (A) Eight live pages still say or imply that Tenet 5 binds only the Map: trilemma-of-selection L117, access-consciousness L133, visual-indexes-and-demonstrative-reference L111, blocks-harder-problem L135 (explicit), and reactive-attitudes-and-strawsonian-responsibility L85, the-ownerless-suffering-argument L127, molyneux-void L93, psychophysical-indexing-law L116 (implied). (B) Four voids read the void as tenet support, against [P-V3](/positions/voids-as-evidence/#p-v3): acquaintance-void L157, capability-division-problem L120, imagery-void L133, perceptual-reality-monitoring-void L110/L112. (C) Six over-reach or posit-as-result: epistemology-of-limit-knowledge L129, mental-imagery L159/L145, identity-across-transformations L193, nihilism-and-existentialism L122/L114, attention-as-interface L236, the-strong-emergence-of-consciousness L167/L194 (parsimony argued for the Map).
+- **Notes**: 13. Note 1 matters most: six OPEN todo tasks (L1789, L1800, L1810, L1841, L2066, L4652) prescribe "Tenet 5 constrains only the Map's own reasoning" in their Notes, and the 10-23/24/26/29 tenet checks used it as a calibration family taken from the driver's brief. Correct those notes before minting the Tenet 5 item. The twelve research notes (todo L7840) are the only research hits.
+- **Priority List**: 4 items, every OLD string at count 1. (1) Tenet 5 scope, A1–A8, phrase swaps of −1 to +7 words. (2) The four voids B1–B4; capability-division-problem has headroom 0, imagery-void 24. (3) epistemology-of-limit-knowledge L129, +4, run with todo L3779. (4) nihilism-and-existentialism L122/L114, +14, out of step with L48 re-graded 11-26.
+- **Known open items**: all ten 2026-11-25 Warnings still live. W1–W5 are queued (todo L6795, L6804, L6773, L6231, L6813); W6, W8, W9 and W10 are not; W7 is folded into C2.
+- **Output**: [tenet-check-2026-11-27](/reviews/tenet-check-2026-11-27/)
 
 ## 2026-11-27 11:14 UTC - refine-draft
 - **Status**: Success
