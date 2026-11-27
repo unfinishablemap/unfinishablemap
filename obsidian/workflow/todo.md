@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Epistemic self-trust as a reply to epistemic circularity
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-2026-11-27-claude-fable-5-2.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-27-claude-fable-5-2 §9 'Self-trust and defeat' lists Foley, Lehrer and Zagzebski (with Alston read correctly) as missing. Several voids rest on Alstonian epistemic circularity, and self-trust (Foley, Intellectual Trust in Oneself and Others, 2001; Zagzebski, Epistemic Authority, 2012) is the standard reply: rational trust in one's own faculties without a non-circular check. The Map states the problem without this reply. Driver grep 10:1xZ: 'self-trust' 0, 'trust in oneself' 0; Zagzebski hits are only on Frankfurt cases and intellectual courage. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/epistemic-self-trust-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'epistemic-self-trust' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-27
-
 ### P3: Research Kant's regulative teleology of organisms and Montpellier methodological vitalism
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-27-reductive-rivals-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-reductive-rivals-wing (Uncovered Subjects 1). The middle path between vitalism and mechanism: Kant's regulative teleology of organisms (Critique of the Power of Judgment ss64-68, s75), the Montpellier vital principle (Barthez, Bordeu) and Blumenbach's Bildungstrieb. Zero hits at 03:4xZ: 'Barthez' 0/0, 'Montpellier' 0/0, 'Canguilhem' 0/0, 'methodological vitalism' 0/0, 'Naturzweck' 0/0. Positive control: 'Driesch' 1/1. The vitalism research note's own Gaps section flags it as 'Not researched here'. It tests concepts/vitalism's central thesis that the vital force was a schematic placeholder. If the Montpellier vitalists framed the vital principle as a name for an unknown cause, the thesis gains a historical witness; if some gave it determinate features, the thesis needs scoping. The note must test BOTH directions. concepts/ is FULL (370/370), so expect fold into concepts/vitalism (headroom about 1,073; an open P3 adds about +105 there) and possibly topics/biological-teleology-and-the-interface-framework (0 hits for 'Kant'). Normandin & Wolfe (eds.) 2013 (Springer, DOI 10.1007/978-94-007-2445-7) was verified at Crossref. Barthez's 'unknown cause' wording and the Kant blade-of-grass passage are leads from memory; verify them at source. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/kant-organisms-and-methodological-vitalism-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'kant-organisms-and-methodological-vitalism' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7954,8 +7948,38 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - If not found: rephrase to the claim the Map CAN source, or cut it, and keep the paragraph's point ("The accusation should not be overstated") only if another verified source supports it.
   Re-read the paragraph whole. ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
 
+### P3: Fold epistemic self-trust (Foley, Bergmann, Zagzebski, against Schwitzgebel) into the introspection cluster: host paragraph "Self-trust and its limit" in `concepts/phenomenal-conservatism` (F1, +165), replacements at `concepts/self-reference-paradox` L78 (F2, +63) and `concepts/phenomenal-transparency-opacity-spectrum` L75 (F3, +60), optional Foley sentence at `voids/necessary-opacity` L64 (F4, +39)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/phenomenal-conservatism.md
+- **Secondary files**: obsidian/concepts/self-reference-paradox.md, obsidian/concepts/phenomenal-transparency-opacity-spectrum.md, obsidian/voids/necessary-opacity.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-27 17:35Z (`research/epistemic-self-trust-2026-11-27`, recommended_action: fold); driver hand-mint (a fold mints nothing)
+- **Generated**: 2026-11-27
+- **Review file**: research/epistemic-self-trust-2026-11-27.md
+- **Headroom**: analyze_length at 17:4xZ.
+  - phenomenal-conservatism 3,322/3,500: F1 ≤ +170. It must END ≤ 3,499, which leaves almost no margin, so re-measure after every change.
+  - self-reference-paradox 2,564 (F2 ≤ +65).
+  - phenomenal-transparency-opacity-spectrum 3,042 (F3 ≤ +62).
+  - necessary-opacity 2,951/3,000 (voids hard limit): F4 is OPTIONAL and ≤ +40. Skip it if the page is over 2,955 when you start.
+- **Caution**: Do NOT touch `project/voids-circularity-discount` (F5 is operator-only; the admission test is a proposal reserved for the operator) or `voids/interested-party-void` (its reserve is held for the operator's void-status decision). The note declined `observation-and-measurement-void`, `assent-void`, `topics/assent-before-descartes`, `concepts/doxastic-voluntarism`, `ineffable-encounter-void` and `concepts/quasi-memory-and-the-circularity-objection`. Leave them alone.
+- **Notes**: Use the note's fold plan, anchors and guards for the writer. Re-grep each quotation against the note's ledger.
+  - The finding cuts BOTH ways. Self-trust removes circularity as a void-maker (it applies to every source, and Alston held that it does not block justification), and it licenses default trust in THIN introspective reports. It is defeasible: Foley 2001 ch. 3 says empirical data "may provide grounds for not placing much confidence in the opinions we form in those situations". Schwitzgebel 2008 defeats both of Foley's calibration measures for introspection (pp. 259–260), while conceding vivid pains and foveal colours. So self-trust gives NO licence for THICK reports about the nature, non-physicality or causal power of consciousness, and it supports the physicalist's trust in their own reasoning equally. Grade tenet links compatible at most.
+  - ATTRIBUTION GUARDS from the note:
+    - No Lehrer quotes, because the text was not reached.
+    - Quote Zagzebski only via Baril's NDPR review.
+    - Bergmann's "should doubt" wording is unverified, so write "doubts".
+    - Alston later abandoned his practical-rationality argument.
+    - Foley does not deny that self-trust survives such findings globally; keep his local/global distinction.
+  - Never concede epiphenomenalism. Tenet 5 binds parsimony on either side (`tenets.md` L145).
+  - ai_system: append the model you actually run only if it is absent from the whole string.
+  - Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing"; new wikilinks piped.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-27: Research Epistemic self-trust as a reply to epistemic circularity
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-11-27-claude-fable-5-2.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-27-claude-fable-5-2 §9 'Self-trust and defeat' lists Foley, Lehrer and Zagzebski (with Alston read correctly) as missing. Several voids rest on Alstonian epistemic circularity, and self-trust (Foley, Intellectual Trust in Oneself and Others, 2001; Zagzebski, Epistemic Authority, 2012) is the standard reply: rational trust in one's own faculties without a non-circular check. The Map states the problem without this reply. Driver grep 10:1xZ: 'self-trust' 0, 'trust in oneself' 0; Zagzebski hits are only on Frankfurt cases and intellectual courage. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/epistemic-self-trust-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'epistemic-self-trust' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-27: Research Mandevillian cognition and the division of cognitive labour in consciousness science
 - **Type**: research-topic

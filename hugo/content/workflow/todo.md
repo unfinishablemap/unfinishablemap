@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Mandevillian cognition and the division of cognitive labour in consciousness science
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (outer-review-2026-11-27-gemini-4-neon.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-27-gemini-4-neon (Social Epistemology of Science and Mandevillian Cognition) cites Peters 2021 (BJPS 72(4)): individual vices such as confirmation bias and partisan commitment can produce collective epistemic benefit in a diverse community. It calls the void's individualism 'a fallacy of composition'. The Map has no treatment of this, yet it decides level 3 of the new voids admission test (whether a distortion survives social correctives). Driver grep 10:1xZ: 'Mandevillian' 0, 'division of cognitive labo' 0, 'Peters (2021)' 0. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/mandevillian-cognition-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'mandevillian-cognition' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-27
-
 ### P3: Research Epistemic self-trust as a reply to epistemic circularity
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (outer-review-2026-11-27-claude-fable-5-2.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-27-claude-fable-5-2 §9 'Self-trust and defeat' lists Foley, Lehrer and Zagzebski (with Alston read correctly) as missing. Several voids rest on Alstonian epistemic circularity, and self-trust (Foley, Intellectual Trust in Oneself and Others, 2001; Zagzebski, Epistemic Authority, 2012) is the standard reply: rational trust in one's own faculties without a non-circular check. The Map states the problem without this reply. Driver grep 10:1xZ: 'self-trust' 0, 'trust in oneself' 0; Zagzebski hits are only on Frankfurt cases and intellectual courage. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/epistemic-self-trust-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'epistemic-self-trust' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -7924,8 +7918,50 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Review file**: reviews/deep-review-2026-11-27-modality-void.md
 - **Notes**: Add a dated Correction block at the top that points to the review ledger, then a bracketed correction at each locus. Per the reviewer: L52, L65, L122, L144 (von Melchner: the scare quotes are on 'rewired'), L149–150 (O'Callaghan: "perhaps we should restrict"), L169–175, L187, L199 (Spence: "trained" and "expert" have 0 hits in his PDF), L203 (Macpherson: the count depends on the grain; she retires the "same sense?" question), L215, L220–222, L255. Re-grep each before editing. Keep the original text, because research notes are dated records. Sync, then verify Hugo.
 
+### P3: Fold Mandevillian cognition and the division of cognitive labour into the consciousness-science cluster: host paragraph in `topics/experimental-consciousness-science-2025-2026` after the COGITATE measurement-problem paragraph (F2, +359), the Peters-vs-Longino point in `topics/methodology-of-consciousness-research` L146 (F3, +78), and the "healthy field" clause in `topics/consciousness-and-the-structure-of-scientific-revolutions` L63 (F1, +123)
+- **Type**: refine-draft
+- **File**: obsidian/topics/experimental-consciousness-science-2025-2026.md
+- **Secondary files**: obsidian/topics/methodology-of-consciousness-research.md, obsidian/topics/consciousness-and-the-structure-of-scientific-revolutions.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-27 15:39Z (`research/mandevillian-cognition-2026-11-27`, recommended_action: fold); driver hand-mint (a fold mints nothing)
+- **Generated**: 2026-11-27
+- **Review file**: research/mandevillian-cognition-2026-11-27.md
+- **Headroom**: analyze_length at 15:4xZ: experimental-consciousness-science 3,033/4,000 (F2 ≤ +360); methodology 3,465/4,000 (F3 ≤ +80); structure-of-scientific-revolutions 2,272/4,000 (F1 ≤ +125). Re-measure each.
+- **Caution**: Do NOT touch `project/voids-circularity-discount`, because F4 is operator-only (the admission test is a proposal reserved for the operator). Do NOT fold into `voids/collective-cognitive-limits` or `topics/consciousness-and-collective-phenomena`; the note declined both on headroom. `voids/interested-party-void` is also off limits.
+- **Notes**: Use the note's fold plan, anchors and guards for the writer. Re-grep every quotation against the note's ledger. Report the NEGATIVE results as well as the positive ones:
+  - Zollman's transient diversity, and the finding that isolation plus dogmatism never converges.
+  - Rosenstock et al. 2017's "relatively small niche".
+  - Alexander et al. 2015 on the implementation errors behind the epistemic-landscape case.
+  - O'Connor & Weatherall polarisation without bias.
+  - Holman & Bruner's single intransigent agent.
+  Peters 2021 confines his claim to "a diversity of viewpoints, an equal distribution of power" and grants these are "frequently not met". Keep that scope.
+  ATTRIBUTION GUARDS from the note:
+  - "Mandevillian" in epistemology goes back to Morton 2014, so do not call Smart or Peters the coiner.
+  - Uwe Peters (BJPS 2021) is not Megan A. K. Peters.
+  - Peters does NOT use agent-based modelling, despite the Gemini outer review.
+  - The eNeuro "apologize ASAP" reply is Gomez-Marin 2023, not Negro.
+  - Yaron et al. 2022 (412 experiments, theory support "can be predicted solely from methodological choices") is new to the Map: cite it from the note's ledger.
+  Draw no dualism conclusion. Tenet 5 binds parsimony appeals on either side (`tenets.md` L145). ai_system: append the model you actually run only if it is absent from the whole string. Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing"; new wikilinks piped.
+
+### P3: `concepts/integrated-information-theory` L125 cites a survey ("only 8% of 60 respondents 'fully' agreed with the pseudoscience label, while 20% disagreed entirely") that the 2026-11-27 Mandevillian research could not source in five documents and one search. Verify it, or remove or attribute it.
+- **Type**: refine-draft
+- **File**: obsidian/concepts/integrated-information-theory.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-27 15:39Z (`research/mandevillian-cognition-2026-11-27`, side finding 4); driver grep 15:4xZ confirmed the string at L125
+- **Generated**: 2026-11-27
+- **Review file**: research/mandevillian-cognition-2026-11-27.md
+- **Headroom**: 3,495/3,500 (concepts hard limit, gate `>=`): only 4 words of headroom, so the edit must be NET ≤ 0.
+- **Notes**: Find the survey's primary source. Candidates are a 2023–2024 survey of consciousness-paper authors on the IIT "pseudoscience" letter (check the PsyArXiv/OSF follow-ups, Francken et al. 2022 as a different survey, and any eNeuro or Neuroscience of Consciousness commentary). Check the n, the percentages and the wording ("fully", "disagreed entirely").
+  - If verified: add the citation, length-neutral (trim within the paragraph).
+  - If not found: rephrase to the claim the Map CAN source, or cut it, and keep the paragraph's point ("The accusation should not be overstated") only if another verified source supports it.
+  Re-read the paragraph whole. ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-27: Research Mandevillian cognition and the division of cognitive labour in consciousness science
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-11-27-gemini-4-neon.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-27-gemini-4-neon (Social Epistemology of Science and Mandevillian Cognition) cites Peters 2021 (BJPS 72(4)): individual vices such as confirmation bias and partisan commitment can produce collective epistemic benefit in a diverse community. It calls the void's individualism 'a fallacy of composition'. The Map has no treatment of this, yet it decides level 3 of the new voids admission test (whether a distortion survives social correctives). Driver grep 10:1xZ: 'Mandevillian' 0, 'division of cognitive labo' 0, 'Peters (2021)' 0. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/mandevillian-cognition-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'mandevillian-cognition' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-27: Tenet 5 scope sweep, eight more live pages (tenet-check 2026-11-27 A1–A8) say or imply the tenet binds only the Map, plus C6: `topics/the-strong-emergence-of-consciousness` makes the corpus's one live parsimony argument FOR the Map, which `tenets.md` L147 rules out internally
 - **Type**: refine-draft

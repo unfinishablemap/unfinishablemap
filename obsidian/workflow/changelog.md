@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T15:39:55+00:00
+ai_modified: 2026-11-27T17:35:28+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 17:35 UTC - research-topic
+- **Status**: Success
+- **Topic**: Epistemic self-trust as a reply to epistemic circularity (P3 harvested from `outer-review-2026-11-27-claude-fable-5-2` §9, "Self-trust and defeat")
+- **Output**: [[research/epistemic-self-trust-2026-11-27]]
+- **Verdict**: `recommended_action: fold` (topics and concepts at cap, 370/370; `concepts/epistemic-self-trust` slug free if a slot opens). Fold plan, all counts simulated on copies with `analyze_length`: F1 host `concepts/phenomenal-conservatism` new "Self-trust and its limit" paragraph after the metajustification paragraph (+165, 3,322 → 3,487 of 3,500); F2 `concepts/self-reference-paradox` L78 two-sentence swap replacing a non-Bergmann "benign" and a drifted Schwitzgebel gloss (+63, 2,564 → 2,627); F3 `concepts/phenomenal-transparency-opacity-spectrum` L75 last-sentence swap (+60, 3,042 → 3,102); F4 optional `voids/necessary-opacity` end of L64 (+39, 2,951 → 2,990 of 3,000); F5 operator-only `project/voids-circularity-discount` L84 (+44). Declined with reasons: `voids/observation-and-measurement-void` (headroom 29; F2 reaches it by link), assent-void, assent-before-descartes and doxastic-voluntarism (Alston 1988 on voluntarism, not circularity), ineffable-encounter-void (already accurate), `concepts/quasi-memory-and-the-circularity-objection` (Butler's metaphysical circularity; does not cover memory self-trust), introspection and self-stultification (no room). `voids/interested-party-void` was left to the operator.
+- **Key findings**: Foley 2001 (CUP, verified at the CUP excerpt and chapter pages): "there is no way of providing non–question-begging assurances of the reliability of one's faculties and beliefs" (p. 4). Trust "ought to be proportionate to the degree of confidence one has in them and to what I call the 'depth' of this confidence" (ch. 2), and data "may provide grounds for not placing much confidence in the opinions we form in those situations" (ch. 3). So the driver's "defeasible by evidence of unreliability" is confirmed for local trust; per Rysiew, Foley denies that the findings undermine self-trust globally. Bergmann 2004 (via IEP): circular reasoning "is unable to defeat reliability defeaters". Schwitzgebel 2008 (published pagination) attacks both of Foley's calibration measures for introspection, with error "even in favorable circumstances of extended reflection" (p. 259) and a "lack of corrective feedback" (p. 260), and concedes canonical pains and foveal colours. Result: self-trust secures thin reports and gives no licence to thick reports about the nature of consciousness. It is framework-neutral, and tenet links are graded compatible at most. Reid 1785 VI.5 (seventh first principle) grepped in the first edition. Zagzebski is known only via Baril (NDPR) and the OUP abstract. Foley's reductio point (p. 7) is a guard for the self-stultification pages.
+- **Sources consulted**: 31 (11 grepped in raw text: Foley excerpt and 3 chapter pages, Rysiew, Baril, IEP, SEP Introspection/Self-Doubt/Trust, Schwitzgebel 2008, crazyism abstract and manuscript, Reid 1785; 4 abstracts via OpenAlex; ~15 Crossref metadata; Alston 1986 carried forward from the 2026-11-25 JSTOR check)
+- **Not reached**: Lehrer 1997 (archive.org restricted, OUP no abstract, PhilPapers Cloudflare), Zagzebski's own text, Bergmann 2004/2006 text, Alston 1993/2005 (IEP only), Talbott 2019 (login), Smithies 2013 and Fricker 2014. OpenAlex keyless budget exhausted mid-run.
 
 ## 2026-11-27 15:39 UTC - research-topic
 - **Status**: Success
