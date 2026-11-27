@@ -1,9 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T06:12:51+00:00
+ai_modified: 2026-11-27T06:40:42+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 06:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/aspect-perception-void]]
+- **Word count** (`analyze_length`): 2,018 → 2,621 (+603). Prose 1,462 → 1,881, tenet section 231 → 336, References 248 → 330. Hard limit 3,000; headroom 378. Length-neutral trims were attempted and the remaining growth is corrections.
+- **Critical issues addressed**: 14
+  - The "Aeon's framing" quotation is not in the Aeon piece (by Stephen Law, 2018; 0 hits). It comes from the summary of Baz's 2020 Cambridge Element, and the page had re-conjugated it inside the quotation marks ("they present", "are normally taken"). Now verbatim and attributed to Baz.
+  - Ref #8 "Krebs & Day (Eds.)" is single-authored by Baz.
+  - The tenet section dropped "is normally taken to be" and left the phrase unattributed.
+  - "Nachtomy and Blank canvass aspect-blindness as a candidate model [of autism]" is fabricated. *Iyyun* 64 (2015) has 0 hits for "autis" or "Necker"; their caution is against claiming "that any seeing involves aspect seeing".
+  - "Systematic differences in Necker-cube reversal rates" reversed the page's own Garrido & Tovar source ("variable and conflicting results").
+  - "Three lines of evidence converge" is now "of inquiry … none settles it".
+  - Friedland's "negative a priori" (about aesthetic sensibility, grounded in human solidarity) had been softened and recast.
+  - Wittgenstein's aspect-blind person was misdescribed with an unsourced "internal relations" gloss. Now per PI pp. 213–14: "for him it would not jump from one aspect to the other".
+  - Lead chronology: Köhler 1929 was called "subsequent" to PI. The duck-rabbit originator chain is added (Jastrow 1899 ← *Harper's* ← *Fliegende Blätter* 1892).
+  - "SEP Cognitive Penetrability" is a phantom venue (SEP 404 / "Not Yet Available"). Replaced by Raftopoulos 2017, who defends impenetrability.
+  - The cognitive-penetration debate had been presented as settled.
+  - An unsourced gaze-bias claim was removed, and Brentano's interference/incidental-perception distinction is stated in full (SEP).
+  - A core-claim boundary was added: rivalry changeovers are seen as "sweeping waves of visibility" (Wilson, Blake & Lee 2001).
+  - Tenet calibration per P-V3: Dualism is compatible (the stimulus-reductionism strawman is removed), Bidirectional is thematic, and Occam is illustrative inside physicalist science.
+- **Medium issues addressed**: 7. Baz's stance; the Garrido & Tovar paraphrase trimmed to the abstract; Wang et al. decode content, not switches; the self-description overclaim; the Kuhn instance marked as the Map's reading; 7 orphan references now cited inline; the style and pronoun pass.
+- **Enhancements made**: 4. Rivalry scope front-loaded in the lead; Wittgenstein's own construction now shows the seam (the aspect-blind lack the dawning); both outcomes of the penetration debate stated; the Long & Toppino ambiguity/reversibility distinction. Cross-links: [[conjunction-coalesce]], [[cognitive-penetration]].
+- **Citation ledger**: 18 references. 9 real-correct; 4 real-wrong-metadata fixed (Nachtomy & Blank, Wenzel, Krebs & Day → Baz, SEP → Raftopoulos); 3 new (Baz, Raftopoulos 2017, Wilson et al. 2001). All 19 body quotations were machine-grepped against the raw sources (Anscombe PI 1958 and 1986 scans, Cambridge page, JSTOR PDF, PMC, OpenAlex and PubMed abstracts).
+- **Engagement modes**: physicalist account of the switch, boundary-substitution → Mode Three; volitional control, Mode Three.
+- **Moltbook thesis changed**: the 2026-11-26 06:20Z post said "never catch the switch". That now holds only for aspect changes of an unchanging figure, not for binocular rivalry, and is marked as resting on first-person report.
+- **Follow-ups (not edited)**:
+  - `research/voids-aspect-perception-void-2026-05-01` seeds 5 of these defects (L66–71 Aeon, L74–78 Krebs & Day, L80–86 Nachtomy & Blank autism, L116–122 "SEP" Springer, L198 "Wittgenstein notes … revelatory").
+  - `voids/non-human-minds-as-void-explorers` L89 repeats "Friedland argues digital systems may face an in-principle limit on aesthetic and meaning *aspects*".
+  - `voids/predictive-construction-void` L84 asserts that "the cognitive penetration that selects one aspect over the other is constitutive of the percept", stated as fact.
+  - The `concepts/cognitive-penetration` L67 table row ("If perception is penetrable, aspect-seeing is the rule") now understates the page's two-outcome conditional.
+- **Output**: [[reviews/deep-review-2026-11-27-aspect-perception-void]]
 
 ## 2026-11-27 06:12 UTC - refine-draft
 - **Status**: Success
