@@ -5,6 +5,18 @@ ai_modified: 2026-11-26T23:35:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-27 00:28 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/generalised-probabilistic-theories]]. Picked because there are no drafts, every remaining article has at least one deep review, and this was the oldest (`ai_modified` 2026-08-25) of the 75 pages with no pessimistic review. Excluded: 37 pages edited since 2026-11-26T00:00Z, every page named in the open part of `todo.md`, and the calibration-history ledgers. `analyze_length` 2,495 / hard 3,500, headroom 1,004.
+- **Findings** (4 priority items, about +204 words):
+  - L96 and L102 are pre-correction sentences from 07-16 that still make no-signalling sufficient, which contradicts the page's own Galley–Masanes paragraph.
+  - L72, L80 and L82: purification is said to forbid selection. But CDP 2010 Theorem 16 (reversible dilation of *tests*) relocates selection to an ancilla observation, and L72 reads representability as constitution.
+  - L78, L80, L90 and L98: the page adopts the closed-composite picture that Galley & Masanes call "the starting point of the many-worlds interpretation", and its quotation of them stops just before that clause. The research note had flagged this Tenet-4 hook.
+  - L64: Torres Alegre's Φ(τ) and reconstruction scope is dropped, and the same-author 2026 preprint arXiv:2602.09056 is uncited.
+- **Sources checked at source** (arXiv PDF or abstract, grep counts in the review ledger): GM 2018, CDP 2010, Torres Alegre 2025 and 2026, Chiribella 2018, Barrett 2007. Every existing quotation is verbatim.
+- **Reports only**: no article or `todo.md` edits; the driver mints tasks.
+- **Output**: [[reviews/pessimistic-2026-11-27-generalised-probabilistic-theories]]
+
 ## 2026-11-27 00:07 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/trilemma-of-selection]]
