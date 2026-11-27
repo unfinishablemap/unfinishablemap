@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-11-11 14:04:00+00:00
+ai_modified: 2026-11-27 08:21:21+00:00
 ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[simulation]]'
 - '[[illusionism]]'
 created: 2026-01-25
-date: &id001 2026-11-11
+date: &id001 2026-11-27
 description: Consciousness actively participates in maintaining its own cognitive
   limits—through defence mechanisms, motivated avoidance, and deep structural complicity.
   Multiple traditions converge on the claim that mind is partly its own jailer.
@@ -22,7 +22,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-06-26 13:02:07+00:00
-lastmod: 2026-11-11 14:04:00+00:00
+lastmod: 2026-11-27 08:21:21+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -89,7 +89,7 @@ Trivers argues "we deceive ourselves the better to deceive others"—self-decept
 
 ### Terror Management
 
-Becker argued "consciousness of death is the primary repression," and civilisation itself functions as a defence against mortality awareness. Terror management theory operationalises the claim: Burke et al.'s 2010 meta-analysis of 277 experiments reports that mortality salience triggers intensified cognitive defences, and participants whose death-awareness is activated below conscious threshold have been reported to show measurable effects. The evidence is contested—the classic mortality-salience effect failed to replicate in a large multi-lab test (Klein et al. 2022)—but if the effect is real, deflection precedes awareness.
+Becker argued "consciousness of death is the primary repression," and civilisation itself functions as a defence against mortality awareness. Terror management theory operationalises the claim: Burke et al.'s 2010 meta-analysis (164 articles, 277 experiments) found "moderate effects (r = .35)" of mortality salience on worldview- and self-esteem-related measures, larger for American participants, students and longer delays. Subliminal death primes have also been reported to produce measurable effects. The evidence is contested. The classic mortality-salience effect failed to replicate in a large multi-lab test (Klein et al. 2022), and a systematic review of 643–825 studies suggests "nonzero effects underlying some studies", although effects are "highly heterogeneous", most studies are underpowered and "many individual effects may be spurious" (Chen et al. 2025). If the effect is real, deflection precedes awareness.
 
 ### Psychological Defence and Information Avoidance
 
@@ -136,7 +136,7 @@ The convergence supports a stronger claim than mere defence: consciousness is it
 - **[Conceptual scheme void](/voids/conceptual-scheme-void/)**: schemes exclude what they cannot represent. Complicity asks whether consciousness has a *stake* in maintaining particular schemes.
 - **[Introspective opacity](/voids/self-opacity/)**: cognitive mechanisms are inaccessible. Complicity asks whether this inaccessibility is partially self-imposed.
 - **[Necessary opacity](/voids/necessary-opacity/)**: consciousness cannot *verify* its representations. Complicity adds *maintenance*—agency behind the epistemic condition.
-- **[Interested party void](/voids/interested-party-void/)**: consciousness has existential stakes that bias investigation. Self-maintenance describes the *mechanisms* by which consciousness sustains its ignorance.
+- **[Interested party void](/voids/interested-party-void/)**: inquirers' existential stakes can bias investigation. Self-maintenance describes the *mechanisms* by which consciousness sustains its ignorance.
 - **[Appetitive void](/voids/appetitive-void/)**: desire orients cognition toward some outcomes before any particular thought has formed. Complicity concerns a thought that arrives and is then deflected; the appetitive orientation bears on which thoughts arise to be deflected at all, so it operates a level below the defence mechanisms catalogued here rather than alongside them.
 - **[Boredom void](/voids/boredom-void/)**: in experiments, people underpredicted how much they would enjoy waiting with only their thoughts, and the low forecast led them to avoid the wait. If, as the Map infers but those experiments did not test, the avoidance keeps away the disconfirming experience, that is self-maintenance in a weaker, non-complicit sense: a candidate case at most, open to mundane explanation, and no support for the agency claim.
 
@@ -233,6 +233,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 7. Becker, E. (1973). *The Denial of Death*. Free Press.
 8. Burke, B. L., Martens, A., & Faucher, E. H. (2010). "Two Decades of Terror Management Theory." *Personality and Social Psychology Review*, 14(2), 155–195.
 9. Klein, R. A., Cook, C. L., Ebersole, C. R., Vitiello, C., Nosek, B. A., et al. (2022). "Many Labs 4: Failure to Replicate Mortality Salience Effect With and Without Original Author Involvement." *Collabra: Psychology*, 8(1), 35271. https://doi.org/10.1525/collabra.35271
-10. Wegner, D. M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
-11. Golman, R., Hagmann, D., & Loewenstein, G. (2017). "Information Avoidance." *Journal of Economic Literature*, 55(1), 96–135.
-12. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
+10. Chen, L., Benjamin, R., Guo, Y., Lai, A., & Heine, S. J. (2025). "Managing the Terror of Publication Bias: A Systematic Review of the Mortality Salience Hypothesis." *Journal of Personality and Social Psychology*, 129(1), 20–41. https://doi.org/10.1037/pspa0000438
+11. Wegner, D. M. (1994). "Ironic Processes of Mental Control." *Psychological Review*, 101(1), 34–52.
+12. Golman, R., Hagmann, D., & Loewenstein, G. (2017). "Information Avoidance." *Journal of Economic Literature*, 55(1), 96–135.
+13. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
