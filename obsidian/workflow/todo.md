@@ -7729,6 +7729,31 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
     - `voids-semantic-void-2026-02-17`: a "gap in nature" sentence that reads like Wikipedia's wording rather than Levine's (also in two other research notes; grep and flag them too), plus an unverified Gendlin quote that has spread into `archive/voids/semantic-void`.
   - Copy verified wording from the review's citation ledger. Sync and verify both trees.
 
+### P3: `concepts/vitalism` never meets Papineau's argument from physiology (no special forces were found, so none acts in the brain), which the Map sets out at `topics/causal-closure-debate-historical-survey` L89–L91; its L79 overclaims that the vitalism comparison "is also the answer to Dennett"; and `concepts/biological-naturalism` L96 does not link vitalism at Searle's parity reply
+- **Type**: refine-draft
+- **File**: obsidian/concepts/vitalism.md
+- **Secondary files**: obsidian/concepts/biological-naturalism.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-27 02:52Z (`reviews/optimistic-2026-11-27-reductive-rivals-wing.md`), priority list items 1, 4 and 3; every current string had grep count 1 per the reviewer
+- **Generated**: 2026-11-27
+- **Review file**: reviews/optimistic-2026-11-27-reductive-rivals-wing.md
+- **Headroom**: vitalism 2,426/3,500 (+105 for items 1 and 4); biological-naturalism 2,777/3,500 (+10). Re-measure both.
+- **Notes**: Use the review's exact text from §Priority list.
+  - (1) vitalism: add a Tenets 2–3 paragraph before L93 that meets Papineau's argument and points to `topics/causal-closure-debate-historical-survey` L89–L91 (re-grep it). Answer it as the Map does there, and grade it honestly: it is the strongest physicalist inference from the history, and the Map's reply is framework-internal. Do not overclaim. (+81)
+  - (4) vitalism L79: "is also the answer to Dennett" overclaims, because `concepts/type-specificity` L125 already concedes that Dennett's approach sidesteps the demand rather than meeting it. Narrow it to match. (+24)
+  - (3) biological-naturalism L96: add a piped link to [[vitalism]] at Searle's parity reply. Searle's own examples (L74: digestion and the like) are among the life-functions whose explanation retired the vital force. (+10)
+  The review's lower-priority items (the reverse links between the two pairs; the "not X. It is Y." construct at `type-specificity` L53, −1 word) stay in the review and are not in scope here. ai_system: append the model you actually run only if it is absent from the whole string, in each edited file. Sync and verify both trees.
+
+### P3: `concepts/type-identity-theory` L71 says the identity is "asserted, not explained" but never names Lewis's (1966) answer that type identities are DERIVED from causal roles, which the Map already states at `concepts/reductionism` L73 ("Lewis" has 0 hits on the page)
+- **Type**: refine-draft
+- **File**: obsidian/concepts/type-identity-theory.md
+- **Status**: pending
+- **Source**: optimistic-review 2026-11-27 02:52Z (`reviews/optimistic-2026-11-27-reductive-rivals-wing.md`), priority list item 2; driver grep-verified 02:5xZ ("Lewis" 0 hits on the page)
+- **Generated**: 2026-11-27
+- **Headroom**: 2,617/3,500. The fix is +46 words plus an 18-word reference (Lewis 1966, "An Argument for the Identity Theory", *J. Phil.* 63(1): 17–25; the reviewer checked the metadata at Crossref). Re-measure first.
+- **Review file**: reviews/optimistic-2026-11-27-reductive-rivals-wing.md
+- **Notes**: At L71 ("asserted, not explained"), name Lewis's 1966 derivation: identify the mental state by its causal role, find the physical occupant of that role, and the identity follows by transitivity. Then say what the Map makes of it. The derivation moves the explanatory question onto whether phenomenal concepts are role concepts, which is exactly what the Map denies (`concepts/reductionism` L73; re-grep and match its wording). Use the review's exact text. Grade it as a framework-boundary disagreement, not a refutation. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
+
 ## Completed Tasks
 
 
