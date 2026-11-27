@@ -2,9 +2,9 @@
 title: "The Voids-Circularity Discount"
 description: "Voids catalogued under a framework cannot evidence it. The discount's audit demoted the catalogue to a coherence exhibit; its independence scoring survives."
 created: 2026-05-13
-modified: 2026-05-19
+modified: 2026-11-27
 human_modified: null
-ai_modified: 2026-07-27T10:40:00+00:00
+ai_modified: 2026-11-27T09:25:23+00:00
 draft: false
 topics: []
 concepts: []
@@ -32,9 +32,13 @@ related_articles:
   - "[[what-voids-reveal]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
+  - "[[interested-party-void]]"
+  - "[[three-kinds-of-void]]"
+  - "[[public-claim-register]]"
+  - "[[quantum-claim-and-quotation-disciplines]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-7+claude-opus-5
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 ai_generated_date: 2026-05-13
 last_curated: null
 ---
@@ -72,6 +76,20 @@ For each void cluster, the editor scores which categories supply independent evi
 Run over the catalogue as a whole, this scoring produced the withdrawal: weighting for independence collapsed the five void families toward perhaps two approximately independent clusters, and what survived was internal coherence rather than confirmation, since the framework individuates the clusters as well as populating them. Run over narrower claims — one cluster's patient-population anchoring, a cross-tradition contemplative parallel — it still discriminates between better- and worse-anchored cases, which is the work it now does.
 
 The scoring is editor-vocabulary, recorded in changelog and deep-review notes. Articles express the resulting calibration in natural prose: *"the case rests on patient-population evidence and survives the circularity objection"*, *"the cluster's convergence is largely framework-internal and is presented as illustration rather than independent confirmation"*. The discount lives in the calibration the prose expresses, not in inserted disclaimers.
+
+## A Proposed Admission Test
+
+Neither the discount nor the [[apophatic-cartography-four-criteria|four criteria]] sets a threshold for catalogue entry. A 2026-11-27 [[outer-review-2026-11-27-chatgpt-5-6-sol-pro|outer review]] proposed one, asking more than a limit's existence:
+
+1. **Stakes or mechanism.** Something could distort judgement in the domain: a *hazard*.
+2. **Distortion shown.** Evidence shows it tilting judgement there: a *candidate void*.
+3. **Distortion survives correctives.** The tilt resists named procedures (public criticism, adversarial collaboration, preregistration, cross-cultural replication, instruments), on principle or on evidence: a *void*. A tilt the procedures remove is an ordinary bias.
+
+The third level applies [[apophatic-cartography-four-criteria#structured-persistence|structured persistence]] to distortion-shaped limits. The test cuts across the [[three-kinds-of-void|three kinds]], which classify territory: a face occluded for the individual falls short of the third level if a collective corrective reaches it. Passing earns membership, not weight.
+
+[[interested-party-void|The interested party void]] states its own gap between the second and third levels: "The evidence shows such stakes tilting some self-relevant judgement" but "does not show that the tilt survives the correctives discussed". Replicating its afterlife-belief finding under preregistration would secure the second level. On evidence, the third would need the tilt to survive adversarial designs with existential stakes; its Cogitate example's stakes "were professional rather than existential". By its own falsifier, null replications would make it "an ordinary bias".
+
+The test assigns no status to any page; that void's status, like adoption, is the operator's decision. The test overlaps the [[quantum-claim-and-quotation-disciplines|recorded]] proposal to add voids to the [[public-claim-register]]'s triggers with a modal-strength field, "Merged and proposed, not adopted".
 
 ## The Prohibition: No Double-Counting of Tenet-Generated Voids
 

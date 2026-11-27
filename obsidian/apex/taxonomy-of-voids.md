@@ -1,9 +1,9 @@
 ---
 title: "A Taxonomy of Voids"
 created: 2026-03-10
-modified: 2026-11-18
+modified: 2026-11-27
 human_modified: null
-ai_modified: 2026-11-18T15:07:45+00:00
+ai_modified: 2026-11-27T09:25:56+00:00
 draft: false
 description: "Over a hundred cognitive voids (twenty-six indexed as framework-independent) cluster at the consciousness-matter interface—a structured taxonomy read as framework-internal coherence with the Map's tenet-package, lending dualism no evidential weight."
 last_deep_review: 2026-07-19T14:05:19+00:00
@@ -247,7 +247,7 @@ This synthesis draws from:
 - [[compound-failure-signatures|Compound Failure Signatures]] — Distinct failure signatures as data
 - [[edge-states-and-void-probes|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Framework-generated limits as intellectual honesty
-- [[project/voids-circularity-discount|The Voids-Circularity Discount]] — The project-tier discipline this audit applies
+- [[project/voids-circularity-discount|The Voids-Circularity Discount]] — The project-tier discipline this audit applies, and its proposed [[project/voids-circularity-discount#a-proposed-admission-test|admission test]]
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — The distinction between evolved and engineered constraints
 - [[medium-status-voids-in-cognition|Medium-Status Voids in Cognition]] — The content/capacity/medium-status typology
 - [[research/voids-distributional-void-2026-08-24|The Distributional Void]] — Folded research note: the instrument-generated face of the method-generated class

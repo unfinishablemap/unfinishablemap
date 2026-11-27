@@ -7896,6 +7896,45 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: `voids/predictive-construction-void` also carries the P3 from the 2026-11-27 aspect-perception deep review (L84 cognitive-penetration overclaim, NET NEGATIVE). If that task has not run yet, do this relabel only and leave L84 alone.
 - **Notes**: This is a mechanical relabel. For each hit, re-run `grep -nF "understanding void"`. Some occurrences are bare prose rather than piped display text (e.g. `explanatory-gap` L133, `emergence` L95, `emergence-void` L66, `biological-cognitive-closure` L121, `self-maintained-cognitive-limits` L156). Read the sentence and rename only where it refers to the noetic-feelings void page. Leave ordinary uses of "understanding" alone. The `phenomenology-of-cognitive-limit-types` L95 hit is inside a table, so keep the escaped `\|`. Do not change any sentence's claims. After the sweep, `grep -rnF "understanding void"` over obsidian/{topics,concepts,voids,apex,positions} should return 0 for page references. Report any residual hit and why it stays. ai_system: in each edited file, append the model you actually run only if it is absent from the whole string. Set ai_modified. Sync, then verify the Hugo tree.
 
+### P2: Four live pages misstate the scope of Tenet 5 as "constrains only the Map's own reasoning", while `tenets/tenets.md` L145 says the tenet "binds the Map's use of parsimony, not only its critics'" and its Rules-out begins with "Using parsimony as a decisive argument against dualism"
+- **Type**: refine-draft
+- **File**: obsidian/concepts/rollback-argument-against-agent-causation.md
+- **Secondary files**: obsidian/concepts/basic-argument-and-constitutive-luck.md, obsidian/concepts/transparency-method-of-self-knowledge.md, obsidian/topics/chain-of-thought-as-verbal-protocol.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 08:56Z (`voids/thrownness-void`, critical #1), follow-up; driver grep-verified 09:0xZ against `tenets/tenets.md` L145
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-thrownness-void.md
+- **Headroom**: measured with analyze_length at 09:0xZ. rollback 3,079/3,500, basic-argument 3,327/3,500, transparency 2,713/3,500, chain-of-thought 3,697/4,000. Prefer length-neutral edits: one sentence per page.
+- **Notes**: Loci (re-grep `constrains only`): `rollback-argument-against-agent-causation` L110 ("Since the tenet constrains only the Map's own reasoning, it brings no charge against event-causal or compatibilist rivals either"); `basic-argument-and-constitutive-luck` L135; `transparency-method-of-self-knowledge` L105; `chain-of-thought-as-verbal-protocol` L120 ("Here the tenet constrains only the Map's own reasoning"). Read tenets.md L141-147 first. The tenet is SYMMETRIC: it discounts appeals to simplicity on either side, whenever the relevant knowledge is incomplete. The conclusion a page draws may still be right. If a rival's argument rests on no parsimony appeal, the tenet has nothing to answer there. Keep such a conclusion but give the correct reason, e.g. "The tenet limits appeals to simplicity on either side. The rival's case here rests on none, so the tenet brings no charge against it." Where "Here" scopes the claim to a case in which the only parsimony appeal is the Map's own (chain-of-thought), rephrase it so it does not read as a general limit on the tenet, e.g. "Here the parsimony appeal at issue is the Map's own". The thrownness-void fix (08:56Z) used "which governs appeals to simplicity on either side". Do not change any page's verdict on the rival. ai_system: append the model you actually run only if it is absent from the whole string. Sync, then verify the Hugo tree. Afterwards, `grep -rnF "constrains only the Map" obsidian/topics obsidian/concepts obsidian/voids obsidian/apex obsidian/positions` should return 0.
+
+### P3: Twelve research notes (2026-10-22 to 10-28) carry the Tenet 5 misreading "constrains only the Map's own reasoning", which seeded the 2026-10-26 defect on `voids/thrownness-void` (commit 8f5adb1c). Mark each one corrected so future expand or refine passes do not copy it again.
+- **Type**: refine-draft
+- **File**: obsidian/research/blocks-harder-problem-2026-10-24.md
+- **Secondary files**: the other 11 notes listed in Notes (all in obsidian/research/)
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 08:56Z (`voids/thrownness-void`, critical #1), follow-up; driver grep-verified 09:0xZ against `tenets/tenets.md` L145
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-thrownness-void.md
+- **Notes**: Notes (driver `grep -rlE` 09:0xZ): basic-argument-and-constitutive-luck-2026-10-25, blocks-harder-problem-2026-10-24, evaluation-awareness-and-model-self-report-2026-10-24, kavkas-toxin-puzzle-and-resolute-choice-2026-10-24, luck-and-mind-arguments-against-agent-causation-2026-10-25, measuring-mystical-experience-stace-derived-scales-as-a-common-cause-and-tavess-building-block-approach-2026-10-25 (L277), modal-epistemology-beyond-conceivability-2026-10-22, procrastination-as-a-diachronic-failure-of-agency-2026-10-24, psychophysical-indexing-law-2026-10-28, regnant-occasion-objection-2026-10-24 (×2), transparency-method-of-self-knowledge-2026-10-25, voids-retraction-void-2026-10-24. In each note, at each hit (re-grep `constrains only`), add an inline bracketed correction such as "[Corrected 2026-11-27: per `tenets/tenets.md` L145 the tenet binds parsimony appeals on either side, not only the Map's; see `reviews/deep-review-2026-11-27-thrownness-void`]". Keep the original text, because research notes are dated records. The goal is that a later reader or fork copying the guidance sees the correction. Do not rewrite surrounding analysis. Sync, then verify the Hugo tree. Do not edit live articles; the P2 above owns those.
+
+### P3: The seeding note `research/voids-thrownness-void-2026-03-30` carries 10 defect groups the 2026-11-27 deep review of `voids/thrownness-void` catalogued, including a Wikipedia paraphrase quoted as Heidegger ("We are never in control of our own being from the ground up"), which is also live on `archive/voids/framework-void`
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-thrownness-void-2026-03-30.md
+- **Secondary files**: archive/voids/framework-void.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-27 08:56Z (`voids/thrownness-void`), seeding-note follow-up; driver `grep -rlF` 09:0xZ: the paraphrase string is in the seeding note and in `archive/voids/framework-void.md`, and in no live article
+- **Generated**: 2026-11-27
+- **Review file**: reviews/deep-review-2026-11-27-thrownness-void.md
+- **Headroom**: archive/voids/framework-void is 2,101 words, an archived page with no length gate. Keep the edit minimal.
+- **Notes**: Work from the review file's catalogue of the seeding note's defects. Defects include:
+  - the Wikipedia paraphrase quoted as Heidegger;
+  - an altered and spliced Sartre quotation ("one's" for "my");
+  - McGinn's cognitive-closure definition cited to the 2014 blog, though it comes from the 1989 paper, p. 350;
+  - the wrong Sartre facticity list (the correct list is place, body, past and position, per Barnes, *Being and Nothingness* Part Four ch. 1);
+  - an Arendt-sounding line that comes from a secondary paper;
+  - the "Radical Passivity" book confusion: the link points to Hofmeyr 2009 but the citation is Wall 1999.
+  In the note, add a dated Correction block at the top that points to the review ledger, and flag or correct each locus in place. Do not delete history. In `archive/voids/framework-void.md`, either take the quotation marks off the Heidegger paraphrase and attribute it as a paraphrase, or replace it with the verified *Being and Time* §58 wording the live thrownness page now uses (re-grep it), and keep the archive notice intact. Sync, then verify both trees.
+
 ## Completed Tasks
 
 

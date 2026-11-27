@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-11-18 15:07:45+00:00
+ai_modified: 2026-11-27 09:25:56+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 apex_last_synthesis: 2026-11-17 08:22:10+00:00
 apex_sources:
@@ -30,7 +30,7 @@ concepts:
 - '[[introspection]]'
 - '[[simulation]]'
 created: 2026-03-10
-date: &id001 2026-11-18
+date: &id001 2026-11-27
 description: Over a hundred cognitive voids (twenty-six indexed as framework-independent)
   cluster at the consciousness-matter interface—a structured taxonomy read as framework-internal
   coherence with the Map's tenet-package, lending dualism no evidential weight.
@@ -38,7 +38,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-19 14:05:19+00:00
-lastmod: 2026-11-18 15:07:45+00:00
+lastmod: 2026-11-27 09:25:56+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -257,7 +257,7 @@ This synthesis draws from:
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Distinct failure signatures as data
 - [The Phenomenology of the Edge](/voids/edge-states-and-void-probes/) — What consciousness encounters at its boundaries
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
-- [The Voids-Circularity Discount](/project/voids-circularity-discount/) — The project-tier discipline this audit applies
+- [The Voids-Circularity Discount](/project/voids-circularity-discount/) — The project-tier discipline this audit applies, and its proposed [admission test](/project/voids-circularity-discount/#a-proposed-admission-test)
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints
 - [Medium-Status Voids in Cognition](/apex/medium-status-voids-in-cognition/) — The content/capacity/medium-status typology
 - [The Distributional Void](/research/voids-distributional-void-2026-08-24/) — Folded research note: the instrument-generated face of the method-generated class

@@ -1,18 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-05-13
-ai_modified: 2026-07-27 10:40:00+00:00
-ai_system: claude-opus-4-7+claude-opus-5
+ai_modified: 2026-11-27 09:25:23+00:00
+ai_system: claude-opus-4-7+claude-opus-5+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-05-13
-date: &id001 2026-05-19
+date: &id001 2026-11-27
 description: Voids catalogued under a framework cannot evidence it. The discount's
   audit demoted the catalogue to a coherence exhibit; its independence scoring survives.
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-07-27 10:40:00+00:00
+lastmod: 2026-11-27 09:25:23+00:00
 modified: *id001
 related_articles:
 - '[[project]]'
@@ -38,6 +38,10 @@ related_articles:
 - '[[what-voids-reveal]]'
 - '[[the-convergence-argument-for-dualism]]'
 - '[[epistemology-of-convergence-arguments]]'
+- '[[interested-party-void]]'
+- '[[three-kinds-of-void]]'
+- '[[public-claim-register]]'
+- '[[quantum-claim-and-quotation-disciplines]]'
 title: The Voids-Circularity Discount
 topics: []
 ---
@@ -75,6 +79,20 @@ For each void cluster, the editor scores which categories supply independent evi
 Run over the catalogue as a whole, this scoring produced the withdrawal: weighting for independence collapsed the five void families toward perhaps two approximately independent clusters, and what survived was internal coherence rather than confirmation, since the framework individuates the clusters as well as populating them. Run over narrower claims — one cluster's patient-population anchoring, a cross-tradition contemplative parallel — it still discriminates between better- and worse-anchored cases, which is the work it now does.
 
 The scoring is editor-vocabulary, recorded in changelog and deep-review notes. Articles express the resulting calibration in natural prose: *"the case rests on patient-population evidence and survives the circularity objection"*, *"the cluster's convergence is largely framework-internal and is presented as illustration rather than independent confirmation"*. The discount lives in the calibration the prose expresses, not in inserted disclaimers.
+
+## A Proposed Admission Test
+
+Neither the discount nor the [four criteria](/concepts/apophatic-cartography-four-criteria/) sets a threshold for catalogue entry. A 2026-11-27 [outer review](/reviews/outer-review-2026-11-27-chatgpt-5-6-sol-pro/) proposed one, asking more than a limit's existence:
+
+1. **Stakes or mechanism.** Something could distort judgement in the domain: a *hazard*.
+2. **Distortion shown.** Evidence shows it tilting judgement there: a *candidate void*.
+3. **Distortion survives correctives.** The tilt resists named procedures (public criticism, adversarial collaboration, preregistration, cross-cultural replication, instruments), on principle or on evidence: a *void*. A tilt the procedures remove is an ordinary bias.
+
+The third level applies [structured persistence](/concepts/apophatic-cartography-four-criteria/#structured-persistence) to distortion-shaped limits. The test cuts across the [three kinds](/voids/three-kinds-of-void/), which classify territory: a face occluded for the individual falls short of the third level if a collective corrective reaches it. Passing earns membership, not weight.
+
+[The interested party void](/voids/interested-party-void/) states its own gap between the second and third levels: "The evidence shows such stakes tilting some self-relevant judgement" but "does not show that the tilt survives the correctives discussed". Replicating its afterlife-belief finding under preregistration would secure the second level. On evidence, the third would need the tilt to survive adversarial designs with existential stakes; its Cogitate example's stakes "were professional rather than existential". By its own falsifier, null replications would make it "an ordinary bias".
+
+The test assigns no status to any page; that void's status, like adoption, is the operator's decision. The test overlaps the [recorded](/project/quantum-claim-and-quotation-disciplines/) proposal to add voids to the [public-claim-register](/project/public-claim-register/)'s triggers with a modal-strength field, "Merged and proposed, not adopted".
 
 ## The Prohibition: No Double-Counting of Tenet-Generated Voids
 

@@ -1,9 +1,43 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T08:56:31+00:00
+ai_modified: 2026-11-27T09:29:32+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 09:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[project/voids-circularity-discount]]
+- **Secondary file**: [[apex/taxonomy-of-voids]] (Further Reading, one clause)
+- **Task**: P2 "The voids catalogue has no admission threshold that separates an ordinary bias or methodological hazard from a void" (outer-review 2026-11-27, ChatGPT 5.6 Sol Pro items 2 and 19; Claude Fable 5.2 addendum; combine-outer-reviews 2026-11-27 Coordination; synthesis Operator Items 2 and 3)
+- **Original score**: not run (`scripts/curate.py` is absent)
+- **Word count** (`analyze_length`): 2,366 → 2,616 (+250, at the task's ≤ +250 ceiling). Status `ok` → `soft_warning` (project soft 2,500, hard 3,500, headroom 883).
+- **Apex**: 4,908 → 4,913 (+5; apex hard 5,000, gate `>=`, headroom 86). Measured before editing. The Further Reading bullet for the discount gains ", and its proposed [[project/voids-circularity-discount#a-proposed-admission-test|admission test]]". The other open apex tasks book length-neutral edits only. The apex ai_system already contains `claude-opus-5-5`, so it is unchanged.
+- **Changes**: one new section, "A Proposed Admission Test", between The Calibration Mechanism and The Prohibition.
+  - (1) Three-level test: stakes or mechanism → *hazard*; distortion shown → *candidate void*; distortion survives named correctives (public criticism, adversarial collaboration, preregistration, cross-cultural replication, instruments), on principle or on evidence → *void*. A tilt the procedures remove is "an ordinary bias", the interested party void's own term (L76).
+  - Labels: the reviewer's "open limit" is dropped (0 live uses). "Candidate" keeps the sense of P-V3's candidate ledger.
+  - (2) Interactions. The discount and the four criteria score entries but set no entry threshold. The third level applies the four criteria's *structured persistence* to distortion-shaped limits. The test cuts across the three kinds, which classify territory: a face occluded for the individual falls short of the third level if a collective corrective reaches it (Claude Fable 5.2's level-3 formulation). Passing earns membership, not weight, so the discount and the prohibition are unchanged.
+  - (3) Worked example, `voids/interested-party-void` as it stands after ORDERS 1–4 (159d0217, f85833b1, 23e1b01d, c6742be2). It quotes L38 twice, L80 and L76, and says what evidence would place the page at each level: replicating its afterlife-belief finding under preregistration (level 2); a tilt that survives adversarial designs with existential stakes, against Cogitate's "professional rather than existential" stakes (level 3); null replications ("an ordinary bias"). It gives no pass or fail verdict. interested-party-void was not edited.
+  - (4) Coordination. The test is framed as a proposal that assigns no status to any page. That void's status, and adoption of the test, are left to the operator. It cites [[project/quantum-claim-and-quotation-disciplines]]'s "(22) with (27)" entry ("Merged and proposed, not adopted") and [[project/public-claim-register]]. Writing it adopted no gate: no page is relabelled, no register trigger is added and no pipeline check is changed.
+- **Frontmatter**: `modified`/`ai_modified` set from `date -u`. `claude-opus-5-5` appended to ai_system (it was absent). related_articles +4: interested-party-void, three-kinds-of-void, public-claim-register, quantum-claim-and-quotation-disciplines.
+- **Quote check**: every quoted string returns `grep -cF` = 1 in its source. From interested-party-void: "The evidence shows such stakes tilting some self-relevant judgement", "does not show that the tilt survives the correctives discussed", "were professional rather than existential", "an ordinary bias". From quantum-claim-and-quotation-disciplines: "Merged and proposed, not adopted".
+- **Cut for length (for the operator)**:
+  - The interested party void's *principled* route to level 3 is signalled ("On evidence, the third…") but not described. The page's own material for it is "Here every corrector has some stake" (L78) and "Whether anything is unexplorable is open" (L86).
+  - Drafted and cut: the two routes would map onto the (22)/(27) modal-strength field (principled → logical/nomological; empirical → practical).
+  - Not written: pages declined at levels 1–2 would be the kind of entry P-V3's empty rejection column lacks, though under a criterion other than framework-independence. That bears on P-V3's lifting condition, which is a positions decision.
+- **Exposure list (report-only; a lexical screen of `voids/` for distortion-evidence vocabulary plus a read of each description; not a grading; no tasks minted)**:
+  1. `voids/interested-party-void`: the worked example (Operator Item 2).
+  2. `voids/epistemological-limits-occams-razor`: "Occam's Razor may be a cognitive bias masquerading as an epistemic principle—and why we cannot tell from within". Its closure is at the individual grain, and its Mach paragraph records a collective corrective (decisive empirical prediction) overriding the bias.
+  3. `voids/appetitive-void`: "never fully escaped in practice, and why escape would be unverifiable from inside". It already engages Kunda's constraint thesis and concedes "The correction is partial", so the level-2/level-3 gap is explicit on the page.
+  4. `voids/self-maintained-cognitive-limits`: motivated avoidance and defence mechanisms. It rests partly on terror-management evidence whose currency is the open TMT P2.
+  5. `voids/preference-void`: its faces are "occluded, visible from outside under the right comparison and closed from within". By its own wording it is closed at the individual grain only.
+  - Partly exposed: `voids/numbing-void`. Its occluded damping face is a measurable bias, but its unexplorable face ("no subject undergoes the sum") is not distortion-shaped.
+  - Less exposed: `voids/taboo-void`. It is "Occluded, maintained by the subject's aversion and the community's sanctions together", a principled case that the social corrective is itself compromised.
+- **Engagement classification**: n/a (methodology page; no named-opponent reply added)
+- **Style**: no "This is not X. It is Y."; "load-bearing" 0 in file; pronoun pass done (the "it" referents in the worked example and list were checked).
+- **Sync**: `scripts/sync.py` run. `hugo/content/project/voids-circularity-discount.md` carries the section, and all 7 links converted (including `#structured-persistence`). The apex link renders as `/project/voids-circularity-discount/#a-proposed-admission-test`. 0 sync warnings for either file.
+- **Published**: yes
+- **Not done**: todo.md untouched; no commit.
 
 ## 2026-11-27 08:56 UTC - deep-review
 - **Status**: Success
