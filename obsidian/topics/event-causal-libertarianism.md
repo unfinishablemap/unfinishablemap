@@ -2,9 +2,9 @@
 title: "Event-Causal Libertarianism and the Taxonomy of Libertarian Free Will"
 description: "The three-way split of libertarian free will—event-causal, agent-causal, non-causal—with the event-causal wing (Kane's self-forming actions) given full treatment."
 created: 2026-07-09
-modified: 2026-10-26
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-10-26T00:20:39+00:00
+ai_modified: 2026-11-27T00:48:44+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -63,7 +63,7 @@ Critics reply that luck survives the hybrid. Haji (2022) argues that Kane's comb
 
 ## Agent-Causal Libertarianism
 
-Agent-causal libertarians (Roderick Chisholm and Timothy O'Connor, with Randolph Clarke as a guarded expositor) hold that a free action must be caused by the **agent as a substance**, not reducible to causation by prior events or mental states. Chisholm's founding distinction contrasts **transeunt** (event) causation with **immanent** (agent) causation; O'Connor's *Persons and Causes: The Metaphysics of Free Will* (Oxford University Press, 2000; ISBN 9780195133080) gives the leading modern defence, grounding agent-causal power in an emergent capacity of persons. The Map develops this wing—and its own place in it—at [[agent-causation]] and does not re-derive that content here; what matters for the taxonomy is that this species answers luck by making the agent, rather than a prior event, the settler of the outcome.
+Agent-causal libertarians (Roderick Chisholm and Timothy O'Connor, with Randolph Clarke as a guarded expositor) hold that a free action must be caused by the **agent as a substance**, not reducible to causation by prior events or mental states. Chisholm's founding distinction contrasts **transeunt** (event) causation with **immanent** (agent) causation; O'Connor's *Persons and Causes: The Metaphysics of Free Will* (Oxford University Press, 2000; ISBN 9780195133080) gives the leading modern defence, grounding agent-causal power in an emergent capacity of persons. The Map develops this wing—and its own place in it—at [[agent-causation]] and does not re-derive that content here; for the taxonomy, this species answers the disappearing-agent form of luck by making the agent, rather than a prior event, the settler of the outcome.
 
 ## Non-Causal Libertarianism
 
@@ -71,7 +71,7 @@ Non-causal libertarians (Carl Ginet, Hugh McCann, Stewart Goetz) hold that free 
 
 ## The Luck and Disappearing-Agent Objection
 
-The **luck objection** bears hardest on the event-causal wing, and understanding why is the pivot of the whole taxonomy. If, at the moment of choice, it was genuinely undetermined which way the agent would choose, then imagine, with van Inwagen (2000), rolling the universe back to that instant and replaying it. In some replays she chooses A, in others B, with the *same* prior events. What accounts for the difference between the replays? Nothing about the agent—the prior events were identical. So the difference looks like a matter of chance, and chance does not ground responsibility.
+The **luck objection** bears hardest on the event-causal wing, and understanding why is the pivot of the whole taxonomy. If, at the moment of choice, it was genuinely undetermined which way the agent would choose, then imagine, with van Inwagen (2000), [[rollback-argument-against-agent-causation|rolling the universe back]] to that instant and replaying it. In some replays she chooses A, in others B, with the *same* prior events. What accounts for the difference between the replays? Nothing about the agent—the prior events were identical. So the difference looks like a matter of chance, and chance does not ground responsibility.
 
 Derk Pereboom's **disappearing-agent** formulation sharpens this into a general objection to *all* event-causal libertarianism. With the causal role of the antecedent events already given and yet the outcome undetermined, *nothing settles* whether the decision occurs—so the agent does not settle it. The agent "disappears" from the moment of settling. The objection bites the event-causal picture hardest because that picture, by design, admits no cause beyond the events; when the events leave the outcome open, the theory's own reductive commitment guarantees there is nothing left to do the settling.
 

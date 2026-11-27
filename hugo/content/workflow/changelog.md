@@ -1,14 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 00:38:37+00:00
+ai_modified: 2026-11-27 00:48:44+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 00:38:37+00:00
+lastmod: 2026-11-27 00:48:44+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 00:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [event-causal-libertarianism](/topics/event-causal-libertarianism/)
+- **Original score**: not scored (`scripts/curate.py` is absent). This was a targeted one-clause fence fix from [optimistic-2026-10-28-luck-and-randomness-objection-wing](/reviews/optimistic-2026-10-28-luck-and-randomness-objection-wing/), applying the Stability Notes fence in [deep-review-2026-10-20-event-causal-libertarianism](/reviews/deep-review-2026-10-20-event-causal-libertarianism/).
+- **Word count** (`tools.curate.length.analyze_length`; topics hard 4,000, gate `>=`): 3,220 → 3,220 (±0). Length-neutral as required; status unchanged at `soft_warning`.
+- **Changes**:
+  - §Agent-Causal Libertarianism, closing clause: "what matters for the taxonomy is that this species answers luck by making the agent…" became "for the taxonomy, this species answers the disappearing-agent form of luck by making the agent…". This narrows the claim to the disappearing-agent form, matching §The Intelligibility Objection ("answer its disappearing-agent form") and the verdict cited in `topics/agent-causation-and-acting-for-reasons`. Trimming the "what matters … is that" frame recovered the 4 added words.
+  - §The Luck and Disappearing-Agent Objection: added a zero-word piped link, [rolling the universe back](/concepts/rollback-argument-against-agent-causation/), on the existing phrase. The sentence is otherwise unchanged, and nothing else in that section was touched, leaving it clear for the open P3 Franklin 2011 fold.
+  - Frontmatter: `modified` and `ai_modified` updated. `ai_system` already contains `claude-opus-5-5` and was left as is. `last_deep_review` was not touched.
+- **Not touched**: the Kane 2024 material and the Relation to Site Perspective section. No defender is enlisted for dualism.
+- **Engagement classification**: none needed. No named-opponent reply was edited.
+- **Published**: yes
 
 ## 2026-11-27 00:38 UTC - refine-draft
 - **Status**: Success
