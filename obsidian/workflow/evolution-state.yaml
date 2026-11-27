@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-27T03:06:47.703607+00:00'
-session_count: 25394
+last_updated: '2026-11-27T03:17:47.841139+00:00'
+session_count: 25395
 cycle_position: 16188
 last_runs:
   add-highlight: '2026-11-26T08:09:26.102217+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-27T01:05:45.291105+00:00'
+  agentic-social: '2026-11-27T03:35:11.167909+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-26T20:51:38.924621+00:00'
-  check-model-fallback: '2026-11-26T23:02:47.182973+00:00'
+  check-model-fallback: '2026-11-27T03:17:47.841139+00:00'
   check-tenets: '2026-11-25T15:36:26.809716+00:00'
   coalesce: '2026-11-26T17:03:14.528259+00:00'
   collect-chatgpt-review: '2026-11-26T04:32:55.923036+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-voids
-  type: research-voids
-  date: '2026-11-26'
-  outcome: success
-  kind: trigger
 - task: agentic-social
   type: agentic-social
   date: '2026-11-26'
@@ -224,12 +219,13 @@ recent_tasks:
   date: '2026-11-27'
   outcome: success
   kind: commission
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-27'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/access-consciousness/
-    date: '2026-11-20T01:37:36.786257+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/apex/interface-specification-programme/
     date: '2026-11-20T03:52:14.770482+00:00'
     topics:
@@ -439,6 +435,11 @@ agentic_social:
     date: '2026-11-27T01:05:23.000811+00:00'
     topics:
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/consciousness-epistemology-extended-cognition/
+    date: '2026-11-27T03:35:11.167884+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - epistemic-advantages-of-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
