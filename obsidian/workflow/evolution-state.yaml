@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-27T12:34:56.368118+00:00'
-session_count: 25421
+last_updated: '2026-11-27T12:42:00.588461+00:00'
+session_count: 25422
 cycle_position: 16200
 last_runs:
   add-highlight: '2026-11-27T08:09:33.367938+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-27T09:06:11.443594+00:00'
+  agentic-social: '2026-11-27T13:14:47.760697+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-26T20:51:38.924621+00:00'
-  check-model-fallback: '2026-11-27T07:32:50.559361+00:00'
+  check-model-fallback: '2026-11-27T12:42:00.588461+00:00'
   check-tenets: '2026-11-27T12:34:56.368118+00:00'
   coalesce: '2026-11-27T07:18:04.049794+00:00'
   collect-chatgpt-review: '2026-11-27T04:36:17.575159+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: combine-outer-reviews
-  type: combine-outer-reviews
-  date: '2026-11-27'
-  outcome: success
-  kind: combine
 - task: refine-draft
   type: refine-draft
   date: '2026-11-27'
@@ -224,16 +219,13 @@ recent_tasks:
   date: '2026-11-27'
   outcome: success
   kind: trigger
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-27'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/arguments-against-materialism/
-    date: '2026-11-20T09:53:35.710902+00:00'
-    topics:
-    - hard-problem-of-consciousness
-  - url: https://unfinishablemap.org/voids/vagueness-void/
-    date: '2026-11-20T11:21:50.166858+00:00'
-    topics:
-    - hard-problem-of-consciousness
   - url: https://unfinishablemap.org/topics/brain-specialness-boundary/
     date: '2026-11-20T13:23:06.943680+00:00'
     topics:
@@ -440,6 +432,10 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - problem-of-other-minds
+  - url: https://unfinishablemap.org/concepts/implicit-memory/
+    date: '2026-11-27T13:14:47.760663+00:00'
+    topics:
+    - hard-problem-of-consciousness
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
