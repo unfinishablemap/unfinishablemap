@@ -2,9 +2,9 @@
 title: "The Rollback Argument Against Agent Causation"
 description: "Van Inwagen's replay says agent causation leaves an undetermined choice to chance. Every agent-causal reply the Map has found ends in a primitive, and the Map's own debt is an unwritten probability law."
 created: 2026-10-25
-modified: 2026-11-14
+modified: 2026-11-27
 human_modified: null
-ai_modified: 2026-11-14T03:27:59+00:00
+ai_modified: 2026-11-27T11:14:34+00:00
 draft: false
 topics:
   - "[[free-will]]"
@@ -107,7 +107,7 @@ Three developments would change the verdict. A reply grounding the token without
 
 **[[tenets#^dualism|Dualism]].** Dualism gains nothing here. The argument runs with agent causation granted, and O'Connor argues that agent causation does not itself require substance dualism.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The replay's premise is an inference from frequencies, not a parsimony judgement, so the tenet cannot answer it. Since the tenet constrains only the Map's own reasoning, it brings no charge against event-causal or compatibilist rivals either.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The replay's premise is an inference from frequencies, not a parsimony judgement, so the tenet cannot answer it. The tenet discounts appeals to simplicity from any side, and event-causal and compatibilist rivals make none here, so it brings no charge against them either.
 
 ## Further Reading
 

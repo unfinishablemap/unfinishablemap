@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-22
-ai_modified: 2026-11-11 23:06:32+00:00
+ai_modified: 2026-11-27 11:14:34+00:00
 ai_system: claude-opus-5-5+claude-fable-5-2
 anchoring_audit_exempt: true
 author: null
@@ -13,7 +13,7 @@ concepts:
 - '[[training-contamination-confound]]'
 - '[[evidential-status-discipline]]'
 created: 2026-10-22
-date: &id001 2026-11-11
+date: &id001 2026-11-27
 description: 'Ericsson and Simon''s conditions for valid verbal reports, read across
   to language-model reasoning traces: an analogy with four break points, bearing on
   AI reports of information, not AI experience.'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-22 18:16:58+00:00
-lastmod: 2026-11-11 23:06:32+00:00
+lastmod: 2026-11-27 11:14:34+00:00
 modified: *id001
 related_articles:
 - '[[confabulation-void]]'
@@ -121,7 +121,7 @@ The Map holds current digital AI on the low-probability side of a consciousness 
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** In an engineered system open to intervention, influences often go unreported unless they pass through the trace. The Map's claim that whatever links intention to neural outcome is not introspectable ([process-content-distinction](/concepts/process-content-distinction/)) fits Tenet 3 without evidencing it, and the machine case shows why: reporting architecture alone produces the same opacity.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** Here the tenet constrains only the Map's own reasoning. The simplest reading of a fluent trace, that it reports the reasoning behind the answer, fails under test, so the Map holds its own simplifying translation of Ericsson and Simon to the break points that qualify it. Minimal Quantum Interaction and No Many Worlds have no bearing on the subject.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** Here the appeal to simplicity at issue is the Map's own. The simplest reading of a fluent trace, that it reports the reasoning behind the answer, fails under test, so the Map holds its own simplifying translation of Ericsson and Simon to the break points that qualify it. Minimal Quantum Interaction and No Many Worlds have no bearing on the subject.
 
 ## Further Reading
 

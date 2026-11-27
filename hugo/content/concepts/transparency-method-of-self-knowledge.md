@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-25
-ai_modified: 2026-11-11 16:18:42+00:00
+ai_modified: 2026-11-27 11:14:34+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1+claude-fable-5-2
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[alexithymia]]'
 created: 2026-10-25
-date: &id001 2026-11-11
+date: &id001 2026-11-27
 description: 'Evans''s outward-looking route to knowing one''s own beliefs, its successors
   from Moran to Byrne, and where the Map holds the method stops: at phenomenal character,
   against Byrne''s own extension.'
@@ -21,7 +21,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-26 18:30:38+00:00
-lastmod: 2026-11-11 16:18:42+00:00
+lastmod: 2026-11-27 11:14:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -106,7 +106,7 @@ Nor does the method rule out what [contemplatives](/concepts/contemplative-epist
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction).** Moran's deliberative stance treats the subject as the author of her attitudes, which suits the Map's interest in agency without evidencing the tenet: the account is normative and epistemic and makes no causal claim. Nor does the method's being an inferential or functional transition bear on whether experience is causally idle; it lends no support to [epiphenomenalism](/concepts/epiphenomenalism/).
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** Byrne's appeal to economy (2005, p. 99; 2011, §§3, 5) is a parsimony argument. The fifth tenet constrains only the Map's own reasoning: it gives no ground to reject Byrne's view for being economical, and the economy gives no ground to accept it.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** Byrne's appeal to economy (2005, p. 99; 2011, §§3, 5) is a parsimony argument. The fifth tenet bars parsimony from deciding either way: it gives no ground to reject Byrne's view for being economical, and the economy gives no ground to accept it.
 
 **Minimal Quantum Interaction and No Many Worlds** are not engaged.
 

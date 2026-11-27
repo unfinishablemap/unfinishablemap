@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-10-26
-ai_modified: 2026-11-26 20:28:03+00:00
+ai_modified: 2026-11-27 11:14:34+00:00
 ai_system: claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[rollback-argument-against-agent-causation]]'
 - '[[compatibilist-symmetry-challenge]]'
 created: 2026-10-26
-date: &id001 2026-11-26
+date: &id001 2026-11-27
 description: 'Galen Strawson''s Basic Argument reaches a non-physical agent as hard
   as a brain. The Map''s agent-causal reply rejects its second premise and ends at
   the rollback''s primitive: character is self-shaped.'
@@ -18,7 +18,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-26 14:39:04+00:00
-lastmod: 2026-11-26 20:28:03+00:00
+lastmod: 2026-11-27 11:14:34+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -136,7 +136,7 @@ The one new element is structural. Daniel Dennett, a compatibilist, sketched for
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction).** The interface says where a settling touches physics. It answers neither constitutive luck nor present luck.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits).** The Basic Argument is an a priori regress, not a parsimony judgement, so the tenet cannot answer it. The tenet constrains only the Map's own reasoning, so it brings no charge against compatibilist or event-causal rivals either.
+**[Occam's Razor Has Limits](/tenets/#occams-limits).** The Basic Argument is an a priori regress, not a parsimony judgement, so the tenet cannot answer it. The tenet limits appeals to simplicity on both sides, and the compatibilist and event-causal replies rest on none, so it brings no charge against those rivals either.
 
 ## Further Reading
 

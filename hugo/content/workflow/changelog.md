@@ -1,14 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 10:41:19+00:00
+ai_modified: 2026-11-27 11:14:48+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 10:41:19+00:00
+lastmod: 2026-11-27 11:14:48+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 11:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [rollback-argument-against-agent-causation](/concepts/rollback-argument-against-agent-causation/) (primary); secondaries [basic-argument-and-constitutive-luck](/concepts/basic-argument-and-constitutive-luck/), [transparency-method-of-self-knowledge](/concepts/transparency-method-of-self-knowledge/), [chain-of-thought-as-verbal-protocol](/topics/chain-of-thought-as-verbal-protocol/)
+- **Task**: P2 "Four live pages misstate the scope of Tenet 5 as 'constrains only the Map's own reasoning'" (follow-up to deep-review 2026-11-27 08:56Z of `voids/thrownness-void`, critical #1; review file `reviews/deep-review-2026-11-27-thrownness-void`).
+- **Original score**: not run (`scripts/curate.py` is absent)
+- **Basis**: `tenets/tenets.md` L145 ("This tenet binds the Map's use of parsimony, not only its critics'") and L147 (Rules out begins "Using parsimony as a decisive argument against dualism"). The tenet is symmetric, so "constrains only the Map's own reasoning" was wrong on all four pages. Each page's verdict on the rival is unchanged; only the reason given is corrected. One sentence per page; nothing else in the bodies touched (other open tasks own the rest).
+- **Changes** (OLD → NEW):
+  - rollback L110. OLD: "Since the tenet constrains only the Map's own reasoning, it brings no charge against event-causal or compatibilist rivals either." → NEW: "The tenet discounts appeals to simplicity from any side, and event-causal and compatibilist rivals make none here, so it brings no charge against them either." (The event-causal replies on the page use contrastive explanation, L53; compatibilists make no argument on the page.)
+  - basic-argument L135. OLD: "The tenet constrains only the Map's own reasoning, so it brings no charge against compatibilist or event-causal rivals either." → NEW: "The tenet limits appeals to simplicity on both sides, and the compatibilist and event-causal replies rest on none, so it brings no charge against those rivals either." (Compatibilism denies a premise and Kane stops the regress, L63–65; neither is a parsimony appeal.)
+  - transparency L105. OLD: "The fifth tenet constrains only the Map's own reasoning: it gives no ground to reject Byrne's view for being economical, and the economy gives no ground to accept it." → NEW: "The fifth tenet bars parsimony from deciding either way: it gives no ground to reject Byrne's view for being economical, and the economy gives no ground to accept it." (Byrne's economy appeal IS a parsimony argument, so the old scope claim contradicted its own second clause; the new head echoes L145's "parsimony cannot decide for or against a framework".)
+  - chain-of-thought L120. OLD: "Here the tenet constrains only the Map's own reasoning." → NEW: "Here the appeal to simplicity at issue is the Map's own." (The scope now attaches to the case — the Map's simplifying translation of Ericsson and Simon — not to the tenet.)
+- **Pronoun check**: rollback/basic-argument "it" = the tenet (subject of the first clause); rollback "them" = the rivals; transparency "it gives" = the tenet, "accept it" = Byrne's view (as before). Following sentences unchanged.
+- **Word count** (`analyze_length`): rollback 3,079 → 3,085 (+6, hard 3,500); basic-argument 3,327 → 3,335 (+8, hard 3,500); transparency 2,713 → 2,713 (0); chain-of-thought 3,697 → 3,699 (+2, hard 4,000).
+- **Verification**: `grep -rnF "constrains only the Map"` over topics/concepts/voids/apex/positions: 4 → 0 (1 → 0 per page). The two other `constrains only` hits (`concepts/quantum-divine-action` L32, `concepts/quantum-interpretations` L171) concern Born-rule and decoherence constraints, not Tenet 5. Research notes untouched (the P3 owns them).
+- **ai_system**: `claude-opus-5-5` already present on all four; unchanged. `modified`/`ai_modified` bumped.
+- **Published**: yes
 
 ## 2026-11-27 10:41 UTC - research-topic
 - **Status**: Success

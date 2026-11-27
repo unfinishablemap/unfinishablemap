@@ -2,9 +2,9 @@
 title: "Chain-of-Thought as a Verbal Protocol"
 description: "Ericsson and Simon's conditions for valid verbal reports, read across to language-model reasoning traces: an analogy with four break points, bearing on AI reports of information, not AI experience."
 created: 2026-10-22
-modified: 2026-11-11
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-11T23:06:32+00:00
+ai_modified: 2026-11-27T11:14:34+00:00
 draft: false
 anchoring_audit_exempt: true  # VERIFIED false-high 2026-10-22 vs training-contamination-confound (also clears process-content-distinction): 0 strong-assertion hits; 3 of 5 hedges inside quotes; calibration structural - L34/L102/L104 "silent on" experience, L56 "tested by none of them as such", L56/L88 "is open"/"leaves open", L106 "fits Tenet 3 without evidencing it"
 topics:
@@ -117,7 +117,7 @@ The Map holds current digital AI on the low-probability side of a consciousness 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** In an engineered system open to intervention, influences often go unreported unless they pass through the trace. The Map's claim that whatever links intention to neural outcome is not introspectable ([[process-content-distinction]]) fits Tenet 3 without evidencing it, and the machine case shows why: reporting architecture alone produces the same opacity.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]].** Here the tenet constrains only the Map's own reasoning. The simplest reading of a fluent trace, that it reports the reasoning behind the answer, fails under test, so the Map holds its own simplifying translation of Ericsson and Simon to the break points that qualify it. Minimal Quantum Interaction and No Many Worlds have no bearing on the subject.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]].** Here the appeal to simplicity at issue is the Map's own. The simplest reading of a fluent trace, that it reports the reasoning behind the answer, fails under test, so the Map holds its own simplifying translation of Ericsson and Simon to the break points that qualify it. Minimal Quantum Interaction and No Many Worlds have no bearing on the subject.
 
 ## Further Reading
 

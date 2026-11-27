@@ -2,9 +2,9 @@
 title: "The Transparency Method of Self-Knowledge"
 description: "Evans's outward-looking route to knowing one's own beliefs, its successors from Moran to Byrne, and where the Map holds the method stops: at phenomenal character, against Byrne's own extension."
 created: 2026-10-25
-modified: 2026-11-11
+modified: 2026-11-27
 human_modified:
-ai_modified: 2026-11-11T16:18:42+00:00
+ai_modified: 2026-11-27T11:14:34+00:00
 last_deep_review: 2026-10-26T18:30:38+00:00
 draft: false
 topics:
@@ -102,7 +102,7 @@ Nor does the method rule out what [[contemplative-epistemology|contemplatives]] 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** Moran's deliberative stance treats the subject as the author of her attitudes, which suits the Map's interest in agency without evidencing the tenet: the account is normative and epistemic and makes no causal claim. Nor does the method's being an inferential or functional transition bear on whether experience is causally idle; it lends no support to [[epiphenomenalism]].
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]].** Byrne's appeal to economy (2005, p. 99; 2011, §§3, 5) is a parsimony argument. The fifth tenet constrains only the Map's own reasoning: it gives no ground to reject Byrne's view for being economical, and the economy gives no ground to accept it.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]].** Byrne's appeal to economy (2005, p. 99; 2011, §§3, 5) is a parsimony argument. The fifth tenet bars parsimony from deciding either way: it gives no ground to reject Byrne's view for being economical, and the economy gives no ground to accept it.
 
 **Minimal Quantum Interaction and No Many Worlds** are not engaged.
 

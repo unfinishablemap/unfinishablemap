@@ -2,9 +2,9 @@
 title: "The Basic Argument and Constitutive Luck"
 description: "Galen Strawson's Basic Argument reaches a non-physical agent as hard as a brain. The Map's agent-causal reply rejects its second premise and ends at the rollback's primitive: character is self-shaped."
 created: 2026-10-26
-modified: 2026-11-26
+modified: 2026-11-27
 human_modified: null
-ai_modified: 2026-11-26T20:28:03+00:00
+ai_modified: 2026-11-27T11:14:34+00:00
 last_deep_review: 2026-10-26T14:39:04+00:00
 draft: false
 topics:
@@ -132,7 +132,7 @@ The one new element is structural. Daniel Dennett, a compatibilist, sketched for
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]].** The interface says where a settling touches physics. It answers neither constitutive luck nor present luck.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The Basic Argument is an a priori regress, not a parsimony judgement, so the tenet cannot answer it. The tenet constrains only the Map's own reasoning, so it brings no charge against compatibilist or event-causal rivals either.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]].** The Basic Argument is an a priori regress, not a parsimony judgement, so the tenet cannot answer it. The tenet limits appeals to simplicity on both sides, and the compatibilist and event-causal replies rest on none, so it brings no charge against those rivals either.
 
 ## Further Reading
 
