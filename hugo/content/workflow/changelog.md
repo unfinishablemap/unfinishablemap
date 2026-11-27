@@ -1,14 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 14:57:38+00:00
+ai_modified: 2026-11-27 15:39:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 14:57:38+00:00
+lastmod: 2026-11-27 15:39:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 15:39 UTC - research-topic
+- **Status**: Success
+- **Topic**: Mandevillian cognition and the division of cognitive labour in consciousness science (P3 harvested from `outer-review-2026-11-27-gemini-4-neon`, "Social Epistemology of Science and Mandevillian Cognition")
+- **Output**: [mandevillian-cognition-2026-11-27](/research/mandevillian-cognition-2026-11-27/)
+- **Verdict**: `recommended_action: fold` (topics and concepts at cap, 370/370). Fold plan: F2 host `topics/experimental-consciousness-science-2025-2026` after L56 (+359, 3,033 → 3,392); F1 `topics/consciousness-and-the-structure-of-scientific-revolutions` L63 (+123, 2,272 → 2,395); F3 `topics/methodology-of-consciousness-research` after L146's Longino sentence (+78, 3,465 → 3,543); F4 operator-only clause on `project/voids-circularity-discount` L86 (+20, or +27 merged with the argumentative-theory note's F4). Declined: `voids/collective-cognitive-limits` (headroom 52 cannot carry the Rosenstock robustness caveat), `topics/consciousness-and-collective-phenomena` (concession costs about +86 against 76 headroom).
+- **Key findings**: Peters 2021 (BJPS 72(4): 1061–1081, verified) runs no agent-based model, contrary to the Gemini review; his claim is confined to groups with "a diversity of viewpoints, an equal distribution of power", conditions he grants "are frequently not met". "Mandevillian" in epistemology traces to Morton 2014, before Smart 2018. Zollman 2010: "the real epistemic goal is not diversity but transient diversity"; the less-connectivity effect occupies "a relatively small niche" of parameter space (Rosenstock et al. 2017). Polarisation needs no bias (O'Connor & Weatherall 2018). Yaron et al. 2022 (not yet on the Map): theory support "can be predicted solely from methodological choices". For the admission test, the models' guarantees assume discriminating evidence and distributed tilts, so they do not reach the interested party void's questions automatically, and they do not show the tilt survives correction either.
+- **Side findings**: Claude outer review attributes the eNeuro "apologize ASAP" reply to Negro; it is Gomez-Marin 2023 (no live-content propagation). `concepts/integrated-information-theory` L125's "8% of 60 respondents" survey figure could not be sourced (5 documents + 1 search). Gemini review's `psa.2024.20` cite is de Melo-Martín 2024.
+- **Sources consulted**: 48 (12 grepped in full text plus 2 SEP entries, 23 at abstract or standfirst, 8 metadata only, 3 secondary only)
+- **Not reached**: Kuhn 1977 text, Mandeville text, Kitcher 1993, Solomon 2001, Strevens 2003, Pöyhönen 2017, Clark et al. 2022 and Corcoran et al. 2023 abstracts, Morton 2014 full text.
 
 ## 2026-11-27 14:57 UTC - deep-review
 - **Status**: Success
