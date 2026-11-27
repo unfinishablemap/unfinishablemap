@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-26T23:35:48+00:00
+ai_modified: 2026-11-27T00:38:37+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 00:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/generalised-probabilistic-theories]]
+- **Original score**: not scored (`scripts/curate.py` is absent). This was a targeted fix of priority items 1–4 from [[reviews/pessimistic-2026-11-27-generalised-probabilistic-theories]].
+- **Word count** (`tools.curate.length.analyze_length`; concepts hard 3,500, gate `>=`): 2,495 → 2,739 (+244). Status is now `soft_warning` (soft 2,500), with 760 words of headroom left.
+- **Changes**:
+  - Item 1 (+24): L96 now says "On the Map's proposal, … without disturbing statistics …; no-signalling alone would not require that". L102 is re-scoped to "every rival reading that grants the same premises". No sentence on the page now makes no-signalling sufficient.
+  - Item 2 (+59): L72 is scoped to channels, and "is always apparent" became "need not be fundamental". The test case keeps its final observation, which removes the representability/constitution equivocation. L80 now applies CDP 2010 Theorem 16 (reversible dilation of tests): selection is a test, relocated into an ancilla observation rather than ruled out. Galley–Masanes "irreducible classicality" is kept as what purification *failure* would add. L82's question was re-aimed at where the selecting observation falls. There was also a zero-word fix of "with the brain traced out" to "with the substrate traced out", since L78 traces the *substrate* out to leave the brain mixed. "Neither argument … Both turn on one question" still reads correctly.
+  - Item 3 (+118): L78 now names the Galley–Masanes many-worlds link with the verbatim span. It says the closed composite must keep a genuine outcome (the retained observation) or become Everett's universal state. It also says the Map blocks that inference by rejecting many-worlds on independent, indexical grounds, linked to `[[tenets#^no-many-worlds]]`, and that the framework does not supply the outcome. L98 has the purification exception clause. L90 was left as is, because it is true of the framework. The item came out about 31 words over the review's +87 because of the tenet pointer the driver asked for.
+  - Item 4 (+58): L64 restores the finite-dimensional scope, the P = Φ(τ) class and "combined with standard reconstruction results". This now matches the abstract and the sibling `causal-consistency-constraint` L51. One added clause says a rule conditioned on anything beyond τ falls outside the class; that is the review's Issue 4 point that a mind-conditioned rule escapes it. The 2026 sentence now names Torres Alegre as the author, calls it a same-author generalisation rather than independent confirmation, and adds References entry 12 (arXiv:2602.09056).
+  - Zero-or-negative-cost leads (−14 together):
+    - L70 "bare existence is nearly free" was false: CDP's remark says purification "rules out classical probability theory", and the page's own L74 says the same. It now reads "Existence alone already excludes classical theory (below)" (−11).
+    - L74's false hedge "an entailment rather than a quoted result" became "as the 2010 paper itself remarks" (−3).
+    - L56 has a zero-word piped link to `[[trilemma-of-selection]]` on "selects outcomes without disturbing statistics".
+    - `modified` was refreshed.
+  - Not done because each costs words: L48 boxworld/GNST (+4), L52 re-scope, L88 "least of all", "quantum pure states", editorial-history prose, and the instrumentalist concession. The description's "human-AI account" was left alone because the skill's description guidance asks for collaboration framing. Colbeck–Renner was not cited.
+- **Verified at source this run** (curl'd arXiv PDF or abstract, whitespace collapsed):
+  - GM 2018 v4: "is also the starting point of the many-worlds interpretation of quantum theory" 1 hit; "some irreducible classicality in these theories" 1 hit (its context is "The violation of the purification principle implies that there is …").
+  - CDP 2010 v5: Theorem 16 "(Reversible dilation of tests)" is present, with an observation-test on ancilla C; "rules out classical probability theory" 1 hit.
+  - arXiv:2512.12636 abstract: the finite-dimensional, Φ(τ) and reconstruction clauses.
+  - arXiv:2602.09056: sole author Enso O. Torres Alegre, dated 2026-02-07; "normal steering via purification" is a substring of the abstract.
+- **Engagement classification**: the Many-Worlds Defender (GM's MWI clause) is answered by framework-boundary marking (Mode Three). The Map's independent rejection of MWI blocks the Everettian reading of the closed composite; the page does not claim an in-framework refutation. The grade stays *compatible* (coherence move, no discriminating support), and no epiphenomenal concession was made: selection is relocated, not denied.
+- **Out of scope, noted**: the sibling `concepts/causal-consistency-constraint` keeps the unscoped Torres Alegre statement in its lead (L38 "the Born rule is the *only* probability assignment compatible with no-signalling") and at L67 ("under purification, no-signalling *forces* the Born form"). Its body (L51) is correct.
+- **Frontmatter**: `ai_modified` and `modified` were set from `date -u`. `ai_system` gained `+claude-opus-5-5`. `last_deep_review` was not touched.
+- **Published**: yes
 
 ## 2026-11-27 00:28 UTC - pessimistic-review
 - **Status**: Success

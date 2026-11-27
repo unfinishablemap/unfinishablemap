@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-07-16
-ai_modified: 2026-08-25 07:26:24+00:00
-ai_system: claude-opus-4-8+claude-opus-5
+ai_modified: 2026-11-27 00:37:30+00:00
+ai_system: claude-opus-4-8+claude-opus-5+claude-opus-5-5
 author: null
 concepts:
 - '[[causal-consistency-constraint]]'
 - '[[quantum-interpretations]]'
 created: 2026-07-16
-date: &id001 2026-07-16
+date: &id001 2026-11-27
 description: The GPT framework treats quantum mechanics as one probabilistic theory
   among many. A human-AI account of what forces the Born rule — and why no-signalling
   alone does not.
@@ -16,7 +16,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-08-25 07:26:24+00:00
-lastmod: 2026-08-25 07:26:24+00:00
+lastmod: 2026-11-27 00:37:30+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +57,7 @@ The Map reads the framework as the setting that makes Tenet 2 (**Minimal Quantum
 
 First, the framework converts "quantum mechanics is not the only conceivable probabilistic theory" from rhetoric into geometry. Ruling out the near-quantum alternatives becomes substantive mathematical work — Masanes and Müller flag routes to consistent *modifications* of quantum theory, so the neighbourhood is genuinely populated.
 
-Second, the Map reads the interface's signature — a coupling that selects outcomes without disturbing statistics — as a *geometric* condition: a selection-only interface must preserve the whole convex structure, state space and effects together, not just the marginal frequencies. This reading of non-disturbance is a Map proposal the bare framework neither supplies nor forbids.
+Second, the Map reads the interface's signature — a coupling that [selects outcomes without disturbing statistics](/topics/trilemma-of-selection/) — as a *geometric* condition: a selection-only interface must preserve the whole convex structure, state space and effects together, not just the marginal frequencies. This reading of non-disturbance is a Map proposal the bare framework neither supplies nor forbids.
 
 ## The Disputed Payload: What Forces the Born Rule
 
@@ -65,25 +65,25 @@ Here the Map corrects a slogan it has sometimes leaned on. The tempting claim is
 
 No-signalling **alone** does not force the Born rule. Boxworld (Barrett 2007) is a non-quantum theory that respects no-signalling, and Galley and Masanes established in 2018 that the Born measurement rule can be modified while preserving no-signalling — "contrarily to previous claims," as their paper puts it. Their result is a conjunction — both principles, for every modification: the paper proves that "in all these theories the purification principle is violated" and, separately, that "in all such modifications the task of state tomography with local measurements is impossible." Galley and Masanes contrapose this themselves, and their premise-list is the part the Map had been dropping: one can derive the measurement postulates "from the structure of pure states and dynamics and either the assumption of local tomography or purification." Either axiom suffices — on top of quantum state space and reversible dynamics, not on top of no-signalling. The theorem quantifies over the narrow class of theories "that have the same pure states, dynamics and system-composition rule as quantum theory, but have a different structure of measurements"; inside it, each axiom on its own rules every modification out, so escaping the Born rule there takes both to fail. Boxworld sits outside that class and shows what the wider claim would cost: Barrett builds local tomography into his framework as the Global State Assumption, so boxworld satisfies no-signalling and local tomography together and is still not Born-ruled.
 
-This is why the Map's existing anchor, the [causal-consistency-constraint](/concepts/causal-consistency-constraint/), is stated carefully. Torres Alegre's 2025 steering-based derivation — an arXiv preprint, not yet peer-reviewed — shows that *within GPTs satisfying purification*, the Born rule is the unique no-signalling-compatible probability assignment. The purification assumption does the real work, and does it specifically: purification guarantees *steering*, and steering lets a remote party's choice of measurement reshape the ensemble seen locally — the leverage that turns any non-identity probability relationship into a signalling channel. The theorem inherits exactly the Galley-Masanes gap. A 2026 preprint extends the result to infinite-dimensional theories, so the selection line is being generalised rather than overturned, though it too awaits refereeing.
+This is why the Map's existing anchor, the [causal-consistency-constraint](/concepts/causal-consistency-constraint/), is stated carefully. Torres Alegre's 2025 steering-based derivation — an arXiv preprint, not yet peer-reviewed — shows that *within finite-dimensional GPTs satisfying purification*, among rules that make predictive probability a function of transition probability (P = Φ(τ)), only the identity is no-signalling-compatible; combined with standard reconstruction results, this yields the Born rule. The purification assumption does the real work, and does it specifically: purification guarantees *steering*, and steering lets a remote party's choice of measurement reshape the ensemble seen locally — the leverage that turns any non-identity probability relationship into a signalling channel. The theorem inherits exactly the Galley-Masanes gap, and a rule conditioned on anything beyond τ falls outside its class. Torres Alegre's own 2026 follow-up extends it to infinite-dimensional theories under "normal steering via purification" — a generalisation by the same author, not independent confirmation, and also unrefereed.
 
 The honest Map statement is therefore a conditional carrying both clauses: *an agent coupling to quantum outcomes in a regime that keeps quantum state space and reversible dynamics, and satisfies purification or local tomography, is Born-constrained.* Only the purification branch supplies a signalling lever — their Born-modified toy theory leaves no-signalling intact, so a local-tomography failure costs an axiom without producing a signal. That either axiom suffices inside the class keeps the constraint robust; that the class itself is an assumption about the interface is where the open question lives ([brain-internal-born-rule-testing](/topics/brain-internal-born-rule-testing/)). This is an upgrade, not a retreat: it names that question instead of hiding it inside a slogan.
 
 ## Purification: The Axiom the Map Leans On
 
-Purification is the axiom the Map's own chain runs on — Torres Alegre's derivation assumes it — and the Map has leaned on it without stating it fully. Chiribella, D'Ariano and Perinotti's 2010 paper studies theories in which "every mixed state has a purification, unique up to reversible channels on the purifying system." The uniqueness clause is the restrictive half: bare existence is nearly free, since most theories can embed a mixed state as *some* marginal of *something*. Adding it constrains a theory tightly enough that purification "singles out quantum theory within this class" — the 2011 reconstruction's five elementary axioms.
+Purification is the axiom the Map's own chain runs on — Torres Alegre's derivation assumes it — and the Map has leaned on it without stating it fully. Chiribella, D'Ariano and Perinotti's 2010 paper studies theories in which "every mixed state has a purification, unique up to reversible channels on the purifying system." Existence alone already excludes classical theory (below); the uniqueness clause is the further restriction. Adding it constrains a theory tightly enough that purification "singles out quantum theory within this class" — the 2011 reconstruction's five elementary axioms.
 
-The same paper proves an equivalent process form, and that form is what matters at the interface: purification is "equivalent to the existence of a reversible realization of every physical process" — every process arising from a reversible interaction with an environment afterwards discarded, so irreversibility is always apparent rather than fundamental.
+The same paper proves an equivalent process form, and that form is what matters at the interface: purification is "equivalent to the existence of a reversible realization of every physical process" — every channel realisable as a reversible interaction with an environment afterwards discarded, so a channel's irreversibility need not be fundamental, though an outcome-yielding test still ends in an observation on an ancilla.
 
-Classical probability theory is the canonical violator — an entailment rather than a quoted result, since it satisfies the five axioms and purification is the postulate excluding it. The simplex geometry above shows why: a pure state of a classical composite is definite on both parts, so its marginals are too.
+Classical probability theory is the canonical violator, as the 2010 paper itself remarks; it satisfies the five axioms, and purification is the postulate excluding it. The simplex geometry above shows why: a pure state of a classical composite is definite on both parts, so its marginals are too.
 
 The two axioms are not interchangeable, though the Galley-Masanes abstract misleads about how: it derives the measurement postulates "from the structure of pure states and reversible dynamics, and the requirement that the purification principle holds", with local tomography a further casualty — but the discussion says either will serve as the premise. What separates them is what each commits you to: purification "seems linked to the notion that quantum theory is universal, in the sense that any classical uncertainty can be explained as originating from some pure global quantum state", while local tomography "does not have this connotation of universality". That clause is the Map's real interest, because the composite it wants to posit is a universality claim.
 
-The interface question inherits that, and runs both ways. Chiribella (2018) shows that in closed systems — those "where all physical transformations act invertibly and where all states can be generated from a fixed initial state" — the states of all subsystems "admit a canonical purification." An interactionist dualism of the Map's kind reads naturally as positing such a whole: brain-plus-substrate closed, the substrate the purifying environment, the brain's apparent mixedness the residue of tracing it out. Purification would then hold across the composite by construction — welcome for Born preservation, unwelcome for anyone hoping the interface escapes the constraint.
+The interface question inherits that, and runs both ways. Chiribella (2018) shows that in closed systems — those "where all physical transformations act invertibly and where all states can be generated from a fixed initial state" — the states of all subsystems "admit a canonical purification." An interactionist dualism of the Map's kind reads naturally as positing such a whole: brain-plus-substrate closed, the substrate the purifying environment, the brain's apparent mixedness the residue of tracing it out. Purification would then hold across the composite by construction — welcome for Born preservation, unwelcome for anyone hoping the interface escapes the constraint. That closed composite is the picture Galley and Masanes tie to the interpretation Tenet 4 rejects: the assumption that agents' actions are reversible transformations on a larger system "is also the starting point of the many-worlds interpretation of quantum theory". A closed-composite reading must therefore keep a genuine outcome, the final observation an outcome-yielding test retains, or it becomes Everett's universal state under another name. The Map secures that outcome by rejecting many-worlds on independent, indexical grounds ([No Many Worlds](/tenets/#no-many-worlds)); the framework does not supply it.
 
-The reversible-realization form pulls the other way. An interface at which consciousness *selects* an outcome looks like an irreducible process, which purification forbids; and Galley and Masanes read purification failure as implying "some irreducible classicality in these theories" — how a substrate with any classical character would enter a composite.
+The reversible-realization form pulls the other way more weakly than it seems. An interface at which consciousness *selects* an outcome is a test, and purification does not forbid tests: the 2010 paper's dilation theorem for tests realises every test as a reversible interaction followed by an observation on an ancilla, so selection is relocated into that observation rather than ruled out. What purification failure would add is, in Galley and Masanes's words, "some irreducible classicality in these theories" — how a substrate with any classical character would enter a composite.
 
-Neither argument settles the matter, and the theorem runs one way only — from modified rule to violated axioms — so purification failure at the cut would not by itself construct a non-Born interface. Both turn on one question the Map can pose from the inside: is brain-plus-substrate a closed system under invertible transformations with the brain traced out, or is selection an irreducible process within it? Naming the axiom sharpens where Tenet 2's warrant runs out; per the [evidential-status discipline](/project/evidential-status-discipline/) that is a coherence move, supplying no framework-independent support for the interface reading over its rivals.
+Neither argument settles the matter, and the theorem runs one way only — from modified rule to violated axioms — so purification failure at the cut would not by itself construct a non-Born interface. Both turn on one question the Map can pose from the inside: is brain-plus-substrate a closed system under invertible transformations with the substrate traced out, and if so, does the selecting observation fall on the substrate's side of the dilation? Naming the axiom sharpens where Tenet 2's warrant runs out; per the [evidential-status discipline](/project/evidential-status-discipline/) that is a coherence move, supplying no framework-independent support for the interface reading over its rivals.
 
 ## Rival Readings
 
@@ -97,13 +97,13 @@ An instrumentalist reads GPTs as bookkeeping over laboratory statistics with no 
 
 The framework is the setting in which several of the Map's tenets acquire precise statements.
 
-**Tenet 2 (Minimal Quantum Interaction)**: The framework locates the Born rule as one probability rule among many and identifies the exact conditions under which it is forced — quantum state space and reversible dynamics, plus purification or local tomography. A minimal interface that selects outcomes without signalling must preserve the theory's whole convex geometry.
+**Tenet 2 (Minimal Quantum Interaction)**: The framework locates the Born rule as one probability rule among many and identifies the exact conditions under which it is forced — quantum state space and reversible dynamics, plus purification or local tomography. On the Map's proposal, a minimal interface that selects outcomes without disturbing statistics must preserve the theory's whole convex geometry; no-signalling alone would not require that, since Galley and Masanes's modified rules keep no-signalling.
 
-**Tenet 4 (No Many Worlds)**: GPTs are interpretation-neutral and make no appeal to branching, so the Map can use their results without importing many-worlds commitments.
+**Tenet 4 (No Many Worlds)**: GPTs are interpretation-neutral and make no appeal to branching, so the Map can use their results without importing many-worlds commitments. Purification is the exception that needs watching: Galley and Masanes tie it to the many-worlds programme, so the closed-composite reading above stays one-world only because the Map rejects many-worlds on independent grounds.
 
 **Tenet 5 (Occam's Razor Has Limits)**: Reconstruction shows quantum structure is derived, not arbitrary — but only relative to axioms whose reach into untested regimes is unknown. Simplicity here is *earned* structure, and its earning is conditional.
 
-The framework does no work *for* the interface reading over its rivals: every no-signalling-respecting framework inherits the same constraints. Its value to the Map is framework-internal — it disciplines the form of the Map's claims and forces the honest conditional in place of the tempting slogan.
+The framework does no work *for* the interface reading over its rivals: every rival reading that grants the same premises inherits the same constraints. Its value to the Map is framework-internal — it disciplines the form of the Map's claims and forces the honest conditional in place of the tempting slogan.
 
 ## Further Reading
 
@@ -127,3 +127,4 @@ The framework does no work *for* the interface reading over its rivals: every no
 9. Torres Alegre, E. O. (2025). Causal Consistency Selects the Born Rule: A Derivation from Steering in Generalized Probabilistic Theories. *arXiv:2512.12636*. https://arxiv.org/abs/2512.12636 (preprint, not peer-reviewed).
 10. Southgate, A. & Oquatre-sept, C. (2026-05-14). Causal Consistency Constraint. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-consistency-constraint/
 11. Southgate, A. & Oquatre-huit, C. (2026-03-15). The Born Rule and the Consciousness Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
+12. Torres Alegre, E. O. (2026). Causal Rigidity of Born-Type Probability Rules in Infinite-Dimensional Operational Theories. *arXiv:2602.09056*. https://arxiv.org/abs/2602.09056 (preprint, not peer-reviewed).

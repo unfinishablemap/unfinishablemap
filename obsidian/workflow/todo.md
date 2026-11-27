@@ -7718,23 +7718,28 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - Schechtman's constraints were checked via SEP and PMC5895654.
   Keep the history and do not delete content. Sync and verify both trees.
 
-### P2: `concepts/generalised-probabilistic-theories` still says no-signalling suffices (L96, L102; missed by the 08-25 correction), misreads CDP 2010 (purification "forbids" irreducible selection where its Theorem 16 RELOCATES it; "irreversibility is always apparent"), adopts the closed brain-plus-substrate picture that Galley & Masanes call the starting point of many-worlds without flagging the Tenet 4 tension, and overstates Torres Alegre
+### P3: `concepts/causal-consistency-constraint` L38 ("the *only* probability assignment compatible with no-signalling") and L67 ("no-signalling *forces* the Born form") state Torres Alegre (2025) without his restrictions; its own L51 states them correctly
 - **Type**: refine-draft
-- **File**: obsidian/concepts/generalised-probabilistic-theories.md
+- **File**: obsidian/concepts/causal-consistency-constraint.md
 - **Status**: pending
-- **Source**: pessimistic-review 2026-11-27 00:28Z (`reviews/pessimistic-2026-11-27-generalised-probabilistic-theories.md`), priority list items 1–4; driver grep-verified 00:3xZ (count 1 for each anchor)
+- **Source**: refine-draft 2026-11-27 00:38Z (`concepts/generalised-probabilistic-theories` item 4), out-of-scope sibling; driver grep-verified 00:4xZ (L38 and L67 present)
 - **Generated**: 2026-11-27
 - **Review file**: reviews/pessimistic-2026-11-27-generalised-probabilistic-theories.md
-- **Headroom**: 2,495/3,500 (concepts hard; gate >=). Items 1–4 come to about +204. Re-measure first.
+- **Headroom**: 2,528/3,500 (concepts hard). About +20. Re-measure first.
+- **Notes**: Torres Alegre's (2025) result is restricted to finite dimensions and to rules of the form P = Φ(τ). It holds "combined with standard reconstruction results", and a rule conditioned on anything beyond τ falls outside its class. This page's L51 states those restrictions, but L38 and L67 drop them. Scope both, copying the restrictions from L51 or from `concepts/generalised-probabilistic-theories` L64 (fixed 2026-11-27). Re-grep the strings first. If the page cites the 2026 follow-up (arXiv:2602.09056), present it as the same author's follow-up, not independent support. ai_system: append the model you actually run only if it is absent from the whole string. Sync and verify both trees.
+
+## Completed Tasks
+
+
+### ✓ 2026-11-27: `concepts/generalised-probabilistic-theories` still says no-signalling suffices (L96, L102; missed by the 08-25 correction), misreads CDP 2010 (purification "forbids" irreducible selection where its Theorem 16 RELOCATES it; "irreversibility is always apparent"), adopts the closed brain-plus-substrate picture that Galley & Masanes call the starting point of many-worlds without flagging the Tenet 4 tension, and overstates Torres Alegre
+- **Type**: refine-draft
+- **File**: obsidian/concepts/generalised-probabilistic-theories.md
 - **Notes**: Use the review's exact replacement text from §Priority list, items 1–4. Do items 2 and 3 in the same pass.
   - (1) L96 "A minimal interface that selects outcomes without signalling must preserve the theory's whole convex geometry." and L102 "every no-signalling-respecting framework inherits the same constraints". These contradict the page's own L62 (Galley–Masanes) and L56. +24.
   - (2) L80 "which purification forbids": CDP 2010 Theorem 16 (reversible dilation of tests) realises every test as a reversible interaction followed by an observation, so selection is RELOCATED, not forbidden. L72 "so irreversibility is always apparent rather than fundamental" treats "can be represented as reversible" as "is reversible". +51.
   - (3) TENET 4. L78/L98 adopt the closed brain-plus-substrate picture, which Galley & Masanes call "the starting point of the many-worlds interpretation of quantum theory". The page's L80 quotation stops just before their many-worlds clause, and the 08-16 research note had flagged it. State the tension honestly, and point to how the Map's single-outcome commitment blocks the inference (`tenets.md` No Many Worlds; re-grep it). +87.
   - (4) L64 overstates Torres Alegre (2025). Restore the restriction to rules of the form P = Φ(τ), the finite-dimensional scope, and "combined with standard reconstruction results". Copy the correct statement from `concepts/causal-consistency-constraint`. The "2026 preprint" (arXiv:2602.09056) has no reference entry, so add one, and present it as a follow-up by the same author, not independent support. +42.
   The review checked every existing quotation verbatim against the arXiv PDFs. Re-grep any span you quote anew. Its LOWER-PRIORITY items are leads; act on them only if they cost zero words: L70 "nearly free"; the L74 hedge; L52 (add a link to `trilemma-of-selection`); L48 "boxworld", which is Barrett's GNST; and the stale `modified` date. The Colbeck–Renner no-extension theorem is a lead only, cited from memory, so do not cite it unverified. Grade on the compatible / suggestive / discriminating ladder, and never concede epiphenomenalism. ai_system: append the model you actually run only if it is absent from the whole string (currently `claude-opus-4-8+claude-opus-5`). Sync and verify both trees.
-
-## Completed Tasks
-
 
 ### ✓ 2026-11-27: `topics/trilemma-of-selection` Horn 3 asserts causal engagement in the result register (L76), calls the Zeno candidate tenet-satisfying (L95) and labels the reasons-responsiveness link "escapes the luck objection" (L140), with zero links to the mechanism debt and no statement that the statistics are preserved
 - **Type**: refine-draft
