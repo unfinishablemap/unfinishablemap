@@ -1,14 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27 17:35:28+00:00
+ai_modified: 2026-11-27 18:00:47+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-27'
-lastmod: 2026-11-27 17:35:28+00:00
+lastmod: 2026-11-27 18:00:47+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-27 18:00 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [eighteenth-century-influx-debate](/topics/eighteenth-century-influx-debate/) (driver-chosen; first pessimistic review; one prior deep review 2026-09-30; three unreviewed later edits incl. the 11-15 Sherrington pairing). Length 3,869 (`analyze_length`, topics hard 4,000, headroom 130).
+- **Output**: [pessimistic-2026-11-27-eighteenth-century-influx-debate](/reviews/pessimistic-2026-11-27-eighteenth-century-influx-debate/)
+- **Findings**: 29/29 quoted source spans + 2 Sherrington spans verbatim; defects are paraphrase/chronology/sibling-qualifier. High: Knutzen's §42 concession ("very specific mode … cannot be distinctly understood"; Watkins: "a certain degree of skepticism … a detailed solution") flattened to "the mechanism could not be understood" / "declared could not be attempted", contradicting the page's own L69 and the hub's "narrows that horn's gap without leaving it"; Lorini (2016) mis-cast as treating "the shift" as organising fact and as a historian who "take[s] it as given" (his chapter organises the dispute, dates a pro-harmony 1739 turning point, rules on no outcome). Medium-high: "In the intervening seventeen years Knutzen held his chair" (born 1713, chair 1735) and SEP's 1733 recall / 1736 ban-lifting omitted; "Not Empirical" strand's "equivalent about every observable event" contradicts L67/L97, and L67's "assumed the Cartesian quantity of motion" contradicts `causal-closure-debate-historical-survey` L52. Rider: Meier 1743 title is *…Übereinstimmung* per Lorini's bibliography. Tenet readings clean (T3 compatibility-graded, T5 symmetric, no epiphenomenalism concession); T5 "framework-conditional" label is a non-sequitur (low).
+- **Priority list**: 4 items, 10 sub-edits, all OLD strings count==1, simulated together 3,869 → 3,921 (+52). No content or todo.md edits (reports-only; driver mints).
+- **Not verified**: Watkins 1995/1998/2005, Kuehn 2001, all Latin/German primaries, Knutzen's 1735 chair (Wikipedia only), Critique A390 (Gutenberg down).
 
 ## 2026-11-27 17:35 UTC - research-topic
 - **Status**: Success

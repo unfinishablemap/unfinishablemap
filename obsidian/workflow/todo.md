@@ -7974,6 +7974,21 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - ai_system: append the model you actually run only if it is absent from the whole string.
   - Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing"; new wikilinks piped.
 
+### P2: `topics/eighteenth-century-influx-debate` paraphrase and chronology defects (pessimistic 2026-11-27 Priority List 1–4): Knutzen's concession overstated, which contradicts the page's own L69 and the hub's qualifier; Lorini misdescribed as taking the shift "as given"; an impossible "seventeen years" chair dating; and conservation sentences contradicting L67/L97 and the causal-closure survey
+- **Type**: refine-draft
+- **File**: obsidian/topics/eighteenth-century-influx-debate.md
+- **Status**: pending
+- **Source**: pessimistic-review 2026-11-27 18:00Z (`reviews/pessimistic-2026-11-27-eighteenth-century-influx-debate.md`), Priority List items 1–4; all 29 quoted spans verbatim at source
+- **Generated**: 2026-11-27
+- **Review file**: reviews/pessimistic-2026-11-27-eighteenth-century-influx-debate.md
+- **Headroom**: 3,869/4,000 (topics hard limit, gate `>=`). The four items together are +52 (the review measured them on a copy, giving 3,921), and the ceiling is +60. Re-measure after each item.
+- **Notes**: Apply the review's Priority List exactly, using its OLD/NEW strings (re-grep each; count == 1):
+  - (1) Knutzen at L35, L87 and L99, +23. Knutzen's §42 says only that the "very specific mode" "cannot be distinctly understood" (Watkins 2003 p. 10: "a certain degree of skepticism" about "a detailed solution"). It is NOT that the mechanism could not be understood. Keep the page consistent with L69's positive account, and with `history-of-the-interaction-problem` L95 ("narrows that horn's gap without leaving it").
+  - (2) L33/L39 and the L41 Meier title, −1. Lorini's chapter is organised around the dispute and dates a pro-harmony turning point to 1739, so the reversal rests on Watkins alone. Meier's title is *Beweis der vorherbestimmten Übereinstimmung*.
+  - (3) L59 institutional strand, +10. Knutzen was born in 1713 and took the chair in 1735. The king tried to recall Wolff in 1733 and lifted the ban in 1736. Drop "Its leading professor", which conflicts with L43's "lukewarm patron".
+  - (4) L51/L67 conservation, +20. Influx was not equivalent about every observable event, because it could in principle have shown as a conservation violation; the honest claim is that nobody measured one. Leibniz's conservation rested on vis viva and conserved direction, not the Cartesian quantity of motion; per `causal-closure-debate-historical-survey` L52.
+  Do NOT apply the review's Lower-priority items in this task. Tenet readings were clean, so leave the tenet section alone apart from anything the review's items require. Never concede epiphenomenalism. Tenet 5 binds parsimony on either side. ai_system: append the model you actually run only if it is absent from the whole string. Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing".
+
 ## Completed Tasks
 
 
