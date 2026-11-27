@@ -317,3 +317,33 @@
   subject_articles:
   - voids/interested-party-void.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/790098cb-7550-4337-a3cf-c5c544bfa9c2
+  commissioned_at: '2026-11-27T03:06:24.215105+00:00'
+  prompt_summary: 'Audit interested-party-void: citations, self-undermining, tenet
+    bracketing'
+  target_filename: outer-review-2026-11-27-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: Please carry out a rigorous, hostile-referee outer review of "The Interested
+    Party Void" on The Unfinishable Map (https://unfinishablemap.org), a philosophy
+    site that openly commits to dualism and interactionism. The article is at https://unfinishablemap.org/voids/interested-party-void/
+    and was last revised on 2026-11-20; because search indexes lag, consult the changelog
+    at https://unfinishablemap.org/workflow/changelog/ and read the live page before
+    judging what it says. Check every quotation and attributed claim against its original
+    source, and flag misattributions, misread findings, stale references and missing
+    literature (for example work on motivated reasoning, epistemic self-trust and
+    reflexivity in consciousness science). Test whether the central claim, that consciousness
+    cannot neutrally investigate its own nature because it has stakes in every answer,
+    is self-undermining; whether its "cuts both ways" symmetry really bites on the
+    site's own dualism as hard as on its rivals; and whether the Relation to Site
+    Perspective section brackets objections to protect the tenets rather than meeting
+    them. Quote the passages you criticise. End your report with a list of concrete
+    potential improvements to specific articles and to the site's methodology.
+  subject_type: recent
+  subject_title: Audit interested-party-void
+  subject_articles:
+  - voids/interested-party-void.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-27-chatgpt-5-6-sol-pro.md
