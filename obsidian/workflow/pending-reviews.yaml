@@ -323,9 +323,9 @@
   prompt_summary: 'Audit interested-party-void: citations, self-undermining, tenet
     bracketing'
   target_filename: outer-review-2026-11-27-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-27T04:50:18.874352+00:00'
   failure_reason: null
   prompt_text: Please carry out a rigorous, hostile-referee outer review of "The Interested
     Party Void" on The Unfinishable Map (https://unfinishablemap.org), a philosophy

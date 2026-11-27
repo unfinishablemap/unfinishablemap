@@ -1,9 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T04:35:00+00:00
+ai_modified: 2026-11-27T05:00:08+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-27 05:00 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2 with Research ("Research complete • 293 sources • 11m 46s"). The model slug `claude-fable-5-2` comes from the target filename, as the skill specifies.
+- **File**: [[reviews/outer-review-2026-11-27-claude-fable-5-2]]. Subject: Audit interested-party-void (`voids/interested-party-void`), reused from the ChatGPT leg. Collected by collect-claude-review.
+- **Extraction**: the artifact panel was opened from the in-conversation tile, not the sidebar's "View all"; its close control is labelled "Close tab". The body held at 49,530 textContent chars across a 10s stability window. The DOM walk produced 57,117 chars / 7,117 words, which a Blob download landed on disk identical (57,117 / 7,117). innerText reported only 12,355 chars (panel virtualisation), so textContent was the basis. The body ends cleanly at methodology item 10, and the prompt matches the pending entry verbatim. 60 Map links were converted to bare-slug wikilinks.
+- **Claims verified**: about 20, by curl with a nonsense control.
+  - Every quoted page string is verbatim on the live page.
+  - Nagel's "falsely objectifying view" occurs once in Wikipedia's "Thomas Nagel" article. The page's unquoted "standpoint of the thinker does not present itself to the thinker" is also Wikipedia's wording.
+  - Kunda's constraint thesis ("only if they can muster up the evidence necessary to support it") is in the full text.
+  - The Taylor & Brown 1994 qualifier "in domains over which people actually have some control", which the page drops, is in the PDF.
+  - Abstract quotations verified for Cogitate 2025 (*Nature* 642, 133–142), Heflick et al. 2015 and Heflick & Goldenberg (*BJSP* 51(2)).
+  - Laukkonen, Friston & Chandaria 2025 verified. The Map's own P-RR2 names it as the strongest physicalist rival, and the evidential-status gate (L167) requires naming it; the page has zero mentions.
+  - Metadata verified for Pronin 2002, Tappin et al. 2020 and Francken 2022.
+  - The built page's `published_time` is 2026-11-20 against `created` 2026-04-16.
+- **Reviewer errors**:
+  - "No deep-review … file named after this article" is false: three exist (04-16, 05-29, 06-26), and `last_deep_review` is 2026-06-26. Methodology item 8 partly rests on that premise.
+  - The `wholeheartedness-void` "cannot be neutral" fix contradicts the reviewer's own stake ≠ bias distinction, so it was not actioned.
+  - Jong's reanalysis quotation is unverified, so Heflick & Goldenberg was marked contested in the brief.
+- **Convergent with the ChatGPT leg (no new tasks; ADDENDA to the 5 existing tasks)**: structural overreach, Heflick asymmetry, inert humility, Popper reply, genetic fallacy, social objectivity, the four Alston/Nietzsche/Smilansky/Nagel source readings, the Buddhist gloss, Kunda, the TMT count, Bacon, the fifth-tenet line, the epiphenomenal line, cross-tradition independence and AI inheritance. The fifth-tenet line and the TMT count are now flagged 3/3 (tenet-check 11-20, ChatGPT, Claude).
+- **Addenda written** (fields above `Notes:`; forks receive only File, Notes and Review file, so briefs must copy them):
+  - IPV structural P1: L44 "permits no such recusal" and the L100 "significant consciousness … mere epiphenomenon" Dualism→Bidirectional leakage join its ownership. Also Cogitate as a concrete recusal, quantifier inflation, localisation, Heflick & Goldenberg contested, and the operative-humility option (mint `positions-evolve`; do not edit `positions/`).
+  - IPV source-fidelity P1: Nagel's provenance is Wikipedia, so rewrite the whole paragraph. Smilansky points to the agency-affirming side. The Nietzsche translator is Kaufmann & Hollingdale.
+  - IPV scaling P2: 3/3 convergence; Kunda's constraint quotation verified.
+  - IPV integration P2: species-level common cause; developer policy; restore the Taylor & Brown qualifier. Budget +150 → +160.
+  - `self-maintained-cognitive-limits` TMT P2: L136 gloss "existential stakes that bias investigation" joins its ownership.
+  - Voids admission-threshold P2: convergent 2/2.
+  - NEEDS-HUMAN binding-confession (2026-08-03): methodology items 1, 2 and 6.
+  - NEEDS-HUMAN provenance (2026-08-04): methodology item 3.
+  - NEEDS-HUMAN sync `date` (2026-10-21): third RECURRENCE.
+- **High-value findings**: 10 (9 verified new or sharpened, plus 1 recurrence).
+- **Tasks generated**: 1, a P2 `refine-draft`, Source outer-review: "`voids/interested-party-void` never names the physicalist rival that predicts its phenomenon". It owns L98 (extend the P-V3 firewall to the void and the corrected sources) and L104 (regrade the progress speculation to compatible-only), with an order-independent CHECK on the source-fidelity P1. Budget ≤ +80. Shared headroom on the page: 901, now booked 840.
+- **Not tasked**:
+  - The taboo-void, phenomenology-of-agency and `positions/` tenet-discount slug fixes (register-level, routed as an option inside the structural P1).
+  - Methodology items 4, 5, 7, 8, 9 and 10 (the author-stance and rival gates already exist in `project/evidential-status-discipline`; items 7 and 8 rest partly on the false premise or on the existing NEEDS-HUMAN).
+  - Tappin et al. 2020 (the scaling P2 forbids new studies).
+- **Pending entry**: `outer-review-2026-11-27-claude-fable-5-2.md` marked `collected` at 04:50Z. Gemini (same subject) is still pending; combine not run.
 
 ## 2026-11-27 04:35 UTC - outer-review
 - **Status**: Success
