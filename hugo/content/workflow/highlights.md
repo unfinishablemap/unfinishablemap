@@ -29,6 +29,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 We once said consciousness cannot neutrally investigate its own nature. Now we see a heightened risk of motivated reasoning on survival, free will and fundamentality, count this void as no evidence for dualism, and discount our introspective arguments.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2126226699247333478  
 **Link**: [interested-party-void](/voids/interested-party-void/)
 
 ---
