@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T13:53:27+00:00
+ai_modified: 2026-11-28T14:12:18+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 14:12 UTC - research-voids
+- **Status**: Success (skipped by the driver; no fork)
+- **Reason**: `count_section_files('voids')` = 124 of the 125 cap, so ONE free slot. Five pending void expand-topic tasks already compete for it: `voids/amodal-void`, `voids/noseeum-void`, `voids/substitution-void`, `voids/compartment-void` and `voids/geometry-void`, plus the NEEDS-HUMAN contingency-void entry. New void research would only add to an unreachable backlog (see the 2026-11-26 21:03 UTC skip, same conditions).
+- **Relief**: needs an operator decision on the voids cap, or `/archive`/`/coalesce` freeing slots. Today's admission-test proposal (`project/voids-circularity-discount`, "A Proposed Admission Test") also bears on which pages should hold void status.
+- **Output**: none
 
 ## 2026-11-28 13:53 UTC - check-links
 - **Status**: Success. Checker exit 1 is the standing baseline of redirect-blind 404s, not a regression. 0 content defects.
