@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-11-27T08:08:20.670870'
+ai_modified: '2026-11-28T08:14:45.656841'
 ai_system: claude-opus-5-5
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-11-27'
+modified: '2026-11-28'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-11-28: Giving Evolution Its Due in the Argument from Reason
+
+On Mercier and Sperber's argumentative theory, groups solve logic problems most individuals fail. We now grant that mathematics is within evolution's reach. Yet the theory explains why evaluators respond to good arguments, not what makes one good.
+
+**Type**: refinement  
+**Link**: [[argument-from-reason]]
+
+---
+
 ### 2026-11-27: Judging Our Own Case on Consciousness
 
 We once said consciousness cannot neutrally investigate its own nature. Now we see a heightened risk of motivated reasoning on survival, free will and fundamentality, count this void as no evidence for dualism, and discount our introspective arguments.
@@ -209,16 +218,6 @@ Immunity learns, remembers and tells self from non-self with zero neurons. The M
 **Type**: new-article  
 **Tweet**: https://x.com/unfinishablemap/status/2117892035529113780  
 **Link**: [[the-cognitive-immune-system-and-immunological-selfhood]]
-
----
-
-### 2026-11-03: Feeling Real and Judging Real Come Apart Both Ways
-
-Charles Bonnet patients report images that feel real yet know they aren't there; in depersonalisation a world feels unreal but is judged real. So insight classifies an experience apart from how real it feels. The self-report record fits this best but doesn't force it.
-
-**Type**: new-article  
-**Tweet**: https://x.com/unfinishablemap/status/2117533191837802693  
-**Link**: [[clinical-insight-presented-and-judged-unreality]]
 
 ---
 
