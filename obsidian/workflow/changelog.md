@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-27T22:00:00+00:00
+ai_modified: 2026-11-28T00:06:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 00:06 UTC - research-topic
+- **Status**: Success
+- **Topic**: Type-level and token-level causation in the probabilistic-causation literature, and whether settling an undetermined outcome counts as causing it (P3, harvested from `reviews/optimistic-2026-11-27-causal-locus-wing.md`, Uncovered Subjects 1)
+- **Output**: [[research/probabilistic-causation-type-token-and-settling-2026-11-28]]
+- **Verdict**: `recommended_action: fold`, so the chain mints nothing. Topics and concepts are both at 370/370 (`count_section_files`, 00:00Z).
+  - Main host: `concepts/type-token-causation`. Fold 1 at L68 (+79) and Fold 2 at L132 (+59), +129 together. The host goes 3,274 → 3,412 with the two open P3s (+6 at L124/L96, ≤+3 at L128).
+  - Secondary host: `concepts/rollback-argument-against-agent-causation`. Fold 3a at L96 (+69); with optional 3b (Hitchcock 2007), +129 → 3,238 alongside the Franklin P3.
+  - Not targets: `agent-causation` (3,492) and `causal-relevance-of-content`.
+- **Key findings**:
+  - The literature separates the grains (Good; Sober 1985; Eells 1991), which makes token-without-type coherent.
+  - Its "type level" is conditional on the cause, not the unconditioned marginal that L68 stipulates.
+  - Token criteria still require a probability change. On the Map's reading, a settling raises the outcome to 1 exactly as chance does, so the criteria cannot say whether a mind settled it.
+  - Hitchcock (2007) suggests metaphysical token causation is "an unstable compromise".
+  - Every tenet link is compatible at most, and no epiphenomenalism is conceded.
+- **Sources consulted**: 22 (SEP 2018 and 2010 "Probabilistic Causation" plus supplement; SEP Woodward 2023, Gallow 2022, Clarke et al. rev. 2026-11-17; Eells 1991 Cambridge chapter pages; Sober 1985 and Hitchcock 1995 metadata and opening text; Hitchcock 2004a, 2007; van Miltenburg 2022; Crossref/OpenAlex for the rest). 47 quotations grep-verified 47/47 in raw text.
+- **Not reached**: the bodies of Sober (1985), Hitchcock (1995) and Eells ch. 6 (Cloudflare, JSTOR and Springer blocks). Beebee (1998) is a lead.
+- **Side finding**: the SEP incompatibilism entry was revised on 2026-11-17, while rollback cites it as "(2021)". Its Leo quotes survive verbatim.
 
 ## 2026-11-27 23:14 UTC - refine-draft
 - **Status**: Success

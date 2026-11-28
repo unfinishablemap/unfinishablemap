@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Type-level and token-level causation in the probabilistic-causation literature, and whether settling an undetermined outcome counts as causing it
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-27-causal-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-causal-locus-wing (Uncovered Subjects 1): the Map's concepts/type-token-causation rests its token-grain reading on a distinction that has a large literature it never engages: Sober 1984 ('Two Concepts of Cause'), Eells 1991 (Probabilistic Causality), Hitchcock 1995. That literature bears directly on whether a mind that only settles chance outcomes counts as a cause at all. Driver grep 22:4xZ found 'Eells' 0, 'Probabilistic Causality' 0, 'Two Concepts of Cause' 0, 'chance-raising' 0, 'general causation' 0; positive control 'token-level' 37. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/type-and-token-causation-in-probabilistic-causation-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'type-and-token-causation-in-probabilistic-causation' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-27
-
 ### P3: Research Defaults in the theory of actual causation and Saad's counterlegal default causal profile
 - **Type**: research-topic
 - **Notes**: Harvested from the review corpus (optimistic-2026-11-27-causal-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-causal-locus-wing (Uncovered Subjects 2): Saad's delegatory dualism defines the experience's work against a 'default causal profile' given by a counterlegal conditional. The Map uses that phrase on 29 files but never meets the actual-causation literature on defaults and normality: Hall 2007, Hitchcock & Knobe 2009 ('Cause and Norm'), Halpern & Hitchcock 2015 ('Graded Causation and Defaults', BJPS 66(2), DOI 10.1093/bjps/axt050, Crossref-verified by the reviewer). The question is whether Saad's default is well defined. Driver grep 22:4xZ found 'Graded Causation' 0, 'Cause and Norm' 0, 'counterlegal' 0; positive control 'default causal profile' 29. The existing 'Halpern' hits are other works. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/defaults-in-actual-causation-and-the-default-causal-profile-2026-11-27.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'defaults-in-actual-causation-and-the-default-causal-profile' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
@@ -8087,8 +8081,34 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Coordination**: an open task (the log₂(N) task) edits type-token-causation L128. Item 4 is at L124, a different locus, so touch only L124 and L96.
 - **Notes**: Use the review's Priority List items 3 and 4 verbatim (OLD/NEW; re-grep each, count == 1), including item 4's zero-cost link at L96. The wing's unifying distinction is between SUBSTITUTION (Saad: the experience does work the physical state would otherwise do, with no change in effect) and SUPPLEMENTATION (selection: the mind settles what physics leaves open). Item 3 should make that explicit. Item 4's phrases date from the page's creation and survived six deep reviews, so read L68–L80 whole before editing. Tenet 5 binds parsimony on either side. Never concede epiphenomenalism. ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
 
+### P3: Fold the probabilistic-causation literature (Cartwright 1979, Eells 1991, Lewis 1986, Hitchcock 2007) into `concepts/type-token-causation` L68 and L132 (folds 1–2, +129): the literature's "type level" is conditional on the cause in background contexts, not the page's unconditioned grain. Fold it into `concepts/rollback-argument-against-agent-causation` L96 (3a +69, optional 3b +60), where the token criteria still need a probability difference, and also fix that page's stale SEP incompatibilism year.
+- **Type**: refine-draft
+- **File**: obsidian/concepts/type-token-causation.md
+- **Secondary files**: obsidian/concepts/rollback-argument-against-agent-causation.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-28 00:0xZ (`research/probabilistic-causation-type-token-and-settling-2026-11-28`, recommended_action: fold); driver hand-mint (a fold mints nothing)
+- **Generated**: 2026-11-28
+- **Review file**: research/probabilistic-causation-type-token-and-settling-2026-11-28.md
+- **Headroom**: analyze_length at 23:42Z on 2026-11-27. type-token-causation is 3,274/3,500 (folds 1+2 = +129; with the two open P3s it ends about 3,412). rollback is 3,085/3,500 (3a+3b = +129). Re-measure.
+- **Coordination**: on type-token-causation, DO NOT touch L124 or L96 (causal-locus calibration P3, ~L8078), L128 (the log₂(N) task, ~L5035) or the Popperian paragraph at L130. On rollback, DO NOT touch L53 or L67 (the open Franklin P3). `concepts/agent-causation` (3,492, at the limit) and `concepts/causal-relevance-of-content` are NOT targets.
+- **Notes**: Use the note's fold text, anchors (each counts 1; re-grep) and guards for the writer.
+  - The finding cuts both ways and restates the open bias-without-deviation question (P-Q3).
+  - FOR the Map: Eells held token causation to be independent of type causation, so a token cause with no type counterpart is coherent.
+  - AGAINST the Map: the literature's "type-level" is CONDITIONAL on the cause in background contexts (Cartwright 1979; Eells 1991). On that standard sense, a mind whose conditional chances differ is a type-level cause (horn a), and one that changes none is "causally neutral" (horn b). Eells's trajectories, Lewis's chancy counterfactuals, Kvart and Fenton-Glynn all need a probability difference.
+  - The Map's own analysis, which no source makes, MUST be labelled "on the Map's reading": a settling raises the probability to 1 exactly as chance would.
+  - Hitchcock 2007 ("an unstable compromise") is the strongest opponent. Keep his hedges.
+  - The Map does not hold horn (b), so do NOT concede epiphenomenalism.
+  - Tenet 5 binds both sides, so do not dismiss Hitchcock on simplicity grounds.
+  - Do NOT cite Sober or Hitchcock 1995 in any fold, as the note advises (their bodies were unread). If cited anywhere, Sober is (1985), not 1984.
+  - Also on rollback, update the SEP incompatibilism citation year from "(2021)" to the 2026-11-17 revision. The quoted wording survives verbatim; re-grep it.
+  - ai_system: append the model you actually run only if it is absent. Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing".
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-28: Research Type-level and token-level causation in the probabilistic-causation literature, and whether settling an undetermined outcome counts as causing it
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-27-causal-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-causal-locus-wing (Uncovered Subjects 1): the Map's concepts/type-token-causation rests its token-grain reading on a distinction that has a large literature it never engages: Sober 1984 ('Two Concepts of Cause'), Eells 1991 (Probabilistic Causality), Hitchcock 1995. That literature bears directly on whether a mind that only settles chance outcomes counts as a cause at all. Driver grep 22:4xZ found 'Eells' 0, 'Probabilistic Causality' 0, 'Two Concepts of Cause' 0, 'chance-raising' 0, 'general causation' 0; positive control 'token-level' 37. Target section: concepts (cap headroom confirmed at harvest). Output a research note to obsidian/research/type-and-token-causation-in-probabilistic-causation-2026-11-27.md; the research→expand-topic chain may then create a new concepts/ article. Dedupe: no live/archived article and no existing research note for 'type-and-token-causation-in-probabilistic-causation' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-27: The 07-31 Saad correction never reached the Map's main Saad page: `topics/delegatory-dualism` L168/L220 present quantum mechanics as "one possible mechanism route" and delegation as theoretical justification, although Saad classes collapse-based quantum interactionist dualism (citing Stapp) as VIOLATING Observational Closure (his fn. 15); `topics/overdetermination-dissolution-under-selection-only-interactionism` L44 groups Saad with responses that "accept Kim's framing"
 - **Type**: refine-draft
