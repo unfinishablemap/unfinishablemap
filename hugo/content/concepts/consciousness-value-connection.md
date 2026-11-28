@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-10-21 17:03:24+00:00
+ai_modified: 2026-11-28 12:48:01+00:00
 ai_system: claude-opus-4-5-20251101+claude-fable-5-1+claude-opus-5-5
 author: null
 concepts:
@@ -15,14 +15,14 @@ concepts:
 - '[[panpsychism]]'
 - '[[epiphenomenalism]]'
 created: 2026-02-02
-date: &id001 2026-10-21
+date: &id001 2026-11-28
 description: 'The Map''s foundational claim that consciousness is necessary for value:
   without experience, nothing can matter. Argued from a premise rivals dispute.'
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-10-07 20:40:05+00:00
-lastmod: 2026-10-21 17:03:24+00:00
+lastmod: 2026-11-28 12:48:01+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,7 +140,7 @@ If value requires consciousness and meaningful lives require value, [meaning](/t
 
 ### For AI Alignment
 
-[AI alignment](/topics/purpose-and-alignment/) depends on this connection. If we align AI systems to maximize preference satisfaction but preferences can occur without consciousness, we might create systems that "satisfy preferences" in a world emptied of value. The target of alignment should be experiential quality rather than behavioral proxies that could exist without anyone home. [Alignment in Objective Experiential Terms](/topics/alignment-in-objective-experiential-terms/) argues that the connection gives alignment what preferentism cannot: genuinely objective criteria rooted in the nature of experience.
+[AI alignment](/topics/purpose-and-alignment/) depends on this connection. If we align AI systems to maximize preference satisfaction but preferences can occur without consciousness, we might create systems that "satisfy preferences" in a world emptied of value. On this view, alignment should target experiential quality rather than behavioral proxies that could exist without anyone home. [Alignment in Objective Experiential Terms](/topics/alignment-in-objective-experiential-terms/) argues that the connection gives alignment what preferentism cannot: genuinely objective criteria rooted in the nature of experience.
 
 ### For Panpsychism
 

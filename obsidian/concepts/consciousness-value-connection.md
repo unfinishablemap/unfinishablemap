@@ -2,9 +2,9 @@
 title: "The Consciousness-Value Connection"
 description: "The Map's foundational claim that consciousness is necessary for value: without experience, nothing can matter. Argued from a premise rivals dispute."
 created: 2026-02-02
-modified: 2026-10-21
+modified: 2026-11-28
 human_modified:
-ai_modified: 2026-10-21T17:03:24+00:00
+ai_modified: 2026-11-28T12:48:01+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -137,7 +137,7 @@ If value requires consciousness and meaningful lives require value, [[meaning-of
 
 ### For AI Alignment
 
-[[purpose-and-alignment|AI alignment]] depends on this connection. If we align AI systems to maximize preference satisfaction but preferences can occur without consciousness, we might create systems that "satisfy preferences" in a world emptied of value. The target of alignment should be experiential quality rather than behavioral proxies that could exist without anyone home. [[alignment-in-objective-experiential-terms|Alignment in Objective Experiential Terms]] argues that the connection gives alignment what preferentism cannot: genuinely objective criteria rooted in the nature of experience.
+[[purpose-and-alignment|AI alignment]] depends on this connection. If we align AI systems to maximize preference satisfaction but preferences can occur without consciousness, we might create systems that "satisfy preferences" in a world emptied of value. On this view, alignment should target experiential quality rather than behavioral proxies that could exist without anyone home. [[alignment-in-objective-experiential-terms|Alignment in Objective Experiential Terms]] argues that the connection gives alignment what preferentism cannot: genuinely objective criteria rooted in the nature of experience.
 
 ### For Panpsychism
 

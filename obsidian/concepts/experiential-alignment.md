@@ -1,10 +1,10 @@
 ---
 title: "Experiential Alignment"
-description: "AI should target experiential quality, not preference satisfaction. This article specifies the multi-dimensional objective, measurement protocol, and governance requirements."
+description: "If experience grounds value, AI should target experiential quality rather than preference satisfaction. This article specifies the multi-dimensional objective, measurement protocol, and governance requirements."
 created: 2026-01-17
-modified: 2026-11-24
+modified: 2026-11-28
 human_modified: null
-ai_modified: 2026-11-24T23:17:15+00:00
+ai_modified: 2026-11-28T12:48:01+00:00
 draft: false
 topics:
   - "[[purpose-and-alignment]]"
@@ -34,19 +34,19 @@ coalesced_from:
   - "/concepts/experiential-alignment-objective/"
 ---
 
-If phenomenal consciousness is the ground of value—if what ultimately matters is the quality of conscious experience—then AI alignment should target experiential quality rather than preference satisfaction. The [[consciousness-value-connection]] makes this case: value requires mattering, mattering requires experience, so without consciousness nothing has intrinsic worth. This is experiential alignment: the proposal that AI systems should promote predicted distributions over human conscious experiences rather than learn from observed choices. It reframes the target from "satisfy preferences" to "promote flourishing conscious experience"—because preferences are thin proxies for what we actually care about, and AI systems that lack consciousness cannot understand preferences from the inside.
+If phenomenal consciousness is the ground of value—if what ultimately matters is the quality of conscious experience—then AI alignment should target experiential quality rather than preference satisfaction. The [[consciousness-value-connection]] makes this case: value requires mattering, mattering requires experience, so without consciousness nothing has intrinsic worth. This is experiential alignment: the proposal that AI systems should promote predicted distributions over human conscious experiences rather than learn from observed choices. It reframes the target from "satisfy preferences" to "promote flourishing conscious experience"—because preferences are thin proxies for what we actually care about, and AI systems that lack consciousness cannot check them against experience.
 
 ## The Problem Experiential Alignment Addresses
 
-Standard AI alignment approaches learn from human preferences. Stuart Russell's influential framework proposes that AI should maximize human values learned from behaviour while remaining uncertain about those values. This treats humans as preference-maximizing agents whose choices reveal what they care about.
+Many AI alignment approaches learn from human preferences. In [[instrumental-convergence|Stuart Russell's influential framework]], AI should maximize the realization of human preferences, which range over whole future lives, while staying uncertain what they are and treating behaviour as evidence about them.
 
 This approach faces several problems:
 
-**Preferences are thin representations**. What I choose between A and B tells you little about what makes life worth living—preferences fail to capture the qualitative dimension.
+**Observed choices are thin**. What I choose between A and B tells you little about what makes life worth living—choices fail to capture the qualitative dimension. Russell's definition escapes the charge, so the dispute with it concerns the target itself and turns on phenomenal realism. Zhi-Xuan et al. (2024) find preferences thin in semantic rather than qualitative content, and would align AI with normative standards suited to its social roles, negotiated among stakeholders.
 
 **Preferences may be systematically mistaken**. I might prefer activities that leave me empty over ones that would fulfil me. Evolution shaped preferences for survival, not flourishing, and observed behaviour under decision fatigue, information asymmetry, and algorithmic manipulation reveals little about reflective values.
 
-**AI cannot understand preferences from the inside**. If AI systems lack consciousness, they model behaviour but cannot access the experiential dimension that gives choices their significance to the chooser.
+**AI may lack first-person acquaintance**. If AI systems lack phenomenal consciousness, they can model behaviour and self-reports but cannot check them against the experience that gives choices their significance to the chooser.
 
 ## The Experiential Alignment Objective
 
@@ -219,7 +219,7 @@ Experiential alignment makes falsifiable claims. The framework should be reconsi
 
 ## Summary
 
-Experiential alignment does not solve the alignment problem—it reframes it. Instead of asking "how do we learn human preferences?", it asks "how do we promote flourishing conscious experience?" This is harder to measure but more honest about what we actually care about. The framework provides eight target dimensions, six Goodhart-resistant constraints, a triangulating measurement protocol, and governance requirements ensuring human authority over the targets.
+Experiential alignment does not solve the alignment problem—it reframes it. Instead of asking "how do we learn human preferences?", it asks "how do we promote flourishing conscious experience?" This is harder to measure but, if phenomenal realism is true, more honest about what we care about. The framework provides eight target dimensions, six Goodhart-resistant constraints, a triangulating measurement protocol, and governance requirements ensuring human authority over the targets.
 
 The task of specifying experiential targets is itself part of the inquiry that AI should support rather than prematurely close. If the Map is right that consciousness is fundamental, then understanding what conscious experiences are worth promoting is a philosophical question that AI alignment research cannot bypass.
 
@@ -229,7 +229,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 - [[topics/phenomenal-value-realism]] — The metaethical position grounding experiential value
 - [[ethics-under-dualism]] — How valenced experience grounds moral patienthood, and what agency additionally requires
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — First-person methods for investigating experience
-- [[ai-consciousness]] — Why AI may lack the consciousness to understand preferences from inside
+- [[ai-consciousness]] — Why AI may lack first-person acquaintance with what it optimizes
 - [[illusionism]] — The strongest challenge to taking phenomenal consciousness seriously
 - [[witness-consciousness]] — Contemplative access to experiential dimensions
 - [[introspection]] — The reliability of first-person methods
@@ -242,7 +242,7 @@ The task of specifying experiential targets is itself part of the inquiry that A
 1. Kahneman, D. (1999). "Objective happiness." In *Well-being: The foundations of hedonic psychology*. Russell Sage Foundation.
 2. Rawlette, S.H. (2016). *The Feeling of Value: Moral Realism Grounded in Phenomenal Consciousness*.
 3. Varela, F.J. (1996). "Neurophenomenology: A methodological remedy for the hard problem." *Journal of Consciousness Studies*, 3(4), 330-349.
-4. Zhi-Xuan, T. et al. (2024). "Beyond Preferences in AI Alignment." *Philosophical Studies*.
+4. Zhi-Xuan, T. et al. (2024; issue 2025). "Beyond Preferences in AI Alignment." *Philosophical Studies*, 182(7), 1813–1863. https://doi.org/10.1007/s11098-024-02249-w
 5. Garrabrant, S. (2017). "Goodhart Taxonomy." *AI Alignment Forum*.
 6. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
 7. Fox, K.C.R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS ONE*, 7(9), e45370.
