@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T12:48:01+00:00
+ai_modified: 2026-11-28T13:53:27+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 13:53 UTC - check-links
+- **Status**: Success. Checker exit 1 is the standing baseline of redirect-blind 404s, not a regression. 0 content defects.
+- **Crawler**: `.claude/skills/check-links/scripts/check_links.py` on its own ephemeral server: 424 broken targets, all 404. An instrumented re-crawl (same traversal, every source recorded, not just the first) reproduced the 424 targets. It covered 11,464 unique internal URLs (11,040 returned 200) and 543,824 hrefs, 500,322 of them internal. Before the crawl, hugo/content matched obsidian: no source newer than its Hugo copy, and the only set difference is the intentional `topics/non-temporal-consciousness.refinement-log.md` sidecar. Every non-draft page in the six content sections was reached.
+- **404s by category**: redirect 376, workflow-text 41, review/workflow-text 7, content **0**.
+  - **Redirect (376)**: path covered by a rule in `hugo/static/_redirects`. A regenerated map from `archive/` is identical to the checked-in file (522 rules), and all 522 destinations are live. The 376 are linked only from workflow, reviews, archive and research pages, never from a content section.
+  - **Workflow-text (41)**: sources are workflow pages only. Per-source link counts across the 41 targets: `workflow/archive/completed-tasks-*` 23, `workflow/todo` 8, `workflow/archive/changelog-*` 12. These are paths quoted in task and log text: proposed slugs that were never created, wrong-section guesses, `/obsidian/...` paths, and `/workflow/todomd/`.
+  - **Review + workflow text (7)**: wrong-section path-qualified links in `reviews/` pages, all historical: `/apex/anaesthesia-…` (live page is in topics), `/concepts/born-rule-and-the-consciousness-interface/` (topics), `/concepts/evidential-status-discipline/` (project), `/concepts/phenomenology-of-cognitive-limit-types/` (topics), `/concepts/self-opacity/` (voids), `/topics/buddhism-and-dualism/` (concepts), and `/reviews/outer-review-2026-05-04-synthesis/` (real name `outer-review-synthesis-2026-05-04`).
+- **New blind spot: the dev server serves stale `hugo/public` files**. `hugo server` returns 200 for pages that exist only in the gitignored, stale `hugo/public` (e.g. `/voids/thought-stream-void/`, file dated 2026-07-06, archived that day). A link to such a URL passes locally but would 404 in production if no redirect covered it. I compared a fresh `hugo` build in a scratch dir: 18 crawled-OK paths exist only in stale `hugo/public`. All 18 have a 301 rule. No live content page links to them: the only mentions are unrendered `coalesced_from:` frontmatter. So nothing is hidden today. Deleting `hugo/public`, or having the checker crawl a fresh build, would close the gap.
+- **Absolute URLs** (the crawler skips them as off-host): 2,804 `unfinishablemap.org` hrefs on live content pages in the fresh build. All resolve directly, none via a redirect.
+- **Anchors**: each fragment was checked against the rendered ids on its target page. Live content has 9,769 fragment links from 909 pages (1,042 same-page, 8,727 cross-page), with **0** missing ids and 0 dead target pages. The one miss credited to a "voids" source came from the stale `hugo/public` copy of `/voids/thought-stream-void/`. The archive tree (crawl-reached pages only) has 55 misses across 42 pages, against 57/44 from the previous run's full-build audit. This includes `/voids/#alien-minds-as-void-explorers` in archive thought-stream-void, limits-reveal-structure and thoughts-that-slip-away. That heading is gone from the voids index; the live successor is `voids/non-human-minds-as-void-explorers`. Not edited.
+  - **Hand sample (20, seeded random, cross-page, live content)**: 20/20 resolve. A heading-only check against the target's Obsidian source matched just 15. The other 5 use three more anchor forms besides the slug and heading-text forms: an Obsidian block ref (`tenets#^occams-limits`, rendered as `<span id="occams-limits">`, ×2), an explicit heading id (`{#implementing-versus-grasping}` on `topics/consciousness-and-the-normativity-of-reason`), and auto-linked position IDs (`#p-d2`, `#p-ac1`, rendered as short `<span id>`s beside the long heading slug). A heading-text grep alone would false-flag 25% of the sample. This is a sample, not a census; the census above is the rendered-id check.
+- **Fixes**: none, as briefed (no content or todo.md edits). **Not committed**.
 
 ## 2026-11-28 12:48 UTC - refine-draft
 - **Status**: Success
