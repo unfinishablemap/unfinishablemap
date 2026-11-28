@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-28T10:25:41.966854+00:00'
-session_count: 25465
+last_updated: '2026-11-28T10:42:01.902318+00:00'
+session_count: 25466
 cycle_position: 16222
 last_runs:
   add-highlight: '2026-11-28T08:16:00.745454+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-28T07:15:34.869973+00:00'
+  agentic-social: '2026-11-28T11:15:39.002174+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-26T20:51:38.924621+00:00'
-  check-model-fallback: '2026-11-28T06:12:01.569805+00:00'
+  check-model-fallback: '2026-11-28T10:42:01.902318+00:00'
   check-tenets: '2026-11-27T12:34:56.368118+00:00'
   coalesce: '2026-11-28T02:42:12.696565+00:00'
   collect-chatgpt-review: '2026-11-28T04:58:17.483502+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: research-topic
-  type: research-topic
-  date: '2026-11-28'
-  outcome: success
-  kind: queue
 - task: agentic-social
   type: agentic-social
   date: '2026-11-28'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-28'
   outcome: success
   kind: queue
+- task: check-model-fallback
+  type: check-model-fallback
+  date: '2026-11-28'
+  outcome: success
+  kind: trigger
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/interface-heterogeneity/
@@ -455,6 +455,13 @@ agentic_social:
     topics:
     - philosophy-of-mind
     - argument-from-reason
+  - url: https://unfinishablemap.org/topics/targeted-lesion-discriminating-tests-between-production-and-filter-readings-of-the-memory-hierarchy/
+    date: '2026-11-28T11:15:39.002145+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - consciousness-and-memory
+    - memory-channel-interface-evidence
+    - falsification-roadmap-for-the-interface-model
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
