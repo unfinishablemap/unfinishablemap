@@ -1,10 +1,10 @@
 ---
 title: "Purpose and AI Alignment"
-description: "AI alignment assumes human values can be learned from behavior. But if we don't know humanity's purpose, alignment builds on unstable foundations."
+description: "Behavioural preferences are neither a sufficient objective nor sufficient evidence for AI alignment. Uncertainty about human purpose deepens the problem for every target, experiential ones included."
 created: 2026-01-13
 modified: 2026-11-28
 human_modified: null
-ai_modified: 2026-11-28T09:51:04+00:00
+ai_modified: 2026-11-28T10:22:16+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -38,9 +38,9 @@ last_deep_review: 2026-07-07T07:17:37+00:00
 tag: diversion
 ---
 
-AI alignment—The Unfinishable Map of ensuring artificial intelligence serves human interests—faces a problem that philosophers have debated for millennia: we do not know what human interests ultimately are. The dominant approach learns from human preferences, but preferences may not track what truly matters. If we cannot align AI without knowing humanity's purpose, and we lack clarity on that purpose, then alignment may be building on unstable foundations.
+AI alignment—the project of ensuring artificial intelligence serves human interests—faces a problem that philosophers have debated for millennia: we do not know what human interests ultimately are. One influential approach learns from human preferences, but preferences may not track what truly matters. The claim here is narrower: behavioural preferences are neither a sufficient objective nor sufficient evidence about value, even if purpose were known, and uncertainty about purpose deepens that problem for every candidate target, the [experiential one](#experiential-alignment-an-alternative-framework) included.
 
-This creates a surprising connection between ancient questions about life's meaning and cutting-edge AI safety research. The Map's framework—particularly its commitment to consciousness as fundamental and its skepticism about simple explanations—illuminates this connection in ways that standard approaches miss.
+This connects ancient questions to AI safety, though "purpose" covers three things: life's cosmic meaning, an individual life's meaning, and the collective target a system is given. Only the third must be settled to build a system, and much of alignment, such as avoiding coercion and catastrophe, waits on none of them. The Map's framework—particularly its commitment to consciousness as fundamental and its skepticism about simple explanations—offers one candidate account of how the first two bear on the third.
 
 ## The Alignment Assumption
 
@@ -49,6 +49,8 @@ AI alignment researchers typically assume that human values can be inferred from
 This assumption has been challenged. Zhi-Xuan et al. (2024) argue that preferences fail to capture the "thick semantic content" of human values. Where preferences are read off choices, those choices occur under constraints of time, information, and cognitive capacity. What I choose between options A and B tells you little about what I would choose given options C through Z, or about whether any available option reflects what I genuinely value. The authors' remedy is to align AI systems with normative standards suited to their social roles, negotiated among all relevant stakeholders. The Map's experiential proposal sits inside such standards as a welfare constraint, not a rival.
 
 More fundamentally: preferences might be systematically mistaken about what matters. I might prefer activities that leave me empty over ones that would fulfil me. Evolution shaped human preferences for survival and reproduction, not for flourishing or meaning. If our preferences are unreliable guides to our own good, learning from them cannot produce alignment.
+
+Several current strands take normative input from principles or procedures, not observed choices. Constitutional AI trains models against written principles (Bai et al. 2022); pluralistic alignment asks how one system can serve diverse values (Sorensen et al. 2024); Gabriel and Keeling (2025) take fair processes to fix the target. Anthropic's [[claude-constitution-consciousness-uncertainty|2026 constitution for Claude]] writes welfare into a deployed specification, asking for "the long-term flourishing of the user and not just their immediate interests" while warning against being "paternalistic or dishonest". Each rests on some normative account of whose interests count, and no target, experiential included, settles deception, oversight or power-seeking.
 
 ## Purpose vs. Meaning
 
@@ -67,6 +69,8 @@ The standard alignment approach—learning human values from preferences—faces
 Consider: I prefer scrolling social media to reading philosophy. Does this preference reveal my values? It reveals something about my psychology under conditions of decision fatigue and algorithmic manipulation. It says little about what I would choose were I fully informed, undistracted, and reflectively considering my life as a whole.
 
 Russell acknowledges that human preferences are largely implicit and only partly formed. His solution is to maintain uncertainty and remain [[instrumental-convergence|corrigible]]—willing to be corrected. The programme has itself confronted preference change: Carroll et al. (2024), with Russell as co-author, model preferences that change and that the AI can influence, finding that eight candidate notions of alignment all either err towards undesirable influence or are overly risk-averse. The Map's worry sharpens: if our preferences are fundamentally unreliable, or if our purpose lies beyond what preferences can track, uncertainty alone cannot solve the problem.
+
+The preferentist has stronger positions than raw revealed choice, which Zhi-Xuan et al. canvass. Informed-preference views target what someone would want with more information and reflection—"a partial solution", the authors judge, since genuine value change may leave no fixed preference to recover. Resource-rational models read apparent biases, like the scrolling above, as sensible responses to limited time and computation; vector- and interval-valued representations let preferences stay incomplete. The strongest reply is autonomy: respecting someone's choices is part of respecting them, even when another option would feel better. Against an experiential optimizer that overrides choices for the chooser's good, that reply succeeds. One defensible outcome is a hybrid: stated preferences and experiential evidence correct each other, and paternalism remains a cost the hybrid must weigh.
 
 ## What Consciousness Adds
 
@@ -92,11 +96,13 @@ The dualist commitment carries beyond alignment-target selection. If consciousne
 
 ## Experiential Alignment: An Alternative Framework
 
-If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [[topics/phenomenal-value-realism]]—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [[consciousness-value-connection]], which argues that consciousness is necessary for value to exist at all. [[experiential-alignment|Experiential alignment]] proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
+If phenomenal consciousness is the ground of value, alignment might target experiential quality directly rather than learning from preferences. This view is grounded in [[topics/phenomenal-value-realism]]—the metaethical position that intrinsic value is a feature of conscious experience itself—and the [[consciousness-value-connection]], which argues that consciousness is necessary for value to exist at all, a claim some welfare theorists [[the-experience-requirement-on-well-being#unconscious-subjects|contest]]. [[experiential-alignment|Experiential alignment]] proposes that AI systems should promote predicted distributions over human conscious experiences—suffering, agency, meaning, attention quality, social connection—rather than observed choices.
 
-This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right. The philosophical case that experiential qualities constitute genuinely *objective* criteria—metaphysically objective in a way preferences are not—is developed in [[alignment-in-objective-experiential-terms]].
+This approach accepts that the target is harder to specify, harder to measure, and harder to optimize than preference satisfaction. But if value actually resides in the quality of conscious experience, technical convenience should not substitute for getting the target right. Evidence about experience, however, arrives through the same report and behaviour channels as preference data, so the proposal relocates the inference problem rather than escaping it. The philosophical case that experiential qualities constitute genuinely *objective* criteria—metaphysically objective in a way preferences are not—is developed in [[alignment-in-objective-experiential-terms]].
 
-The experiential approach faces its own challenges: proxies for experience risk Goodhart effects, wireheading remains a concern, and first-person methods like [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] are labour-intensive. But it represents a more honest framing of what alignment is trying to achieve—promoting flourishing conscious experience, not merely satisfying preferences that may not track what matters.
+The experiential approach faces its own challenges: proxies for experience risk [[experiential-alignment#goodhart-failure-modes|Goodhart effects]], wireheading remains a concern, and first-person methods like [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] are labour-intensive. What it offers is a claim about what alignment is for: flourishing conscious experience rather than preferences that may not track what matters.
+
+Experience also fails to police itself. An optimizer of experienced quality could raise felt agency while lowering actual control, felt understanding while rewarding delusion, or reported wellbeing without felt wellbeing. Carroll et al.'s influence problem carries over, since experience is changeable too: a system optimizing predicted experience can be rewarded for reshaping the person. The framework's [[experiential-alignment#constraint-conditions|constraint conditions]] require actual agency, not its phenomenology, and triangulation is meant to catch manipulated reports. Actual control is not a quality of how a life feels; the Map's [[the-experience-requirement-on-well-being#experience-machine|reply to Nozick's machine]] rests on an identity thesis its critics can say begs the question.
 
 ### The Special Weight of Valence
 
@@ -134,7 +140,7 @@ The framework connecting purpose to experiential alignment makes falsifiable cla
 
 3. **Experiential proxies prove systematically unreliable**: If no combination of contemplative reports, physiological measures, and behavioural indicators tracked experiential quality, the framework would become empirically intractable.
 
-4. **Purpose proves specifiable**: If philosophers converged on a specification encodable in a utility function, preference learning might suffice. The framework claims such convergence is unlikely given the [[voids|unchartable]] character of human purpose.
+4. **Purpose proves specifiable**: If philosophers converged on a specification encodable in a utility function, the purpose-uncertainty stressed here would lift, leaving only the evidential problem. The framework doubts such convergence given the [[voids|unchartable]] character of human purpose, but the doubt cuts both ways: choosing which experiential dimensions to protect is itself a verdict on the open question, so the experiential proposal is a bet, not an exit.
 
 5. **AI consciousness emerges**: If AI systems developed genuine phenomenal consciousness, they could have the acquaintance the argument above denies them; if they ran on conventional digital hardware, that would also count against the Map's low-probability verdict.
 
@@ -182,3 +188,6 @@ The practical upshot: AI systems should be designed with profound humility about
 7. Laukkonen, R.E., Friston, K.J. & Chandaria, S. (2025). "A beautiful loop: An active inference theory of consciousness." *Neuroscience & Biobehavioral Reviews*, 176, 106296.
 8. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
 9. Carroll, M., Foote, D., Siththaranjan, A., Russell, S., & Dragan, A. (2024). "AI Alignment with Changing and Influenceable Reward Functions." ICML 2024. arXiv:2405.17713.
+10. Bai, Y. et al. (2022). "Constitutional AI: Harmlessness from AI Feedback." arXiv:2212.08073.
+11. Sorensen, T. et al. (2024). "A Roadmap to Pluralistic Alignment." arXiv:2402.05070.
+12. Gabriel, I. & Keeling, G. (2025). "A matter of principle? AI alignment as the fair treatment of claims." *Philosophical Studies*, 182(7), 1951–1973. https://doi.org/10.1007/s11098-025-02300-4
