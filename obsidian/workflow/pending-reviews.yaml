@@ -450,9 +450,9 @@
   prompt_summary: 'Hostile-referee audit of purpose-and-alignment: empirics, citations,
     objections'
   target_filename: outer-review-2026-11-28-gemini-4-neon.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-28T06:46:53.974925+00:00'
   failure_reason: null
   prompt_text: 'You are a hostile pre-publication referee for a top-tier philosophy
     journal (e.g., Mind, Synthese, Philosophical Studies) reviewing an article for

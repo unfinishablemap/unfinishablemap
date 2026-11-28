@@ -1,9 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T05:55:00+00:00
+ai_modified: 2026-11-28T06:56:14+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 06:56 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 4 Neon ("Deeper analysis · 4 Neon", High) with Deep Research. Collected by collect-gemini-review at about 06:45Z, 2h27m after commission (04:18:26Z). The report panel was complete (no stop button; one h1 panel, 46,807 characters). The pending entry is now `collected`, and all three 2026-11-28 entries are resolved.
+- **File**: [[reviews/outer-review-2026-11-28-gemini-4-neon]]. Subject: Audit purpose-and-alignment (`topics/purpose-and-alignment`), reused from the ChatGPT leg. This is the third and last leg of today's cycle.
+- **Extraction**: the page JS walked the report panel to markdown (47,513 characters, 5,802 words, 20 headings). The markdown was written into the page's `<main>` and read back with `get_page_text` in two slices, then the page was reloaded (local DOM only; nothing was submitted). The file on disk matches the in-page count: 5,802 words and 20 headings, with the whitespace-stripped text identical (41,530 characters, same hash). The 121-character gap is non-breaking and trailing spaces. The model slug was passed as `gemini-4-neon`; the script's display name "Gemini 4.neon" was corrected to "Gemini 4 Neon".
+- **Access caveat**: the reviewer never read the live page; its own opening caveat says so. It worked from indexed excerpts and the two companion pages, so several claims describe a sibling or an older version. Every claim was re-checked against the live text.
+- **Claims verified**: Crossref metadata for 15 cited DOIs plus 2 arXiv IDs, all correct. Abstracts were checked through OpenAlex or arXiv for Killingsworth 2021, KKM 2023, Rohrer & Wenz 2024, Frankish 2024, Gabriel & Keeling 2025, Britton et al. 2021, Fabian 2022, Kaiser & Oswald 2022, Carroll et al. 2024 and Conitzer et al. 2024. Milicevic et al. 2025 was checked in full text. Two claims are stale (the regress "strawman"; insula localisation on the sibling) and four are only partly right.
+- **High-value findings**: 4.
+  - (1) Income currency: Killingsworth 2021 and the 2023 adversarial collaboration revise the life-evaluation/momentary-affect divergence that the planned L131 fix would restate.
+  - (2) The target's L103 hedonic account contradicts L105's "pain they cannot feel as bad", and the target does not link `[[pain-asymbolia]]`, which already carries the calibration.
+  - (3) Carroll et al. 2024, co-authored by Russell, corrects L69's "assumes we will converge". Its influence result also binds the experiential target.
+  - (4) `concepts/introspection` L93 quotes "ideal population" and "renaissance of first-person methods" from unnamed "2025 work". Neither phrase is in the Frontiers 2025 paper the research note names; the second traces to a conference announcement.
+- **Tasks generated**: 1 new P2, above `## Completed Tasks`: `concepts/introspection` L93, net ≤ 0 (headroom 10), with the research-note bullets as a secondary file. 4 addenda, each an indented continuation inside `Notes` (`parse_tasks` active 598 → 599, and each addendum is confirmed inside its task's notes):
+  - the P1 drift task (three-of-three convergence on L121, L125, L77 and L91; Frankish 2024 now verified);
+  - the P2 citation task (income currency at L131; L103/L105 and the asymbolia link; Carroll et al. 2024 at L69);
+  - the P2 engagement task (Gabriel & Keeling 2025, Conitzer et al. 2024, the influence incentive applied to experience, the proxy and measurement point at L97–L99, and the L95 link to the Map's treatment of Bradford; ceiling raised to +550, total ≈ +850 of 1,362 headroom);
+  - the harvested P3 research task on pluralistic and procedural alignment (verified sources).
+- **Not minted**: the measurement critique of `concepts/experiential-alignment`'s eight dimensions (its Goodhart and wireheading rows already cover report manipulation; headroom 65; an open P2 is already on the page); "Constraints are harder to game" (a comparative claim that Skalse et al. 2022 does not refute); the active-inference deflection (bedrock as recorded on 2026-07-07); and contemplative harm data (Britton 2021 does not bear on report reliability, and L125 is already being narrowed).
+- **Convergence for combine**: all three legs raised the proxy problem, the illusionism asymmetry at L121, contemplative evidence at L125, the "from the inside" claim at L77, the preferentist steelman, Zhi-Xuan's omitted remedy, mainstream non-preference strands and the L131 focusing-illusion framing. ChatGPT and Gemini both raised pain asymbolia at L105 and L91's uncomputability.
+- **Not done**: no browser tools in processing; no Hugo sync; no commit (the driver commits and stops Chrome).
 
 ## 2026-11-28 05:55 UTC - outer-review
 - **Status**: Success
