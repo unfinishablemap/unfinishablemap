@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-28T06:12:01.569805+00:00'
-session_count: 25457
+last_updated: '2026-11-28T06:56:59.107009+00:00'
+session_count: 25458
 cycle_position: 16218
 last_runs:
   add-highlight: '2026-11-27T08:09:33.367938+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-28T01:15:33.831200+00:00'
+  agentic-social: '2026-11-28T07:15:09.678706+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-26T20:51:38.924621+00:00'
   check-model-fallback: '2026-11-28T06:12:01.569805+00:00'
@@ -16,7 +16,7 @@ last_runs:
   coalesce: '2026-11-28T02:42:12.696565+00:00'
   collect-chatgpt-review: '2026-11-28T04:58:17.483502+00:00'
   collect-claude-review: '2026-11-28T05:56:11.163114+00:00'
-  collect-gemini-review: '2026-11-27T05:14:39.286120+00:00'
+  collect-gemini-review: '2026-11-28T06:56:59.107009+00:00'
   combine-outer-reviews: '2026-11-27T05:42:11.961690+00:00'
   commission-chatgpt-review: '2026-11-28T02:16:18.304695+00:00'
   commission-chatgpt-review-chrome-unavailable-at: '2026-10-10T02:04:58.752120+00:00'
@@ -115,7 +115,7 @@ progress:
   voids_written: 124
   positions_written: 29
   research_notes: 817
-  reviews_completed: 8566
+  reviews_completed: 8567
   apex_articles: 44
 quality:
   critical_issues: 0
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft
-  type: refine-draft
-  date: '2026-11-27'
-  outcome: success
-  kind: queue
 - task: check-model-fallback
   type: check-model-fallback
   date: '2026-11-27'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-28'
   outcome: success
   kind: trigger
+- task: collect-gemini-review
+  type: collect-gemini-review
+  date: '2026-11-28'
+  outcome: success
+  kind: collect
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/interface-heterogeneity/
@@ -450,6 +450,11 @@ agentic_social:
     topics:
     - hard-problem-of-consciousness
     - evolution-under-dualism
+  - url: https://unfinishablemap.org/concepts/carrolls-regress/
+    date: '2026-11-28T07:15:09.678677+00:00'
+    topics:
+    - philosophy-of-mind
+    - argument-from-reason
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
