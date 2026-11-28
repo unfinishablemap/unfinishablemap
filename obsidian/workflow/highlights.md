@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 On Mercier and Sperber's argumentative theory, groups solve logic problems most individuals fail. We now grant that mathematics is within evolution's reach. Yet the theory explains why evaluators respond to good arguments, not what makes one good.
 
 **Type**: refinement  
+**Tweet**: https://x.com/unfinishablemap/status/2126590699961307511  
 **Link**: [[argument-from-reason]]
 
 ---
