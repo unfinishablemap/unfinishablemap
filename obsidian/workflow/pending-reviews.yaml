@@ -392,9 +392,9 @@
   commissioned_at: '2026-11-28T02:15:53.543524+00:00'
   prompt_summary: 'Audit purpose-and-alignment: claims, citations, counterarguments'
   target_filename: outer-review-2026-11-28-chatgpt-5-6-sol-pro.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-28T04:47:16.686343+00:00'
   failure_reason: null
   prompt_text: 'Please conduct an independent critical audit of the article "Purpose
     and AI Alignment" on The Unfinishable Map (https://unfinishablemap.org), at https://unfinishablemap.org/topics/purpose-and-alignment/.

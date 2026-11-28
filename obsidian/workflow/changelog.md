@@ -1,10 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T03:48:25+00:00
+ai_modified: 2026-11-28T04:57:16+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
 
+## 2026-11-28 04:57 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT GPT-5.6 Sol Pro (as commissioned; the turn shows "Worked for 12m 48s" and no per-response model or effort label, so the model is not confirmed from the UI). Collected by collect-chatgpt-review at about 04:45Z, 2h29m after commission. The pending entry is now `collected`.
+- **File**: [[reviews/outer-review-2026-11-28-chatgpt-5-6-sol-pro]]. Subject: Audit purpose-and-alignment (`topics/purpose-and-alignment`, fallback:recent-aged). This is the first leg of today's cycle; the Claude and Gemini legs are still pending.
+- **Extraction**: one complete `[data-turn-key]` turn (`data-talvt-turn-state=complete`, no stop button). The DOM walk of `[data-markdown-text-style]` gave 45,198 chars. It was written into the page's `<main>` and read back with one `get_page_text` call, with both sentinels present. SHA-256 of the whole body and all ten 5,000-char segments match the in-page values. 46 headings in DOM and file; the reply ends at methodology improvement 32. collect_review.py relabelled 18 Map links, and the outer-review pass turned them into wikilinks.
+- **Claims verified**: 11 at source and 6 sibling-drift claims by `git log -S`. Abstracts via Europe PMC: Berthier et al. 1988 (pain asymbolia: no preference, only absent withdrawal and affect), Kahneman & Deaton 2010 and Kahneman et al. 2006 (income, not preference satisfaction; the focusing illusion is the 2006 paper), and Fox et al. 2012 (tactile only). Crossref and arXiv: Zhi-Xuan et al. (Phil Stud 182(7) 1813–1863; positive proposal verbatim), Killingsworth et al. 2023, and the Constitutional AI, deliberative alignment and pluralistic alignment preprints. The Russell "preference structure" quote has no traceable source: the research note took it from Wikipedia, and the live page lacks it. Disputed or low priority: haecceity (the page matches the sibling's first sentence), MWI (bedrock and owned by the open MWI sweep P3), behavioural duplicates (already conditional), and methodology items 21–32 (already covered by the positions register, the evidential-status discipline and the NEEDS-HUMAN propagation P2).
+- **High-value findings**: 4 clusters. (1) Five loci lag corrections already made in sibling articles: L125 vs `experiential-alignment` L163, L121 vs L159, L77 vs `ai-consciousness` L191, L91 vs the 09-07 uncomputability retraction, plus P-AC1. (2) Four citation-framing errors survived a metadata-only citation ledger (the 07-07 deep review). (3) The preferentist and mainstream-alignment engagement is thin. (4) The "unknown purpose" diagnosis is over-broad.
+- **Tasks generated**: 3 new, placed above `## Completed Tasks`: P1 (drift against siblings), P2 (citation framing) and P2 (engagement, with the direct-refutation remit). The 2026-11-05 optimistic P3 on this page was set to `superseded`, and its live items were redistributed to the new P1 and P2. Its item (2) L145 was already fixed on 11-17. Addendum added ABOVE `Notes:` to the NEEDS-HUMAN P2 on register-to-article propagation. Active tasks went from 593 to 596 by parse_tasks. Line ownership between the three tasks, the open MWI sweep P3 (L151) and the Tallis repoint P3 (L115, order-independent) is stated in each task's Coordination field.
+- **Headroom committed**: analyze_length 2,637/4,000. Up to about +750 across the three tasks.
+- **Not done**: no browser tools in processing; no commit (the driver commits).
 ## 2026-11-28 03:48 UTC - refine-draft
 - **Status**: Success
 - **File**: [[topics/phenomenology-of-returning-attention]]
