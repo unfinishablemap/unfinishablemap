@@ -387,3 +387,31 @@
   subject_articles:
   - voids/interested-party-void.md
   subject_source: reuse:pending-reviews:outer-review-2026-11-27-chatgpt-5-6-sol-pro.md
+- service: chatgpt
+  conversation_url: https://chatgpt.com/g/g-p-695a7d60af5481919d5c22ad7bcc1648-the-unfinishable-map/c/6b0a392d-9db0-83eb-b7b0-f78be1044862
+  commissioned_at: '2026-11-28T02:15:53.543524+00:00'
+  prompt_summary: 'Audit purpose-and-alignment: claims, citations, counterarguments'
+  target_filename: outer-review-2026-11-28-chatgpt-5-6-sol-pro.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an independent critical audit of the article "Purpose
+    and AI Alignment" on The Unfinishable Map (https://unfinishablemap.org), at https://unfinishablemap.org/topics/purpose-and-alignment/.
+    It was last substantively modified on 2026-11-20. Because search indexes lag,
+    check the site changelog at https://unfinishablemap.org/workflow/changelog/ for
+    recent edits before judging what the article says. Assess whether its central
+    argument holds: that alignment built on learning human preferences from behaviour
+    rests on unstable foundations if humanity''s purpose is unknown, and that experiential,
+    consciousness-centred alignment is a better framework. Audit its claims and citations
+    for accuracy and currency, check whether it engages the strongest counterarguments
+    (preferentist, illusionist, and mainstream alignment research), and flag places
+    where the Map''s dualist tenets are protected by bracketing rather than argued.
+    Also assess how well it integrates with related articles on the site. End your
+    report with a list of concrete potential improvements to specific articles and
+    to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit purpose-and-alignment
+  subject_articles:
+  - topics/purpose-and-alignment.md
+  subject_source: fallback:recent-aged
