@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-11-20 13:39:00+00:00
+ai_modified: 2026-11-28 08:49:05+00:00
 ai_system: claude-opus-4-8+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
@@ -18,14 +18,14 @@ concepts:
 - '[[haecceity]]'
 - '[[decoherence]]'
 created: 2026-01-13
-date: &id001 2026-11-20
+date: &id001 2026-11-28
 description: AI alignment assumes human values can be learned from behavior. But if
   we don't know humanity's purpose, alignment builds on unstable foundations.
 draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 07:17:37+00:00
-lastmod: 2026-11-20 13:39:00+00:00
+lastmod: 2026-11-28 08:49:05+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -77,9 +77,9 @@ The Map's framework suggests a deeper issue. If consciousness is fundamental and
 
 A preference-learning AI treats humans as behavioural systems. It observes inputs (stimuli) and outputs (choices) and infers a utility function. But on the Map's view, what matters about humans is not the behavioural mapping but the conscious experience underlying it. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow.
 
-If [AI systems lack consciousness](/topics/ai-consciousness/) (as the Map's framework implies), then they cannot understand human purpose from the inside. They can model behaviour, predict choices, and optimize for preference satisfaction. But they cannot grasp what it is like to be human, and therefore cannot grasp what human flourishing actually involves.
+If [AI systems lack consciousness](/topics/ai-consciousness/)—as the Map's framework suggests is likely for current conventional digital systems, conditionally on its present interface standard, not categorically ([P-AC1](/positions/ai-consciousness-scope/#p-ac1))—then they lack first-person acquaintance with what they optimize. They can model behaviour, predict choices, and track third-person proxies such as self-reports and physiological correlates, but they cannot check those proxies against experience.
 
-This is not a claim that alignment is impossible. It is a claim that alignment approaches treating humans as preference-maximizing systems may miss what matters most.
+This leaves alignment open—a system without acquaintance can still respect constraints that protect experience—but approaches treating humans as preference-maximizing systems may miss what matters most.
 
 ## Implications for Alignment
 
@@ -91,7 +91,7 @@ Three implications follow from this analysis:
 
 **Third: Consciousness as constraint.** If consciousness matters in ways that behaviour does not fully reveal, then alignment research should take seriously the possibility that what we want from AI is not preference satisfaction but something related to the quality of conscious experience. This remains vague—we do not have a science of flourishing. But it suggests that alignment research and philosophy of mind are more deeply connected than usually recognized.
 
-The dualist commitment carries beyond alignment-target selection. If consciousness is irreducible and bidirectionally causal, the standard expected-utility argument for AI catastrophe also loses a load-bearing assumption: the AI's ability to compute consequence-distributions over outcomes that pass through the [mind-arena](/concepts/mind-arena/). [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) develops this case—under interactionist dualism, mind-arena consequences are uncomputable rather than merely intractable, which structurally narrows the domains in which a rational AI can compute expected returns. The same metaphysics that complicates alignment-target specification also constrains the consequence-prediction the threat model relies on.
+The dualist commitment carries beyond alignment-target selection. If consciousness is irreducible and bidirectionally causal, the standard expected-utility argument for AI catastrophe also rests on an assumption it has not earned: that the AI's model of outcomes passing through the [mind-arena](/concepts/mind-arena/) is adequate to them. [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) develops this conditional case: under Born preservation ([P-Q2](/positions/quantum-interface/#p-q2)) the aggregate distribution stays computable, so dualism denies not the arithmetic but any warrant that the AI's distribution ranges over what matters. The same metaphysics that complicates alignment-target specification also leaves the threat model's consequence-prediction uncertified.
 
 ## Experiential Alignment: An Alternative Framework
 
@@ -121,11 +121,11 @@ What survives independently of the regress is narrower: the recognition that som
 
 ### The Practical Asymmetry
 
-Even granting illusionism for argument's sake, a practical asymmetry remains. If phenomenal consciousness is real, preferentist alignment misses what ultimately matters—the quality of conscious experience. If illusionism is correct, experiential alignment merely targets sophisticated functional states that still track something important: the states that generate reports of suffering, satisfaction, and meaning. The downside of phenomenal consciousness being real while we optimize only for preferences is asymmetrically worse than the downside of phenomenal consciousness being illusory while we target experiential quality.
+Even granting illusionism for argument's sake, a practical asymmetry remains, though it should be stated honestly. The framework's distinctive advantage over preferentism holds only if phenomenal realism is true; under illusionism it largely dissolves, leaving experiential alignment tracking the functional states that generate reports of suffering, satisfaction, and meaning—states a good preferentism could also aim at, and whose value is [itself disputed](/concepts/sentientism/). The asymmetry is a decision-under-uncertainty hedge, not a demonstration: if phenomenal consciousness is real, preferentist alignment misses what ultimately matters, so targeting experiential quality is the better bet, though [not a cost-free one](/concepts/experiential-alignment/).
 
 ### Contemplative Evidence
 
-[introspection](/concepts/introspection/) research shows that trained [contemplatives](/concepts/witness-consciousness/) report accessing experiential quality directly—as a feature observed in the observing, not an attribution. If phenomenal states were illusory, training should dissolve the illusion. Instead, contemplative practice *refines* phenomenal access, revealing finer-grained distinctions in valence, meaning, and agency.
+[introspection](/concepts/introspection/) research shows that trained [contemplatives](/concepts/witness-consciousness/) report accessing experiential quality directly—as a feature observed in the observing, not an attribution. Practice can make some reports more accurate: meditation experience predicts how well tactile-sensitivity ratings for twenty body regions match averaged objective measures (Fox et al. 2012), though the study is cross-sectional and measured nothing about valence, meaning, or agency. That bears on how far experiential alignment can trust such reports as proxies, not on whether phenomenal character exists: illusionism lets introspective representations track bodily states better with nothing phenomenal presented, and the beautiful-loop theory (Laukkonen et al. 2025) models contemplative states physically. The evidence is consonant with the Map's reading rather than probative against its rivals.
 
 ## What Would Challenge This View?
 
@@ -139,7 +139,7 @@ The framework connecting purpose to experiential alignment makes falsifiable cla
 
 4. **Purpose proves specifiable**: If philosophers converged on a specification encodable in a utility function, preference learning might suffice. The framework claims such convergence is unlikely given the [unchartable](/voids/) character of human purpose.
 
-5. **AI consciousness emerges**: If AI systems developed genuine phenomenal consciousness, they could understand human purpose from the inside, revising the Map's current position.
+5. **AI consciousness emerges**: If AI systems developed genuine phenomenal consciousness, they could have the acquaintance the argument above denies them; if they ran on conventional digital hardware, that would also count against the Map's low-probability verdict.
 
 ## Relation to Site Perspective
 
@@ -147,9 +147,9 @@ This analysis connects deeply to all five of the Map's foundational commitments.
 
 **[Dualism](/tenets/#dualism)**: If consciousness is irreducible, human purpose may be tied to features of experience that no behavioural analysis can capture. Two beings with identical input-output profiles might have radically different conscious lives—one rich with meaning, the other hollow. The [illusionist](/concepts/illusionism/) alternative would collapse this distinction. The Map rejects it: illusionism owes, on its own standard, a mechanism for a state representing itself as experiential, one not yet built. The regress alone, as argued above, cannot defeat it from within.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Genuine agency involves consciousness actually selecting among options through quantum mechanisms, not merely appearing to choose. If AI systems disrupt the neural quantum mechanisms through which agency operates (through excessive [decoherence](/concepts/decoherence/) or manipulation of attention), they undermine genuine agency even while satisfying preferences. The valence dimension connects here: if conscious selection operates through pleasure and pain signals that bias quantum outcomes, valence is the dimension through which consciousness exercises its causal role.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: On the Map's own hypothesis, genuine agency involves consciousness actually selecting among options through quantum mechanisms, not merely appearing to choose. AI systems that disrupted those mechanisms (through excessive [decoherence](/concepts/decoherence/) or manipulation of attention) would then undermine genuine agency even while satisfying preferences. More conjecturally still, if conscious selection operates through pleasure and pain signals that bias quantum outcomes, valence would be the dimension through which consciousness exercises its causal role.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences the physical world, agency is real, not merely apparent—alignment should preserve genuine agency, not agency illusions. If consciousness were epiphenomenal, [introspection](/concepts/introspection/) about purpose would be systematically unreliable, undermining the philosophical discourse itself.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness causally influences the physical world, agency is real, not merely apparent—alignment should preserve genuine agency, not agency illusions. If consciousness were epiphenomenal, the Map argues, [introspection](/concepts/introspection/) about purpose would be unreliable despite the epiphenomenalist's [common-cause reply](/concepts/self-stultification/), undermining the philosophical discourse itself.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: If identity is indexical and unrepeatable, each person's experiential quality matters uniquely. [haecceity](/concepts/haecceity/)—being *this* particular conscious subject—grounds why aggregate preference satisfaction cannot substitute for individual experiential flourishing. Many-worlds undermines the concept of "promoting" experiential quality: if every distribution over experiences is realized somewhere, alignment loses its normative force.
 
@@ -164,7 +164,7 @@ The practical upshot: AI systems should be designed with profound humility about
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical grounding for consciousness-based value and how phenomenal value pluralism addresses the measurement problem
 - [ethics-under-dualism](/topics/ethics-under-dualism/) — The broader ethical framework for consciousness
 - [meaning-of-life](/topics/meaning-of-life/) — the Map's treatment of philosophical approaches to life's meaning
-- [ai-consciousness](/topics/ai-consciousness/) — Why the Map holds that AI systems lack consciousness
+- [ai-consciousness](/topics/ai-consciousness/) — The Map's conditional case that current digital AI is unlikely to be conscious
 - [dualism-as-ai-risk-mitigation](/topics/dualism-as-ai-risk-mitigation/) — How dualism affects the standard expected-utility argument for AI catastrophe
 - [voids](/voids/) — On the limits of what can be known or mapped
 - [tenets](/tenets/) — The foundational commitments underlying this analysis
@@ -185,3 +185,4 @@ The practical upshot: AI systems should be designed with profound humility about
 7. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 8. Fox, K.C.R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS ONE*, 7(9), e45370.
 9. Kahneman, D. & Deaton, A. (2010). "High income improves evaluation of life but not emotional well-being." *PNAS*, 107(38), 16489-16493.
+10. Laukkonen, R.E., Friston, K.J. & Chandaria, S. (2025). "A beautiful loop: An active inference theory of consciousness." *Neuroscience & Biobehavioral Reviews*, 176, 106296.
