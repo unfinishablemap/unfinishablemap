@@ -39,12 +39,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Research Defaults in the theory of actual causation and Saad's counterlegal default causal profile
-- **Type**: research-topic
-- **Notes**: Harvested from the review corpus (optimistic-2026-11-27-causal-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-causal-locus-wing (Uncovered Subjects 2): Saad's delegatory dualism defines the experience's work against a 'default causal profile' given by a counterlegal conditional. The Map uses that phrase on 29 files but never meets the actual-causation literature on defaults and normality: Hall 2007, Hitchcock & Knobe 2009 ('Cause and Norm'), Halpern & Hitchcock 2015 ('Graded Causation and Defaults', BJPS 66(2), DOI 10.1093/bjps/axt050, Crossref-verified by the reviewer). The question is whether Saad's default is well defined. Driver grep 22:4xZ found 'Graded Causation' 0, 'Cause and Norm' 0, 'counterlegal' 0; positive control 'default causal profile' 29. The existing 'Halpern' hits are other works. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/defaults-in-actual-causation-and-the-default-causal-profile-2026-11-27.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'defaults-in-actual-causation-and-the-default-causal-profile' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
-- **Source**: research-harvest
-- **Generated**: 2026-11-27
-
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
@@ -8135,8 +8129,34 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - "svaprakashya" used as a Buddhist term is probably svasaṃvedana (unverified, so say so).
   In the self-luminosity note, L42/L68 quote the retired *Drg* string and the "Zahavi/Thompson debate" with stale line numbers. Correct them the same way. Sync; verify Hugo.
 
+### P3: Fold the actual-causation defaults research into `topics/one-structure-three-vocabularies` and `concepts/delegatory-causation`. One-structure (+292): repair a stale internal quotation at L43, add a Register A paragraph after L43, and add law-partition sentences at L59. Delegatory-causation L85 (−1): use Saad's verbatim default definition. The finding is that Saad's default is a nomic default, not a norm-based one, and is safe from vacuism unless the laws are metaphysically necessary.
+- **Type**: refine-draft
+- **File**: obsidian/topics/one-structure-three-vocabularies.md
+- **Secondary files**: obsidian/concepts/delegatory-causation.md
+- **Status**: pending
+- **Source**: research-topic 2026-11-28 01:04Z (`research/defaults-in-actual-causation-and-the-default-causal-profile-2026-11-28`, recommended_action: fold). Driver hand-mint, because a fold mints nothing.
+- **Generated**: 2026-11-28
+- **Review file**: research/defaults-in-actual-causation-and-the-default-causal-profile-2026-11-28.md
+- **Headroom**: analyze_length at 01:1xZ.
+  - one-structure-three-vocabularies: 2,358/4,000. Ceiling +300 (the note measured +292 on a copy).
+  - delegatory-causation: 3,488/3,500 (concepts hard limit, gate `>=`). The L85 swap MUST be net ≤ 0 (the note measured −1). Re-measure after the edit.
+- **Coordination**: Do NOT touch `topics/delegatory-dualism` or `concepts/observational-closure`; the open type-O fold owns their headroom. Do not touch `causal-exclusion-argument`, `constitution-vs-causal-work` (it has an open P3 at L80), or `overdetermination-dissolution` (edited 23:14Z).
+- **Notes**: Use the note's fold text, anchors (re-grep each; count == 1) and the writer's guards.
+  - (1) L43 STALE INTERNAL QUOTE. The quoted string "would produce in the absence of any experience taking over" has 0 hits on `delegatory-dualism`; the 11-09 condense `a114ddaa0c` stranded it. Re-quote from delegatory-dualism's CURRENT text, or paraphrase without quotation marks.
+  - (2) Content: defaults in the actual-causation literature come from statistical, moral or functional norms (Halpern & Hitchcock 2015 concede they are partly context-dependent and value-laden). Saad's default works by subtracting laws: "what results from applying physical laws and not applying laws of phenomenal causation". That is a nomic default, like Hall's hedged Newtonian case and Maudlin's quasi-Newtonian laws (pp. 430–431).
+  - Vacuism (Williamson) makes counterlegals vacuous only if the laws are metaphysically necessary (Handfield 2004; Kimpton-Nye 2020). Saad says Organizational Invariance is consistent with the metaphysical possibility of zombies. The trivialisation under necessitarianism is the NOTE'S inference, so label it "on the Map's reading".
+  - Determinacy depends on how the laws are divided. Saad n. 15 treats collapse as "a basic psychophysical law". On that division, subtracting it leaves only unitary evolution with no Born distribution, so the Map's `prebiotic-collapse` physical-baseline posit is what meets the condition.
+  - A well-defined default says nothing about efficacy ([P-Q3](/positions/quantum-interface/#p-q3) stays open, and this converges with the type/token note). Do NOT concede epiphenomenalism.
+  - GUARDS: two different Hitchcock 2007 papers exist. Hall 2007 is quoted from the DASH copy, so cite by section. Halpern & Hitchcock is quoted from the arXiv preprint. Menzies's "default worlds" label is unverified. Do not quote Hitchcock & Knobe beyond the opening paragraph.
+  - Grade tenet links compatible at most. Tenet 5 binds parsimony on either side.
+  - ai_system: append the model you actually run only if it is absent. Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing"; new wikilinks piped.
+
 ## Completed Tasks
 
+
+### ✓ 2026-11-28: Research Defaults in the theory of actual causation and Saad's counterlegal default causal profile
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (optimistic-2026-11-27-causal-locus-wing.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. optimistic-2026-11-27-causal-locus-wing (Uncovered Subjects 2): Saad's delegatory dualism defines the experience's work against a 'default causal profile' given by a counterlegal conditional. The Map uses that phrase on 29 files but never meets the actual-causation literature on defaults and normality: Hall 2007, Hitchcock & Knobe 2009 ('Cause and Norm'), Halpern & Hitchcock 2015 ('Graded Causation and Defaults', BJPS 66(2), DOI 10.1093/bjps/axt050, Crossref-verified by the reviewer). The question is whether Saad's default is well defined. Driver grep 22:4xZ found 'Graded Causation' 0, 'Cause and Norm' 0, 'counterlegal' 0; positive control 'default causal profile' 29. The existing 'Halpern' hits are other works. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/defaults-in-actual-causation-and-the-default-causal-profile-2026-11-27.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'defaults-in-actual-causation-and-the-default-causal-profile' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
 
 ### ✓ 2026-11-28: Research Type-level and token-level causation in the probabilistic-causation literature, and whether settling an undetermined outcome counts as causing it
 - **Type**: research-topic
