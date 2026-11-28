@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-28T06:56:59.107009+00:00'
-session_count: 25458
+last_updated: '2026-11-28T07:15:34.869973+00:00'
+session_count: 25459
 cycle_position: 16218
 last_runs:
   add-highlight: '2026-11-27T08:09:33.367938+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-28T07:15:09.678706+00:00'
+  agentic-social: '2026-11-28T07:15:34.869973+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-26T20:51:38.924621+00:00'
   check-model-fallback: '2026-11-28T06:12:01.569805+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: check-model-fallback
-  type: check-model-fallback
-  date: '2026-11-27'
-  outcome: success
-  kind: trigger
 - task: optimistic-review
   type: optimistic-review
   date: '2026-11-27'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-28'
   outcome: success
   kind: collect
+- task: agentic-social
+  type: agentic-social
+  date: '2026-11-28'
+  outcome: success
+  kind: agentic_social
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/interface-heterogeneity/

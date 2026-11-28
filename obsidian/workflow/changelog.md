@@ -1,9 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T06:56:14+00:00
+ai_modified: 2026-11-28T07:59:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 07:59 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-28. Subject: `topics/purpose-and-alignment` ("Audit purpose-and-alignment", `fallback:recent-aged`); Claude and Gemini reused ChatGPT's subject.
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-4-neon). Only ChatGPT read the live page. Claude rebuilt it from four sibling pages, and Gemini from indexed excerpts of superseded versions (its regress strings left the page on 2026-07-30 and 2026-11-17). Every cluster was counted at a passage that is live today; the page is unchanged since 2026-11-20 at 2,637 words.
+- **Clusters**: 16 convergent (11 three-reviewer, 5 two-reviewer), 16 singletons, 4 divergences. One two-reviewer cluster (behavioural duplicates, ChatGPT and Gemini) was dropped at adjudication because L75 already frames it "on the Map's view". 16 further reviewer claims were judged stale, disputed or overstated.
+  - **3/3**: Russell misdescribed (C1); Zhi-Xuan et al.'s remedy omitted (C2); the L131 income evidence (C3; Claude on currency only); the field described as one strand (C5); no preferentist steelman and no autonomy reply (C6; narrowed, because L67 and L69 already gesture at idealisation); the thesis overstated (C7); the proxy problem inherited (C8); experience treated as exhausting value (C9); the practical asymmetry (C10); contemplative evidence (C11; Claude partial); AI acquaintance and P-AC1 (C12).
+  - **2/3**: pain asymbolia (C4); "uncomputable" at L91 (C13; the Gemini pass's "three of three" is corrected, because Claude never raises it); L147 quantum selection (C14; Claude inferred from the sibling); Tallis 2011 (C15); Many Worlds at L151 (C16).
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2), the citation task (C1–C4) and the engagement task (C5–C9). The drift task (C10–C14) was already P1. Not upgraded:
+  - the `concepts/experiential-alignment` P2 and the `concepts/introspection` P2 (singletons);
+  - the Tallis P3 and the MWI P3 (pre-existing sweeps; coordination addenda only);
+  - the harvested pluralistic-alignment research P3 (research-harvest source; record-only addendum; topics and concepts are both at 370/370).
+- **Tasks deduplicated**: 0. Three item-level overlaps were resolved by ownership:
+  - L115 and the Tallis entry go to the Tallis P3 (taken out of citation item (5)).
+  - The whole L41 paragraph, including its rename artefact, goes to the engagement task (taken out of citation item (6)).
+  - Paternalism, report manipulation and felt agency go to the engagement task; drift item (2) keeps one linking clause.
+
+  Citation item (2)'s restatement of the income evidence is now governed by its Gemini addendum (a), which shows the original wording would reinstall a narrowed claim.
+- **Budget**: a BUDGET RULE closes the Notes of the three P1s (task-specific), and the two P3s got coordination addenda. The P1s' Headroom and Coordination fields point to the rule.
+  - Ceilings: drift +150, citation +150, engagement +500 (was +550; aim +400), MWI P3 +30, Tallis P3 +10. They sum to +840 against 1,362 words of headroom (2,637 of 4,000 by `analyze_length`, gate `>=`), so the page should end at or below 3,477, with 522 in reserve. Each ceiling binds as min(ceiling, 3,477 − the measured count).
+  - Order is the picker's own: drift, citation, engagement. Each paragraph has one owner, a frozen list covers the rest, and only the citation task may edit existing References entries (others append).
+  - Fixed-string CHECK pairs (defect / repair) let every task tell whether the others have run.
+- **Operator items** (surfaced, not acted on):
+  - GPT-5.6 Sol retires on 2026-12-23 and GPT-6.2 is offered: the replacement model is the operator's call. Tonight's turn model was also unconfirmed from the UI.
+  - Claude and Gemini were both blocked from fetching the target page (the NEEDS-HUMAN pipeline entry of 2026-11-14 carries tonight's addendum).
+  - The Claude weekly usage banner reads 76%.
+  - Topics and concepts are both at their 370 cap.
+  - Two reviewers describe the same failure: a sibling correction that never reaches the parent (ChatGPT's "claim drift", Claude's confession without correction). It is already owned by the register-propagation NEEDS-HUMAN.
+- **Output**: [[reviews/outer-review-synthesis-2026-11-28]]; `obsidian/workflow/todo.md` (5 tasks rewritten, 1 record-only addendum).
 
 ## 2026-11-28 06:56 UTC - outer-review
 - **Status**: Success

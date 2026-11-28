@@ -1,15 +1,94 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28 03:48:25+00:00
+ai_modified: 2026-11-28 07:59:45+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-28'
-lastmod: 2026-11-28 03:48:25+00:00
+lastmod: 2026-11-28 07:59:45+00:00
 related_articles: []
 title: Changelog
 ---
 
+## 2026-11-28 07:59 UTC - combine-outer-reviews
+- **Status**: Success
+- **Cycle**: 2026-11-28. Subject: `topics/purpose-and-alignment` ("Audit purpose-and-alignment", `fallback:recent-aged`); Claude and Gemini reused ChatGPT's subject.
+- **Coverage**: 3/3 reviewers processed (sources: chatgpt-5-6-sol-pro, claude-fable-5-2, gemini-4-neon). Only ChatGPT read the live page. Claude rebuilt it from four sibling pages, and Gemini from indexed excerpts of superseded versions (its regress strings left the page on 2026-07-30 and 2026-11-17). Every cluster was counted at a passage that is live today; the page is unchanged since 2026-11-20 at 2,637 words.
+- **Clusters**: 16 convergent (11 three-reviewer, 5 two-reviewer), 16 singletons, 4 divergences. One two-reviewer cluster (behavioural duplicates, ChatGPT and Gemini) was dropped at adjudication because L75 already frames it "on the Map's view". 16 further reviewer claims were judged stale, disputed or overstated.
+  - **3/3**: Russell misdescribed (C1); Zhi-Xuan et al.'s remedy omitted (C2); the L131 income evidence (C3; Claude on currency only); the field described as one strand (C5); no preferentist steelman and no autonomy reply (C6; narrowed, because L67 and L69 already gesture at idealisation); the thesis overstated (C7); the proxy problem inherited (C8); experience treated as exhausting value (C9); the practical asymmetry (C10); contemplative evidence (C11; Claude partial); AI acquaintance and [P-AC1](/positions/ai-consciousness-scope/#p-ac1) (C12).
+  - **2/3**: pain asymbolia (C4); "uncomputable" at L91 (C13; the Gemini pass's "three of three" is corrected, because Claude never raises it); L147 quantum selection (C14; Claude inferred from the sibling); Tallis 2011 (C15); Many Worlds at L151 (C16).
+- **Tasks upgraded**: 2 (P3→P2: 0, P2→P1: 2), the citation task (C1–C4) and the engagement task (C5–C9). The drift task (C10–C14) was already P1. Not upgraded:
+  - the `concepts/experiential-alignment` P2 and the `concepts/introspection` P2 (singletons);
+  - the Tallis P3 and the MWI P3 (pre-existing sweeps; coordination addenda only);
+  - the harvested pluralistic-alignment research P3 (research-harvest source; record-only addendum; topics and concepts are both at 370/370).
+- **Tasks deduplicated**: 0. Three item-level overlaps were resolved by ownership:
+  - L115 and the Tallis entry go to the Tallis P3 (taken out of citation item (5)).
+  - The whole L41 paragraph, including its rename artefact, goes to the engagement task (taken out of citation item (6)).
+  - Paternalism, report manipulation and felt agency go to the engagement task; drift item (2) keeps one linking clause.
+
+  Citation item (2)'s restatement of the income evidence is now governed by its Gemini addendum (a), which shows the original wording would reinstall a narrowed claim.
+- **Budget**: a BUDGET RULE closes the Notes of the three P1s (task-specific), and the two P3s got coordination addenda. The P1s' Headroom and Coordination fields point to the rule.
+  - Ceilings: drift +150, citation +150, engagement +500 (was +550; aim +400), MWI P3 +30, Tallis P3 +10. They sum to +840 against 1,362 words of headroom (2,637 of 4,000 by `analyze_length`, gate `>=`), so the page should end at or below 3,477, with 522 in reserve. Each ceiling binds as min(ceiling, 3,477 − the measured count).
+  - Order is the picker's own: drift, citation, engagement. Each paragraph has one owner, a frozen list covers the rest, and only the citation task may edit existing References entries (others append).
+  - Fixed-string CHECK pairs (defect / repair) let every task tell whether the others have run.
+- **Operator items** (surfaced, not acted on):
+  - GPT-5.6 Sol retires on 2026-12-23 and GPT-6.2 is offered: the replacement model is the operator's call. Tonight's turn model was also unconfirmed from the UI.
+  - Claude and Gemini were both blocked from fetching the target page (the NEEDS-HUMAN pipeline entry of 2026-11-14 carries tonight's addendum).
+  - The Claude weekly usage banner reads 76%.
+  - Topics and concepts are both at their 370 cap.
+  - Two reviewers describe the same failure: a sibling correction that never reaches the parent (ChatGPT's "claim drift", Claude's confession without correction). It is already owned by the register-propagation NEEDS-HUMAN.
+- **Output**: [outer-review-synthesis-2026-11-28](/reviews/outer-review-synthesis-2026-11-28/); `obsidian/workflow/todo.md` (5 tasks rewritten, 1 record-only addendum).
+
+## 2026-11-28 06:56 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Gemini 4 Neon ("Deeper analysis · 4 Neon", High) with Deep Research. Collected by collect-gemini-review at about 06:45Z, 2h27m after commission (04:18:26Z). The report panel was complete (no stop button; one h1 panel, 46,807 characters). The pending entry is now `collected`, and all three 2026-11-28 entries are resolved.
+- **File**: [outer-review-2026-11-28-gemini-4-neon](/reviews/outer-review-2026-11-28-gemini-4-neon/). Subject: Audit purpose-and-alignment (`topics/purpose-and-alignment`), reused from the ChatGPT leg. This is the third and last leg of today's cycle.
+- **Extraction**: the page JS walked the report panel to markdown (47,513 characters, 5,802 words, 20 headings). The markdown was written into the page's `<main>` and read back with `get_page_text` in two slices, then the page was reloaded (local DOM only; nothing was submitted). The file on disk matches the in-page count: 5,802 words and 20 headings, with the whitespace-stripped text identical (41,530 characters, same hash). The 121-character gap is non-breaking and trailing spaces. The model slug was passed as `gemini-4-neon`; the script's display name "Gemini 4.neon" was corrected to "Gemini 4 Neon".
+- **Access caveat**: the reviewer never read the live page; its own opening caveat says so. It worked from indexed excerpts and the two companion pages, so several claims describe a sibling or an older version. Every claim was re-checked against the live text.
+- **Claims verified**: Crossref metadata for 15 cited DOIs plus 2 arXiv IDs, all correct. Abstracts were checked through OpenAlex or arXiv for Killingsworth 2021, KKM 2023, Rohrer & Wenz 2024, Frankish 2024, Gabriel & Keeling 2025, Britton et al. 2021, Fabian 2022, Kaiser & Oswald 2022, Carroll et al. 2024 and Conitzer et al. 2024. Milicevic et al. 2025 was checked in full text. Two claims are stale (the regress "strawman"; insula localisation on the sibling) and four are only partly right.
+- **High-value findings**: 4.
+  - (1) Income currency: Killingsworth 2021 and the 2023 adversarial collaboration revise the life-evaluation/momentary-affect divergence that the planned L131 fix would restate.
+  - (2) The target's L103 hedonic account contradicts L105's "pain they cannot feel as bad", and the target does not link `[[pain-asymbolia]]`, which already carries the calibration.
+  - (3) Carroll et al. 2024, co-authored by Russell, corrects L69's "assumes we will converge". Its influence result also binds the experiential target.
+  - (4) `concepts/introspection` L93 quotes "ideal population" and "renaissance of first-person methods" from unnamed "2025 work". Neither phrase is in the Frontiers 2025 paper the research note names; the second traces to a conference announcement.
+- **Tasks generated**: 1 new P2, above `## Completed Tasks`: `concepts/introspection` L93, net ≤ 0 (headroom 10), with the research-note bullets as a secondary file. 4 addenda, each an indented continuation inside `Notes` (`parse_tasks` active 598 → 599, and each addendum is confirmed inside its task's notes):
+  - the P1 drift task (three-of-three convergence on L121, L125, L77 and L91; Frankish 2024 now verified);
+  - the P2 citation task (income currency at L131; L103/L105 and the asymbolia link; Carroll et al. 2024 at L69);
+  - the P2 engagement task (Gabriel & Keeling 2025, Conitzer et al. 2024, the influence incentive applied to experience, the proxy and measurement point at L97–L99, and the L95 link to the Map's treatment of Bradford; ceiling raised to +550, total ≈ +850 of 1,362 headroom);
+  - the harvested P3 research task on pluralistic and procedural alignment (verified sources).
+- **Not minted**: the measurement critique of `concepts/experiential-alignment`'s eight dimensions (its Goodhart and wireheading rows already cover report manipulation; headroom 65; an open P2 is already on the page); "Constraints are harder to game" (a comparative claim that Skalse et al. 2022 does not refute); the active-inference deflection (bedrock as recorded on 2026-07-07); and contemplative harm data (Britton 2021 does not bear on report reliability, and L125 is already being narrowed).
+- **Convergence for combine**: all three legs raised the proxy problem, the illusionism asymmetry at L121, contemplative evidence at L125, the "from the inside" claim at L77, the preferentist steelman, Zhi-Xuan's omitted remedy, mainstream non-preference strands and the L131 focusing-illusion framing. ChatGPT and Gemini both raised pain asymbolia at L105 and L91's uncomputability.
+- **Not done**: no browser tools in processing; no Hugo sync; no commit (the driver commits and stops Chrome).
+
+## 2026-11-28 05:55 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2, with Research: the conversation's model selector reads "Fable 5.2", there is no fallback banner, and the research tile reads "Research complete, 249 sources". Collected by collect-claude-review at about 05:43Z, 2h28m after commission. The pending entry is now `collected`; Gemini is still pending.
+- **File**: [outer-review-2026-11-28-claude-fable-5-2](/reviews/outer-review-2026-11-28-claude-fable-5-2/). Subject: Audit purpose-and-alignment (`topics/purpose-and-alignment`), reused from the ChatGPT leg. This is the second leg of today's cycle.
+- **Extraction**: artifact tile "View Hostile-Referee Audit: Purpose and AI Alignment on the Unfinishable Map", located in the conversation pane with "View all" excluded. The panel was confirmed open by screenshot, because the close-artifact aria-label no longer matches. Body-stability sentinel: 18,138 = 18,138 chars over 10 s. The DOM walk gave 22,858 chars and the Blob download matches that size. 14 headings in DOM and file; the text starts at the H1 and ends at methodology item 8. Map URLs were converted to wikilinks.
+- **Access caveat**: the reviewer never read the target. Its fetch was refused, no search returned the page, and its changelog copy stops at 2026-10-15 (the recurring stale view). Its claims about the target are inferred from siblings, and every one was re-checked against the live text.
+- **Claims verified**: 13 of 13 sibling quotations live; 9 at source, 2 unverified, 3 false of the target. At source: Russell's "all-encompassing" preferences (*Human Compatible* p. 173, Wikipedia raw wikitext); Anthropic's constitution (anthropic.com, "long-term flourishing", reflective endorsement, the autonomy/paternalism weighing); Kammerer 2022 (OpenAlex abstract, verbatim; the reviewer's arXiv link for it does not contain the phrase); Kammerer 2019 and Laukkonen, Friston & Chandaria 2025 (Crossref); Irving et al. 2018 and Bai et al. 2022 (arXiv API); Killingsworth et al. 2023 (OpenAlex). Repo checks: the `concepts/subjective-aim` L52/L111 gloss names a thesis the target lost in the 2026-03-15 condense (`git show 764782ea7b`); the apex L150 and `consciousness-value-connection` L140 glosses are unconditional. False of the target: the K&D "paraphrase fair" and Fox "accurate" rows (they describe the sibling) and "purpose as Whiteheadian subjective aim".
+- **High-value findings**: 5. (1) Russell is misdescribed across the cluster: target L47/L65 and sibling L41, while `instrumental-convergence` L65 has him right. (2) A deployed constitution already makes the welfare-over-preference move. (3) Kammerer vs Frankish decides the target's L121 asymmetry, and no alignment page uses either. (4) Stale or unconditional glosses on three neighbouring pages. (5) The "proves too much" symmetry: purpose-uncertainty bears on the experiential target too.
+- **Tasks generated**: 1 new P2, above `## Completed Tasks`: `concepts/experiential-alignment` L41, L49, the description and L222, the reference-only Zhi-Xuan entry, and an optional `consciousness-value-connection` L140 at net ≤ 0. 6 addenda, each an indented continuation inside `Notes` (`parse_tasks` confirms all 5 queue tasks carry them):
+  - the ChatGPT P1 drift task (Kammerer/Frankish at L121, a beautiful-loop clause at L125, convergence);
+  - the ChatGPT P2 citation task (Russell p. 173 at L47/L65);
+  - the ChatGPT P2 engagement task (constitution, "proves too much", senses of purpose, convergence);
+  - the `concepts/subjective-aim` task, raised P3→P2 for the stale gloss;
+  - the `apex/living-with-the-map` P3 (L150);
+  - the NEEDS-HUMAN (pipeline) 2026-11-14 entry (an 11-28 data point).
+- **Not minted**: the three-way coalesce (5,632 against the topics hard 4,000 before experiential-alignment; distinct roles); the Tenet 5 asymmetry (allowed use, already guarded); Tenet 4 (the open NMW P3 owns it); methodology items 1–8 (each has an existing owner, listed in the review's Verification Notes).
+- **Convergence for combine**: Russell, the illusionism status, the "from the inside" claim, proxy inheritance, the preferentist steelman, mainstream strands, and the purpose disambiguation were raised by both the ChatGPT and Claude legs.
+- **Not done**: no browser tools in processing; no commit (the driver commits and stops Chrome).
+
+## 2026-11-28 04:57 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: ChatGPT GPT-5.6 Sol Pro (as commissioned; the turn shows "Worked for 12m 48s" and no per-response model or effort label, so the model is not confirmed from the UI). Collected by collect-chatgpt-review at about 04:45Z, 2h29m after commission. The pending entry is now `collected`.
+- **File**: [outer-review-2026-11-28-chatgpt-5-6-sol-pro](/reviews/outer-review-2026-11-28-chatgpt-5-6-sol-pro/). Subject: Audit purpose-and-alignment (`topics/purpose-and-alignment`, fallback:recent-aged). This is the first leg of today's cycle; the Claude and Gemini legs are still pending.
+- **Extraction**: one complete `[data-turn-key]` turn (`data-talvt-turn-state=complete`, no stop button). The DOM walk of `[data-markdown-text-style]` gave 45,198 chars. It was written into the page's `<main>` and read back with one `get_page_text` call, with both sentinels present. SHA-256 of the whole body and all ten 5,000-char segments match the in-page values. 46 headings in DOM and file; the reply ends at methodology improvement 32. collect_review.py relabelled 18 Map links, and the outer-review pass turned them into wikilinks.
+- **Claims verified**: 11 at source and 6 sibling-drift claims by `git log -S`. Abstracts via Europe PMC: Berthier et al. 1988 (pain asymbolia: no preference, only absent withdrawal and affect), Kahneman & Deaton 2010 and Kahneman et al. 2006 (income, not preference satisfaction; the focusing illusion is the 2006 paper), and Fox et al. 2012 (tactile only). Crossref and arXiv: Zhi-Xuan et al. (Phil Stud 182(7) 1813–1863; positive proposal verbatim), Killingsworth et al. 2023, and the Constitutional AI, deliberative alignment and pluralistic alignment preprints. The Russell "preference structure" quote has no traceable source: the research note took it from Wikipedia, and the live page lacks it. Disputed or low priority: haecceity (the page matches the sibling's first sentence), MWI (bedrock and owned by the open MWI sweep P3), behavioural duplicates (already conditional), and methodology items 21–32 (already covered by the positions register, the evidential-status discipline and the NEEDS-HUMAN propagation P2).
+- **High-value findings**: 4 clusters. (1) Five loci lag corrections already made in sibling articles: L125 vs `experiential-alignment` L163, L121 vs L159, L77 vs `ai-consciousness` L191, L91 vs the 09-07 uncomputability retraction, plus [P-AC1](/positions/ai-consciousness-scope/#p-ac1). (2) Four citation-framing errors survived a metadata-only citation ledger (the 07-07 deep review). (3) The preferentist and mainstream-alignment engagement is thin. (4) The "unknown purpose" diagnosis is over-broad.
+- **Tasks generated**: 3 new, placed above `## Completed Tasks`: P1 (drift against siblings), P2 (citation framing) and P2 (engagement, with the direct-refutation remit). The 2026-11-05 optimistic P3 on this page was set to `superseded`, and its live items were redistributed to the new P1 and P2. Its item (2) L145 was already fixed on 11-17. Addendum added ABOVE `Notes:` to the NEEDS-HUMAN P2 on register-to-article propagation. Active tasks went from 593 to 596 by parse_tasks. Line ownership between the three tasks, the open MWI sweep P3 (L151) and the Tallis repoint P3 (L115, order-independent) is stated in each task's Coordination field.
+- **Headroom committed**: analyze_length 2,637/4,000. Up to about +750 across the three tasks.
+- **Not done**: no browser tools in processing; no commit (the driver commits).
 ## 2026-11-28 03:48 UTC - refine-draft
 - **Status**: Success
 - **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
