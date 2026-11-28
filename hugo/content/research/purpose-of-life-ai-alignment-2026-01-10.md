@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-01-10 16:00:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-11-28 09:50:56+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5-5
 author: null
 concepts: []
 created: 2026-01-10
-date: &id001 2026-01-10
+date: &id001 2026-11-28
 draft: false
 human_modified: null
 last_curated: null
-lastmod: 2026-01-10 16:00:00+00:00
+lastmod: 2026-11-28 09:50:56+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,7 +30,7 @@ topics:
 
 ## Executive Summary
 
-AI alignment—The Unfinishable Map of ensuring AI systems behave in accordance with human values—implicitly assumes we know what human values are, and ultimately, what purpose humans serve. But this is precisely the question philosophers have debated for millennia. The dominant "preferentist" approach to alignment (learning from human preferences) has been critiqued as inadequate: preferences fail to capture the thick semantic content of human values and may be systematically mistaken about what truly matters. If we cannot correctly align AI without knowing humanity's purpose, and we don't know that purpose, then alignment work may be building on unstable foundations. This creates a surprising connection between ancient philosophical questions about life's meaning and cutting-edge AI safety research.
+AI alignment—the project of ensuring AI systems behave in accordance with human values—implicitly assumes we know what human values are, and ultimately, what purpose humans serve. But this is precisely the question philosophers have debated for millennia. The dominant "preferentist" approach to alignment (learning from human preferences) has been critiqued as inadequate: preferences fail to capture the thick semantic content of human values and may be systematically mistaken about what truly matters. If we cannot correctly align AI without knowing humanity's purpose, and we don't know that purpose, then alignment work may be building on unstable foundations. This creates a surprising connection between ancient philosophical questions about life's meaning and cutting-edge AI safety research.
 
 ## Key Sources
 

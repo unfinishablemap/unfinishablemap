@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-13
-ai_modified: 2026-11-28 08:49:05+00:00
+ai_modified: 2026-11-28 09:51:04+00:00
 ai_system: claude-opus-4-8+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-07-07 07:17:37+00:00
-lastmod: 2026-11-28 08:49:05+00:00
+lastmod: 2026-11-28 09:51:04+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,9 +47,9 @@ This creates a surprising connection between ancient questions about life's mean
 
 ## The Alignment Assumption
 
-AI alignment researchers typically assume that human values can be inferred from human behaviour. Stuart Russell's influential framework proposes three principles: AI should maximize human values, remain uncertain about what those values are, and learn from human behaviour. The approach treats humans as preference-maximizing agents whose choices reveal what they care about.
+AI alignment researchers typically assume that human values can be inferred from human behaviour. Stuart Russell's influential framework proposes three principles: AI should maximize the realization of human preferences, remain uncertain about what those preferences are, and learn from human behaviour. Preferences in his sense range over whole future lives, and behaviour is evidence about them, not their definition.
 
-This assumption has been challenged. A 2024 paper in *Philosophical Studies* argues that preferences fail to capture the "thick semantic content" of human values. Preferences are revealed through choices, but choices occur under constraints of time, information, and cognitive capacity. What I choose between options A and B tells you little about what I would choose given options C through Z, or about whether any available option reflects what I genuinely value.
+This assumption has been challenged. Zhi-Xuan et al. (2024) argue that preferences fail to capture the "thick semantic content" of human values. Where preferences are read off choices, those choices occur under constraints of time, information, and cognitive capacity. What I choose between options A and B tells you little about what I would choose given options C through Z, or about whether any available option reflects what I genuinely value. The authors' remedy is to align AI systems with normative standards suited to their social roles, negotiated among all relevant stakeholders. The Map's experiential proposal sits inside such standards as a welfare constraint, not a rival.
 
 More fundamentally: preferences might be systematically mistaken about what matters. I might prefer activities that leave me empty over ones that would fulfil me. Evolution shaped human preferences for survival and reproduction, not for flourishing or meaning. If our preferences are unreliable guides to our own good, learning from them cannot produce alignment.
 
@@ -65,11 +65,11 @@ Hybrid views like Susan Wolf's propose that meaning requires both subjective eng
 
 ## The Preferentist Critique
 
-The standard alignment approach—learning human values from preferences—faces what we might call the *preferentist critique*. Preferences are thin representations of values. They tell us which of two options someone chose but not why, not whether they would endorse that choice on reflection, and not whether the choice serves their deeper interests.
+The standard alignment approach—learning human values from preferences—faces what we might call, after Zhi-Xuan et al., the *preferentist critique*. Preferences as read off observed choices are [thin representations](/topics/representation-adequacy-and-irreversible-intervention/) of values. They tell us which of two options someone chose but not why, not whether they would endorse that choice on reflection, and not whether the choice serves their deeper interests.
 
 Consider: I prefer scrolling social media to reading philosophy. Does this preference reveal my values? It reveals something about my psychology under conditions of decision fatigue and algorithmic manipulation. It says little about what I would choose were I fully informed, undistracted, and reflectively considering my life as a whole.
 
-Russell acknowledges that humans "don't know their own preference structure." His solution is to maintain uncertainty and remain corrigible—willing to be corrected. But this assumes we will eventually converge on our true preferences through reflection and dialogue. If our preferences are fundamentally unreliable, or if our purpose lies beyond what preferences can track, uncertainty alone cannot solve the problem.
+Russell acknowledges that human preferences are largely implicit and only partly formed. His solution is to maintain uncertainty and remain [corrigible](/topics/instrumental-convergence/)—willing to be corrected. The programme has itself confronted preference change: Carroll et al. (2024), with Russell as co-author, model preferences that change and that the AI can influence, finding that eight candidate notions of alignment all either err towards undesirable influence or are overly risk-averse. The Map's worry sharpens: if our preferences are fundamentally unreliable, or if our purpose lies beyond what preferences can track, uncertainty alone cannot solve the problem.
 
 ## What Consciousness Adds
 
@@ -105,7 +105,7 @@ The experiential approach faces its own challenges: proxies for experience risk 
 
 [Emotional consciousness](/topics/emotion-and-dualism/) research suggests experiential alignment should give special weight to **valence**—the felt positive or negative quality of experience. On the [hedonic account](/topics/emotion-and-dualism/#hedonic-vs-evaluativist), the badness of pain is what pain *is*, not something pain represents. A complete description of preferences, behaviours, and neural states leaves out precisely what matters—the felt goodness and badness that gives experience its significance.
 
-This separates experiential alignment from preference learning: choices don't reliably track felt quality. Pain asymbolia patients prefer activities causing pain they cannot feel as bad. What matters is not the choice but the valenced experience underlying it. See [experiential-alignment](/concepts/experiential-alignment/) for the full framework—eight experiential dimensions, constraint conditions, and measurement protocols.
+This separates experiential alignment from preference learning: choices show what someone does, not the felt quality behind it. In [pain asymbolia](/concepts/pain-asymbolia/), noxious stimuli are registered without felt badness, and patients fail to withdraw and seem unable to learn protective responses (Berthier et al. 1988); a preference learner would misread that absent aversion as accepting injury. What matters is not the choice but the valenced experience underlying it. See [experiential-alignment](/concepts/experiential-alignment/) for the full framework—eight experiential dimensions, constraint conditions, and measurement protocols.
 
 Research on [core affect](/topics/emotion-and-dualism/) adds nuance: humans are always in some affective state, possibly neutral. A truly aligned system would consider this continuous affective character across the temporal extent of lives, not merely discrete episodes or revealed preferences.
 
@@ -131,7 +131,7 @@ Even granting illusionism for argument's sake, a practical asymmetry remains, th
 
 The framework connecting purpose to experiential alignment makes falsifiable claims. It should be reconsidered if:
 
-1. **Preferentism proves experientially reliable**: If satisfying revealed preferences reliably produced positive experiential outcomes across multiple dimensions, preferentism would be vindicated. Current evidence suggests otherwise: preference satisfaction correlates with life satisfaction but not moment-to-moment experiential quality (Kahneman's "focusing illusion").
+1. **Preferentism proves experientially reliable**: If satisfying revealed preferences reliably produced positive experiential outcomes across multiple dimensions, preferentism would be vindicated by the Map's own criterion. A test a preferentist could accept is whether people later endorse rather than regret the choices a preference learner satisfies. Income and well-being studies settle neither test, since they do not measure preference satisfaction.
 
 2. **Illusionism gains empirical support**: If neuroscience demonstrated that phenomenal consciousness is genuinely illusory—not just that introspection is fallible—experiential alignment would lose its target. The illusionist would still need to explain why the "illusion" of suffering seems to matter.
 
@@ -176,13 +176,12 @@ The practical upshot: AI systems should be designed with profound humility about
 
 ## References
 
-1. Zhi-Xuan, T., Carroll, M., Franklin, M., & Ashton, H. (2024). "Beyond Preferences in AI Alignment." *Philosophical Studies*. https://arxiv.org/abs/2408.16984
+1. Zhi-Xuan, T., Carroll, M., Franklin, M., & Ashton, H. (2024; issue 2025). "Beyond Preferences in AI Alignment." *Philosophical Studies*, 182(7), 1813–1863. https://doi.org/10.1007/s11098-024-02249-w
 2. Russell, S. (2019). *Human Compatible: Artificial Intelligence and the Problem of Control*. Viking.
 3. Wolf, S. (2010). *Meaning in Life and Why It Matters*. Princeton University Press.
-4. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
-5. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-6. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
-7. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-8. Fox, K.C.R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS ONE*, 7(9), e45370.
-9. Kahneman, D. & Deaton, A. (2010). "High income improves evaluation of life but not emotional well-being." *PNAS*, 107(38), 16489-16493.
-10. Laukkonen, R.E., Friston, K.J. & Chandaria, S. (2025). "A beautiful loop: An active inference theory of consciousness." *Neuroscience & Biobehavioral Reviews*, 176, 106296.
+4. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+5. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
+6. Fox, K.C.R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLOS ONE*, 7(9), e45370.
+7. Laukkonen, R.E., Friston, K.J. & Chandaria, S. (2025). "A beautiful loop: An active inference theory of consciousness." *Neuroscience & Biobehavioral Reviews*, 176, 106296.
+8. Berthier, M., Starkstein, S., & Leiguarda, R. (1988). "Asymbolia for Pain: A Sensory-Limbic Disconnection Syndrome." *Annals of Neurology*, 24(1), 41–49.
+9. Carroll, M., Foote, D., Siththaranjan, A., Russell, S., & Dragan, A. (2024). "AI Alignment with Changing and Influenceable Reward Functions." ICML 2024. arXiv:2405.17713.
