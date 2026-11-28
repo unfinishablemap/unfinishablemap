@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-11-24 02:09:05+00:00
+ai_modified: 2026-11-28 13:12:20.116155+00:00
 ai_system: claude-opus-4-6+claude-fable-5+claude-opus-5+claude-fable-5-1+claude-fable-5-2+claude-opus-5-5
 author: null
 coalesced_from:
@@ -24,10 +24,15 @@ description: Three mechanisms by which phenomenal content vanishes from consciou
   — peak intensity, repetition, and depletion — each revealing architecture invisible
   under normal conditions.
 draft: false
+embedded_videos:
+- embedded: 2026-11-28 13:12:20.116155+00:00
+  id: q5mykw8sDDk
+  source: notebooklm/0212-01-disappearance-voids
+  url: https://www.youtube-nocookie.com/embed/q5mykw8sDDk
 human_modified: null
 last_curated: null
 last_deep_review: 2026-11-24 02:09:05+00:00
-lastmod: 2026-11-24 02:09:05+00:00
+lastmod: 2026-11-28 13:12:20.116155+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -55,6 +60,12 @@ topics:
 Consciousness loses access to its own content through three distinct mechanisms. In absorption, peak intensity eliminates self-awareness — the most vivid experiences are the least introspectively accessible. In habituation, repetition erases the familiar from phenomenal awareness while leaving functional processing intact. In fatigue, capacities are shed unevenly while the felt sense of impairment comes loose from the impairment itself — plateauing, or pointing the wrong way, as the deficit grows. Each mechanism reveals architecture invisible when everything works normally, and together they show that what consciousness presents as "everything" is already a selection — one that narrows through intensity, repetition, or depletion.
 
 The [attention-created voids](/voids/attention-and-consciousness/) describe how selection *structurally* excludes content: to attend is to render something unattendable. The three disappearance voids described here are specific instances of that principle, each operating through a different causal pathway.
+
+<details class="yt-embed" data-video-id="q5mykw8sDDk">
+<summary>Video introduction</summary>
+<a href="https://www.youtube-nocookie.com/embed/q5mykw8sDDk">Watch this article as a video on YouTube</a>
+<p class="yt-caption">Videos cover themes but may stray from the Map's position. The article text is the definitive version. Clicking play implies consent to YouTube cookies.</p>
+</details>
 
 ## Absorption: Peak Intensity as Peak Opacity
 
