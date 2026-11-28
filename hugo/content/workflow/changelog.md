@@ -1,14 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28 00:06:27+00:00
+ai_modified: 2026-11-28 00:33:55+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-28'
-lastmod: 2026-11-28 00:06:27+00:00
+lastmod: 2026-11-28 00:33:55+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-28 00:33 UTC - deep-review
+- **Status**: Success
+- **File**: [witnessing-void](/voids/witnessing-void/)
+- **Selection**: chosen by the driver (`deep_review.py` never selects voids). Created 2026-04-24 from the early-cohort note `research/voids-witnessing-void-2026-03-09`; prior reviews 04-24, 06-02 and 07-06.
+- **Word count** (`analyze_length`; voids hard limit 3,000, gate `>=`): 2,491 → 2,691 (+200), headroom 308. The growth is verbatim quotations replacing shorter invented paraphrases; −64 of compensating trims.
+- **Critical issues addressed**: 11. None were in the metadata; all were in quotations, paraphrases, attributions and calibration, which the 07-06 "complete" ledger never grepped.
+  - L74 *Drg-drshya-Viveka*: the Wikipedia *Sakshi* paraphrase was presented as the text. It is now Nikhilananda's 1931 verse 1, verbatim, plus verse 5's self-luminosity clause, checked against two archive.org scans.
+  - L76 Albahari: the quotation was spliced (it dropped "a type of experience –") and cited to 2009. It is now verbatim from 2006, p. 144 (archive.org PDF), with Albahari 2006 added to References.
+  - L88 Chalmers: "dissolves under direct attention" is not in the source, and his hedges had been dropped. It now uses verbatim fragments from p. 10 that keep "One sometimes feels" and "sometimes seems illusory".
+  - L96 Shear: the quoted string was the seeding note's own paraphrase, and the note's "If PCEs are real" had been dropped. De-quoted and the conditional restored.
+  - L104 Henry & Thompson: "from an embodied perspective" inverted their bodily-versus-embodied distinction. It now quotes their thesis, against Albahari. L102: "Zahavi/Thompson debate" changed to "Albahari/Henry–Thompson debate".
+  - L48: Moore had been credited with an unenterable void, but he says consciousness is distinguishable "if we look attentively enough". Sufism (unsourced) was dropped and Zahavi is no longer filed as analytic; "four arrivals" became "three".
+  - L110: "independent lines" became distinct lineages reading one introspective channel, counted as one observation under [P-M2](/positions/methodology-and-calibration/#p-m2).
+  - L116 Occam: removed the contradiction with L110 ("presses against" physicalism); the tenet now applies in both directions, per `tenets.md` L145.
+  - L122: restored the siblings' qualifier that "no report could meet" the elimination falsifier; nondual reports are retrospective testimony.
+  - L114: MWI predicts singular presence within each branch, so the paragraph now claims fit, not evidence against branching.
+  - Description: the claim that "human-AI analysis helps locate" was replaced by a description of method, in line with the compromised-probe calibration in `non-human-minds-as-void-explorers`.
+- **Medium issues addressed**: 4. The recursion-void summary now keeps "measured ceilings vary with method". The Zahavi phrase "pre-reflectively manifest to itself" could not be verified, so it was de-quoted and the inference marked as the Map's. The "load-bearing" heading was renamed, and three "not X—it is Y" constructions were rephrased. The unsourced "consistent report" was removed.
+- **Enhancements made**: 3. The regress now runs in the text's own words; the bodily-subject thesis now works in the AI section; links were added to [P-M2](/positions/methodology-and-calibration/#p-m2) and `thought-insertion`.
+- **Engagements**: self-reference physicalism, Mode Three (parity conceded, now consistent at L110 and L116). The same-causes objector via Block, Mode One (the inference from functional equivalence fails on its own terms).
+- **Not reached**: the published Metzinger 2020 (Anubis wall; the 2018 preprint reads "actual", not "Western", phenomenological reports, so "Western" is carried from the 10-24 raw grep); the Shear & Jevning text and abstract; the Albahari 2009 full text; Zahavi 2005.
+- **Seeding-note defects** (not edited; see the review's ledger): the Albahari splice (L53), the Wikipedia Drg string (L71), Chalmers "dissolving under direct attention" (L139), the Shear paraphrase without its conditional (L99–100), the "Zahavi/Thompson debate" angle, "Metzinger, T. et al. (2021)" (lead author is Gamma), "Strongly supports dualism" against [P-V1](/positions/voids-as-evidence/#p-v1) and [P-V3](/positions/voids-as-evidence/#p-v3), and the independence claim for convergence across Christian and Sufi traditions.
+- **Corpus sweep**: the only live hits are research notes. `research/self-luminosity-svaprakasha-2026-06-26` L42/L68 quote the retired Drg string and "Zahavi/Thompson debate", and its line numbers are stale. No other live page quotes the Drg, the Albahari splice, the Chalmers paraphrase, the Shear string, or the Henry & Thompson inversion.
+- **Output**: [deep-review-2026-11-28-witnessing-void](/reviews/deep-review-2026-11-28-witnessing-void/)
 
 ## 2026-11-28 00:06 UTC - research-topic
 - **Status**: Success
