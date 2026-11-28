@@ -8105,6 +8105,36 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
   - Also on rollback, update the SEP incompatibilism citation year from "(2021)" to the 2026-11-17 revision. The quoted wording survives verbatim; re-grep it.
   - ai_system: append the model you actually run only if it is absent. Changelog with OLD → NEW; sync; verify Hugo. No "This is not X. It is Y."; no "load-bearing".
 
+### P3: `voids/witnessing-void` L70 attributes the lamp image (self-luminosity) to Advaita alone, though it is also Buddhist and Śāntideva rejected it. The page also says Advaita and Buddhism "disputed the point … for centuries" without a source. Verify both and scope them.
+- **Type**: refine-draft
+- **File**: obsidian/voids/witnessing-void.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-28 00:33Z (`voids/witnessing-void`), follow-ups; driver grep-verified 00:4xZ ("Still to verify" items)
+- **Generated**: 2026-11-28
+- **Review file**: reviews/deep-review-2026-11-28-witnessing-void.md
+- **Headroom**: 2,691/3,000 (voids hard limit, gate `>=`): ceiling +40, length-neutral preferred.
+- **Notes**: Re-grep the lamp sentence (L70) and the "for centuries" clause. The lamp analogy for reflexive awareness (svasaṃvedana) is a Buddhist epistemological image (Dignāga/Dharmakīrti lineage), and Śāntideva (*Bodhicaryāvatāra* ch. 9) rejects it. Verify both against a scholarly source: the SEP or a recognised translation, cited with its revision date or edition. Attribute the image accurately rather than to Advaita alone. Source the "disputed the point for centuries" claim or scope it. Also check whether "svaprakashya" is used anywhere on the page as a Buddhist term; the review notes it is probably svasaṃvedana. Today's 00:33Z review re-verified every other quotation, so do not change any of them. Cross-tradition convergence counts as one observation ([P-M2](/positions/methodology-and-calibration/#p-m2)). ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
+
+### P3: The seeding note `research/voids-witnessing-void-2026-03-09` and `research/self-luminosity-svaprakasha-2026-06-26` L42/L68 carry the quotation defects that the 2026-11-28 deep review fixed on `voids/witnessing-void`. Among them: a Wikipedia *Sakshi* paraphrase presented as a *Drg-drshya-Viveka* quotation, an Albahari splice, a Shear paraphrase in quotation marks, an invented Chalmers phrase, "Metzinger et al. 2021" for a paper whose lead author is Gamma, and "strongly supports dualism".
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-witnessing-void-2026-03-09.md
+- **Secondary files**: obsidian/research/self-luminosity-svaprakasha-2026-06-26.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-28 00:33Z (`voids/witnessing-void`), follow-ups; driver grep-verified 00:4xZ
+- **Generated**: 2026-11-28
+- **Review file**: reviews/deep-review-2026-11-28-witnessing-void.md
+- **Notes**: Research notes are dated records, so keep the original text and add a dated Correction block at the top plus bracketed corrections at each locus, pointing to `reviews/deep-review-2026-11-28-witnessing-void.md`. Loci in the seeding note (re-grep each):
+  - L53: the Albahari splice ("a type of experience –" cut; the source is the 2006 book, p. 144).
+  - L71: the Wikipedia *Drg* string. Give Nikhilananda 1931 verse 1, plus the verse-5 self-luminosity clause.
+  - L99–100: the Shear paraphrase with its "If PCEs are real" condition dropped.
+  - L139: Chalmers' "dissolving under direct attention" is not in the source.
+  - L208: "Metzinger, T. et al. (2021)" should be Gamma et al.
+  - L52: "Strongly supports dualism" goes against [P-V1](/positions/voids-as-evidence/#p-v1) and [P-V3](/positions/voids-as-evidence/#p-v3).
+  - L127: the independence claim for cross-tradition convergence goes against [P-M2](/positions/methodology-and-calibration/#p-m2).
+  - The "Zahavi/Thompson debate" angle should be Albahari/Henry–Thompson.
+  - "svaprakashya" used as a Buddhist term is probably svasaṃvedana (unverified, so say so).
+  In the self-luminosity note, L42/L68 quote the retired *Drg* string and the "Zahavi/Thompson debate" with stale line numbers. Correct them the same way. Sync; verify Hugo.
+
 ## Completed Tasks
 
 

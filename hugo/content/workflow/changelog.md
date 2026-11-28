@@ -1,14 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28 00:33:55+00:00
+ai_modified: 2026-11-28 01:04:40+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-28'
-lastmod: 2026-11-28 00:33:55+00:00
+lastmod: 2026-11-28 01:04:40+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-28 01:04 UTC - research-topic
+- **Status**: Success
+- **Topic**: Defaults in the theory of actual causation and Saad's counterlegal default causal profile (P3, harvested from `reviews/optimistic-2026-11-27-causal-locus-wing.md`, Uncovered Subjects 2)
+- **Output**: [defaults-in-actual-causation-and-the-default-causal-profile-2026-11-28](/research/defaults-in-actual-causation-and-the-default-causal-profile-2026-11-28/)
+- **Sources consulted**: 24. Full text: Saad 2025 (PMC), Hall 2007 (DASH), Halpern & Hitchcock 2015 (arXiv preprint), Maudlin 2004, Williamson (ORA preprint), Lange 2009 excerpt, and three SEP entries. Abstracts: Hitchcock & Knobe 2009 (opening paragraph only), Blanchard & Schaffer 2017, Handfield 2004, Kimpton-Nye 2020, Nolan 1997, Menzies 2004/2017, Hitchcock 2007. Metadata only: Tan 2019, Martin 1994, Bird 1998.
+- **Verdict**: `recommended_action: fold` (topics and concepts at cap, 370/370). Saad's default is a nomic, law-subtraction default rather than a normality default, so the context-relativity critiques do not transfer. Vacuism reaches it only if the psychophysical laws are metaphysically necessary; Saad keeps functional zombies "consistent with" metaphysical possibility. Its determinacy depends on how the laws are partitioned: Saad's n. 15 classes collapse as psychophysical, on which reading the Map's Born-rule reading has no outcome distribution to identify with. A well-defined default is neutral on efficacy ([P-Q3](/positions/quantum-interface/#p-q3)), and the note does not concede epiphenomenalism.
+- **Fold plan**: `topics/one-structure-three-vocabularies` +292 (2,358 → 2,650: new Register A paragraph, an L59 partition sentence, 3 references, and a repair of the stale L43 internal quote stranded by the 11-09 condense `a114ddaa0c`). `concepts/delegatory-causation` L85 replacement, −1 (3,488 → 3,487). No edit to `delegatory-dualism` or `observational-closure`, where the type-O fold owns the headroom.
+- **Quote ledger**: 66/66 strings at count 1 in the downloaded text. Hitchcock & Knobe and Menzies bodies were not reached.
 
 ## 2026-11-28 00:33 UTC - deep-review
 - **Status**: Success
