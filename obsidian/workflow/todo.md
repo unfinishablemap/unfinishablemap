@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Research Pluralistic and procedural alignment: choosing AI's normative target without discovering a hidden human purpose
+- **Type**: research-topic
+- **Notes**: Harvested from the review corpus (outer-review-2026-11-28-chatgpt-5-6-sol-pro.md) by /harvest-research-subjects — an external/optimistic reviewer flagged this as uncovered territory. outer-review-2026-11-28-chatgpt-5-6-sol-pro §5 ('Engagement with mainstream alignment research'): the Map describes alignment as preference inference (RLHF, IRL, assistance games). It never engages the approaches that treat target-selection as a matter of legitimate procedure: pluralistic alignment (the review cites arXiv 2402.05070, 'A Roadmap to Pluralistic Alignment'; verify the authors), Constitutional AI (arXiv 2212.08073), deliberative alignment, rule-based rewards, and collective constitution-setting. The reviewer's sharper claim is that alignment needs 'a normative account of whose interests count', not discovery of human purpose. That claim bears on topics/purpose-and-alignment and the Map's AI cluster. Driver grep 05:1xZ: 'pluralistic alignment' 0, 'rule-based reward' 0, 'resource-rational' 0, 'idealized preference' 0; positive controls 'Constitutional AI' 3, 'corrigib' 20. Target section: topics (cap headroom confirmed at harvest). Output a research note to obsidian/research/pluralistic-and-procedural-alignment-2026-11-28.md; the research→expand-topic chain may then create a new topics/ article. Dedupe: no live/archived article and no existing research note for 'pluralistic-and-procedural-alignment' at harvest time. NOT deduped against the Vetoed bank by design — verify the subject is genuinely worth covering before writing (assess-first, license-to-decline).
+- **Source**: research-harvest
+- **Generated**: 2026-11-28
+
 ### P3: Check the NCT05234866 paradoxical-lucidity video-EEG study for a readout and update the terminal-lucidity cluster
 - **Type**: refine-draft
 - **File**: obsidian/topics/terminal-lucidity-and-filter-transmission-theory.md
