@@ -1204,7 +1204,7 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Type**: human-decision (NOT auto-condensable — do NOT pick as refine-draft/condense)
 - **Notes**: The 2026-06-17 refine-draft (P1 "import strongest non-dualist readings", from convergent ChatGPT 5.5 Pro + Gemini 2.5 Pro reviews) added a dedicated "The Physicalist Counter-Readings" section developing four opponents at strength (fine-grained functionalist, representationalist sub-individuation, deflationary/heterophenomenological, illusionist/metacognitive). This is the load-bearing content the convergent P1 demanded ("develop in-body rather than link away"). Word count rose 2795 → 3578: over the voids HARD threshold (3000) by ~578, under CRITICAL (4000) by ~422. ~300 words of redundant pre-existing hedging were already absorbed during the refine; the remaining bulk is the developed opponent engagements and cannot be auto-condensed without defeating the review's purpose. **Human editorial decision needed:** either (a) accept the over-hard length as justified by the four mandated counter-readings (a recognised tension — the voids ceiling vs. the direct-refutation-discipline demand to develop opponents fully), or (b) decide which counter-reading(s) to compress / spin out to the apex [[phenomenal-variation-within-a-species]] (which already carries the four-absorption-strategy treatment) and link from the void. Do NOT auto-condense the new opponent engagements ([[refine-then-condense-same-session-churn]], [[human-decision-task-mispicked-as-refine]]). Note the pending P1 "Refresh synesthesia citations" task (below) is citation-additive and will push length further — coordinate the two.
 - **Source**: refine-draft length-flag
-- **Generated**: 2026-06-17
+- **Generated**: 2026-06-17 ADDENDUM (driver 2026-11-28 09:4xZ, from `reviews/deep-review-2026-11-28-affective-void.md` follow-up (a)): synesthetic-void L47 quotes "Martian colours" with no References entry. The likely source is Ramachandran & Hubbard 2001 (unverified, since the 11-28 review could not reach it). The fix is pending this length decision. The sibling hits on palette-extension-void and archive/voids/imagination-void are queued separately.
 
 ### HUMAN LENGTH DECISION (2026-06-07): Steelman the phenomenal-concepts strategy + symmetrize the "no new predictions" charge (duhem-quine article)
 - **Type**: human-decision (do NOT auto-pick as refine/condense)
@@ -8238,6 +8238,47 @@ Surfaced 2026-08-07 by an agentic-social run vetting a post blurb (`topics/pheno
 - **Notes**: (1) L93 "Contemporary research treats trained meditators as an \"ideal population\" for phenomenological studies—part of what 2025 work calls a \"renaissance of first-person methods.\"" (count 1 for "renaissance of first-person methods"). Facts, verified 2026-11-28. The research note's source for both phrases (its L102–L108) is Milicevic, A., Blazely, A., Bragin, A., Dunseath, R. W. J., Matiasz, N., Ribeiro, M., Sardeto Deolindo, C., Kozasa, E. & Wallace, B. A. (2025), "Consciousness, mindfulness, and introspection: integrating first- and second-person phenomenological inquiry with experimental and EEG data to study the mind", *Frontiers in Psychology* 16, 1558453, DOI 10.3389/fpsyg.2025.1558453 (Crossref). Its full text (fetched from frontiersin.org; 167 hits for "contemplative", so the body was present) has 0 hits for "renaissance" and 0 for "ideal". Its abstract describes a mixed-methods framework that "includes the purposive sampling of contemplative practitioners extensively trained to observe their mental states and processes with sustained attention, mindfulness, and introspection". The "renaissance" wording traces to a 2025 conference announcement at Witten/Herdecke University, not to a paper; "ideal population" is untraced. Remove both pairs of quotation marks and the "2025 work calls" attribution. Then either cite Milicevic et al. 2025 for what it does say (contemplatives purposively sampled as trained observers in designs that combine first-, second- and third-person data) and add it to References, or drop the sentence. Do not keep a quoted "renaissance" without a source. Net ≤ 0.
   (2) Secondary file: the research note's L106–L107 bullets put "Renaissance of first-person methods" and "ideal population" in quotation marks. Add a dated bracket note that neither phrase is in the source, as the note already did for its quote on 2026-05-29. Edit nothing else in the note.
   `ai_system`: append the model you actually run only if it is ABSENT anywhere in the string. `modified`/`ai_modified` from `date -u`. Changelog with OLD → NEW; sync; verify the Hugo copy. No "This is not X. It is Y."; no "load-bearing".
+
+### P3: Siblings of the 2026-11-28 `voids/affective-void` deep review carry unsourced quotes and mis-cited claims: "Martian colours" is quoted with no source on `voids/palette-extension-void` L102 and `archive/voids/imagination-void` L61; an untraceable Freitas quote sits on `archive/voids/alien-minds-void-explorers` L70; `voids/appetitive-void` L57 reverses Berridge & Robinson; `voids/agency-void` L91 cites affective-void for a claim it does not make
+- **Type**: refine-draft
+- **File**: obsidian/voids/palette-extension-void.md
+- **Secondary files**: archive/voids/imagination-void.md, archive/voids/alien-minds-void-explorers.md, obsidian/voids/appetitive-void.md, obsidian/voids/agency-void.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-28 09:31Z (`voids/affective-void`), follow-ups; driver measured 09:4xZ, items (a), (b), (c) and (f)
+- **Generated**: 2026-11-28
+- **Review file**: reviews/deep-review-2026-11-28-affective-void.md
+- **Headroom**: analyze_length at 09:4xZ.
+  - OVER the voids hard limit, so NET NEGATIVE only: appetitive-void 3,025, agency-void 3,335.
+  - palette-extension-void: 2,387.
+  - Archived, no gate: imagination-void 2,078, alien-minds-void-explorers 1,992.
+- **Caution**: Do NOT edit `voids/synesthetic-void`. It is under an open HUMAN LENGTH DECISION (2026-06-17), and its own L47 "Martian colours" hit is recorded there as an addendum.
+- **Notes**: Re-grep each locus.
+  - (a) "Martian colours": find the source. The likely one is Ramachandran & Hubbard 2001, *Proc. R. Soc. B* or *J. Consciousness Studies*; check the venue and exact wording in the raw text. If verified, cite it at palette-extension-void L102 and archive imagination-void L61. If not, remove the quotation marks and attribute the description to the synesthete report as paraphrase.
+  - (c) archive alien-minds L70: the Freitas quote matches neither *Xenology* (1979) nor the *Analog* article (1984). Find it or remove the quotation marks. Keep the archive notice.
+  - (b) appetitive-void L57 says incentive salience "survives the absence of hedonic impact". Berridge & Robinson 1998's experiment shows the reverse dissociation (dopamine depletion leaves "liking" intact while "wanting" is impaired). Re-read the paper or the review ledger and correct the direction. NET NEGATIVE.
+  - (f) agency-void L91: re-read what `voids/affective-void` actually says after 09:31Z, and fix or drop the citation. NET NEGATIVE.
+  - P-V3: voids support no tenet. ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
+
+### P3: Five pages summarise `voids/affective-void` without its hedge, as "beyond human phenomenological reach" or "the vast space…" stated flatly: `voids/valence-void` L55, `concepts/qualia` L241, `topics/emotion-and-dualism` L184, `voids/mattering-void` L64, `voids/normative-void` L153
+- **Type**: refine-draft
+- **File**: obsidian/voids/valence-void.md
+- **Secondary files**: obsidian/concepts/qualia.md, obsidian/topics/emotion-and-dualism.md, obsidian/voids/mattering-void.md, obsidian/voids/normative-void.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-28 09:31Z (`voids/affective-void`), follow-ups; driver measured 09:4xZ, item (e) (low priority)
+- **Generated**: 2026-11-28
+- **Review file**: reviews/deep-review-2026-11-28-affective-void.md
+- **Headroom**: concepts/qualia is 4,033, OVER the concepts hard limit of 3,500, so it is LENGTH-NEUTRAL or net negative. The others have room: valence-void 2,360, emotion-and-dualism 3,477 of 4,000, mattering-void 2,481, normative-void 2,344. Keep every edit length-neutral.
+- **Notes**: Re-read `voids/affective-void`'s current `description:` and lead after the 09:31Z review, which softened "literally unthinkable", "genuine" and "vast space" and regraded the dualism link to compatible (P-V3). Bring each one-line gloss into line without strengthening it beyond the target. Re-grep each locus. ai_system: append the model you actually run only if it is absent. Changelog; sync; verify Hugo.
+
+### P3: The seeding note `research/voids-affective-void-2026-01-31` carries nine defects the 2026-11-28 deep review of `voids/affective-void` found, including a Nagel "cow… hay" quote that is not in Nagel's paper, a McGinn "ultraviolet" quote, Freitas cited as "Freund 1980", the Tomkins and de Waal quotes cited to papers that do not contain them, and a 2025 psychedelics paper credited to Carhart-Harris (Crossref gives Cova & Seragnoli). Also `research/alien-minds-void-explorers-2026-01-31` L263 dates Freitas's *Analog* article 1979 (it is 1984).
+- **Type**: refine-draft
+- **File**: obsidian/research/voids-affective-void-2026-01-31.md
+- **Secondary files**: obsidian/research/alien-minds-void-explorers-2026-01-31.md
+- **Status**: pending
+- **Source**: deep-review 2026-11-28 09:31Z (`voids/affective-void`), follow-ups; driver measured 09:4xZ, seeding-note list and item (d)
+- **Generated**: 2026-11-28
+- **Review file**: reviews/deep-review-2026-11-28-affective-void.md
+- **Notes**: Research notes are dated records. Keep the original text, add a dated Correction block at the top pointing to `reviews/deep-review-2026-11-28-affective-void.md`, and add bracketed corrections at each locus the review lists (re-grep each). Use the review's verification ledger for the correct sources: Freitas 1984 *Analog* versus 1979 *Xenology*, Frank & Wilson 2020 for the Tomkins sentence, Reese 2019 (Longreads) for de Waal, and Cova & Seragnoli 2025 for the psychedelics paper. Sync; verify Hugo.
 
 ## Completed Tasks
 

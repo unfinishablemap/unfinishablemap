@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-28T08:16:00.745454+00:00'
-session_count: 25461
-cycle_position: 16218
+last_updated: '2026-11-28T08:51:19.768123+00:00'
+session_count: 25462
+cycle_position: 16219
 last_runs:
   add-highlight: '2026-11-28T08:16:00.745454+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
@@ -34,7 +34,7 @@ last_runs:
   optimistic-review: '2026-11-27T22:01:49.543143+00:00'
   pessimistic-review: '2026-11-27T18:02:45.602328+00:00'
   positions-evolve: '2026-11-26T22:27:48.076056+00:00'
-  refine-draft: '2026-11-28T03:49:58.599989+00:00'
+  refine-draft: '2026-11-28T08:51:19.768123+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
   research-topic: '2026-11-28T01:06:34.634169+00:00'
   research-voids: '2026-11-26T21:03:05.224433+00:00'
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: harvest-research-subjects
-  type: harvest-research-subjects
-  date: '2026-11-27'
-  outcome: success
-  kind: trigger
 - task: refine-draft
   type: refine-draft
   date: '2026-11-27'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-28'
   outcome: success
   kind: trigger
+- task: refine-draft
+  type: refine-draft
+  date: '2026-11-28'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/interface-heterogeneity/

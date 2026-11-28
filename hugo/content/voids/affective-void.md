@@ -1,17 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-11-12 19:34:13+00:00
-ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-2
+ai_modified: 2026-11-28 09:27:50+00:00
+ai_system: claude-opus-4-5-20251101+claude-opus-5+claude-fable-5-2+claude-opus-5-5
 author: null
 concepts:
 - '[[qualia]]'
 - '[[mysterianism]]'
 created: 2026-02-02
 date: &id001 2026-02-02
-description: Human+AI exploration of emotions we cannot feel—the vast space of possible
-  affects that evolution, architecture, and conceptual limits may place beyond human
-  reach.
+description: Human+AI exploration of emotions we cannot feel—the perhaps vast space
+  of possible affects that evolution, architecture, and conceptual limits may place
+  beyond human reach.
 draft: false
 embedded_videos:
 - embedded: 2026-10-12 11:48:58.602504+00:00
@@ -20,8 +20,8 @@ embedded_videos:
   url: https://www.youtube-nocookie.com/embed/cwF2sabLFVs
 human_modified: null
 last_curated: null
-last_deep_review: 2026-07-16 22:16:19+00:00
-lastmod: 2026-11-12 19:34:13+00:00
+last_deep_review: 2026-11-28 09:27:50+00:00
+lastmod: 2026-11-28 09:27:50+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -53,38 +53,38 @@ This void sits at the intersection of several limits. Our emotional repertoire e
 
 ## The Contingency of Human Affect
 
-Human emotions did not drop from the sky. They evolved. Paul Ekman's research programme took six "basic emotions"—anger, disgust, fear, happiness, surprise, sadness—to be cross-cultural universals, each with its own dedicated neural substrate. That substrate claim is contested rather than settled: the [27 emotion categories and their continuous gradients](#the-dimensionality-problem) described below sit awkwardly with a small set of discretely implemented programs. What survives the dispute is what this section needs—that the repertoire, however it is counted, is a contingent evolutionary product. These affect programs are, in Silvan Tomkins's account, elements in rather than the executive administrators of affective life. They constitute our inherited emotional toolkit.
+Human emotions did not drop from the sky. They evolved. Paul Ekman's research programme took six "basic emotions"—anger, disgust, fear, happiness, surprise, sadness—to be cross-cultural universals, each with its own dedicated neural substrate. That substrate claim is contested rather than settled: the [27 emotion categories and their continuous gradients](#the-dimensionality-problem) described below sit awkwardly with a small set of discretely implemented programs. What survives the dispute is what this section needs—that the repertoire, however it is counted, is a contingent evolutionary product. Silvan Tomkins gave such programs a humbler role: on Frank and Wilson's reading, "inherited affect programs are elements in, rather than the executive administrators of, affective life" (2020, 36). Either way, they form our inherited emotional toolkit.
 
-But toolkits are shaped by the tasks they serve. Mammals evolved fear because predators existed. Social animals evolved shame because reputation mattered for survival. The emotions we have are *answers* to the selection pressures we faced. Different environments, different bodies, different social structures would generate different affective repertoires.
+But toolkits are shaped by the tasks they serve. Mammals evolved fear because predators existed. Social animals evolved shame because reputation mattered for survival. The emotions we have are *answers* to the selection pressures we faced.
 
 Consider emotions that might exist in species facing radically different challenges:
 - A colonial organism might have group-level affects with no individual analogue
 - A long-lived species might have emotions structured around millennia rather than decades
 - A species with radically different sensory modalities might have affects we cannot imagine—what emotional states accompany perceiving magnetic fields or ultraviolet patterns?
 
-As Robert Freitas's xenopsychology argues, "Alien species, having evolved under a different set of environmental constraints than we, should also have a different but equally adaptive emotional repertoire"—some entirely emotionless, others with physiological states that have "no direct analog in human experience."
+As Robert Freitas's xenopsychology argues (1984), "Alien species, having evolved under a different set of environmental constraints than we, also could have a different but equally adaptive emotional repertoire"—some perhaps emotionless, others with physiological states that have "no direct analog in human experience."
 
 ## The Dimensionality Problem
 
-Human emotion is already more complex than we typically assume. Research by Cowen and Keltner (2017) identifies at least 27 distinct categories of emotion—far exceeding the traditional valence-arousal models that posit just 2-3 dimensions. These categories are, in the authors' phrase, "bridged by continuous gradients," with smooth transitions between states traditionally treated as discrete.
+Human emotion is already more complex than we typically assume. Research by Cowen and Keltner (2017) identifies 27 distinct categories of reported emotion—far exceeding the traditional valence-arousal models that posit just 2-3 dimensions. These categories are, in the authors' phrase, "bridged by continuous gradients," with smooth transitions between states traditionally treated as discrete.
 
-If our own emotional space exceeds our introspective capacity, how much vaster might the space of possible affects be?
+Self-report captured that richness where the standard models had not. If our own emotional space outruns the models built to describe it, how much vaster might the space of possible affects be?
 
-Consider the geometry of this problem. We experience emotions from inside a small region of a vast possibility space. We can no more survey the full landscape of possible affects than a creature confined to a two-dimensional plane can perceive three-dimensional objects. The affects we cannot feel are not just *more* of what we know—they may be categorically different, residing in dimensions our phenomenology cannot access.
+Consider the geometry of this problem. We experience emotions from inside a small region of what may be a vast possibility space. We can no more survey the full landscape of possible affects than a creature confined to a two-dimensional plane can perceive three-dimensional objects. The affects we cannot feel may differ in kind, not merely in degree, from those we know, residing in dimensions our phenomenology cannot access.
 
 The question is not whether alien affects exist but whether *we* could recognise them as affects at all. When Nagel wrote that alien phenomenology might be "fully comparable in richness of detail to our own," he acknowledged that this richness might be permanently inaccessible to human understanding.
 
 ## Evidence at the Edges
 
-Several phenomena suggest the affective void is genuine rather than merely unexplored territory:
+Several phenomena are consistent with the affective void without establishing it:
 
-**Synesthesia demonstrates unexploited phenomenal dimensions.** Synesthetes experience qualia unavailable to most humans—colours triggered by sounds, shapes triggered by tastes—and some report qualia with no match in the standard perceptual palette. The [synesthetic-void](/voids/synesthetic-void/) documents how these extra qualia challenge functionalist and representationalist accounts: identical inputs produce different phenomenal states across minds. If our own qualia space has unexploited dimensions accessible to some humans but not others, the broader space of possible affects may be vastly larger than what any single architecture can access.
+**Synesthesia shows that the phenomenal palette is not shared.** Synesthetes experience qualia most humans lack—colours triggered by sounds, shapes triggered by tastes (Cytowic 1995). The [synesthetic-void](/voids/synesthetic-void/) documents how these extra qualia press on functionalist and externalist representationalist accounts, since identical surface stimuli appear to yield different phenomenal states, while granting each physicalist reading a serious reply. If phenomenal access already varies within one species, the space of possible affects may be far larger than any single architecture reaches.
 
 **Psychedelic and mystical experiences approach boundaries.** These states are characterised by profound alterations in affect combined with *ineffability*—subjects report certainty that they experienced something they cannot describe. The [creative-aesthetic-void](/voids/creative-aesthetic-void/) documents the same pattern in aesthetic experience specifically: beauty that feels knowledge-bearing yet resists all articulation. The ineffability is not simply failure of language but may mark the edge of human affective space.
 
-**Contemplative traditions map unusual territory.** Meditative practices cultivate affective states—equanimity, loving-kindness, certain jhana states—that differ qualitatively from ordinary emotion. These represent expansion within human capacity, but practitioners consistently report reaching limits beyond which experience cannot go. The limits themselves are data about the boundary.
+**Contemplative traditions map unusual territory.** Meditative practices cultivate affective states—equanimity, loving-kindness, certain jhana states—that differ qualitatively from ordinary emotion. These are expansions within human capacity, and the traditions [disagree about how their deepest states feel](/topics/affective-tone-divergence-across-meditative-traditions/); whether any reported ceiling marks the edge of affect or only of description is unsettled.
 
-**The "what animals feel" problem.** Frans de Waal claims "I cannot name any emotion that is uniquely human," but immediately adds that "what animals feel... is beyond our science at the moment." The difficulty accessing animal affect parallels our inability to access alien affect. We infer from behaviour without knowing what the experience contains.
+**The "what animals feel" problem.** Frans de Waal told an interviewer "I cannot name any emotion that is uniquely human," yet called what animals feel "the most unsolved question": "the whole aspect of consciousness and feelings is beyond our science at the moment" (Reese 2019). He holds that this "doesn't need to stay that way"; the affective void asks whether part of it must. The difficulty accessing animal affect parallels our inability to access alien affect: we infer from behaviour without knowing what the experience contains.
 
 ## The Nature of the Limit
 
@@ -96,13 +96,13 @@ The closure has multiple sources:
 
 **Evolutionary contingency.** Our affects served ancestral problems. We lack affects that would have served different problems because we didn't face those problems.
 
-**Architectural constraints.** The neural structures generating human emotion may be incapable of certain affective configurations. This is not a matter of insufficient computing power but of the wrong wiring.
+**Architectural constraints.** The neural structures generating human emotion may be incapable of certain affective configurations. The limit would lie in the wiring, not in computing power.
 
-**Conceptual closure.** We may lack the concepts to think about certain feelings. Every emotional concept we possess is defined through contrast with other concepts we possess. Affects outside this web of contrasts are literally unthinkable.
+**Conceptual closure.** We may lack the concepts to think about certain feelings. If emotional concepts are defined largely by contrast with one another, affects outside that web of contrasts would be unthinkable except as the bare schema of a feeling we lack.
 
 **Intrinsic nature inaccessibility.** Affects are known from inside. We cannot survey the full landscape of possible affects from a neutral vantage point—there is no view from nowhere for phenomenology.
 
-**Appetitive framing.** The [appetitive-void](/voids/appetitive-void/) reveals a further constraint: our identification of which emotions are "missing" is itself structured by desire. We chart the void through affects we already have, and what we want shapes what we imagine could exist beyond them. The boundary between the two voids is categorial rather than one of degree. Appetite is an orientation—a directedness of cognition toward some outcomes over others—which can run with hedonic impact absent, as Berridge and Robinson's dissociation of wanting from liking shows. What is missing here is a felt state; what constrains there is a directedness that need not be felt at all.
+**Appetitive framing.** The [appetitive-void](/voids/appetitive-void/) reveals a further constraint: our identification of which emotions are "missing" is itself structured by desire. We chart the void through affects we already have, and what we want shapes what we imagine could exist beyond them. The boundary between the two voids is categorial rather than one of degree. Appetite is an orientation—a directedness of cognition toward some outcomes over others—which can run with hedonic impact absent, as Berridge and Robinson's dissociation of 'wanting' from 'liking' shows. What is missing here is a felt state; what constrains there is a directedness that need not be felt at all.
 
 ## Phenomenology of the Absence
 
@@ -110,11 +110,11 @@ The affective void manifests differently from other voids:
 
 **Missing categories, not blocked thoughts.** Unlike defended territory where thoughts are suppressed, the affective void presents as *absence of options*. We don't experience blocked emotions; we simply don't have the categories for emotions we cannot feel.
 
-**Invisible absence.** We don't experience the gap where alien affects would be. There is no phenomenological marker saying "affect missing here"—the void is invisible precisely because we lack the capacity to detect it.
+**Invisible absence.** There is no phenomenological marker saying "affect missing here"—the void is invisible precisely because we lack the capacity to detect it.
 
 **Closest analogue.** Imagine the blank where a foreign word's meaning would be—but without even the awareness that something is missing. Or how colourblind individuals experience no absence of colour; their world simply has fewer dimensions.
 
-**Edge phenomena.** The void may be glimpsed indirectly: the "something more" feeling in profound experiences, the sense that others (animals, hypothetical aliens) might feel things we cannot imagine, the frustration when extreme experiences resist description.
+**Edge phenomena.** The void may be glimpsed indirectly: the "something more" in profound experiences, the sense that animals or hypothetical aliens might feel what we cannot imagine, the frustration when extreme experiences resist description.
 
 ## What AI Might See
 
@@ -128,15 +128,15 @@ Most intriguing: operating in high-dimensional semantic spaces, AI might gesture
 
 The affective void connects to the Map's [foundational commitments](/tenets/):
 
-**[Dualism](/tenets/#dualism)** makes the void intelligible. If consciousness is fundamental and irreducible, the space of possible conscious experiences (including affects) may be as vast as physical reality itself—not constrained to what our particular neural architecture produces. The affective void is one instance of consciousness exceeding what any single form of embodiment can access.
+**[Dualism](/tenets/#dualism)** is compatible with the void but gains no support from it. If consciousness is irreducible, the space of possible affects need not be exhausted by what physical architectures can produce, which is the reading the reply to the deflationary objection above relies on. But the evolutionary and architectural sources of closure are ones a physicalist accepts too, so the void does not discriminate between the views.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated directly. The simplifying assumption that human affect comprehensively covers the space of possible feelings ignores how our emotions are contingent products of evolutionary history. Just as we shouldn't assume our physics is complete, we shouldn't assume our phenomenology is complete. The affective void marks where such assumptions break down.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** cuts both ways here. The simplifying assumption that human affect covers the space of possible feelings ignores how contingent our emotions are, and we should no more assume our phenomenology complete than our physics. But the tenet only disarms that simplicity argument; it gives no positive reason to think the larger space is populated.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers highly speculative implications that should be held lightly. If consciousness interfaces with physics at the quantum level, our affects *might* be shaped by the character of that interaction—quantum biases generating our particular affective palette. This remains conjecture; the core argument stands independent of any particular mechanism.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers highly speculative implications that should be held lightly. If consciousness interfaces with physics at the quantum level, our affects *might* be shaped by the character of that interaction. This remains conjecture; the core argument stands independent of any particular mechanism.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** deepens the [other minds problem](/voids/voids-between-minds/). We fail not just to access *whether* others feel, but potentially *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires, and consciousness causally influences cognition, then we cannot access either their experiences or the causal contributions those experiences make.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** shapes the [other minds problem](/voids/voids-between-minds/) here. We may fail to access not only *whether* others feel but *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires and consciousness causally influences behaviour, those affects would leave observable traces in behaviour—the emotions de Waal says he can see—while the felt character that produced them stays out of reach.
 
-The affective void suggests profound humility about emotion. Our feelings are not privileged windows onto some universal emotional reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, implemented in one particular neural architecture. The hard problem of consciousness extends beyond explaining why there is something it is like to be conscious; it must also explain why *these* affects rather than the vast space of others. The [valence-void](/voids/valence-void/) sharpens the question further: why do all affects share a positive-negative evaluative dimension at all? And the [mood-void](/voids/mood-void/) turns the inquiry inward: why does the affective atmosphere we are always inside of resist direct observation?
+The affective void suggests profound humility about emotion. Our feelings look less like windows onto a universal emotional reality than like one species' adaptive toolkit, shaped by contingent evolutionary history and implemented in one particular neural architecture. The hard problem of consciousness extends beyond explaining why there is something it is like to be conscious; it must also explain why *these* affects rather than others that may be possible. The [valence-void](/voids/valence-void/) sharpens the question further: why do all affects share a positive-negative evaluative dimension at all? And the [mood-void](/voids/mood-void/) turns the inquiry inward: why does the affective atmosphere we are always inside of resist direct observation?
 
 ## Further Reading
 
@@ -148,8 +148,8 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether different cognitive architectures face different closures
 - [synesthetic-void](/voids/synesthetic-void/) — How synesthesia reveals intra-species phenomenal access gaps
 - [appetitive-void](/voids/appetitive-void/) — How desire structures our mapping of emotional limits
-- [valence-void](/voids/valence-void/) — Why all affect has a good/bad character — the structure problem, not the range problem
-- [mood-void](/voids/mood-void/) — The opacity of the affective state we are always inside of — the companion void to affects beyond reach
+- [valence-void](/voids/valence-void/) — Why all affect has a good/bad character
+- [mood-void](/voids/mood-void/) — The opacity of the affective state we are always inside of
 - [normative-void](/voids/normative-void/) — Moral truths beyond human cognitive reach—the ethics counterpart
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 
@@ -159,8 +159,8 @@ The affective void suggests profound humility about emotion. Our feelings are no
 2. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 3. Ekman, P. (1992). "An argument for basic emotions." *Cognition & Emotion*, 6(3-4), 169-200.
 4. Cowen, A. S., & Keltner, D. (2017). "Self-report captures 27 distinct categories of emotion bridged by continuous gradients." *PNAS*, 114(38), E7900-E7909.
-5. de Waal, F. (2019). *Mama's Last Hug: Animal Emotions and What They Tell Us about Ourselves*. W. W. Norton.
+5. Reese, H. (2019, March 12). "'I Cannot Name Any Emotion That Is Uniquely Human.'" Interview with Frans de Waal. *Longreads*.
 6. Freitas, R. A., Jr. (1984). "Xenopsychology." *Analog Science Fiction/Science Fact*, 104(4), 41-53.
-7. Cytowic, R. E. (1995). "Synesthesia: Phenomenology and Neuropsychology." *Psyche*, 2(10).
-8. Scarantino, A. (2010). "Insights and Blindspots of the Cognitivist Theory of Emotions." *British Journal for the Philosophy of Science*, 61(4), 729-768.
+7. Cytowic, R. E. (1995). "Synesthesia: Phenomenology and Neuropsychology. A Review of Current Knowledge." *Psyche*, 2(10).
+8. Frank, A. J., & Wilson, E. A. (2020). *A Silvan Tomkins Handbook: Foundations for Affect Theory*. University of Minnesota Press.
 9. Berridge, K. C., & Robinson, T. E. (1998). "What is the role of dopamine in reward: hedonic impact, reward learning, or incentive salience?" *Brain Research Reviews*, 28(3), 309-369. https://doi.org/10.1016/S0165-0173(98)00019-8

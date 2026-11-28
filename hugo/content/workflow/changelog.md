@@ -1,14 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28 08:49:05+00:00
+ai_modified: 2026-11-28 09:31:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-28'
-lastmod: 2026-11-28 08:49:05+00:00
+lastmod: 2026-11-28 09:31:00+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-28 09:31 UTC - deep-review
+- **Status**: Success
+- **File**: [affective-void](/voids/affective-void/)
+- **Selection**: driver-picked. `deep_review.py` never selects voids. The page is from the early cohort (created 2026-02-02 from `research/voids-affective-void-2026-01-31`); it was last deep-reviewed 2026-07-16 and last edited 2026-11-12.
+- **Word count**: 2,163 → 2,220 (+57) by `analyze_length`. The reference block is about +5 net (de Waal book and orphan Scarantino out; Reese 2019 and Frank & Wilson 2020 in). The prose is about +52, almost all attribution apparatus, partly offset by four trims.
+- **Critical issues addressed**: 9.
+  - (1) The Freitas quote used the *Xenology* (1979) wording "should also have"; the cited *Analog* 1984 text reads "also could have". Now quoted from the cited work, and "some entirely emotionless" is now "some perhaps emotionless".
+  - (2) de Waal: both quotes come from the Reese 2019 Longreads interview, not *Mama's Last Hug*. "Immediately adds" was false. "what animals feel... is beyond our science" had a spliced subject. The qualifier "doesn't need to stay that way" had been dropped.
+  - (3) Cowen & Keltner: "our own emotional space exceeds our introspective capacity" inverted a SELF-REPORT finding, and "at least 27" is 2018 TICS-reply wording.
+  - (4) The Tomkins line was Frank & Wilson's sentence (2020, p. 36), unquoted and uncredited. It is now quoted and credited, with a reference added.
+  - (5) Bidirectional paragraph: "cannot access … the causal contributions those experiences make" contradicted L83 and drifted toward epiphenomenalism.
+  - (6) [P-V3](/positions/voids-as-evidence/#p-v3): "Dualism makes the void intelligible … one instance of consciousness exceeding …" is now "compatible … does not discriminate between the views".
+  - (7) The synesthetic-void summary dropped the sibling's "externalist", "surface", "appear" and its concession that each physicalist reading has a serious version. "Some report qualia with no match" overgeneralized one case.
+  - (8) "Practitioners consistently report reaching limits …" was uncited and contradicts `topics/affective-tone-divergence-across-meditative-traditions`.
+  - (9) Orphan references: Scarantino removed; Cytowic now cited inline.
+- **Medium issues addressed**: 6:
+  - Tenet 5 now cuts both ways;
+  - the conceptual-closure "literally unthinkable" hardening;
+  - the Evidence-section "genuine" calibration;
+  - "vast space" hardened in three places;
+  - three negation-correction constructs;
+  - the MQI "quantum biases" phrase.
+- **Enhancements made**: 2: the piped sibling link, and the Bidirectional paragraph tied to de Waal's emotion/feeling split.
+- **Verification**: every quoted string was grepped in raw source text: Nagel PDF, McGinn *Mind* copy, PMC efetch, Manifold Handbook JSON, rfreitas.com *Analog* reproduction, xenology.info, Longreads, the Berridge & Robinson PDF, and the Wayback-archived Psyche page. Metadata was checked at Crossref. The per-quote ledger is in the review.
+- **Not reached**: Ekman 1992 full text (image-only PDF; the substrate gloss was checked via Hutto et al. 2018's quotation of it); the *Mama's Last Hug* full text; the Cowen & Keltner 2017 body text; Ramachandran & Hubbard 2001 ("Martian colours", so the claim was dropped here).
+- **Engagement modes (editor-internal)**: deflationary objection, Mixed (Mode Two on the functional-exhaustion premise, then a Mode Three boundary), unchanged. Synesthesia physicalist readings: delegated to the sibling, now reported with its qualifiers.
+- **Style checks**: 0 "This is not", 0 "load-bearing". The new wikilink is piped. Pronoun check done: "they" = affect programs; "this"/"it" = the beyond-science limit; "them" = those affects; the antecedent of "web of contrasts" was restored.
+- **ai_system**: `claude-opus-5-5` was absent from the whole string, so it was appended.
+- **Seeding note**: 9 defects listed in the review, NOT edited. They include:
+  - a Nagel "cow … hay" quote that is not in Nagel 1974;
+  - the McGinn "ultraviolet" quote, still live in the note;
+  - the Freitas cite "Freund 1980" plus a URL to the wrong work;
+  - the Tomkins phrase cited to PMC6057353, where it is absent;
+  - the de Waal quotes cited to PMC6966324, where they are absent;
+  - the Cowen & Keltner URL pointing to the 2018 reply;
+  - a psychedelic cite "Carhart-Harris et al. 2025" whose actual authors are Cova & Seragnoli.
+- **Follow-ups for the driver to queue** (no other files edited):
+  - (a) `voids/synesthetic-void` L47 quotes "Martian colours" with no References entry (the likely source, Ramachandran & Hubbard 2001b, *JCS* 8(12), is unverified). The same phrase is in `voids/palette-extension-void` L102 and `archive/voids/imagination-void` L61.
+  - (b) `voids/appetitive-void` L57 says "incentive salience survives the absence of hedonic impact". Berridge & Robinson 1998 (pp. 312–313) supports "can be triggered independently" by some manipulations, but its own new experiment shows the reverse dissociation. Low priority.
+  - (c) `archive/voids/alien-minds-void-explorers` L70: the Freitas quote "will most likely teach us something new" is not found in the *Analog* 1984 text or *Xenology* §20.2.3. Unverified.
+  - (d) `research/alien-minds-void-explorers-2026-01-31` L263: "Freitas (1979). 'Xenopsychology.' *Analog*" has the wrong year (1984).
+  - (e) Inbound glosses drop the lead's 11-12 hedge. Several call the void "beyond human phenomenological reach": `voids/valence-void` L55, `concepts/qualia` L241, `topics/emotion-and-dualism` L184, `voids/mattering-void` L64. `voids/normative-void` L153 says "The vast space of emotions we cannot feel". Low priority.
+  - (f) `voids/agency-void` L91 cites `affective-void` for "raw affective tone arrives involuntarily", which is not this page's claim. Low priority.
+  - The vitality-form cross-review P3 was untouched.
+- **Output**: [deep-review-2026-11-28-affective-void](/reviews/deep-review-2026-11-28-affective-void/)
+- **Synced**: `uv run python scripts/sync.py`. The Hugo copy was confirmed (the sibling link converts to `/topics/affective-tone-divergence-across-meditative-traditions/`; `last_deep_review` and `ai_system` carried over).
 
 ## 2026-11-28 08:49 UTC - refine-draft
 - **Status**: Success
