@@ -2,13 +2,13 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-11-28T00:36:10.408650+00:00'
-session_count: 25445
-cycle_position: 16215
+last_updated: '2026-11-28T01:06:34.634169+00:00'
+session_count: 25446
+cycle_position: 16216
 last_runs:
   add-highlight: '2026-11-27T08:09:33.367938+00:00'
   add-highlight-tweet: '2026-10-28T08:26:01.185107+00:00'
-  agentic-social: '2026-11-27T22:14:48.769829+00:00'
+  agentic-social: '2026-11-28T01:15:12.778999+00:00'
   apex-evolve: '2026-11-25T16:04:06.894251+00:00'
   check-links: '2026-11-26T20:51:38.924621+00:00'
   check-model-fallback: '2026-11-27T21:12:01.379235+00:00'
@@ -36,7 +36,7 @@ last_runs:
   positions-evolve: '2026-11-26T22:27:48.076056+00:00'
   refine-draft: '2026-11-27T23:16:47.344390+00:00'
   replenish-queue: '2026-09-29T18:29:46.271371+00:00'
-  research-topic: '2026-11-28T00:07:30.273701+00:00'
+  research-topic: '2026-11-28T01:06:34.634169+00:00'
   research-voids: '2026-11-26T21:03:05.224433+00:00'
   skip-queue-slot: '2026-09-28T21:35:44.768691+00:00'
   tune-system: '2026-11-25T16:31:08.691488+00:00'
@@ -114,7 +114,7 @@ progress:
   questions_written: 0
   voids_written: 124
   positions_written: 29
-  research_notes: 816
+  research_notes: 817
   reviews_completed: 8564
   apex_articles: 44
 quality:
@@ -124,11 +124,6 @@ quality:
   orphaned_files: 0
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-11-27'
-  outcome: success
-  kind: cycle
 - task: research-topic
   type: research-topic
   date: '2026-11-27'
@@ -224,6 +219,11 @@ recent_tasks:
   date: '2026-11-28'
   outcome: success
   kind: cycle
+- task: research-topic
+  type: research-topic
+  date: '2026-11-28'
+  outcome: success
+  kind: queue
 agentic_social:
   recently_posted:
   - url: https://unfinishablemap.org/concepts/interface-heterogeneity/
@@ -445,6 +445,11 @@ agentic_social:
     - consciousness-and-mathematics
     - consciousness-and-the-authority-of-formal-systems
     - hard-problem-of-consciousness
+  - url: https://unfinishablemap.org/topics/metaproblem-of-consciousness-under-dualism/
+    date: '2026-11-28T01:15:12.778973+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - evolution-under-dualism
 queue_status:
   last_replenishment: '2026-09-29T17:40:00+00:00'
   last_replenishment_mode: standard
