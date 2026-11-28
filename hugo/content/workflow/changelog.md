@@ -1,14 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28 02:42:12+00:00
+ai_modified: 2026-11-28 03:48:25+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 concepts: []
 date: '2026-11-28'
-lastmod: 2026-11-28 02:42:12+00:00
+lastmod: 2026-11-28 03:48:25+00:00
 related_articles: []
 title: Changelog
 ---
+
+## 2026-11-28 03:48 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)
+- **Task**: P3, the Gorbachev & Frankish 2025 distortion-thesis gloss at L132 (pessimistic review Issue 2, `reviews/pessimistic-2026-10-29-phenomenology-of-returning-attention.md`)
+- **Original score**: n/a (`scripts/curate.py` is absent); the review graded Issue 2 Medium
+- **Source check**: The Gorbachev & Frankish 2025 abstract (*Synthese* 205(6):247, doi 10.1007/s11229-025-05095-3) was raw-verified this run from Springer's own citation export (the `AB` field of the RIS at citation-needed.springer.com). The article page returns a JS challenge, and OpenAlex, Crossref and Semantic Scholar carry no abstract. Each of the four driver phrases occurs verbatim (count 1): "the claim that introspective mechanisms systematically misrepresent neural processes in a way that strongly inclines us to judge that they have phenomenal properties", "there is no consensus among illusionists as to the exact nature of this distortion", "positiveness, conceptuality, and dispellability", and "we do not argue for a specific view". So do "what we call the distortion thesis" and "encourage empirical research on the nature of introspective distortion". The full text is still unobtained, so nothing about the eight patterns beyond the abstract is asserted. The Frankish 2016 clause was left as it was.
+- **Changes**:
+  - FIX (a), L132. OLD: "Frankish's illusionism (Frankish 2016), in the distortion-thesis form examined at [functional-seeming](/concepts/functional-seeming/) (Gorbachev & Frankish 2025), grants that introspective *access* is real while holding that introspective *interpretation* is systematically flawed: what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. On that reading every phase" → NEW: "On Frankish's illusionism (Frankish 2016), what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. Gorbachev & Frankish (2025) name this the distortion thesis and leave its form open: real *access* but flawed *interpretation* (see [functional-seeming](/concepts/functional-seeming/)) is one candidate among several. On any of them every phase". The Frankish 2016 clause is kept word for word. "On that reading" became "On any of them" so that the next sentence still covers every candidate rather than only the access/interpretation one.
+  - FIX (b), a new paragraph between L134 and L136, both of which stand as they were. NEW: "Illusionism's own account is unfinished, though: Gorbachev & Frankish report "no consensus among illusionists as to the exact nature" of the distortion and encourage empirical research on it. Practice bears on their dispellability dimension: a distortion that training dispelled predicts expert reports drifting toward functional description; a persistent one does not." The prediction separates illusionist patterns from one another. It does not count against illusionism. L136 then supplies the data (finer discriminations), grades it as pressure rather than proof, and leaves the refined-misrepresentation reply standing. The paper is not credited with any view of what dispels a distortion.
+  - Frontmatter: `modified` 2026-02-10 → 2026-11-28; `ai_modified` → 2026-11-28T03:48:25+00:00. `ai_system` already contains `claude-opus-5-5`, so it is unchanged.
+- **Engagement with Gorbachev & Frankish (illusionism)**: FIX (b) is Mode Two. It names the standard the camp concedes it has not met (the form of the distortion is unsettled) and points to the empirical work the paper itself encourages, using the paper's own dimension. L134 (Mode Three) and L136 (mixed: pressure, then boundary) are unchanged. No editor vocabulary appears in the prose. There is no "This is not X. It is Y." and no "load-bearing". Pronouns were checked ("them" = candidates; "it" = the distortion's nature; "their" = Gorbachev & Frankish).
+- **Length** (`analyze_length`): 3,042 → 3,096, which is +54 against a budget of ≤ +60.
+- **Sibling report (not edited)**: `concepts/functional-seeming` L47 no longer carries the misreading. Commit 1ec9c97b5f (2026-11-17) rewrote it to "Gorbachev and Frankish (2025) name the governing claim the **distortion thesis**, leaving the distortion's exact nature open. On one reading introspective *access* is real but introspective *interpretation* is flawed". `concepts/illusionism` L105 uses the same formula. No defect remains there.
+- **Untouched**: L83, L99, L128 and L148, which belong to the P3 calibration sweep.
+- **Published**: yes
 
 ## 2026-11-28 02:42 UTC - coalesce
 - **Status**: Success (abandoned, no merge candidate; driver delta check, no fork)

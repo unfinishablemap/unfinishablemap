@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-10-30 19:53:59+00:00
+ai_modified: 2026-11-28 03:48:25+00:00
 ai_system: claude-opus-4-6+claude-fable-5-1+claude-opus-5-5
 anchoring_audit_exempt: true
 author: null
@@ -17,7 +17,7 @@ concepts:
 - '[[contemplative-epistemology]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-02-10
-date: &id001 2026-02-10
+date: &id001 2026-11-28
 description: The moment attention returns from wandering reveals a micro-structure
   of consciousness that materialism cannot easily explain and illusionism must explain
   away.
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-24 18:18:07+00:00
-lastmod: 2026-10-30 19:53:59+00:00
+lastmod: 2026-11-28 03:48:25+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,9 +133,11 @@ This has implications for the [contemplative epistemology](/concepts/contemplati
 
 ## The Illusionist Objection
 
-Cross-traditional convergence answers the charge that these reports are culturally constructed, but not the sharper objection, which comes from illusionism. Frankish's illusionism (Frankish 2016), in the distortion-thesis form examined at [functional-seeming](/concepts/functional-seeming/) (Gorbachev & Frankish 2025), grants that introspective *access* is real while holding that introspective *interpretation* is systematically flawed: what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. On that reading every phase described here survives as a claim about reports. The wandering, the noticing and the return remain real functional transitions; what is denied is that the noticing carries phenomenal surprise, the return phenomenal effort, the gap phenomenal absence. [Heterophenomenology](/concepts/heterophenomenology/) supplies the method: collect what the meditator says, explain the saying third-personally, and stay neutral on whether anything was felt.
+Cross-traditional convergence answers the charge that these reports are culturally constructed, but not the sharper objection, which comes from illusionism. On Frankish's illusionism (Frankish 2016), what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. Gorbachev & Frankish (2025) name this the distortion thesis and leave its form open: real *access* but flawed *interpretation* (see [functional-seeming](/concepts/functional-seeming/)) is one candidate among several. On any of them every phase described here survives as a claim about reports. The wandering, the noticing and the return remain real functional transitions; what is denied is that the noticing carries phenomenal surprise, the return phenomenal effort, the gap phenomenal absence. [Heterophenomenology](/concepts/heterophenomenology/) supplies the method: collect what the meditator says, explain the saying third-personally, and stay neutral on whether anything was felt.
 
 The objection cannot be closed by insisting that something must undergo the illusion. A representational system need not instantiate what it represents, and the illusionist is entitled to that reply; the regress is a framework-boundary point rather than an in-framework refutation.
+
+Illusionism's own account is unfinished, though: Gorbachev & Frankish report "no consensus among illusionists as to the exact nature" of the distortion and encourage empirical research on it. Practice bears on their dispellability dimension: a distortion that training dispelled predicts expert reports drifting toward functional description; a persistent one does not.
 
 What the return cycle does supply is the training gradient documented above. Discriminations grow finer with practice: the gap shortens, the noticing sheds its evaluative charge, the effort softens into release. Richer confabulation is an awkward explanation for a capacity that becomes more precise under training, and this is the pressure [contemplative evidence](/topics/contemplative-practice-as-philosophical-evidence/) applies generally. It remains pressure rather than proof. The neural correlates cited above track the functional transitions, which the illusionist already grants; nothing in them shows that the refined reports track phenomenal rather than quasi-phenomenal properties, and an illusionist who holds that refined reports track refined misrepresentation is not thereby refuted. The disagreement sits at the framework boundary.
 

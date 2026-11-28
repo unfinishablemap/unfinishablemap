@@ -2,9 +2,9 @@
 title: "Phenomenology of Returning Attention"
 description: "The moment attention returns from wandering reveals a micro-structure of consciousness that materialism cannot easily explain and illusionism must explain away."
 created: 2026-02-10
-modified: 2026-02-10
+modified: 2026-11-28
 human_modified:
-ai_modified: 2026-10-30T19:53:59+00:00
+ai_modified: 2026-11-28T03:48:25+00:00
 draft: false
 anchoring_audit_exempt: true  # 2026-09-24 audit flag verified false-high: 4 strong-assertion hits all calibrated (empirical, negated, or conceded); calibration is structural (illusionist boundary, identity-theory concession, Zeno 'speculative')
 topics:
@@ -129,9 +129,11 @@ This has implications for the [[contemplative-epistemology|contemplative epistem
 
 ## The Illusionist Objection
 
-Cross-traditional convergence answers the charge that these reports are culturally constructed, but not the sharper objection, which comes from illusionism. Frankish's illusionism (Frankish 2016), in the distortion-thesis form examined at [[functional-seeming]] (Gorbachev & Frankish 2025), grants that introspective *access* is real while holding that introspective *interpretation* is systematically flawed: what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. On that reading every phase described here survives as a claim about reports. The wandering, the noticing and the return remain real functional transitions; what is denied is that the noticing carries phenomenal surprise, the return phenomenal effort, the gap phenomenal absence. [[heterophenomenology|Heterophenomenology]] supplies the method: collect what the meditator says, explain the saying third-personally, and stay neutral on whether anything was felt.
+Cross-traditional convergence answers the charge that these reports are culturally constructed, but not the sharper objection, which comes from illusionism. On Frankish's illusionism (Frankish 2016), what meditators detect are quasi-phenomenal properties, physical states that introspection misrepresents as phenomenal. Gorbachev & Frankish (2025) name this the distortion thesis and leave its form open: real *access* but flawed *interpretation* (see [[functional-seeming]]) is one candidate among several. On any of them every phase described here survives as a claim about reports. The wandering, the noticing and the return remain real functional transitions; what is denied is that the noticing carries phenomenal surprise, the return phenomenal effort, the gap phenomenal absence. [[heterophenomenology|Heterophenomenology]] supplies the method: collect what the meditator says, explain the saying third-personally, and stay neutral on whether anything was felt.
 
 The objection cannot be closed by insisting that something must undergo the illusion. A representational system need not instantiate what it represents, and the illusionist is entitled to that reply; the regress is a framework-boundary point rather than an in-framework refutation.
+
+Illusionism's own account is unfinished, though: Gorbachev & Frankish report "no consensus among illusionists as to the exact nature" of the distortion and encourage empirical research on it. Practice bears on their dispellability dimension: a distortion that training dispelled predicts expert reports drifting toward functional description; a persistent one does not.
 
 What the return cycle does supply is the training gradient documented above. Discriminations grow finer with practice: the gap shortens, the noticing sheds its evaluative charge, the effort softens into release. Richer confabulation is an awkward explanation for a capacity that becomes more precise under training, and this is the pressure [[contemplative-practice-as-philosophical-evidence|contemplative evidence]] applies generally. It remains pressure rather than proof. The neural correlates cited above track the functional transitions, which the illusionist already grants; nothing in them shows that the refined reports track phenomenal rather than quasi-phenomenal properties, and an illusionist who holds that refined reports track refined misrepresentation is not thereby refuted. The disagreement sits at the framework boundary.
 
