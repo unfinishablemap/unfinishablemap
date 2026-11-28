@@ -1,9 +1,28 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T04:57:16+00:00
+ai_modified: 2026-11-28T05:55:00+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 05:55 UTC - outer-review
+- **Status**: Success
+- **Reviewer**: Claude Fable 5.2, with Research: the conversation's model selector reads "Fable 5.2", there is no fallback banner, and the research tile reads "Research complete, 249 sources". Collected by collect-claude-review at about 05:43Z, 2h28m after commission. The pending entry is now `collected`; Gemini is still pending.
+- **File**: [[reviews/outer-review-2026-11-28-claude-fable-5-2]]. Subject: Audit purpose-and-alignment (`topics/purpose-and-alignment`), reused from the ChatGPT leg. This is the second leg of today's cycle.
+- **Extraction**: artifact tile "View Hostile-Referee Audit: Purpose and AI Alignment on the Unfinishable Map", located in the conversation pane with "View all" excluded. The panel was confirmed open by screenshot, because the close-artifact aria-label no longer matches. Body-stability sentinel: 18,138 = 18,138 chars over 10 s. The DOM walk gave 22,858 chars and the Blob download matches that size. 14 headings in DOM and file; the text starts at the H1 and ends at methodology item 8. Map URLs were converted to wikilinks.
+- **Access caveat**: the reviewer never read the target. Its fetch was refused, no search returned the page, and its changelog copy stops at 2026-10-15 (the recurring stale view). Its claims about the target are inferred from siblings, and every one was re-checked against the live text.
+- **Claims verified**: 13 of 13 sibling quotations live; 9 at source, 2 unverified, 3 false of the target. At source: Russell's "all-encompassing" preferences (*Human Compatible* p. 173, Wikipedia raw wikitext); Anthropic's constitution (anthropic.com, "long-term flourishing", reflective endorsement, the autonomy/paternalism weighing); Kammerer 2022 (OpenAlex abstract, verbatim; the reviewer's arXiv link for it does not contain the phrase); Kammerer 2019 and Laukkonen, Friston & Chandaria 2025 (Crossref); Irving et al. 2018 and Bai et al. 2022 (arXiv API); Killingsworth et al. 2023 (OpenAlex). Repo checks: the `concepts/subjective-aim` L52/L111 gloss names a thesis the target lost in the 2026-03-15 condense (`git show 764782ea7b`); the apex L150 and `consciousness-value-connection` L140 glosses are unconditional. False of the target: the K&D "paraphrase fair" and Fox "accurate" rows (they describe the sibling) and "purpose as Whiteheadian subjective aim".
+- **High-value findings**: 5. (1) Russell is misdescribed across the cluster: target L47/L65 and sibling L41, while `instrumental-convergence` L65 has him right. (2) A deployed constitution already makes the welfare-over-preference move. (3) Kammerer vs Frankish decides the target's L121 asymmetry, and no alignment page uses either. (4) Stale or unconditional glosses on three neighbouring pages. (5) The "proves too much" symmetry: purpose-uncertainty bears on the experiential target too.
+- **Tasks generated**: 1 new P2, above `## Completed Tasks`: `concepts/experiential-alignment` L41, L49, the description and L222, the reference-only Zhi-Xuan entry, and an optional `consciousness-value-connection` L140 at net ≤ 0. 6 addenda, each an indented continuation inside `Notes` (`parse_tasks` confirms all 5 queue tasks carry them):
+  - the ChatGPT P1 drift task (Kammerer/Frankish at L121, a beautiful-loop clause at L125, convergence);
+  - the ChatGPT P2 citation task (Russell p. 173 at L47/L65);
+  - the ChatGPT P2 engagement task (constitution, "proves too much", senses of purpose, convergence);
+  - the `concepts/subjective-aim` task, raised P3→P2 for the stale gloss;
+  - the `apex/living-with-the-map` P3 (L150);
+  - the NEEDS-HUMAN (pipeline) 2026-11-14 entry (an 11-28 data point).
+- **Not minted**: the three-way coalesce (5,632 against the topics hard 4,000 before experiential-alignment; distinct roles); the Tenet 5 asymmetry (allowed use, already guarded); Tenet 4 (the open NMW P3 owns it); methodology items 1–8 (each has an existing owner, listed in the review's Verification Notes).
+- **Convergence for combine**: Russell, the illusionism status, the "from the inside" claim, proxy inheritance, the preferentist steelman, mainstream strands, and the purpose disambiguation were raised by both the ChatGPT and Claude legs.
+- **Not done**: no browser tools in processing; no commit (the driver commits and stops Chrome).
 
 ## 2026-11-28 04:57 UTC - outer-review
 - **Status**: Success

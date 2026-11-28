@@ -420,9 +420,9 @@
   commissioned_at: '2026-11-28T03:15:32.671876+00:00'
   prompt_summary: 'Audit purpose-and-alignment: claims, citations, counterarguments'
   target_filename: outer-review-2026-11-28-claude-fable-5-2.md
-  status: pending
+  status: collected
   collect_attempts: 0
-  last_attempt_at: null
+  last_attempt_at: '2026-11-28T05:44:15.416570+00:00'
   failure_reason: null
   prompt_text: 'Please conduct an independent, hostile-referee audit of the article
     "Purpose and AI Alignment" on The Unfinishable Map (https://unfinishablemap.org),
