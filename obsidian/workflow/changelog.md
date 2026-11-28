@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T01:04:40+00:00
+ai_modified: 2026-11-28T02:42:12+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 02:42 UTC - coalesce
+- **Status**: Success (abandoned, no merge candidate; driver delta check, no fork)
+- **Delta since the last coalesce** (`05d5630b`, 2026-11-27T07:18Z): `git diff --diff-filter=ADR` over topics, concepts, voids, apex and `archive/` is empty. 25 pages were edited. By `analyze_length`, only two shrank, both trivially:
+  - `topics/the-strong-emergence-of-consciousness`: 3,969→3,963 (−6, the C6 parsimony removal)
+  - `topics/argument-from-reason`: 3,999→3,998 (−1)
+  Both remain within a few words of the topics hard limit, so neither can absorb a partner. Every other page held or grew (0 to +235; the largest is `voids/interested-party-void` 2,640→2,875 from the outer-review orders 3–5).
+- **Pressure** (`count_section_files`): topics 370/370, concepts 370/370, voids 124/125, all unchanged.
+- **Finding**: overlap and length-fit remain disjoint (seventh consecutive no-op). Today's folds from three research notes and two reviews raise lengths further, so relief must come from `/archive`, `/condense` or a cap raise.
+- **Archived**: none
 
 ## 2026-11-28 01:04 UTC - research-topic
 - **Status**: Success
