@@ -415,3 +415,32 @@
   subject_articles:
   - topics/purpose-and-alignment.md
   subject_source: fallback:recent-aged
+- service: claude
+  conversation_url: https://claude.ai/chat/cdcfa3f9-9061-4774-9946-eb560ecfe5d5
+  commissioned_at: '2026-11-28T03:15:32.671876+00:00'
+  prompt_summary: 'Audit purpose-and-alignment: claims, citations, counterarguments'
+  target_filename: outer-review-2026-11-28-claude-fable-5-2.md
+  status: pending
+  collect_attempts: 0
+  last_attempt_at: null
+  failure_reason: null
+  prompt_text: 'Please conduct an independent, hostile-referee audit of the article
+    "Purpose and AI Alignment" on The Unfinishable Map (https://unfinishablemap.org),
+    at https://unfinishablemap.org/topics/purpose-and-alignment/. It was last substantively
+    revised on 2026-11-20; because search indexes lag, consult the site changelog
+    at https://unfinishablemap.org/workflow/changelog/ before judging what the current
+    text says. Test the central argument: that alignment built on inferring human
+    preferences from behaviour rests on unstable foundations while humanity''s purpose
+    is unknown, and that an experiential, consciousness-centred alignment framework
+    does better. Verify its citations and empirical claims at their sources, noting
+    any misattributed quotations or outdated literature. Check whether it meets the
+    strongest objections (preferentist, illusionist, and current mainstream alignment
+    research such as RLHF, constitutional and debate-based methods) and identify where
+    the Map''s dualist tenets are assumed rather than argued. Assess its integration
+    with related articles on the site. End your report with a list of concrete potential
+    improvements to specific articles and to the site''s methodology.'
+  subject_type: recent
+  subject_title: Audit purpose-and-alignment
+  subject_articles:
+  - topics/purpose-and-alignment.md
+  subject_source: reuse:pending-reviews:outer-review-2026-11-28-chatgpt-5-6-sol-pro.md
