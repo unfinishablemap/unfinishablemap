@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-11-09 18:24:01+00:00
+ai_modified: 2026-11-28 12:14:46+00:00
 ai_system: claude-opus-4-6+claude-opus-5-5+claude-fable-5-1
 author: null
 concepts:
@@ -25,7 +25,7 @@ draft: false
 human_modified: null
 last_curated: null
 last_deep_review: 2026-09-16 22:25:00+00:00
-lastmod: 2026-11-09 18:24:01+00:00
+lastmod: 2026-11-28 12:14:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,7 +38,7 @@ topics:
 
 Subjective aim is Alfred North Whitehead's term for the inherent directedness of each actual occasion toward its own completion. Every moment of reality, in Whitehead's [process philosophy](/concepts/process-philosophy/), is not passive matter awaiting external forces but an event actively steering itself toward a definite outcome—what Whitehead called "satisfaction." Subjective aim is what makes each occasion *for itself* rather than merely *there*: it introduces teleology at the most fundamental level of reality.
 
-The Unfinishable Map does not adopt Whitehead's panpsychism—the Map holds that consciousness is distinct from physical processes, while Whitehead attributes proto-experiential qualities to all actuality. But the Map engages with subjective aim because Whitehead's framework illuminates the *structure* of directed selection. If metaphysics can coherently describe events steering their own becoming, then [consciousness selecting among quantum outcomes](/concepts/consciousness-selecting-neural-patterns/) in the brain is not a miraculous exception requiring ad hoc explanation. It is the most sophisticated instance of a structure Whitehead argued pervades reality.
+The Unfinishable Map does not adopt Whitehead's panpsychism—the Map holds that consciousness is distinct from physical processes, while Whitehead attributes proto-experiential qualities to all actuality. But the Map engages with subjective aim because Whitehead's framework illuminates the *structure* of directed selection. If metaphysics can coherently describe events steering their own becoming, then [consciousness selecting among quantum outcomes](/concepts/consciousness-selecting-neural-patterns/) in the brain is the most sophisticated instance of a structure Whitehead argued pervades reality, not a miraculous exception requiring ad hoc explanation.
 
 ## What Subjective Aim Is
 
@@ -52,7 +52,7 @@ Subjective aim is not conscious deliberation. Most actual occasions (those compo
 
 Whitehead held that subjective aim is always aim toward *intensity of experience*—the richest possible integration of an occasion's data consistent with harmony. Value is not imposed on occasions from outside but is constitutive of what they are. Each occasion aims at the best it can achieve given its circumstances.
 
-This has consequences for understanding purpose. The Map's [purpose and alignment](/topics/purpose-and-alignment/) article argues that human purpose is not an external goal to be discovered or constructed but the ongoing subjective aim of each moment of experience toward maximal intensity and harmony. Purpose is *in* experience, not something experience serves.
+This has consequences for understanding purpose, which the Map's [purpose and alignment](/topics/purpose-and-alignment/) article treats as an open question. Whitehead's framework suggests one answer: human purpose is not an external goal to be discovered or constructed but the ongoing subjective aim of each moment of experience toward maximal intensity and harmony. Purpose would then be *in* experience, not something experience serves—a reading the Map can draw on without adopting in full.
 
 The [experiential-alignment](/concepts/experiential-alignment/) concept draws on this insight. If each occasion aims at experiential intensity—integrating hedonic, aesthetic, meaning, agency, and other value dimensions—then alignment is not arbitrary preference but reflects the deep structure of experiential becoming. The [phenomenal value realism](/topics/phenomenal-value-realism/) framework extends this further: values are grounded in phenomenal experience itself, not projected onto a value-neutral world.
 
@@ -82,7 +82,7 @@ Subjective aim faces objections both from within and outside process philosophy.
 
 **Anthropomorphism**: Critics charge that attributing "aim" to electrons and molecules is illegitimate projection of human psychology onto fundamental physics. Whitehead anticipated this objection, insisting that low-level occasions have subjective aim only in an attenuated sense—nothing like human intention. But the question remains: does "attenuated aim" differ from no aim at all, or is it a verbal manoeuvre that conflates two fundamentally different things?
 
-**Empirical vacuity**: Subjective aim generates no distinctive empirical predictions. An electron with subjective aim behaves identically to one without. The concept's value is metaphysical—offering a framework where consciousness is natural rather than anomalous—not empirical. Whether metaphysical illumination without empirical consequences constitutes genuine explanation is debated.
+**Empirical vacuity**: Subjective aim generates no distinctive empirical predictions. An electron behaves identically whether or not its constituent occasions have subjective aim. The concept's value is metaphysical—offering a framework where consciousness is natural rather than anomalous—not empirical. Whether metaphysical illumination without empirical consequences constitutes genuine explanation is debated.
 
 **The combination problem**: If fundamental occasions have subjective aims, how do many simple aims combine into the unified, complex aims of human consciousness? This is a specific form of the [combination problem](/concepts/combination-problem/) that faces all panpsychist positions. Whitehead's answer is structural: a "living person" is a thread of personal order transmitting "hybrid prehensions" occasion to occasion (*Process and Reality*, Part II, ch. III); that such societies inherit *aims* with special intimacy is a process-literature elaboration, and contested; [Griffin (1998)](/concepts/nondualistic-interactionism/) develops it through Hartshorne's distinction between "compound individuals," which have a dominant occasion, and mere aggregates, which do not. Buddhist momentariness (*ksanikavada*) poses a related challenge from a different angle: if each occasion perishes immediately upon achieving satisfaction, what holds the "subject" in subjective aim together across moments? The *anatman* tradition questions whether a unified subject exists to have aims at all; [no-self-objection-to-phenomenal-value](/concepts/no-self-objection-to-phenomenal-value/) treats the value-side of that question, arguing that a momentary experiential locus is enough for mattering even if no subject persists across occasions. The transition from molecular-level directedness to conscious deliberation remains inadequately explained.
 
@@ -111,7 +111,7 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 - [experiential-alignment](/concepts/experiential-alignment/) — Value-directedness as structural feature of consciousness
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Values grounded in phenomenal experience
 - [combination-problem](/concepts/combination-problem/) — How simple aims might compose into complex consciousness
-- [purpose-and-alignment](/topics/purpose-and-alignment/) — Purpose as ongoing subjective aim toward experiential richness
+- [purpose-and-alignment](/topics/purpose-and-alignment/) — Why behavioural preferences fall short for alignment, and why uncertainty about purpose leaves even an experiential target a bet
 - [agent-teleology](/concepts/agent-teleology/) — How conscious beings introduce genuine purpose; subjective aim as metaphysical grounding
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's forward-directedness of experience, structurally close to subjective aim
 - [direction-of-fit](/concepts/direction-of-fit/) — The intentional-structure account of the same directedness; subjective aim is the process-metaphysics face of world-to-mind fit

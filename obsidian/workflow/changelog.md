@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T10:22:16+00:00
+ai_modified: 2026-11-28T12:14:46+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 12:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/subjective-aim]]
+- **Task**: P2 "`concepts/subjective-aim` L52 and L111 attribute to `topics/purpose-and-alignment` a subjective-aim thesis that article has not contained since the 2026-03-15 condense" (items 1, 2 and the 2026-11-28 ADDENDUM item 3; review file `reviews/outer-review-2026-11-28-claude-fable-5-2.md` §2.1, §3 row 3, fix 7)
+- **Original score**: n/a (`scripts/curate.py` is absent); the task notes and the outer-review verification note were used instead.
+- **Word count**: 1,892 → 1,925 (+33) by `analyze_length` (concepts hard 3,500). By locus: L38 −2, L52 +21, L82 +3, L111 +11.
+- **Live target re-read first**: `topics/purpose-and-alignment` as of 911201f1 (10:22Z). Its description and lead now argue that behavioural preferences are neither a sufficient objective nor sufficient evidence, even if purpose were known, and that uncertainty about purpose deepens the problem for every target, the experiential one included; item 4 of its challenge list calls the experiential proposal "a bet, not an exit". Counts there: "subjective aim" 0, "harmony" 0, "intensity" 0, "Whitehead" 0 (the 05c6dd21 refine removed the orphan Whitehead reference). Nothing from that page is quoted in the new text; both new glosses paraphrase it.
+- **L54 check**: "The [[experiential-alignment]] concept draws on this insight" stays. `concepts/experiential-alignment` still draws on Whitehead (L167: occasions aiming at "satisfaction", glossed as experiential intensity; Whitehead 1929 at L249). After the L52 rewrite, "this insight" refers back to the Whiteheadian reading that now closes L52.
+- **Changes** (OLD → NEW; each target located by its quoted string, `str.count == 1`):
+  - L38 (item 1, banned "is not X. It is Y." pair): "…in the brain is not a miraculous exception requiring ad hoc explanation. It is the most sophisticated instance of a structure Whitehead argued pervades reality." → "…in the brain is the most sophisticated instance of a structure Whitehead argued pervades reality, not a miraculous exception requiring ad hoc explanation."
+  - L52 (item 3, the stale attribution): "This has consequences for understanding purpose. The Map's [[purpose-and-alignment|purpose and alignment]] article argues that human purpose is not an external goal to be discovered or constructed but the ongoing subjective aim of each moment of experience toward maximal intensity and harmony. Purpose is *in* experience, not something experience serves." → "This has consequences for understanding purpose, which the Map's [[purpose-and-alignment|purpose and alignment]] article treats as an open question. Whitehead's framework suggests one answer: human purpose is not an external goal to be discovered or constructed but the ongoing subjective aim of each moment of experience toward maximal intensity and harmony. Purpose would then be *in* experience, not something experience serves—a reading the Map can draw on without adopting in full." The subjective-aim reading is now Whitehead's, marked as a reading the Map does not adopt in full (fix 7). It no longer claims the target page cites Whitehead.
+  - L82 (item 2, electron/occasion conflation in the Map's voice): "An electron with subjective aim behaves identically to one without." → "An electron behaves identically whether or not its constituent occasions have subjective aim." This matches L46 ("those composing electrons") and *Process and Reality* on the life of an electron as composed of actual occasions. No new quotation. L80 (critics' voice) was left unchanged, as the task allowed.
+  - L111 (item 3, Further Reading gloss): "[[purpose-and-alignment]] — Purpose as ongoing subjective aim toward experiential richness" → "[[purpose-and-alignment]] — Why behavioural preferences fall short for alignment, and why uncertainty about purpose leaves even an experiential target a bet"
+- **Checks**: old strings 0 hits each, new strings 1 hit each; "load-bearing" 0; no new "It is" negation pair. No new wikilinks (the L52 link was already piped). Pronoun check: L54 "this insight" resolves to the Whiteheadian reading; L82 "its" resolves to the electron; the next sentence's "The concept" is still subjective aim. Corpus grep: no other page repeats the stale gloss (lines linking `purpose-and-alignment` that also mention subjective aim, intensity, harmony or Whitehead: only this file's L52 and L111, both fixed).
+- **Frontmatter**: `ai_modified` 2026-11-09T18:24:01 → 2026-11-28T12:14:46+00:00. `ai_system` unchanged, since `claude-opus-5-5` was already present.
+- **Published**: yes
 
 ## 2026-11-28 10:22 UTC - refine-draft
 - **Status**: Success
