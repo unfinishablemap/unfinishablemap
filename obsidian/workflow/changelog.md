@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-11-28T14:12:18+00:00
+ai_modified: 2026-11-28T14:57:57+00:00
 ai_system: claude-opus-4-8+claude-opus-5+claude-fable-5+claude-fable-5-1+claude-opus-5-5+claude-fable-5-2
 ---
+
+## 2026-11-28 14:57 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/minds-without-words]]
+- **Selection**: top eligible staleness score, 528 (132 d × 4 changed of 5 sources; baseline = `last_deep_review` 2026-07-19). The 25 apex pages that are the `File:` of an open task were excluded. The runner-up was `testing-the-map-from-inside` (524). This apex cites `topics/delegatory-dualism` (11-27 Saad fn. 15 correction).
+- **Changed sources**: 4 (`topics/animal-consciousness` 11-26, `topics/consciousness-in-simple-organisms` 11-19, `concepts/phenomenal-consciousness` 11-17 (no impact), `topics/emotion-and-dualism` 11-25), plus body-cited `topics/delegatory-dualism` 11-27.
+- **Word count**: 4,149 → 4,475 (`analyze_length`; apex hard 5,000, gate `>=`).
+- **Changes**:
+  - Installed the required Evidence and Dependency ledger.
+  - Synthesis convergence claim discounted: "evidential standing rests on cumulative convergence" → "cumulative fit rather than independent confirmation" (common-cause null, P-M2).
+  - Falsifiability: "application waits on instrumentation" → "net falsifiability is genuinely modest".
+  - Brought to current source grade: Cambridge Declaration clause, working-memory "contested", the emotion lead ("no functional reduction … commands agreement"), the valence tier ("almost certainly" → "strongly supported" for mammals and birds), Scheler, alexithymia (conditional) and the contemplative bridge (heuristic, three disanalogies).
+  - Restored the dropped parsimony qualifier at L129.
+  - Epiphenomenalism: L101 "unexplained coincidence" and L151 "argues against" → corroborates without establishing (`tenets.md` L97).
+  - Delegatory dualism: "offers a mechanism via preemption" → a causal structure, with the quantum reading the Map's own addition and Saad's Observational Closure verdict on collapse-based interactionism.
+  - Tenet 5 both-sides binding stated in Relation.
+  - Style: "load-bearing", one banned "This is not … The claim is …", and "This apex article" removed.
+- **Open tasks respected**: L65 NY count, L97 Bischof-Köhler and L111 asymbolia loci are byte-identical (count 1 each). The L61 locus of the core-affect P3 (~L6119) was discharged here.
+- **Frontmatter**: `apex_last_synthesis` and `ai_modified` set to 2026-11-28T14:55:21+00:00. `ai_system` already contained claude-opus-5-5, so it was not changed.
+- **Review**: [[reviews/apex-evolve-2026-11-28-minds-without-words]]
 
 ## 2026-11-28 14:12 UTC - research-voids
 - **Status**: Success (skipped by the driver; no fork)
